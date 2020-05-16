@@ -1,0 +1,9 @@
+{
+  "server_name": "timolia",
+  "nice_name": "Timolia",
+  "web": "https://www.timolia.de",
+  "direct_": "play.timolia.de",
+  "server_wildcards": [
+    "%.timolia.de"
+  ]
+}
