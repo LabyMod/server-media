@@ -6,7 +6,7 @@ This repository holds media related to game servers.
 
 - `minecraft_servers`: Contains images for Minecraft servers.
 
-A folder can contain seven files:
+A folder can contain seven files (*required):
 
 - `icon.png`*: An icon, mostly the favicon or the Minecraft server icon. (256 x 256)
 - `logo.png`: The logo of the server. Mostly a more detailed image. (128-256 x 256-512)
@@ -14,7 +14,7 @@ A folder can contain seven files:
 - `icon@2x.png`*: hDPI version of `icon.png` (512 x 512)
 - `logo@2x.png`: hDPI version of `logo.png` (256-512 x 512-1024)
 - `background@2x.png`: hDPI version of `background.png` (1920 x 1080)
-- `manifest.json`: Information for minecraft server
+- `manifest.json`*: Information for minecraft server
 
 ### Example manifest.json
 
@@ -22,11 +22,15 @@ A folder can contain seven files:
 {
   "server_name": "timolia",
   "nice_name": "Timolia",
-  "web": "https://www.timolia.de",
-  "direct_": "play.timolia.de",
+  "direct_ip": "play.timolia.de",
   "server_wildcards": [
     "%.timolia.de"
-  ]
+  ],
+  "social": {
+    "web": "https://timolia.de/",
+    "twitter": "TimoliaTeam",
+    "discord": "https://discord.com/invite/Q55FujN"
+  }
 }
 ```
 

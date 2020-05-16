@@ -1,9 +1,13 @@
 {
   "server_name": "timolia",
   "nice_name": "Timolia",
-  "web": "https://www.timolia.de",
-  "direct_": "play.timolia.de",
+  "direct_ip": "play.timolia.de",
   "server_wildcards": [
     "%.timolia.de"
-  ]
+  ],
+  "social": {
+    "web": "https://timolia.de/",
+    "twitter": "TimoliaTeam",
+    "discord": "https://discord.com/invite/Q55FujN"
+  }
 }
