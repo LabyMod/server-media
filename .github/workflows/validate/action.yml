@@ -1,0 +1,5 @@
+name: "validate"
+description: Validates the provided images.
+runs:
+  using: "docker"
+  image: "Dockerfile"
