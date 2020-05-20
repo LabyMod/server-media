@@ -1,0 +1,14 @@
+name: Deploy
+
+on:
+  push:
+    branches: [ master ]
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Webhook
+        uses: joelwmale/webhook-action@6b83612
+        env:
+          WEBHOOK_URL: ${{ secrets.WEBHOOK_UPDATE_URL }}
+          data: "{'secret': '${{ secrets.UPDATE_SECRET }}'}"
