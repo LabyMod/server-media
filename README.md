@@ -1,3 +1,5 @@
+![Deploy](https://github.com/LabyMod/server-media/workflows/Deploy/badge.svg)
+
 # Server Media Files
 
 This repository holds media related to game servers.
