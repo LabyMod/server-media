@@ -1,0 +1,13 @@
+{
+  "server_name": "hypixel",
+  "nice_name": "Hypixel Network",
+  "direct_ip": "mc.hypixel.net",
+  "server_wildcards": [
+    "%.hypixel.net"
+  ],
+  "social": {
+    "web": "https://hypixel.net/",
+    "twitter": "HypixelNetwork",
+    "discord": "https://hypixel.net/discord"
+  }
+}
