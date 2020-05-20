@@ -109,7 +109,7 @@ while read image; do
     fi
 
     ((IMAGES++))
-done <<< $(find core_integrations custom_integrations -type f)
+done
 
 echo ""
 echo "Total of ${IMAGES} images checked, found ${ERRORS} issues."
