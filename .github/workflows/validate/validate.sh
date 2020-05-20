@@ -109,7 +109,7 @@ while read image; do
     fi
 
     ((IMAGES++))
-done
+done <<< $(find minecraft_servers -type f)
 
 echo ""
 echo "Total of ${IMAGES} images checked, found ${ERRORS} issues."

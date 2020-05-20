@@ -70,7 +70,7 @@ the following requirements are applied as well:
 
 ### Example background.png
 
-![background.png](minecraft-servers/timolia/background.png)
+![background.png](minecraft_servers/timolia/background.png)
 
 ## Trademark Legal Notices
 
