@@ -68,6 +68,8 @@ the following requirements are applied as well:
 }
 ```
 
+Required values are: `sever_name`, `nice_name` & `direct_ip`
+
 ### Example background.png
 
 ![background.png](minecraft_servers/timolia/background.png)
