@@ -10,6 +10,8 @@ This repository holds media related to game servers.
 
 For every server a folder has to be created. The directory name should be lowercase and not contain any special characters.
 
+To be accepted a server should be already released and on more than ~100 concurrent players on a daily basis.
+
 A folder can contain seven files (*required):
 
 - `icon.png`*: An icon, mostly the favicon or the Minecraft server icon. (256 x 256)
