@@ -1,0 +1,16 @@
+{
+  "server_name": "spieleoase",
+  "nice_name": "SpieleOase",
+  "direct_ip": "play.spieleoase.net",
+  "server_wildcards": [
+    "%.spieleoase.net",
+    "%.spieleoase.eu"
+  ],
+  "social": {
+    "web": "https://spieleoase.net/",
+    "twitter": "SpieleOaseNET",
+    "youtube": "https://www.youtube.com/channel/UCdYenysz26oUGg83H6MxHAQ",
+    "instagram": "https://www.instagram.com/spieleoasenet",
+    "discord": "https://discord.gg/ATZuwQn"
+  }
+}
