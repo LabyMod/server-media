@@ -1,0 +1,12 @@
+{
+  "server_name": "rewisserver",
+  "nice_name": "RewisServer",
+  "direct_ip": "mc.rewinside.tv",
+  "social": {
+    "web": "https://rewinside.tv/",
+    "twitter": "RewisServer",
+    "discord": "https://rewinsi.de/discord",
+    "youtube": "https://rewinsi.de/youtube",
+    "instagram": "https://rewinsi.de/instagram"
+  }
+}
