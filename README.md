@@ -4,6 +4,16 @@
 
 This repository holds media related to game servers.
 
+## Example usages
+
+![Discord Rich Presence](https://docs.labymod.net/img/discord_rpc_example.png)
+
+Icon for [Discord Rich Presence](https://docs.labymod.net/pages/server/discord_rich_presence/)
+
+![LabyMod Dashboard](https://user-images.githubusercontent.com/7442307/87222032-c067c100-c370-11ea-9d4f-dfe79f61aa6b.png)
+
+[LabyMod Dashboard](https://www.labymod.net/dashboard) Stats
+
 ## Filestructure
 
 - `minecraft_servers`: Contains images for Minecraft servers.
