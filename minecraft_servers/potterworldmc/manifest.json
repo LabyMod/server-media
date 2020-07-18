@@ -1,0 +1,15 @@
+{
+  "server_name": "potterworldmc",
+  "nice_name": "Potterworld",
+  "direct_ip": "play.potterworldmc.com",
+  "server_wildcards": [
+    "%.potterworldmc.com"
+  ],
+  "social": {
+    "web": "https://potterworldmc.com/",
+    "twitter": "potterworldmc",
+    "youtube": "https://www.youtube.com/potterworldmc",
+    "instagram": "https://www.instagram.com/potterworldmc/",
+    "discord": "https://discord.gg/sUy6cBT"
+  }
+}
