@@ -80,7 +80,7 @@ the following requirements are applied as well:
 }
 ```
 
-Required values are: `sever_name`, `nice_name` & `direct_ip`
+Required values are: `server_name`, `nice_name` & `direct_ip`
 
 ### Example background.png
 
