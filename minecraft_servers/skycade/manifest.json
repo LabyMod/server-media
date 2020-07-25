@@ -1,0 +1,10 @@
+{
+  "server_name": "skycade",
+  "nice_name": "Skycade",
+  "direct_ip": "play.skycade.net",
+  "social": {
+    "web": "https://skycade.net",
+    "twitter": "PlaySkycade",
+    "discord": "https://discord.gg/skycade"
+  }
+}
