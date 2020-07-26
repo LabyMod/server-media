@@ -1,0 +1,15 @@
+{
+    "server_name": "horstblocks",
+    "nice_name": "HorstBlocks",
+    "direct_ip": "horstblocks.de",
+    "server_wildcards": [
+        "%.horstblocks.de",
+        "%.eg.horst-int.ovh",
+        "%.pc.horst-int.ovh"
+    ],
+    "social": {
+        "web": "https://horstblocks.de",
+        "twitter": "HorstBlocks",
+        "discord": "https://horst.to/discord"
+    }
+}
