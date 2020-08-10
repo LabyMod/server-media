@@ -1,0 +1,15 @@
+{
+  "server_name": "randymc",
+  "nice_name": "RandyMC.de",
+  "direct_ip": "randymc.de",
+  "server_wildcards": [
+    "%.randymc.de",
+    "%.randymc.net",
+    "%.randymc.com"
+  ],
+  "social": {
+    "web": "https://randymc.de/",
+    "twitter": "RandyMC",
+    "discord": "https://randymc.de/discord"
+  }
+}
