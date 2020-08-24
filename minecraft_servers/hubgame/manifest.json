@@ -1,0 +1,16 @@
+{
+  "server_name": "hubgame",
+  "nice_name": "HubGame",
+  "direct_ip": "HubGame.net",
+  "server_wildcards": [
+    "%.HubGame.net",
+    "%.HubGames.net",
+    "%.HubGame.eu",
+    "%.HubGa.me"
+  ],
+  "social": {
+    "web": "https://hubgame.net",
+    "twitter": "HubGameNET",
+    "discord": "https://hubgame.net/go/dc"
+  }
+}
