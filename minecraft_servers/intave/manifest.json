@@ -1,0 +1,15 @@
+{
+  "server_name": "Intave",
+  "nice_name": "Intave",
+  "direct_ip": "",
+  "server_wildcards": [
+    ""
+  ],
+  "social": {
+    "web": "https://intave.de",
+    "twitter": "IntaveOfficial",
+    "youtube": "",
+    "instagram": "",
+    "discord": "https://intave.de/go/discord"
+  }
+}
