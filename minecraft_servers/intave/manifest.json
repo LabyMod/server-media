@@ -1,7 +1,7 @@
 {
   "server_name": "Intave",
   "nice_name": "Intave",
-  "direct_ip": "",
+  "direct_ip": "Intave.de",
   "server_wildcards": [
     ""
   ],
