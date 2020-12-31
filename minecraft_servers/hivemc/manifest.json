@@ -1,0 +1,16 @@
+{
+  "server_name": "hivemc",
+  "nice_name": "HiveMC",
+  "direct_ip": "play.hivemc.com",
+  "server_wildcards": [
+    "%.hivemc.com",
+    "%.hive.sexy",
+    "%.hivemc.eu",
+    "%.hivemc.us"
+  ],
+  "social": {
+    "web": "https://hivemc.com/",
+    "twitter": "theHiveMC",
+    "discord": "https://discord.gg/hive"
+  }
+}
