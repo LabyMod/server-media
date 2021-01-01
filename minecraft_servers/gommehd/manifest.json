@@ -3,12 +3,13 @@
   "nice_name": "GommeHD.net",
   "direct_ip": "gommehd.net",
   "server_wildcards": [
+    "%.gommehd.net",
     "%.gommehd.de"
   ],
   "social": {
     "web": "https://gommehd.net/",
     "twitter": "GommeHDnet",
-	"youtube": "https://www.youtube.com/GommeHDnet",
+    "youtube": "https://www.youtube.com/GommeHDnet",
     "discord": "https://discord.gg/gommehdnet"
   }
 }
