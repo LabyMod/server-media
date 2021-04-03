@@ -1,0 +1,14 @@
+{
+  "server_name": "cytooxien",
+  "nice_name": "Cytooxien",
+  "direct_ip": "mc.cytooxien.de",
+  "server_wildcards": [
+    "%.cytooxien.de",
+    "%.cytooxien.net"
+  ],
+  "social": {
+    "web": "https://www.cytooxien.de/",
+    "twitter": "Cytooxien",
+    "discord": "https://cxn.link/discord"
+  }
+}
