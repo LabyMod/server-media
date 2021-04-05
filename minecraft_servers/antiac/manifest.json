@@ -1,0 +1,16 @@
+{
+  "server_name": "antiac",
+  "nice_name": "AntiAC",
+  "direct_ip": "antiac.net",
+  "server_wildcards": [
+    "%.antiac.net",
+    "%.antiac.eu",
+    "%.antiac.de",
+    "%.antiac.us"
+  ],
+  "social": {
+    "web": "https://antiac.net",
+    "twitter": "AntiACnet",
+    "discord": "https://discord.com/invite/q2uA4HP"
+  }
+}
