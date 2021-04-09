@@ -2,6 +2,10 @@
   "server_name": "vultex",
   "nice_name": "Vultex",
   "direct_ip": "vultex.gg",
+  "server_wildcards": [
+    "%.vultexpvp.com",
+    "%.vultex.gg"
+  ],
   "social": {
     "discord": "discord.vultexpvp.com"
   }
