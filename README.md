@@ -20,7 +20,7 @@ Icon for [Discord Rich Presence](https://docs.labymod.net/pages/server/discord_r
 
 For every server a folder has to be created. The directory name should be lowercase and not contain any special characters.
 
-To be accepted a server should be already released and on more than ~100 concurrent players on a daily basis.
+To be accepted a server should be already released and on more than ~20 concurrent players on a daily basis.
 
 A folder can contain seven files (*required):
 
