@@ -3,10 +3,10 @@
   "nice_name": "TheShrooms.net",
   "direct_ip": "theshrooms.net",
   "server_wildcards": [
-    "theshrooms.net",
-    "theshrooms.de",
-    "theshrooms.eu",
-    "pilzkiste.net"
+    "%.theshrooms.net",
+    "%.theshrooms.de",
+    "%.theshrooms.eu",
+    "%.pilzkiste.net"
   ],
   "social": {
     "web": "https://theshrooms.net",
