@@ -8,7 +8,7 @@ This repository holds media related to game servers.
 
 ![Discord Rich Presence](https://docs.labymod.net/img/discord_rpc_example.png)
 
-Icon for [Discord Rich Presence](https://docs.labymod.net/pages/server/discord_rich_presence/)
+Icon for [Discord Rich Presence](https://docs.labymod.net/pages/server/discord_rich_presence/) (as Discord has a limitation here, we cannot guarantee that as a permanent feature for smaller servers)
 
 ![LabyMod Dashboard](https://user-images.githubusercontent.com/7442307/87222032-c067c100-c370-11ea-9d4f-dfe79f61aa6b.png)
 
