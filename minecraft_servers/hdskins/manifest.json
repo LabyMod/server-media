@@ -1,0 +1,13 @@
+{
+  "server_name": "hdskins",
+  "nice_name": "HDSkins",
+  "direct_ip": "hdskins.de",
+  "server_wildcards": [
+    "%.hdskins.de"
+  ],
+  "social": {
+    "web": "https://HDSkins.de/",
+    "twitter": "HDSkinsDE",
+    "discord": "https://discord.com/invite/KN8rDZJ"
+  }
+}
