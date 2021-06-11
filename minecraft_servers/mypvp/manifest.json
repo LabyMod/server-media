@@ -7,13 +7,13 @@
     "%.mypvp.eu",
     "%.mypvp.us",
     "%.mypvp.org",
-	"%.mypvp.net",
-	"%.mypvp.cloud",
-	"%.besterserver.de",
-	"%.minecraft.ms",
-	"%.minekube.eu",
-	"%.server.gratis",
-	"%.userserver.net"
+    "%.mypvp.net",
+    "%.mypvp.cloud",
+    "%.besterserver.de",
+    "%.minecraft.ms",
+    "%.minekube.eu",
+    "%.server.gratis",
+    "%.userserver.net"
   ],
   "social": {
     "web": "https://mypvp.me",
