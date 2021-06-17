@@ -1,0 +1,12 @@
+{
+  "server_name": "blackmt",
+  "nice_name": "BlackMT",
+  "direct_ip": "play.blackmt.nl",
+  "server_wildcards": [
+    "%.blackmt.nl"
+  ],
+  "social": {
+    "web": "https://store.blackmt.nl",
+    "discord": "https://discord.gg/blackmt"
+  }
+}
