@@ -2,6 +2,10 @@
   "server_name": "introuble",
   "nice_name": "InTrouble",
   "direct_ip": "introuble.de",
+  "server_wildcards": [
+    "%.introuble.eu",
+    "%.inwabel.de"
+  ],
   "social": {
     "web": "https://www.introuble.de/",
     "twitter": "InTroubleDE",
