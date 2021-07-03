@@ -1,0 +1,16 @@
+{
+    "server_name": "minebox",
+    "nice_name": "MineBox Network",
+    "direct_ip": "mc.minebox.es",
+    "server_wildcards": [
+      "%.minebox.es",
+      "%.minelc.com"
+    ],
+    "social": {
+      "web": "https://minebox.es/",
+      "twitter": "MineBoxNetwork",
+      "youtube": "https://minebox.es/go/youtube",
+      "discord": "https://minebox.es/go/discord",
+      "instagram": "https://minebox.es/go/instagram"
+    }
+}
