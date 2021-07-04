@@ -1,0 +1,12 @@
+{
+  "server_name": "pvpcraft.cz",
+  "nice_name": "PvPCraft.cz",
+  "direct_ip": "mc.pvpcraft.cz",
+  "server_wildcards": [
+    "%.pvpcraft.cz"
+  ],
+  "social": {
+    "web": "https://pvpcraft.cz",
+    "discord": "https://discord.gg/ArQFXBzSKG"
+  }
+}
