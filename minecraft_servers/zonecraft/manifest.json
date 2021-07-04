@@ -1,0 +1,16 @@
+{
+  "server_name": "zonecraft",
+  "nice_name": "ZoneCraft",
+  "direct_ip": "play.zonecraft.es",
+  "server_wildcards": [
+    "%.zonecraft.es",
+    "%.hypixel.es",
+    "%.amamarla.com",
+    "%.banananetwork.es"
+  ],
+  "social": {
+    "web": "https://zonecraft.es",
+    "twitter": "ZoneCraftES",
+    "discord": "https://discord.zonecraft.es"
+  }
+}
