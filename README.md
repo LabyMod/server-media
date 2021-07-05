@@ -8,7 +8,7 @@ This repository holds media related to game servers.
 
 ![Discord Rich Presence](https://docs.labymod.net/img/discord_rpc_example.png)
 
-Icon for [Discord Rich Presence](https://docs.labymod.net/pages/server/discord_rich_presence/) (as Discord has a limitation here, we cannot guarantee that as a permanent feature for smaller servers)
+Icon for [Discord Rich Presence](https://docs.labymod.net/pages/server/labymod/discord_rich_presence/) (as Discord has a limitation here, we cannot guarantee that as a permanent feature for smaller servers)
 
 ![LabyMod Dashboard](https://user-images.githubusercontent.com/7442307/87222032-c067c100-c370-11ea-9d4f-dfe79f61aa6b.png)
 
@@ -26,7 +26,7 @@ A folder can contain seven files (*required):
 
 - `icon.png`*: An icon, mostly the favicon or the Minecraft server icon. (256 x 256)
 - `logo.png`: The logo of the server. Mostly a more detailed image. (128-256 x 256-512)
-- `background.png`: Mostly a screenshot of the lobby of the server. Should look good when overlaid with the `logo.png`. [example background.png](#example-backgroundpng) (1280 x 720)
+- `background.png`: Mostly a screenshot of the lobby of the server. Should look good when overlaid with the `logo.png`. [Example background.png](#example-backgroundpng) (1280 x 720)
 - `icon@2x.png`*: hDPI version of `icon.png` (512 x 512)
 - `logo@2x.png`: hDPI version of `logo.png` (256-512 x 512-1024)
 - `background@2x.png`: hDPI version of `background.png` (1920 x 1080)
