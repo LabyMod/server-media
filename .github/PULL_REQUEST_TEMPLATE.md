@@ -6,7 +6,7 @@
 
 ## Checklist
 
-- [ ] I have read the [README](https://github.com/appium/appium/blob/master/README.md) doc
+- [ ] I have read the [README](https://github.com/LabyMod/server-media/blob/master/README.md) doc
 - [ ] I have compressed the images appropriately (e.g. on https://tinypng.com)
 - [ ] I have created the manifest.json with the required values
 
