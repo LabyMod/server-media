@@ -1,0 +1,14 @@
+{
+    "server_name": "buildmania",
+    "nice_name": "BuildMania Network",
+    "direct_ip": "play.buildmania.cz",
+    "server_wildcards": [
+      "%.buildmania.cz"
+    ],
+    "social": {
+      "web": "https://buildmania.cz",
+      "discord": "https://discord.buildmania.cz",
+      "instagram": "https://instagram.buildmania.cz",
+      "tiktok": "https://tiktok.buildmania.cz"
+    }
+  }
