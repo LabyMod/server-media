@@ -1,0 +1,13 @@
+{
+    "server_name": "distaria",
+    "nice_name": "Distaria",
+    "direct_ip": "Distaria.NET",
+    "server_wildcards": [
+      "%.distaria.net"
+    ],
+    "social": {
+      "web": "https://distaria.net/",
+      "twitter": "DistariaNetwork",
+      "discord": "https://discord.gg/asYBeq8QYD"
+    }
+  }
