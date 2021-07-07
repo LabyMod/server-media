@@ -84,17 +84,17 @@ Additional to the general image requirements listed, for the logo image, the fol
 
 ```json
 {
-    "server_name": "timolia",
-    "nice_name": "Timolia",
-    "direct_ip": "play.timolia.de",
-    "server_wildcards": [
-        "%.timolia.de"
-    ],
-    "social": {
-        "web": "https://timolia.de/",
-        "twitter": "TimoliaTeam",
-        "discord": "https://discord.com/invite/Q55FujN"
-    }
+  "server_name": "timolia",
+  "nice_name": "Timolia",
+  "direct_ip": "play.timolia.de",
+  "server_wildcards": [
+    "%.timolia.de"
+  ],
+  "social": {
+    "web": "https://timolia.de/",
+    "twitter": "TimoliaTeam",
+    "discord": "https://discord.com/invite/Q55FujN"
+  }
 }
 ```
 
