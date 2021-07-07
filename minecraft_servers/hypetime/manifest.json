@@ -1,0 +1,13 @@
+{
+  "server_name": "hypetime",
+  "nice_name": "hypetime.eu",
+  "direct_ip": "mc.hypetime.eu",
+  "server_wildcards": [
+    "%.mc.hypetime.eu"
+  ],
+  "social": {
+    "web": "https://www.hypetime.eu/",
+    "twitter": "HypeTimeEU",
+    "discord": "http://hypetime.eu/discord"
+  }
+}
