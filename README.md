@@ -13,11 +13,6 @@ This repository holds media related to game servers.
 Icon for [Discord Rich Presence](https://docs.labymod.net/pages/server/labymod/discord_rich_presence/) (as Discord has a
 limitation here, we cannot guarantee that as a permanent feature for smaller servers)
 
-### LabyMod dashboard
-
-<img src="https://user-images.githubusercontent.com/7442307/87222032-c067c100-c370-11ea-9d4f-dfe79f61aa6b.png" alt="LabyMod Dashboard" width="400">
-
-[LabyMod Dashboard](https://www.labymod.net/dashboard) stats
 
 ### LABY.net
 
