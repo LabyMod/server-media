@@ -1,0 +1,14 @@
+{
+  "server_name": "vamin",
+  "nice_name": "Vamin",
+  "direct_ip": "vamin.de",
+  "server_wildcards": [
+    "%.vamin.de",
+    "%.vamin.eu"
+  ],
+  "social": {
+    "web": "https://vamin.de",
+    "twitter": "vaminmedia",
+    "discord": "https://discord.gg/DXacZRnYG2"
+  }
+}
