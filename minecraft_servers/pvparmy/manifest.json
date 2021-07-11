@@ -1,0 +1,13 @@
+{
+  "server_name": "pvparmy",
+  "nice_name": "PvPArmy",
+  "direct_ip": "pvparmy.de",
+  "server_wildcards": [
+    "%.pvparmy.de"
+  ],
+  "social": {
+    "web": "https://pvparmy.de",
+    "twitter": "PvPArmyNETWORK",
+    "discord": "https://discord.com/invite/qSJ99RVFPb"
+  }
+}
