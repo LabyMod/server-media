@@ -71,9 +71,9 @@ Additional to the general image requirements listed, for the logo image, the fol
 
 - A landscape image is preferred.
 - Aspect ratio should respect the logo of the brand.
-- The shortest side of the image must be at least 128 pixels, 256 pixels for the hDPI version.
-- The shortest side of the image must be no bigger than 256 pixels, 512 pixels for the hDPI version.
-- The maximum pixel size for the shortest side of the images is, of course, preferred.
+- The shorter side of the image must be at least 128 pixels, 256 pixels for the hDPI version.
+- The shorter side of the image must not be bigger than 256 pixels, 512 pixels for the hDPI version.
+- The maximum pixel size for the shorter side of the images is, of course, preferred.
 
 ### Example manifest.json
 
