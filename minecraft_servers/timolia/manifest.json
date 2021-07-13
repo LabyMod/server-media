@@ -7,7 +7,18 @@
   ],
   "social": {
     "web": "https://timolia.de/",
+    "web_shop": "https://shop.timolia.de/",
+    "web_support": "https://forum.timolia.de/",
     "twitter": "TimoliaTeam",
-    "discord": "https://discord.com/invite/Q55FujN"
-  }
+    "discord": "https://discord.com/invite/Q55FujN",
+    "teamspeak": "ts.timolia.de",
+    "youtube": "https://www.youtube.com/Timolia"
+  },
+  "brand": {
+    "primary": "#497cb1",
+    "background": "#497cb1",
+    "text": "#497cb1"
+  },
+  "yt_trailer": "vNF-ztQGnUo",
+  "user_stats": "https://www.timolia.de/stats/{userName}"
 }
