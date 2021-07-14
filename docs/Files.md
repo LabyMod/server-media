@@ -51,4 +51,4 @@ Additional to the general image requirements listed, for the logo image, the fol
 
 ### Example background.png
 
-![background.png](minecraft_servers/timolia/background.png)
+![background.png](../minecraft_servers/timolia/background.png)
