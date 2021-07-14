@@ -10,9 +10,14 @@
     "web_shop": "https://shop.timolia.de/",
     "web_support": "https://forum.timolia.de/",
     "twitter": "TimoliaTeam",
+    "facebook": "timoliamc",
     "discord": "https://discord.com/invite/Q55FujN",
     "teamspeak": "ts.timolia.de",
     "youtube": "https://www.youtube.com/Timolia"
+  },
+  "discord": {
+    "server_id": 407554118887014402,
+    "rename_to_minecraft_name": true
   },
   "brand": {
     "primary": "#497cb1",
