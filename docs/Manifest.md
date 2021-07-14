@@ -24,7 +24,9 @@
 | `user_stats`   | User stats url | "https://laby.net/@{username}" *or* "https://laby.net/@{uuid}" |
 |  `discord.server_id`   | Discord server id | "260471731809026048" |
 |  `discord.rename_to_minecraft_name`   | Boolean whether the user should be renamed when joining. | true |
-Required values are: `server_name`, `nice_name` & `direct_ip`
+
+
+<br>* Required values are: `server_name`, `nice_name` & `direct_ip`
 
 ## Example manifest.json file
 ```json
@@ -40,12 +42,12 @@ Required values are: `server_name`, `nice_name` & `direct_ip`
     "web_shop": "https://labymod.net/shop",
     "web_support": "https://labymod.net/support",
     "twitter": "LabyMod",
-    "discord": "https://discord.com/invite/labymod",
-    "teamspeak": "ts.labymod.net",
     "tiktok": "LabyMod",
-    "facebook": "LabyMod",
-    "youtube": "https://youtube/TODO",
-    "instagram": "LabyMod"
+    "facebook": "LabyMod", 
+    "instagram": "LabyMod",
+    "discord": "https://discord.com/invite/labymod",
+    "youtube": "https://www.youtube.com/channel/UCSamgE1KYvC7qZn56T0J2yg",
+    "teamspeak": "ts.labymod.net"
   },
   "discord": {
     "server_id": 260471731809026048,
