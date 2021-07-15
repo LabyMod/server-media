@@ -42,4 +42,5 @@ and `text` for elements such as buttons!
 
 ### One-click discord join (partner-only)
 
-** COMING SOON**
+<img src="https://user-images.githubusercontent.com/45363287/125778845-d60d00b7-2e31-4458-8585-0c0b339800be.gif" width="500"><br>
+Users who have linked their discord account can join the server with one click.
