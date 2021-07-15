@@ -6,11 +6,14 @@
     "%.matherion.eu"
   ],
   "social": {
-    "web": "https://matherion.eu/",
+    "web": "https://matherion.eu",
+    "web-shop": "https://matherion.craftingstore.net",
+    "web-support": "https://discord.com/invite/mXTBfuS",
     "facebook": "matherioneu",
     "discord": "https://discord.com/invite/mXTBfuS",
     "youtube": "https://youtube.com/channel/UCVc_cwolxuQ3assNDkMl40A",
     "tiktok": "matherioneu",
     "instagram": "matherioneu"
-  }
+  },
+  "yt_trailer": "zA9EZC3kN5g",
 }
