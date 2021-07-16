@@ -11,9 +11,5 @@
       "discord": "https://discord.buildmania.cz",
       "instagram": "buildmanianetwork",
       "tiktok": "buildmanianetwork"
-    },
-    "discord": {
-      "server_id": 651073986716893194,
-      "rename_to_minecraft_name": true
     }
   }
