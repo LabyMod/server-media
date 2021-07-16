@@ -7,7 +7,23 @@
   ],
   "social": {
     "web": "https://timolia.de/",
+    "web_shop": "https://shop.timolia.de/",
+    "web_support": "https://forum.timolia.de/",
     "twitter": "TimoliaTeam",
-    "discord": "https://discord.com/invite/Q55FujN"
-  }
+    "facebook": "timoliamc",
+    "discord": "https://discord.com/invite/Q55FujN",
+    "teamspeak": "ts.timolia.de",
+    "youtube": "https://www.youtube.com/Timolia"
+  },
+  "discord": {
+    "server_id": 407554118887014402,
+    "rename_to_minecraft_name": true
+  },
+  "brand": {
+    "primary": "#497cb1",
+    "background": "#497cb1",
+    "text": "#ffffff"
+  },
+  "yt_trailer": "vNF-ztQGnUo",
+  "user_stats": "https://www.timolia.de/stats/{userName}"
 }
