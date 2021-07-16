@@ -8,7 +8,14 @@
   ],
   "social": {
     "web": "https://www.cytooxien.de/",
+    "web_shop": "https://shop.cytooxien.de/",
+    "web_support": "https://www.cytooxien.de/support/",
     "twitter": "Cytooxien",
-    "discord": "https://cxn.link/discord"
-  }
+    "discord": "https://cxn.link/discord",
+    "teamspeak": "ts.cytooxien.net"
+  },
+  "discord": {
+    "server_id": 443768116216987648
+  },
+  "user_stats": "https://stats.cytooxien.de/player/{userName}"
 }
