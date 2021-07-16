@@ -15,8 +15,7 @@
     "teamspeak": "ts.cytooxien.net"
   },
   "discord": {
-    "server_id": 443768116216987648,
-    "rename_to_minecraft_name": true
+    "server_id": 443768116216987648
   },
   "user_stats": "https://stats.cytooxien.de/player/{userName}"
 }
