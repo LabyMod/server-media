@@ -14,8 +14,9 @@
       "web_support": "https://distaria.net/forum/index.php?board/4-support/"
     },
     "brand": {
-      "text": "#306fdb",
-      "background": "#306fdb"
+      "text": "#FFFF",
+      "background": "#306fdb",
+      "primary": "#306fdb"
    },
     "discord": {
       "server_id": 836880233072295957,
