@@ -2,6 +2,9 @@
   "server_name": "quercon",
   "nice_name": "Quercon",
   "direct_ip": "mc.quercon.eu",
+  "server_wildcards": [
+    "%.quercon.eu"
+  ],
   "social": {
     "web": "https://quercon.eu",
     "instagram": "quercon.eu",
