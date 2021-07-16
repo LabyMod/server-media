@@ -1,13 +1,20 @@
 {
     "server_name": "distaria",
     "nice_name": "Distaria",
-    "direct_ip": "Distaria.NET",
+    "direct_ip": "Distaria.net",
     "server_wildcards": [
       "%.distaria.net"
     ],
     "social": {
       "web": "https://distaria.net/",
       "twitter": "DistariaNetwork",
-      "discord": "https://discord.gg/asYBeq8QYD"
-    }
+      "discord": "https://discord.gg/asYBeq8QYD",
+      "teamspeak": "distaria.net",
+      "web_support": "https://distaria.net/forum/index.php?board/4-support/"
+    },
+    "discord": {
+      "server_id": 836880233072295957,
+      "rename_to_minecraft_name": true
+    },
+    "user_stats": "https://laby.net/@{userName}"
   }
