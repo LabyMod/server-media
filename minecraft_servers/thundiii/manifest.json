@@ -1,0 +1,16 @@
+{
+  "server_name": "thundiii",
+  "nice_name": "Thundiii",
+  "direct_ip": "Thundiii.de",
+  "social": {
+    "web": "https://thundiii.de",
+    "twitter": "thundiiiserver",
+    "tiktok": "thundiiiserver", 
+    "instagram": "thundiiiserver",
+    "discord": "https://discord.com/invite/5ZMA4PQtaV"
+  },
+  "discord": {
+    "server_id": 295491274981638146,
+    "rename_to_minecraft_name": true
+  }
+}
