@@ -1,0 +1,22 @@
+{
+  "server_name": "hypetime",
+  "nice_name": "hypetime.eu",
+  "direct_ip": "mc.hypetime.eu",
+  "server_wildcards": [
+    "%.mc.hypetime.eu"
+  ],
+  "social": {
+    "web": "https://www.hypetime.eu/",
+    "twitter": "HypeTimeEU",
+    "discord": "https://discord.com/invite/TTaMD4u"
+  },
+  "discord": {
+    "server_id": 693086914491842570,
+    "rename_to_minecraft_name": true
+  },
+  "brand": {
+    "primary": "#497cb1",
+    "background": "#497cb1",
+    "text": "#ffffff"
+  }
+}
