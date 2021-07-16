@@ -5,7 +5,9 @@
 - `minecraft_servers`: Contains images for Minecraft servers.
 
 For every server a folder has to be created. The directory name should be lowercase and not contain any special
-characters.
+characters (no URL/domain!).
+
+> **Important**: The directory MUST match the `server_name` property in the [manifest.json](/docs/Manifest.md).
 
 To be accepted a server should be already released and on more than ~20 concurrent players on a daily basis.
 
