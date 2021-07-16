@@ -5,7 +5,7 @@
 
 | Key         | Description            | Example value    |
 |-------------|----------------------------|------------------|
-| `server_name`* | Short server name          | `"laby"`           |
+| `server_name`* | Short server name (must match the directory name!) | `"laby"`           |
 | `nice_name`*   | Nice server name           | `"LabyMod"`        |
 | `direct_ip`*   | Direct Minecraft server ip | `"play.labymod.net"` |
 | `server_wildcards`   | Wildcards the user can use | `["%.laby.net", "%.labymod.net"]` |
