@@ -10,8 +10,13 @@
       "twitter": "DistariaNetwork",
       "discord": "https://discord.gg/asYBeq8QYD",
       "teamspeak": "distaria.net",
+      "instagram": "distarianet",
       "web_support": "https://distaria.net/forum/index.php?board/4-support/"
     },
+    "brand": {
+      "text": "#306fdb",
+      "background": "#306fdb"
+   },
     "discord": {
       "server_id": 836880233072295957,
       "rename_to_minecraft_name": true
