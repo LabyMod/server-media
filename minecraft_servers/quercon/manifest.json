@@ -1,0 +1,16 @@
+{
+  "server_name": "quercon",
+  "nice_name": "Quercon",
+  "direct_ip": "mc.quercon.eu",
+  "social": {
+    "web": "https://quercon.eu",
+    "instagram": "quercon.eu",
+    "teamspeak": "ts3.quercon.eu"
+  },
+  "brand": {
+     "primary": "#00fff7",
+     "background": "#666666",
+     "text": "#FFFFFF"
+  },
+  "yt_trailer": "AyPf_WGdNF0",
+}
