@@ -15,3 +15,6 @@
      " youtube " : " https://www.youtube.com/channel/UCZCOWPlBtW-y-hQLXT2VYEg " ,
      " teampeak " : " foxxi.net "
   },
+  "brand": {
+   "primary": "#db4839",
+  },
