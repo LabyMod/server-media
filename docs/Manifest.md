@@ -21,7 +21,7 @@
 | `social.instagram`   | [Instagram **username**](Usages.md#social) | `"LabyMod"` |
 | `brand.primary`   | [Primary brand color](Usages.md#colorize-your-page) | `"#008FE8"` |
 | `brand.background`   | [Background-color](Usages.md#colorize-your-page) | `"#0A56A5"` |
-| `brand.primary`   | [Text color](Usages.md#colorize-your-page) (*must match the background color*) | `"#FFFFFF"` |
+| `brand.text`   | [Text color](Usages.md#colorize-your-page) (*must match the background color*) | `"#FFFFFF"` |
 | `yt_trailer`   | [YouTube trailer **embed ID**](Usages.md#server-trailer) | `"vNF-ztQGnUo"` |
 | `user_stats`   | [User stats url](Usages.md#links) | `"https://laby.net/@{username}"` *or* `"https://laby.net/@{uuid}"` |
 |  `discord.server_id`   | [Discord server id](Usages.md#one-click-discord-join-partner-only) | `260471731809026048` |
