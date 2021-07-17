@@ -1,0 +1,17 @@
+{
+   " server_name " : " FoxxiNET " ,
+   " nice_name " : " FoxxiNET " ,
+   " direct_ip " : " Foxxi.net " ,
+   " server_wildcards " : [
+     "  "
+  ],
+  " social " : {
+     " web " : " https://foxxi.net" ,
+     " web_shop " : " https://store.foxxi.net " ,
+     " twitter " : " FoxxiNET " ,
+     " tiktok " : " FoxxiNET " ,
+     " instagram " : " FoxxiNET " ,
+     " discord " : " https://foxxi.net/discord " ,
+     " youtube " : " https://www.youtube.com/channel/UCZCOWPlBtW-y-hQLXT2VYEg " ,
+     " teampeak " : " Foxxi.net "
+  },
