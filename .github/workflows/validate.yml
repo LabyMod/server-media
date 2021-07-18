@@ -1,9 +1,9 @@
 name: Validate
 
-on: [push, pull_request]
+on: [pull_request]
 
 jobs:
-  validate:
+  validate_images:
     name: Images
     runs-on: ubuntu-latest
     steps:
@@ -11,3 +11,21 @@ jobs:
         uses: actions/checkout@v2
       - name: Validate images
         uses: ./.github/workflows/validate
+  validate_manifest:
+    name: Manifest
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      - name: Get changed files
+        uses: lots0logs/gh-action-get-changed-files@2.1.4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Add json
+        run:
+          cp ${HOME}/files.json ./
+      - name: Validate manifest
+        uses: ./.github/workflows/validate-manifest
+        env:
+          PR_ID: ${{ github.event.pull_request.number }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
