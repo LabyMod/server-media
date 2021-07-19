@@ -1,6 +1,6 @@
 name: Validate
 
-on: [push, pull_request]
+on: [pull_request]
 
 jobs:
   validate_images:
@@ -28,4 +28,4 @@ jobs:
         uses: ./.github/workflows/validate-manifest
         env:
           PR_ID: ${{ github.event.pull_request.number }}
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.ACCESS_TOKEN }}
