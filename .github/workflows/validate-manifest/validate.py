@@ -96,7 +96,7 @@ def post_comment(comment: str):
         headers={'Accept': 'application/vnd.github.v3+json', 'Authorization': f"Token {os.getenv('GH_TOKEN')}"}
     )
 
-    print(f'Comment GH request: {request.status_code} - {request.content}')
+    print(f'Comment GH request: {request.status_code}')
 
     # Make job fail
     sys_exit('Invalid data in manifest.json')
