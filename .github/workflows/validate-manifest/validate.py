@@ -88,6 +88,8 @@ def post_comment(comment: str):
         print('Seems valid so far! We do not need a comment.')
         return
 
+    print(f"Pull request id: {os.getenv('PR_ID')}")
+
     request = requests.post(
         f"https://api.github.com/repos/LabyMod/server-media/pulls/{os.getenv('PR_ID')}/reviews",
         json={'body': comment, 'event': 'REQUEST_CHANGES'},
