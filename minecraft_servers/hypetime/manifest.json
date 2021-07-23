@@ -1,7 +1,7 @@
 {
   "server_name": "hypetime",
   "nice_name": "HypeTime",
-  "direct_ip": "mc.hypetime.eu",
+  "direct_ip": "hypetime.eu",
   "server_wildcards": [
     "%.hypetime.eu"
   ],
