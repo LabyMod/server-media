@@ -11,6 +11,11 @@ BRAND_KEYS = ['primary', 'background', 'text']
 
 def main():
     comment = ''
+
+    create_comment = comment_needed()
+    if create_comment:
+        print('No manifest file changed, comment will be skipped.')
+
     manifest_files = get_changed_manifest_files()
 
     if len(manifest_files) == 0:
@@ -41,7 +46,7 @@ def main():
             social = data['social']
             for key in URL_SOCIAL_KEYS:
                 if key in social and not social[key].startswith('https://'):
-                    comment += f'- Please use **https://** instead of http:// (`social.{key}`)\n'
+                    comment += f'- Invalid url. URL has to start with **https://** (`social.{key}`)\n'
 
             for key in USERNAME_SOCIAL_KEYS:
                 if key in social and (social[key].startswith('http') or 'www' in social[key]):
@@ -71,12 +76,17 @@ def main():
         if 'user_stats' in data:
             stats_url = data['user_stats']
             if not stats_url.startswith('https://'):
-                comment += f'- Please use **https://** (`user_stats`)\n'
+                comment += f'- Invalid url. URL has to start with **https://** (`user_stats`)\n'
 
             if '://laby.net/' in stats_url:
                 comment += f'- Please use **your own page**, not LABY.net (`user_stats`)\n'
 
-    post_comment(comment)
+    if create_comment:
+        post_comment(comment)
+
+    if comment != '':
+        # Make job fail
+        sys_exit('Invalid data in manifest.json. See comments above or review in PR for more information.')
 
 
 def get_changed_manifest_files():
@@ -96,8 +106,9 @@ def post_comment(comment: str, request_type: str = 'reviews'):
         print('No issues found.')
         return
 
-    comment += 'Please fix the issues by pushing **one** commit to the pull ' \
-               'request to prevent too many automatic reviews.'
+    if request_type == 'reviews':
+        comment += '\nPlease fix the issues by pushing **one** commit to the pull ' \
+                   'request to prevent too many automatic reviews.'
 
     request = requests.post(
         f"https://api.github.com/repos/LabyMod/server-media/"
@@ -110,10 +121,6 @@ def post_comment(comment: str, request_type: str = 'reviews'):
 
     for error in comment.split('\n'):
         print(error)
-
-    if request_type == 'reviews':
-        # Make job fail
-        sys_exit('Invalid data in manifest.json. See comments above or review in PR for more information.')
 
 
 def check_server_online_state(ip: str):
@@ -131,9 +138,28 @@ def check_server_online_state(ip: str):
     if not response['online']:
         post_comment(f'*Just as an information*:\nYour server {ip} **could be offline**.\n In general, we only accept '
                      f'pull requests from servers, **that are online**. Please change this, otherwise we '
-                     f'cannot review your server correctly and have to deny the pull request.\n If your server is '
+                     f'cannot review your server correctly and have to deny the pull request.\n\n If your server is '
                      f'currently online, then our api returned a wrong status, we will have a look at it :)',
                      'comments')
+
+
+def comment_needed():
+    request = requests.get(
+        os.getenv('COMMIT_URL')[:-6] + '/' + os.getenv('COMMIT_SHA'),
+        headers={'Accept': 'application/vnd.github.v3+json', 'Authorization': f"Token {os.getenv('GH_TOKEN')}"}
+    )
+
+    try:
+        response = json.loads(request.text)
+        if 'files' not in response:
+            print('No changed files in commit.')
+            return False
+
+        return any(file['filename'].endswith('manifest.json') for file in response['files'])
+    except json.JSONDecodeError:
+        print(f'Cannot fetch commit.')
+
+    return False
 
 
 if __name__ == '__main__':
