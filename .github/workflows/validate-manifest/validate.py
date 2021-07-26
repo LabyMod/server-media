@@ -11,18 +11,26 @@ BRAND_KEYS = ['primary', 'background', 'text']
 
 def main():
     comment = ''
-    for manifest_file in get_changed_manifest_files():
+    manifest_files = get_changed_manifest_files()
+
+    if len(manifest_files) == 0:
+        print('There are no changed manifest files in this pull request.')
+        return
+
+    for manifest_file in manifest_files:
         with open(manifest_file) as file:
             try:
                 data = json.load(file)
             except json.JSONDecodeError:
-                comment += '- [ ] One of the **required values** is missing\n'
+                comment += '- One of the **required values** is missing\n'
                 continue
 
         # Check for required keys
         if not all(key in data for key in REQUIRED_KEYS):
-            comment += '- [ ] One of the **required values** is missing\n'
+            comment += '- One of the **required values** is missing\n'
             continue
+
+        check_server_online_state(data['direct_ip'])
 
         server_directory = manifest_file.replace('minecraft_servers/', '').replace('/manifest.json', '')
         if server_directory != data['server_name']:
@@ -33,18 +41,18 @@ def main():
             social = data['social']
             for key in URL_SOCIAL_KEYS:
                 if key in social and not social[key].startswith('https://'):
-                    comment += f'- [ ] Please use **https://** instead of http:// (`social.{key}`)\n'
+                    comment += f'- Please use **https://** instead of http:// (`social.{key}`)\n'
 
             for key in USERNAME_SOCIAL_KEYS:
                 if key in social and (social[key].startswith('http') or 'www' in social[key]):
-                    comment += f'- [ ] Please use a **username**, not a link (`social.{key}`)\n'
+                    comment += f'- Please use a **username**, not a link (`social.{key}`)\n'
 
             # Check facebook, because it works :)
             if 'facebook' in social:
                 facebook_username = social['facebook']
                 request = requests.get(f'https://facebook.com/{facebook_username}')
                 if request.status_code == 404:
-                    comment += f'- [ ] Invalid facebook username not available: {facebook_username} ' \
+                    comment += f'- Invalid facebook username not available: {facebook_username} ' \
                                f'(`social.facebook`)\n'
 
         # check for numeric server id (discord)
@@ -52,21 +60,21 @@ def main():
             try:
                 int(data['discord']['server_id'])
             except ValueError:
-                comment += '- [ ] Please use a **numeric** value for your server id (`discord.server_id`)\n'
+                comment += '- Please use a **numeric** value for your server id (`discord.server_id`)\n'
 
         # check hex codes
         if 'brand' in data:
             for key in BRAND_KEYS:
                 if key in data['brand'] and '#' not in data['brand'][key]:
-                    comment += f'- [ ] Please enter a valid hex-code (`brand.{key})`\n'
+                    comment += f'- Please enter a valid hex-code (`brand.{key})`\n'
 
         if 'user_stats' in data:
             stats_url = data['user_stats']
             if not stats_url.startswith('https://'):
-                comment += f'- [ ] Please use **https://** (`user_stats`)\n'
+                comment += f'- Please use **https://** (`user_stats`)\n'
 
             if '://laby.net/' in stats_url:
-                comment += f'- [ ] Please use **your own page**, not LABY.net (`user_stats`)\n'
+                comment += f'- Please use **your own page**, not LABY.net (`user_stats`)\n'
 
     post_comment(comment)
 
@@ -83,23 +91,49 @@ def get_changed_manifest_files():
     return changed_files
 
 
-def post_comment(comment: str):
+def post_comment(comment: str, request_type: str = 'reviews'):
     if comment == '':
-        print('Seems valid so far! We do not need a comment.')
+        print('No issues found.')
         return
 
-    print(f"Pull request id: {os.getenv('PR_ID')}")
+    comment += 'Please fix the issues by pushing **one** commit to the pull ' \
+               'request to prevent too many automatic reviews.'
 
     request = requests.post(
-        f"https://api.github.com/repos/LabyMod/server-media/pulls/{os.getenv('PR_ID')}/reviews",
+        f"https://api.github.com/repos/LabyMod/server-media/"
+        f"{'pulls' if request_type == 'reviews' else 'issues'}/{os.getenv('PR_ID')}/{request_type}",
         json={'body': comment, 'event': 'REQUEST_CHANGES'},
         headers={'Accept': 'application/vnd.github.v3+json', 'Authorization': f"Token {os.getenv('GH_TOKEN')}"}
     )
 
-    print(f'Comment GH request: {request.status_code}')
+    print(f'Github request returned {request.status_code}')
 
-    # Make job fail
-    sys_exit('Invalid data in manifest.json')
+    for error in comment.split('\n'):
+        print(error)
+
+    if request_type == 'reviews':
+        # Make job fail
+        sys_exit('Invalid data in manifest.json. See comments above or review in PR for more information.')
+
+
+def check_server_online_state(ip: str):
+    print(f'Check server status for {ip}')
+    request = requests.get(f'https://api.mcsrvstat.us/2/{ip}')
+
+    try:
+        response = json.loads(request.text)
+    except json.JSONDecodeError:
+        print(f'Cannot get value from server API. API returned {request.status_code} - Skipping...')
+        return
+
+    print(f"Checked server status successfully: {response['online']}")
+
+    if not response['online']:
+        post_comment(f'*Just as an information*:\nYour server {ip} **could be offline**.\n In general, we only accept '
+                     f'pull requests from servers, **that are online**. Please change this, otherwise we '
+                     f'cannot review your server correctly and have to deny the pull request.\n If your server is '
+                     f'currently online, then our api returned a wrong status, we will have a look at it :)',
+                     'comments')
 
 
 if __name__ == '__main__':
