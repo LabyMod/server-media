@@ -1,0 +1,18 @@
+{
+  "server_name": "imaginefun",
+  "nice_name": "ImagineFun",
+  "direct_ip": "mc.imaginefun.net",
+  "server_wildcards": [
+    "%.imaginefun.net",
+    "%.imagineeringfun.net"
+  ],
+  "social": {
+    "web": "https://imaginefun.net",
+    "web_shop": "https://buy.imaginefun.net/",
+    "twitter": "Imagine_Fun",
+    "instagram": "imaginefun",
+    "youtube": "https://www.youtube.com/imaginefun",
+    "discord": "https://discord.com/invite/disneyland"
+  },
+  "yt_trailer": "9mePEJH0Dn0"
+}

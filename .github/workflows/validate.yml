@@ -34,3 +34,5 @@ jobs:
         env:
           PR_ID: ${{ github.event.pull_request.number }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          COMMIT_SHA: ${{ github.event.pull_request.head.sha }}
+          COMMIT_URL: ${{ github.event.pull_request.head.repo.commits_url }}
