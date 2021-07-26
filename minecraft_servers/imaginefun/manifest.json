@@ -4,7 +4,7 @@
   "direct_ip": "mc.imaginefun.net",
   "server_wildcards": [
     "%.imaginefun.net",
-	"%.imagineeringfun.net"
+    "%.imagineeringfun.net"
   ],
   "social": {
     "web": "https://imaginefun.net",
