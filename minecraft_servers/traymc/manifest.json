@@ -4,8 +4,8 @@
   "direct_ip": "traymc.net",
   "server_wildcards": [
     "%.traymc.net",
-	"%.traymc.de",
-	"%.traymc.eu"
+    "%.traymc.de",
+    "%.traymc.eu"
   ],
   "social": {
     "web": "https://traymc.net",
