@@ -30,7 +30,7 @@ jobs:
         run:
           cp ${HOME}/files.json ./
       - name: Validate manifest
-        uses: LabyMod/server-media/.github/workflows/validate-manifest@main
+        uses: LabyMod/server-media/.github/workflows/validate-manifest@master
         env:
           PR_ID: ${{ github.event.pull_request.number }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
