@@ -125,7 +125,9 @@ def post_comment(comment: str, request_type: str = 'reviews'):
 
 def check_server_online_state(ip: str):
     print(f'Check server status for {ip}')
-    request = requests.get(f'https://api.mcsrvstat.us/2/{ip}')
+
+    url = f'https://api.mcsrvstat.us/2/{ip}'
+    request = requests.get(url)
 
     try:
         response = json.loads(request.text)
@@ -139,7 +141,8 @@ def check_server_online_state(ip: str):
         post_comment(f'*Just as an information*:\nYour server {ip} **could be offline**.\n In general, we only accept '
                      f'pull requests from servers, **that are online**. Please change this, otherwise we '
                      f'cannot review your server correctly and have to deny the pull request.\n\n If your server is '
-                     f'currently online, then our api returned a wrong status, we will have a look at it :)',
+                     f'currently online, then our api returned a wrong status, we will have a look at it :)\n\n'
+                     f'Reference: [API URL ({url})]({url})',
                      'comments')
 
 
