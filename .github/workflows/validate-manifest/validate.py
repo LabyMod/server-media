@@ -22,7 +22,7 @@ def main():
             try:
                 data = json.load(file)
             except json.JSONDecodeError:
-                comment += '- One of the **required values** is missing\n'
+                comment += f'- JSON is invalid! Workflow is not able to check {manifest_file}\n'
                 continue
 
         # Check for required keys
