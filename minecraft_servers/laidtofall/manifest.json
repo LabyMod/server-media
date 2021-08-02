@@ -1,6 +1,6 @@
 {
   "server_name": "laidtofall",
-  "nice_name": "LaidToFall",
+  "nice_name": "LaidToFallMC",
   "direct_ip": "play.laidtofall.net",
   "server_wildcards": [
     "%.laidtofall.net"
@@ -10,8 +10,7 @@
     "web_shop": "https://store.laidtofall.net/",
     "instagram": "laidtofallmc",
     "discord": "https://laidtofall.net/discord",
-    "youtube": "https://www.youtube.com/laidToFall69",
-    "teamspeak": "ts.labymod.net"
+    "youtube": "https://www.youtube.com/LaidToFall69",
   },
   "discord": {
     "server_id": 330394931052937216,
