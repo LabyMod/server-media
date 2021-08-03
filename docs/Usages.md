@@ -10,7 +10,7 @@ limitation here, we cannot guarantee that as a permanent feature for smaller ser
 ## LABY.net
 
 We use all uploaded images for [LABY.net](https://laby.net)! In addition, we use the data from
-the [manifest.json](#example-manifestjson) to give interested users more information about the server.
+the [manifest.json](/docs/Manifest.md#example-manifestjson-file) to give interested users more information about the server.
 
 ### Images / Files
 

@@ -8,12 +8,18 @@
     "web_support": "https://forum.neruxvace.net/",
     "discord": "https://nrxvc.link/dc",
     "twitter": "NeruxVace",
+    "teamspeak": "ts.neruxvace.net",
     "youtube": "https://www.youtube.com/NeruxVaceNetzwerk",
     "instagram": "neruxvacenet"
   },
   "discord": {
     "server_id": 159339283151454208,
     "rename_to_minecraft_name": true
+  },
+  "brand": {
+    "primary": "#c9091a",
+    "background": "#c9091a",
+    "text": "#ffffff"
   },
   "yt_trailer": "j_o3tG6RrlY",
   "user_stats": "https://neruxvace.net/player/{userName}"

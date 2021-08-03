@@ -5,7 +5,9 @@
 - `minecraft_servers`: Contains images for Minecraft servers.
 
 For every server a folder has to be created. The directory name should be lowercase and not contain any special
-characters.
+characters (no URL/domain!).
+
+> **Important**: The directory MUST match the `server_name` property in the [manifest.json](/docs/Manifest.md).
 
 To be accepted a server should be already released and on more than ~20 concurrent players on a daily basis.
 
@@ -18,7 +20,7 @@ A folder can contain seven files (*required):
 - `icon@2x.png`*: hDPI version of `icon.png` (512 x 512)
 - `logo@2x.png`: hDPI version of `logo.png` (256-512 x 512-1024)
 - `background@2x.png`: hDPI version of `background.png` (1920 x 1080)
-- `manifest.json`*: Information for minecraft server. See [example manifest.json](#example-manifestjson)
+- `manifest.json`*: Information for minecraft server. See [example manifest.json](/docs/Manifest.md#example-manifestjson-file)
 
 ## Image specification
 
@@ -51,4 +53,4 @@ Additional to the general image requirements listed, for the logo image, the fol
 
 ### Example background.png
 
-![background.png](../minecraft_servers/timolia/background.png)
+![background.png](/minecraft_servers/timolia/background.png)
