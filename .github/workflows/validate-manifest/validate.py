@@ -86,6 +86,10 @@ def main():
     if create_comment:
         post_comment(comment)
 
+    for error in comment.split('\n'):
+        # Print error comments, so that the user can relate the issues even if there is no comment
+        print(error)
+
     if comment != '':
         # Make job fail
         sys_exit('Invalid data in manifest.json. See comments above or review in PR for more information.')
@@ -121,9 +125,6 @@ def post_comment(comment: str, request_type: str = 'reviews'):
     )
 
     print(f'Github request returned {request.status_code}')
-
-    for error in comment.split('\n'):
-        print(error)
 
 
 def check_server_online_state(ip: str):
