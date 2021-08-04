@@ -97,7 +97,7 @@ def get_changed_manifest_files():
     with open('./files.json') as files:
         data = json.load(files)
         changed_files = [changed_file for changed_file in data if changed_file.endswith('manifest.json')
-                         and changed_file.starswith('minecraft_servers/')]
+                         and changed_file.startswith('minecraft_servers/')]
 
     print(changed_files)
 
