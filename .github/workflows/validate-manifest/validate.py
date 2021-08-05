@@ -151,6 +151,10 @@ def check_server_online_state(ip: str):
 
 
 def comment_needed():
+    if os.getenv('PR_ACTION').endswith('opened'):
+        print('PR opened - Write comment.')
+        return True
+
     request = requests.get(
         os.getenv('COMMIT_URL')[:-6] + '/' + os.getenv('COMMIT_SHA'),
         headers={'Accept': 'application/vnd.github.v3+json', 'Authorization': f"Token {os.getenv('GH_TOKEN')}"}
