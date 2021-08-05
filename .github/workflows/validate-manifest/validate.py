@@ -69,6 +69,9 @@ def main():
             except ValueError:
                 comment += '- Please use a **numeric** value for your server id (`discord.server_id`)\n'
 
+        if 'user_stats' in data and ('{userName}' not in data['user_stats'] and '{uuid}' not in data['user_stats']):
+            comment += '- Please use {userName} or {uuid} in your stats url (`user_stats`)\n'
+
         # check hex codes
         if 'brand' in data:
             for key in BRAND_KEYS:
