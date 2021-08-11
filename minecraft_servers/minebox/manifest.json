@@ -1,16 +1,22 @@
 {
-    "server_name": "minebox",
-    "nice_name": "MineBox Network",
-    "direct_ip": "mc.minebox.es",
-    "server_wildcards": [
-      "%.minebox.es",
-      "%.minelc.com"
-    ],
-    "social": {
-      "web": "https://minebox.es/",
-      "twitter": "MineBoxNetwork",
-      "youtube": "https://minebox.es/go/youtube",
-      "discord": "https://minebox.es/go/discord",
-      "instagram": "mineboxnt"
-    }
+  "server_name": "minebox",
+  "nice_name": "MineBox Network",
+  "direct_ip": "mc.minebox.es",
+  "server_wildcards": [
+    "%.minebox.es",
+    "%.minelc.com"
+  ],
+  "social": {
+    "web": "https://minebox.es/",
+    "web_shop": "https://tienda.minebox.es/",
+    "web_support": "https://soporte.minebox.es/",
+    "twitter": "MineBoxNetwork",
+    "youtube": "https://minebox.es/go/youtube",
+    "discord": "https://minebox.es/go/discord",
+    "instagram": "mineboxnt"
+  },
+  "brand": {
+    "background": "#246bb5"
+  },
+  "user_stats": "https://perfil.minebox.es/player/{userName}"
 }
