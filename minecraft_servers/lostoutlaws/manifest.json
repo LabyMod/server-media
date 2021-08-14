@@ -1,7 +1,7 @@
 {
   "server_name": "lostoutlaws",
   "nice_name": "LostOutlaws",
-  "direct_ip": "minecraft.lostoutlaws.de",
+  "direct_ip": "lostoutlaws.de",
   "server_wildcards": [
     "%.lostoutlaws.de"
   ],
@@ -9,5 +9,9 @@
     "discord": "https://discord.lostoutlaws.de",
     "youtube": "https://www.youtube.com/channel/UCEh9vY2inp0BLc52MyMWhSQ",
     "instagram": "lostoutlaws.de"
+  },
+  "discord": {
+    "server_id": 780898586816282634,
+    "rename_to_minecraft_name": false
   }
 }
