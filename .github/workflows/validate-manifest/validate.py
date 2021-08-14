@@ -69,6 +69,9 @@ def main():
             except ValueError:
                 comment += '- Please use a **numeric** value for your server id (`discord.server_id`)\n'
 
+        if 'user_stats' in data and ('{userName}' not in data['user_stats'] and '{uuid}' not in data['user_stats']):
+            comment += '- Please use {userName} or {uuid} in your stats url (`user_stats`)\n'
+
         # check hex codes
         if 'brand' in data:
             for key in BRAND_KEYS:
@@ -85,6 +88,10 @@ def main():
 
     if create_comment:
         post_comment(comment)
+
+    for error in comment.split('\n'):
+        # Print error comments, so that the user can relate the issues even if there is no comment
+        print(error)
 
     if comment != '':
         # Make job fail
@@ -122,9 +129,6 @@ def post_comment(comment: str, request_type: str = 'reviews'):
 
     print(f'Github request returned {request.status_code}')
 
-    for error in comment.split('\n'):
-        print(error)
-
 
 def check_server_online_state(ip: str):
     print(f'Check server status for {ip}')
@@ -150,6 +154,10 @@ def check_server_online_state(ip: str):
 
 
 def comment_needed():
+    if os.getenv('PR_ACTION').endswith('opened'):
+        print('PR opened - Write comment.')
+        return True
+
     request = requests.get(
         os.getenv('COMMIT_URL')[:-6] + '/' + os.getenv('COMMIT_SHA'),
         headers={'Accept': 'application/vnd.github.v3+json', 'Authorization': f"Token {os.getenv('GH_TOKEN')}"}
