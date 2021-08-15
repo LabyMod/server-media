@@ -14,7 +14,8 @@
     "instagram": "lendmark.sk",
     "youtube": "https://www.youtube.com/channel/UC1Khdip7ObGGN4OCsuSlg0gt",
   },
-  "discord": {
-    "server_id": 865900839481901066,
-    "rename_to_minecraft_name": true
+  "brand": {
+     "primary": "#5e8949",
+     "background": "#353535",
+     "text": "#5e8949"
   }
