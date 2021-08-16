@@ -18,5 +18,5 @@
   "brand": {
     "background": "#246bb5"
   },
-  "user_stats": "https://perfil.minebox.es/player/{username}"
+  "user_stats": "https://perfil.minebox.es/player/{userName}"
 }
