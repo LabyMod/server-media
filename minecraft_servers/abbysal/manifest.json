@@ -1,0 +1,19 @@
+{
+    "server_name": "abyssal",
+    "nice_name": "Abyssal.cz",
+    "direct_ip": "play.abyssal.cz",
+    "server_wildcards": [
+        "%abyssal.cz"
+    ],
+    "social": {
+        "web": "https://abyssal.cz",
+        "tiktok": "Abyssal.cz",
+        "instagram": "Abyssal.cz",
+        "discord": "https://discord.gg/WuUwy6tg49",
+        "youtube": "https://www.youtube.com/channel/UCSOE8KAQGlajQYmCSzSZ3YQ",
+        "teamspeak": "ts3.abyssal.cz"
+    },
+    "discord": {
+        "server_id": "592735008427343873"
+    }
+}
