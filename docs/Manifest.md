@@ -63,7 +63,7 @@ like https://labymod.net/dc are only supported for partner servers.<br>
   },
   "discord": {
     "server_id": 260471731809026048,
-    "rename_to_minecraft_name": true
+    "rename_to_minecraft_name": false
   },
   "brand": {
      "primary": "#008FE8",
