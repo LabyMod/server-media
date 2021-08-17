@@ -1,5 +1,5 @@
 {
-    "server_name": "abyssal",
+    "server_name": "abbysal",
     "nice_name": "Abyssal.cz",
     "direct_ip": "play.abyssal.cz",
     "server_wildcards": [
@@ -15,5 +15,9 @@
     },
     "discord": {
         "server_id": "592735008427343873"
+    },
+    "brand": {
+        "primary": "#21618C",
+        "background": "#21618C"
     }
 }
