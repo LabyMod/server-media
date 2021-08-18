@@ -1,0 +1,14 @@
+{
+  "server_name": "blackplasma",
+  "nice_name": "Black Plasma Studios Minecraft-Network",
+  "direct_ip": "blackplasma.community",
+  "server_wildcards": [
+    "%.blackplasma.community"
+  ],
+  "social": {
+    "web": "https://blackplasmastudios.net",
+    "twitter": "BlackPlasmaYT",
+    "youtube": "https://www.youtube.com/BlackPlasmaStudios",
+    "discord": "https://discord.com/invite/blackplasma"
+  }
+}
