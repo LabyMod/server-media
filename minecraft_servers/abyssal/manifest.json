@@ -15,5 +15,8 @@
     },
     "discord": {
         "server_id": "592735008427343873"
+    },
+    "brand": {
+        "primary": "#2BBFF0",
     }
 }
