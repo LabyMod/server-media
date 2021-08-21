@@ -12,8 +12,12 @@
     "web_support": "https://soporte.minebox.es/",
     "twitter": "MineBoxNetwork",
     "youtube": "https://minebox.es/go/youtube",
-    "discord": "https://discord.com/invite/NTZ6Vqn",
+    "discord": "https://minebox.es/go/discord",
     "instagram": "mineboxnt"
+  },
+  "discord": {
+    "server_id": 327926020139253760,
+    "rename_to_minecraft_name": false
   },
   "brand": {
     "background": "#246bb5"
