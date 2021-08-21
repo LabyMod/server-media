@@ -19,8 +19,7 @@ or* `"https://discord.gg/Wbg7rArky7"` |
 | `social.teamspeak`   | [TeamSpeak server address](Usages.md#social) | `"ts.labymod.net"` |
 | `social.tiktok`   | [TikTok **username**](Usages.md#social) | `"LabyMod"` |
 | `social.facebook`   | [Facebook **username**](Usages.md#social) | `"LabyMod"` |
-| `social.youtube`   | [YouTube channel **
-URL**](Usages.md#social) | `"https://www.youtube.com/channel/UCSamgE1KYvC7qZn56T0J2yg"` |
+| `social.youtube`   | [YouTube channel **URL**](Usages.md#social) | `"https://www.youtube.com/channel/UCSamgE1KYvC7qZn56T0J2yg"` |
 | `social.instagram`   | [Instagram **username**](Usages.md#social) | `"LabyMod"` |
 | `brand.primary`   | [Primary brand color](Usages.md#colorize-your-page) | `"#008FE8"` |
 | `brand.background`   | [Background-color](Usages.md#colorize-your-page) | `"#0A56A5"` |
