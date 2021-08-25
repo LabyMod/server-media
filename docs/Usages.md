@@ -42,6 +42,7 @@ Add your brand colors to your LABY.net server page. We'll use `primary_color` fo
 and `text` for elements such as buttons!
 
 ### Gamemodes
+<img src="https://user-images.githubusercontent.com/45363287/130877774-f3a54c1b-2fc3-417e-81eb-d308c307aac3.png" width="200">
 You are able to add your information about gamemodes, that are available on your server!
 
 ### One-click discord join (partner-only)
