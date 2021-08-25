@@ -7,30 +7,6 @@
     "%.traymc.de",
     "%.traymc.eu"
   ],
-  "social": {
-    "web": "https://traymc.net",
-    "twitter": "TrayMCnet",
-    "tiktok": "traymcnet", 
-    "discord": "https://discord.com/invite/3TD5vsrm4N",
-    "youtube": "https://www.youtube.com/channel/UCb_AtuZucKnO8HGi-Za3dWg",
-    "teamspeak": "traymc.net"
-  },
-  "discord": {
-    "server_id": 423176687753363457,
-    "rename_to_minecraft_name": true
-  }
-}
-
-
-{
-  "server_name": "traymc",
-  "nice_name": "TrayMC",
-  "direct_ip": "traymc.net",
-  "server_wildcards": [
-    "%.traymc.net",
-    "%.traymc.de",
-    "%.traymc.eu"
-  ],
   "supported_languages": [
      "en",
      "de"
