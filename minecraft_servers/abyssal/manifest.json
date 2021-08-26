@@ -4,7 +4,12 @@
     "direct_ip": "play.abyssal.cz",
     "server_wildcards": [
         "%.abyssal.cz"
-    ],
+  ],
+  "supported_languages": [
+     "cs",
+     "sk"
+     "en"
+  ],
     "social": {
         "web": "https://abyssal.cz",
         "tiktok": "Abyssal.cz",
@@ -18,5 +23,10 @@
     },
     "brand": {
         "primary": "#2BBFF0"
+    },
+    "location": {
+       "city": "Prague",
+       "country": "Czech Republic",
+       "country_code": "CZ"
     }
 }
