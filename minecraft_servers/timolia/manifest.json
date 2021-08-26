@@ -31,61 +31,51 @@
       "command": "/quickjoin castles",
       "color": "#0095B0"
     },
-    },
      "uhc": {
       "name": "UHC",
       "command": "",
       "color": "#0095B0"
     },
-    }
      "suspicious": {
       "name": "Suspicious",
       "command": "",
       "color": "#0095B0"
     },
-    }
      "arcade": {
       "name": "Arcade",
       "command": "/quickjoin arcade",
       "color": "#0095B0"
     },
-    }
      "survivalquest": {
       "name": "SurvivalQuest",
       "command": "/quickjoin survivalquest",
       "color": "#0095B0"
     },
-    }
      "4rena": {
       "name": "4rena",
       "command": "/quickjoin 4rena",
       "color": "#0095B0"
     },
-    }
      "Splun": {
       "name": "Splun",
       "command": "/quickjoin splun",
       "color": "#0095B0"
     },
-    }
      "intime": {
       "name": "InTime",
       "command": "/quickjoin intime",
       "color": "#0095B0"
     },
-    }
      "brainbow": {
       "name": "BrainBow",
       "command": "/quickjoin brainbow",
       "color": "#0095B0"
     },
-    }
      "dna": {
       "name": "DNA",
       "command": "/quickjoin dna",
       "color": "#0095B0"
     },
-    }
      "mineception": {
       "name": "Mineception",
       "command": "/quickjoin mineception",
