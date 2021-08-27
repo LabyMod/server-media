@@ -6,6 +6,72 @@
     "%.minebox.es",
     "%.minelc.com"
   ],
+  "supported_languages": [
+    "es",
+    "en"
+  ],
+  "gamemodes": {
+    "survival": {
+      "name": "Survival",
+      "command": "",
+      "color": "#246bb5"
+    },
+    "fullpvp": {
+      "name": "FullPvP",
+      "command": "",
+      "color": "#246bb5"
+    },
+    "creative": {
+      "name": "Creative",
+      "command": "",
+      "color": "#246bb5"
+    },
+    "eggwars": {
+      "name": "EggWars",
+      "command": "",
+      "color": "#246bb5"
+    },
+    "ctw": {
+      "name": "Capture The Wool",
+      "command": "",
+      "color": "#246bb5"
+    },
+    "pvpup": {
+      "name": "PvPUP",
+      "command": "",
+      "color": "#246bb5"
+    },
+    "skygames": {
+      "name": "SkyGames",
+      "command": "",
+      "color": "#246bb5"
+    },
+    "skyblock": {
+      "name": "SkyBlock",
+      "command": "",
+      "color": "#246bb5"
+    },
+    "bedwars": {
+      "name": "BedWars",
+      "command": "",
+      "color": "#246bb5"
+    },
+    "murder": {
+      "name": "Murder Mystery",
+      "command": "",
+      "color": "#246bb5"
+    },
+    "practice": {
+      "name": "Practice",
+      "command": "",
+      "color": "#246bb5"
+    },
+    "buildbattle": {
+      "name": "BuildBattle",
+      "command": "",
+      "color": "#246bb5"
+    }
+  },
   "social": {
     "web": "https://minebox.es/",
     "web_shop": "https://tienda.minebox.es/",
@@ -21,6 +87,11 @@
   },
   "brand": {
     "background": "#246bb5"
+  },
+  "location": {
+    "city": "Madrid",
+    "country": "Spain",
+    "country_code": "ES"
   },
   "user_stats": "https://perfil.minebox.es/player/{userName}"
 }
