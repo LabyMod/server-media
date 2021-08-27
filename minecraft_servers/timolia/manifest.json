@@ -15,6 +15,71 @@
     "teamspeak": "ts.timolia.de",
     "youtube": "https://www.youtube.com/Timolia"
   },
+  "gamemodes": {
+    "jumpworld": {
+      "name": "JumpWorld",
+      "command": "/quickjoin jumpworld",
+      "color": "#DEDB18"
+    },
+    "1vs1": {
+      "name": "1vs1",
+      "command": "/quickjoin 1vs1",
+      "color": "#0095B0"
+    },
+     "castles": {
+      "name": "Castles",
+      "command": "/quickjoin castles",
+      "color": "#0095B0"
+    },
+     "uhc": {
+      "name": "UHC",
+      "color": "#0095B0"
+    },
+     "suspicious": {
+      "name": "Suspicious",
+      "color": "#0095B0"
+    },
+     "arcade": {
+      "name": "Arcade",
+      "command": "/quickjoin arcade",
+      "color": "#0095B0"
+    },
+     "survivalquest": {
+      "name": "SurvivalQuest",
+      "command": "/quickjoin survivalquest",
+      "color": "#0095B0"
+    },
+     "4rena": {
+      "name": "4rena",
+      "command": "/quickjoin 4rena",
+      "color": "#0095B0"
+    },
+     "Splun": {
+      "name": "Splun",
+      "command": "/quickjoin splun",
+      "color": "#0095B0"
+    },
+     "intime": {
+      "name": "InTime",
+      "command": "/quickjoin intime",
+      "color": "#0095B0"
+    },
+     "brainbow": {
+      "name": "BrainBow",
+      "command": "/quickjoin brainbow",
+      "color": "#0095B0"
+    },
+     "dna": {
+      "name": "DNA",
+      "command": "/quickjoin dna",
+      "color": "#0095B0"
+    },
+     "mineception": {
+      "name": "Mineception",
+      "command": "/quickjoin mineception",
+      "color": "#0095B0"
+    }
+  },
   "discord": {
     "server_id": 407554118887014402,
     "rename_to_minecraft_name": true
@@ -24,6 +89,11 @@
     "background": "#497cb1",
     "text": "#ffffff"
   },
+  "location": {
+     "city": "Frankfurt",
+     "country": "Germany",
+     "country_code": "DE"
+   },
   "yt_trailer": "vNF-ztQGnUo",
   "user_stats": "https://www.timolia.de/stats/{userName}"
 }
