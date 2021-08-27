@@ -33,12 +33,10 @@
     },
      "uhc": {
       "name": "UHC",
-      "command": "",
       "color": "#0095B0"
     },
      "suspicious": {
       "name": "Suspicious",
-      "command": "",
       "color": "#0095B0"
     },
      "arcade": {
