@@ -1,1 +1,19 @@
-
+{
+  "server_name": "Lymmzy",
+  "nice_name": "LYMMZY",
+  "direct_ip": "lymmzy.com",
+  "server_wildcards": [
+    "%.lymmzy.com"
+  ],
+  "supported_languages": [
+     "en"
+  ],
+  "social": {
+    "discord": "https://discord.lymmzy.com"
+  },
+  "brand": {
+     "primary": "#2195d9",
+     "background": "#0a3052",
+     "text": "#FFFFFF"
+  }
+}
