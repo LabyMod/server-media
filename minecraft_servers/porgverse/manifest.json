@@ -1,0 +1,10 @@
+{
+  "server_name": "porgverse",
+  "nice_name": "Porgverse",
+  "direct_ip": "porgverse.nl",
+  "brand": {
+     "primary": "#ff9900",
+     "background": "#ad6b08",
+     "text": "#FFFFFF"
+  }
+}
