@@ -7,4 +7,11 @@
      "background": "#ad6b08",
      "text": "#FFFFFF"
   }
+  "supported_languages": [
+    "nl"
+  ],
+  "location": {
+    "country": "The Netherlands",
+    "country_code": "nl"
+  }
 }
