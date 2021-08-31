@@ -24,7 +24,7 @@
 | `gamemodes`   | [Gamemodes](Usages.md#gamemodes) | [gamemode object](#gamemode-object) |
 | `brand.primary`   | [Primary brand color](Usages.md#colorize-your-page) | `"#008FE8"` |
 | `brand.background`   | [Background-color](Usages.md#colorize-your-page) | `"#0A56A5"` |
-| `brand.text`   | [Text color](Usages.md#colorize-your-page) (*must match the background color*) | `"#FFFFFF"` |
+| `brand.text`   | [Text color](Usages.md#colorize-your-page) (*must fit with the background color*) | `"#FFFFFF"` |
 | `location.city`   | [Server location: City](Usages.md#server-location) | `"Berlin"` |
 | `location.country`   | [Server location: Country](Usages.md#server-location) | `"Germany"` |
 | `location.country_code`   | [Server location: Country code](Usages.md#server-location) - Format: ISO 3166-1 alpha-2 | `"de"` |
