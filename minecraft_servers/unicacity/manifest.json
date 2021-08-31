@@ -3,7 +3,7 @@
   "nice_name": "UnicaCity",
   "direct_ip": "server.unicacity.de",
   "server_wildcards": [
-    "*.unicacity.de"
+    "%.unicacity.de"
   ],
   "supported_languages": [
      "de"
