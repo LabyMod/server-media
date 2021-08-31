@@ -21,7 +21,7 @@
 | `social.facebook`   | [Facebook **username**](Usages.md#social) | `"LabyMod"` |
 | `social.youtube`   | [YouTube channel **URL**](Usages.md#social) | `"https://www.youtube.com/channel/UCSamgE1KYvC7qZn56T0J2yg"` |
 | `social.instagram`   | [Instagram **username**](Usages.md#social) | `"LabyMod"` |
-| `gamemodes`   | [Gamemodes](Usages.md#gamemodes) | gamemode object -> example manifest |
+| `gamemodes`   | [Gamemodes](Usages.md#gamemodes) | [gamemode object](#gamemode-object) |
 | `brand.primary`   | [Primary brand color](Usages.md#colorize-your-page) | `"#008FE8"` |
 | `brand.background`   | [Background-color](Usages.md#colorize-your-page) | `"#0A56A5"` |
 | `brand.text`   | [Text color](Usages.md#colorize-your-page) (*must match the background color*) | `"#FFFFFF"` |
@@ -33,7 +33,19 @@
 |  `discord.server_id`   | [Discord server id](Usages.md#one-click-discord-join-partner-only) | `260471731809026048` |
 |  `discord.rename_to_minecraft_name`   | Boolean whether the user should be renamed when joining. | `false` |
 
-<br>* Required values are: `server_name`, `nice_name` & `direct_ip`
+* Required values are: `server_name`, `nice_name` & `direct_ip`
+
+
+### Gamemode object
+| Key         | Description            | Example value    |
+|-------------|----------------------------|------------------|
+| `name`* | Gamemode nice name | `"JumpWorld"`           |
+| `color`* | Brand color | `"#ADD8E6"`           |
+| `url` | Gamemode description url / website related to the gamemode | `"https://www.timolia.de/games#jumpworld"`           |
+| `command` | e.g. quickjoin-command | `"/quickjoin jumpworld"`           |
+
+* Required values are: `name` & `color`
+
 
 ### Discord URL
 
@@ -69,14 +81,16 @@ like https://labymod.net/dc are only supported for partner servers.<br>
   },
   "gamemodes": {
     "jumpworld": {
-      "name": "JumpWorld",
-      "command": "/quickjoin jumpworld",
-      "color": "#FFA500"
+      "name": "JumpWorld", 
+      "color": "#FFA500",
+      "url": "https://www.timolia.de/games#jumpworld",
+      "command": "/quickjoin jumpworld"
     },
     "dna": {
       "name": "DNA",
-      "command": "/quickjoin dna",
-      "color": "#ADD8E6"
+      "color": "#ADD8E6",
+      "url": "https://www.timolia.de/games#dna",
+      "command": "/quickjoin dna"
     }
   },
   "discord": {
