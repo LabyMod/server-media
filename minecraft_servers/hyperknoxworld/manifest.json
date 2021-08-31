@@ -33,7 +33,7 @@
   "brand": {
      "primary": "#F5F5F5",
      "background": "#000000",
-     "text": "#000000"
+     "text": "#F5F5F5"
   }, 
   "location": {
      "city": "Frankfurt a.M.",
