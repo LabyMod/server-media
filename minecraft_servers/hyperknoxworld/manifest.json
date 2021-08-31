@@ -7,12 +7,12 @@
   ],
   "social": {
     "web": "https://hyperknox.de/",
-    "web_shop": "http://www.hyperknox.shop",
+    "web_shop": "https://hyperknox.craftingstore.net/",
     "web_support": "https://community.hyperknox.de/ticketsystem/ticket-add/",
-    "twitter": "https://twitter.com/HyperknoxWorld",
+    "twitter": "HyperknoxWorld",
     "tiktok": "",
-    "facebook": "https://www.facebook.com/HyperknoxWorld/",
-    "instagram": "https://www.instagram.com/hyperknoxworld/",
+    "facebook": "HyperknoxWorld/",
+    "instagram": "hyperknoxworld/",
     "discord": "https://discord.gg/8jkcmYW7QM",
     "youtube": "https://www.youtube.com/channel/UCNxScSNyjkPtXF5ojwRih6Q",
     "teamspeak": "ts.hyperknox.world"
@@ -42,5 +42,5 @@
      "country_code": "DE"
    },
   "yt_trailer": "u8H9uM693nI",
-  "user_stats": "https://laby.net/@HyperknoxWorld"
+  "user_stats": "https://laby.net/@Hyperknox"
 }
