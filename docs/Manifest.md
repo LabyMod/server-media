@@ -14,7 +14,7 @@
 | `social.web`   | [Website **URL**](Usages.md#social) | `"https://labymod.net"` |
 | `social.web_shop`   | [Shop **URL**](Usages.md#links)) | `"https://labymod.net/shop"` |
 | `social.web_support`   | [Support page **URL**](Usages.md#links), e.g. faq page | `"https://labymod.net/support"` |
-| `social.twitter`   | [Twitter **username**](Usages.md#social) | `"https://labymod.net/support"` |
+| `social.twitter`   | [Twitter **username**](Usages.md#social) | `"LabyMod"` |
 | `social.discord`   | [Discord invite **URL**](Usages.md#social) | `"https://discord.gg/labymod"` *or* `"https://discord.gg/Wbg7rArky7"` ([Read more](#discord-url)) |
 | `social.teamspeak`   | [TeamSpeak server address](Usages.md#social) | `"ts.labymod.net"` |
 | `social.tiktok`   | [TikTok **username**](Usages.md#social) | `"LabyMod"` |
@@ -24,7 +24,7 @@
 | `gamemodes`   | [Gamemodes](Usages.md#gamemodes) | [gamemode object](#gamemode-object) |
 | `brand.primary`   | [Primary brand color](Usages.md#colorize-your-page) | `"#008FE8"` |
 | `brand.background`   | [Background-color](Usages.md#colorize-your-page) | `"#0A56A5"` |
-| `brand.text`   | [Text color](Usages.md#colorize-your-page) (*must match the background color*) | `"#FFFFFF"` |
+| `brand.text`   | [Text color](Usages.md#colorize-your-page) (*must fit with the background color*) | `"#FFFFFF"` |
 | `location.city`   | [Server location: City](Usages.md#server-location) | `"Berlin"` |
 | `location.country`   | [Server location: Country](Usages.md#server-location) | `"Germany"` |
 | `location.country_code`   | [Server location: Country code](Usages.md#server-location) - Format: ISO 3166-1 alpha-2 | `"de"` |
