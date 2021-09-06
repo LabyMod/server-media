@@ -1,0 +1,17 @@
+{
+    "server_name": "Endernation",
+    "nice_name": "EnderNation",
+    "direct_ip": "Endernation.eu",
+    "server_wildcards": [
+      "%.endernation.eu"
+    ],
+    "supported_languages": [
+      "de",
+      "en"
+    ],
+    "social": {
+      "web": "https://EnderNation.eu",
+      "web_shop": "https://Endernation.eu/shop",
+      "twitter": "endernationteam",
+      "discord": "https://discord.gg/Endernation"
+    }
