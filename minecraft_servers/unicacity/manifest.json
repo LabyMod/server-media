@@ -1,0 +1,20 @@
+{
+  "server_name": "unicacity",
+  "nice_name": "UnicaCity",
+  "direct_ip": "server.unicacity.de",
+  "server_wildcards": [
+    "%.unicacity.de"
+  ],
+  "supported_languages": [
+     "de"
+  ],
+  "social": {
+    "web": "https://unicacity.de/",
+    "web_shop": "https://shop.unicacity.de",
+    "web_support": "https://unicacity.de/faq",
+    "instagram": "unicacity",
+    "youtube": "https://www.youtube.com/UnicaCity",
+    "teamspeak": "ts.unicacity.de"
+  },
+  "yt_trailer": "52rqtG1JZjo"
+}

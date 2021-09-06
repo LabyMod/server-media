@@ -5,8 +5,5 @@
   "server_wildcards": [
     "%.vultexpvp.com",
     "%.vultex.gg"
-  ],
-  "social": {
-    "discord": "https://discord.vultexpvp.com"
-  }
+  ]
 }
