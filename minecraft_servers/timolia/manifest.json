@@ -25,7 +25,7 @@
     "1vs1": {
       "name": "1vs1",
       "command": "/quickjoin 1vs1",
-      "url": "https://www.timolia.de/games#1vs1",
+      "url": "https://www.timolia.de/games#pvp",
       "color": "#0095B0"
     },
      "castles": {
@@ -70,6 +70,11 @@
       "name": "InTime",
       "command": "/quickjoin intime",
       "url": "https://www.timolia.de/games#intime",
+      "color": "#0095B0"
+    },
+    "tspiele": {
+      "name": "T-Spiele",
+      "url": "https://www.timolia.de/games#tspiele",
       "color": "#0095B0"
     },
      "brainbow": {
