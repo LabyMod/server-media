@@ -1,6 +1,6 @@
 {
   "server_name": "zonecraft",
-  "nice_name": "ZoneCraft",
+  "nice_name": "ZoneCraft Network",
   "direct_ip": "play.zonecraft.es",
   "server_wildcards": [
     "%.zonecraft.es",
@@ -12,6 +12,59 @@
     "web": "https://zonecraft.es",
     "web_shop": "https://tienda.zonecraft.es",
     "twitter": "ZoneCraftES",
-    "discord": "https://discord.com/invite/mvZkgAM"
+    "discord": "https://discord.zonecraft.es",
+    "youtube": "https://www.youtube.com/c/ZoneCraftNetwork",
+    "instagram": "https://www.instagram.com/zonecraftes"
+  },
+  "gamemodes": {
+    "bedwars": {
+      "name": "BedWars",
+      "color": "#FFF"
+    },
+    "skywars": {
+      "name": "SkyWars",
+      "color": "#FFF"
+    },
+    "arenapvp": {
+      "name": "ArenaPvP",
+      "color": "#FFF"
+    },
+    "breezily¡": {
+      "name": "Breezily",
+      "color": "#FFF"
+    },
+    "knockback_ffa": {
+      "name": "Knockback FFA",
+      "color": "#FFF"
+    },
+    "tntgames": {
+      "name": "TNT Games",
+      "color": "#FFF"
+    },
+    "thebridge": {
+      "name": "The Bridge",
+      "color": "#FFF"
+    },
+    "bedwars_practice": {
+      "name": "BedWars Practice",
+      "color": "#FFF"
+    },
+    "skypvp": {
+      "name": "SkyPvP",
+      "color": "#FFF"
+    },
+    "eggwars": {
+      "name": "EggWars",
+      "color": "#FFF"
+    }
+  },
+  "location": {
+    "city": "Madrid",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  "discord": {
+    "server_id": 424584809612836865,
+    "rename_to_minecraft_name": false
   }
 }
