@@ -2,6 +2,10 @@
     "server_name": "spigotcraft",
     "nice_name": "Spigotcraft",
     "direct_ip": "spigotcraft.de",
+    "supported_languages": [
+      "en",
+      "de"
+   ],
     "social": {
       "web": "https://spigotcraft.de/",
       "twitter": "SpigotCraftDE",
