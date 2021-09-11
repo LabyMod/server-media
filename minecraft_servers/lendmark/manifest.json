@@ -4,11 +4,12 @@
     "direct_ip": "mc.lendmark.sk",
     "server_wildcards": [
       "%.lendmark.sk",
-      "%.lmstreamer.live"
+      "%.lend.games"
     ],
     "social": {
       "web": "https://lendmark.sk/",
       "web_shop": "https://store.lendmark.sk/",
+      "discord": "https://discord.com/invite/kaMfqnvaqC",
       "tiktok": "lendmark.sk",
       "instagram": "lendmark.sk",
       "youtube": "https://www.youtube.com/channel/UC1Khdip7ObGGN4OCsuSlg0g"
