@@ -5,10 +5,14 @@
   "server_wildcards": [
     "%.lostify.net"
   ],
+  "supported_languages": [
+     "en",
+     "de"
+  ],
   "social": {
     "web": "https://lostify.net",
     "web_shop": "https://shop.lostify.net",
-    "web_support": "https://forum.lostify.net",
+    "web_support": "https://forum.lostify.net/forum/index.php?board/13-forum-support/",
     "twitter": "LostifyNet",
     "discord": "https://lostify.net/discord/",
     "teamspeak": "lostify.net"
@@ -21,5 +25,10 @@
     "primary": "#fc2d0f",
     "background": "#353539",
     "text": "#ffffff"
-  }
+  },
+  "location": {
+     "city": "Frankfurt am Main",
+     "country": "Germany",
+     "country_code": "DE"
+   }
 }
