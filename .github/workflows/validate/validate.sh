@@ -57,7 +57,7 @@ while read image; do
         && error "${image}" "hDPI background was provided, but the normal version is missing"
 
     # Validate image dimensions
-    if [[ "${filename}" == "icon.png" ]]; then
+    if [[ "${filename}" == "icon.png" && "${folderpath}" != *"gamemodes"* ]]; then
       # icon dimension
       [[ "${width}" -ne 256 || "${height}" -ne 256 ]] \
         && error "${image}" "Invalid icon size! Size is ${width}x${height}px, must be 256x256px"
