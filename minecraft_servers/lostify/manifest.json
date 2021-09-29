@@ -1,6 +1,6 @@
 {
   "server_name": "lostify",
-  "nice_name": "Lostify Servernetzwerk",
+  "nice_name": "Lostify",
   "direct_ip": "lostify.net",
   "server_wildcards": [
     "%.lostify.net"
@@ -14,6 +14,8 @@
     "web_shop": "https://shop.lostify.net",
     "web_support": "https://forum.lostify.net/forum/index.php?board/13-forum-support/",
     "twitter": "LostifyNet",
+    "instagram": "lostifynet",
+    "tiktok": "lostifynet",
     "discord": "https://lostify.net/discord/",
     "teamspeak": "lostify.net"
   },
