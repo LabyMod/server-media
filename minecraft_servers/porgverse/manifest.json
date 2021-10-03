@@ -2,6 +2,12 @@
   "server_name": "porgverse",
   "nice_name": "Porgverse",
   "direct_ip": "porgverse.nl",
+  "server_wildcards": [
+    "%.porgverse.nl"
+  ],
+  "social": {
+    "web": "https://web.porgverse.nl/"
+  },
   "brand": {
      "primary": "#ff9900",
      "background": "#ad6b08",
