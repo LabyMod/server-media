@@ -1,25 +1,26 @@
 {
-    "server_name": "skyplayns",
-    "nice_name": "SkyPlayns",
-    "direct_ip": "skyplayns.de",
-    "supported_languages": [
-     "en",
-     "de"
-  ],
-    "social": {
-    "web": "https://SkyPlayns.de",
-    "twitter": "SkyPlayns",
-    "facebook": "SkyPlaynsDE",
-    "discord": "https://discord.skyplayns.de"
-    },
-    "gamemodes": {
-    "skyblock": {
-    "name": "SkyBlock", 
-    "color": "#00AA00",
-    "command": "/is"
-    },
-    "discord": {
-    "server_id": 490254212429643787,
-    "rename_to_minecraft_name": false
-  },
+	"server_name": "skyplayns",
+	"nice_name": "SkyPlayns.de",
+	"direct_ip": "skyplayns.de",
+	"supported_languages": [
+		"en",
+		"de"
+	],
+	"social": {
+		"web": "https://SkyPlayns.de",
+		"twitter": "SkyPlayns",
+		"discord": "http://discord.skyplayns.de",
+		"teamspeak": "GommeHD.net"
+	},
+	"gamemodes": {
+		"skyblock": {
+			"name": "SkyBlock",
+			"color": "#00AA00",
+			"command": "/is"
+		},
+		"discord": {
+			"server_id": 490254212429643787,
+			"rename_to_minecraft_name": false
+		}
+	}
 }
