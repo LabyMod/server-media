@@ -2,10 +2,25 @@
     "server_name": "skyplayns",
     "nice_name": "SkyPlayns Server",
     "direct_ip": "skyplayns.de",
+    "supported_languages": [
+     "en",
+     "de"
+  ],
     "social": {
         "web": "https://SkyPlayns.de",
         "twitter": "SkyPlayns",
-        "facebook": "SkyPlayns",
+        "facebook": "SkyPlaynsDE",
         "discord": "https://discord.skyplayns.de"
-    }
+    },
+    "gamemodes": {
+    "skyblock": {
+      "name": "SkyBlock", 
+      "color": "#00AA00",
+      "command": "/is"
+    },
+	"discord": {
+    "server_id": 490254212429643787,
+    "rename_to_minecraft_name": false
+  },
+    "user_stats": "https://laby.net/@{userName}"
 }
