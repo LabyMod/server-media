@@ -23,6 +23,9 @@ def main():
         return
 
     for manifest_file in manifest_files:
+        if manifest_file == 'minecraft_servers/manifest.json':
+            continue
+
         with open(manifest_file) as file:
             print(f'Open manifest file: {manifest_file}')
 
