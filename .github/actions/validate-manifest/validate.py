@@ -59,7 +59,7 @@ def main():
                 facebook_username = social['facebook']
                 request = requests.get(f'https://facebook.com/{facebook_username}')
                 if request.status_code == 404:
-                    comment += f'- Invalid facebook username not available: {facebook_username} ' \
+                    comment += f'- Invalid facebook account: https://facebook.com/{facebook_username} ' \
                                f'(`social.facebook`)\n'
 
         # check for numeric server id (discord)
