@@ -1,11 +1,11 @@
 {
-    "server_name": "SkyPlayns",
+    "server_name": "skyplayns",
     "nice_name": "SkyPlayns Server",
-    "direct_ip": "SkyPlayns.de",
+    "direct_ip": "skyplayns.de",
     "social": {
-      "web": "https://SkyPlayns.de/",
-      "twitter": "SkyPlayns",
-      "facebook": "SkyPlayns",
-      "discord": "http://Discord.SkyPlayns.de",
+        "web": "https://SkyPlayns.de",
+        "twitter": "SkyPlayns",
+        "facebook": "SkyPlayns",
+        "discord": "https://discord.skyplayns.de"
     }
-  }
+}
