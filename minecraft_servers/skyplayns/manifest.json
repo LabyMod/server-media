@@ -7,20 +7,19 @@
      "de"
   ],
     "social": {
-        "web": "https://SkyPlayns.de",
-        "twitter": "SkyPlayns",
-        "facebook": "SkyPlaynsDE",
-        "discord": "https://discord.skyplayns.de"
+    "web": "https://SkyPlayns.de",
+    "twitter": "SkyPlayns",
+    "facebook": "SkyPlaynsDE",
+    "discord": "https://discord.skyplayns.de"
     },
     "gamemodes": {
     "skyblock": {
-      "name": "SkyBlock", 
-      "color": "#00AA00",
-      "command": "/is"
+    "name": "SkyBlock", 
+    "color": "#00AA00",
+    "command": "/is"
     },
-	"discord": {
+    "discord": {
     "server_id": 490254212429643787,
     "rename_to_minecraft_name": false
   },
-    "user_stats": "https://laby.net/@{userName}"
 }
