@@ -19,6 +19,24 @@
     "discord": "https://lostify.net/discord/",
     "teamspeak": "lostify.net"
   },
+  "gamemodes": {
+    "jumpworld": {
+      "name": "CityBuild",
+      "color": "#0095B0"
+    },
+    "1vs1": {
+      "name": "Minigames",
+      "color": "#0095B0"
+    },
+     "castles": {
+      "name": "FFA",
+      "color": "#0095B0"
+    },
+     "castles": {
+      "name": "AmongUs",
+      "color": "#0095B0"
+    }
+  },
   "discord": {
     "server_id": 667878015203540993,
     "rename_to_minecraft_name": true
