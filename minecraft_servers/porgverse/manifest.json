@@ -28,7 +28,7 @@
   "gamemodes": {
     "starwars": {
       "name": "StarWars RPG", 
-      "color": "#ff9900",
+      "color": "#ff9900"
     }
   },
   "user_stats": "https://web.porgverse.nl/player/{userName}"
