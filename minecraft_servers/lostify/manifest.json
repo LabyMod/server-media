@@ -20,19 +20,19 @@
     "teamspeak": "lostify.net"
   },
   "gamemodes": {
-    "jumpworld": {
+    "citybuild": {
       "name": "CityBuild",
       "color": "#0095B0"
     },
-    "1vs1": {
+    "minigames": {
       "name": "Minigames",
       "color": "#0095B0"
     },
-     "castles": {
+     "ffa": {
       "name": "FFA",
       "color": "#0095B0"
     },
-     "castles": {
+     "amongus": {
       "name": "AmongUs",
       "color": "#0095B0"
     }
