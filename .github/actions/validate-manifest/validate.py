@@ -23,6 +23,9 @@ def main():
         return
 
     for manifest_file in manifest_files:
+        if manifest_file == 'minecraft_servers/manifest.json':
+            continue
+
         with open(manifest_file) as file:
             print(f'Open manifest file: {manifest_file}')
 
@@ -41,7 +44,7 @@ def main():
 
         server_directory = manifest_file.replace('minecraft_servers/', '').replace('/manifest.json', '')
         if server_directory != data['server_name']:
-            comment += '**Servername has to be directory name!**'
+            comment += '**Servername has to be directory name!**\n'
 
         # Check for https
         if 'social' in data:
