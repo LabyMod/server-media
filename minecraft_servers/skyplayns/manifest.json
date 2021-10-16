@@ -18,27 +18,27 @@
       "color": "#FFAA00",
       "command": "/mine"
     },
-	"nether": {
+    "nether": {
       "name": "Nether",
       "color": "#AA00AA",
       "command": "/nether"
     },
-	"mob": {
+    "mob": {
       "name": "Mob",
       "color": "#55FFFF",
       "command": "/mob"
     },
-	"skyblock": {
+    "skyblock": {
       "name": "SkyBlock",
       "color": "#55FF55",
       "command": "/is"
     },
-	"1vs1": {
+    "1vs1": {
       "name": "1vs1",
       "color": "#55FF55",
       "command": "/1vs1 join"
     },
-	"skypvp": {
+    "skypvp": {
       "name": "SkyPvP",
       "color": "#55FF55",
       "command": "/spawn"
