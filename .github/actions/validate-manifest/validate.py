@@ -44,7 +44,7 @@ def main():
 
         server_directory = manifest_file.replace('minecraft_servers/', '').replace('/manifest.json', '')
         if server_directory != data['server_name']:
-            comment += '**Servername has to be directory name!**'
+            comment += '**Servername has to be directory name!**\n'
 
         # Check for https
         if 'social' in data:

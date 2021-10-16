@@ -19,6 +19,24 @@
     "discord": "https://lostify.net/discord/",
     "teamspeak": "lostify.net"
   },
+  "gamemodes": {
+    "citybuild": {
+      "name": "CityBuild",
+      "color": "#0095B0"
+    },
+    "minigames": {
+      "name": "Minigames",
+      "color": "#0095B0"
+    },
+     "ffa": {
+      "name": "FFA",
+      "color": "#0095B0"
+    },
+     "amongus": {
+      "name": "AmongUs",
+      "color": "#0095B0"
+    }
+  },
   "discord": {
     "server_id": 667878015203540993,
     "rename_to_minecraft_name": true

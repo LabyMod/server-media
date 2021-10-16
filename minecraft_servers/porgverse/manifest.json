@@ -25,5 +25,11 @@
     "server_id": 811987858402574366,
     "rename_to_minecraft_name": false
   },
+  "gamemodes": {
+    "starwars": {
+      "name": "StarWars RPG", 
+      "color": "#ff9900"
+    }
+  },
   "user_stats": "https://web.porgverse.nl/player/{userName}"
 }
