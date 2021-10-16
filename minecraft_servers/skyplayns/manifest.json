@@ -13,10 +13,35 @@
     "discord": "https://discord.gg/KQYkVQaQwz"
   },
   "gamemodes": {
-    "skyblock": {
+    "mine": {
+      "name": "Mine",
+      "color": "#FFAA00",
+      "command": "/mine"
+    },
+	"nether": {
+      "name": "Nether",
+      "color": "#AA00AA",
+      "command": "/nether"
+    },
+	"mob": {
+      "name": "Mob",
+      "color": "#55FFFF",
+      "command": "/mob"
+    },
+	"skyblock": {
       "name": "SkyBlock",
-      "color": "#00AA00",
+      "color": "#55FF55",
       "command": "/is"
+    },
+	"1vs1": {
+      "name": "1vs1",
+      "color": "#55FF55",
+      "command": "/1vs1 join"
+    },
+	"skypvp": {
+      "name": "SkyPvP",
+      "color": "#55FF55",
+      "command": "/spawn"
     },
     "discord": {
       "server_id": 490254212429643800,
