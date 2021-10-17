@@ -25,15 +25,18 @@ def main():
     for manifest_file in manifest_files:
         if manifest_file == 'minecraft_servers/manifest.json':
             continue
+        try:
+            with open(manifest_file) as file:
+                print(f'Open manifest file: {manifest_file}')
 
-        with open(manifest_file) as file:
-            print(f'Open manifest file: {manifest_file}')
-
-            try:
-                data = json.load(file)
-            except json.JSONDecodeError:
-                comment += f'- JSON is invalid! Workflow is not able to check {manifest_file}\n'
-                continue
+                try:
+                    data = json.load(file)
+                except json.JSONDecodeError:
+                    comment += f'- JSON is invalid! Workflow is not able to check {manifest_file}\n'
+                    continue
+        except FileNotFoundError:
+            print(f'Unable to open {manifest_file} - Continue...')
+            continue
 
         # Check for required keys
         if not all(key in data for key in REQUIRED_KEYS):
