@@ -1,0 +1,41 @@
+{
+  "server_name": "starnetwork",
+  "nice_name": "StarNetwork",
+  "direct_ip": "mc.starnetwork.fr",
+  "server_wildcards": [
+    "%.starnetwork.fr"
+  ],
+  "supported_languages": [
+    "fr",
+    "en",
+    "es",
+    "de"
+  ],
+  "social": {
+    "web": "https://starnetwork.fr/",
+    "web_shop": "https://shop.starnetwork.fr/",
+    "web_support": "https://support.starnetwork.fr/",
+    "twitter": "StarNetworkFR",
+    "tiktok": "StarNetworkFR",
+    "instagram": "StarNetworkFR",
+    "discord": "https://discord.com/invite/kbGBduc94e",
+    "youtube": "https://www.youtube.com/channel/UCD8OvRIhXCYIALM0ipVsUUQ",
+    "teamspeak": "ts.starnetwork.fr"
+  },
+  "discord": {
+    "server_id": 572528326376161293,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#FFE000",
+    "background": "#ffb40e",
+    "text": "#010101"
+  },
+  "location": {
+    "city": "Paris",
+    "country": "France",
+    "country_code": "FR"
+  },
+  "yt_trailer": "NGdUFawQwYg",
+  "user_stats": "https://starnetwork.fr/stats/@{userName}"
+}
