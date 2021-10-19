@@ -1,0 +1,35 @@
+{
+  "server_name": "rangemc",
+  "nice_name": "RangeMC",
+  "direct_ip": "rangemc.net",
+  "server_wildcards": [
+    "%.rangemc.net"
+  ],
+  "supported_languages": [
+     "en",
+     "de",
+	 "rus"
+  ],
+  "social": {
+    "web": "https://rangemc.net",
+    "web_shop": "https://rangemc.net/shop",
+    "web_support": "https://rangemc.net/support/tickets",
+    "twitter": "RangeMCnet",
+    "discord": "https://discord.rangemc.net",
+    "teamspeak": "rangemc.net"
+  },
+  "discord": {
+    "server_id": 819639199644123136,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#fcc10f",
+    "background": "#212121",
+    "text": "#ffffff"
+  },
+  "location": {
+     "city": "Frankfurt am Main",
+     "country": "Germany",
+     "country_code": "DE"
+   }
+}
