@@ -19,6 +19,5 @@
   "discord": {
     "server_id": 433699842389180417,
     "rename_to_minecraft_name": true
-  },
-  "user_stats": "https://www.gommehd.net/player/index?playerName={userName}"
+  }
 }
