@@ -13,8 +13,6 @@
   ],
   "social": {
     "web": "https://starnetwork.fr/",
-    "web_shop": "https://shop.starnetwork.fr/",
-    "web_support": "https://support.starnetwork.fr/",
     "twitter": "StarNetworkFR",
     "tiktok": "StarNetworkFR",
     "instagram": "StarNetworkFR",
@@ -37,5 +35,4 @@
     "country_code": "FR"
   },
   "yt_trailer": "NGdUFawQwYg",
-  "user_stats": "https://starnetwork.fr/stats/@{userName}"
 }
