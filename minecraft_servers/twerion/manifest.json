@@ -1,0 +1,34 @@
+{
+  "server_name": "twerion",
+  "nice_name": "Twerion",
+  "direct_ip": "twerion.net",
+  "server_wildcards": [
+    "%.twerion.eu",
+    "%.twerion.com",
+    "%.twerion.de",
+    "%.twerion.org",
+    "%.twicepvp.de",
+    "%.twicepvp.net",
+    "%.twicepvp.org",
+    "%.twicepvp.eu"
+  ],
+  "social": {
+    "web": "https://www.twerion.net/",
+    "web_shop": "http://shop.twerion.net/",
+    "web_support": "https://forum.twerion.net/",
+    "instagram": "Twerion_network",
+    "youtube": "https://www.youtube.com/channel/UCkin5r7CIMspWPnfx9XoPEQ",
+    "teamspeak": "twerion.net",
+    "twitter": "TwerionNetwork",
+    "discord": "https://discord.gg/47VuDTJ"
+  },
+  "discord": {
+    "server_id": 326789496525815808,
+    "rename_to_minecraft_name": true
+  },
+  "brand": {
+     "primary": "#f8e904",
+     "background": "#d88f58",
+     "text": "#ffffff"
+  }
+}
