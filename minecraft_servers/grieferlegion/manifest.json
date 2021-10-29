@@ -1,0 +1,37 @@
+{
+	"server_name": "gleg",
+	"nice_name": "» GrieferLegion",
+	"direct_ip": "Grieferlegion.de",
+	"supported_languages": [
+	"de",
+	"en"
+	],
+	"social": {
+		"twitter": "https://twitter.com/GrieferLegion",
+		"discord": "https://dsc.gg/gleg",
+		"teamspeak": "ts.grieferlegion.eu» "
+	},
+	"gamemodes": {
+		"Citybuild": {
+			"name": "CityBuild",
+			"color": "",
+			"url": "",
+			"command": "/qj cb"
+		},
+	},
+	"discord": {
+		"server_id": 898576011501924372,
+		"rename_to_minecraft_name": false
+	},
+	"brand": {
+		"primary": "",
+		"background": "",
+		"text": ""
+	},
+	"location": {
+		"city": "Vienna",
+		"country": "Austria",
+		"country_code": "AT"
+	},
+	"user_stats": "https://laby.net/@{userName}"
+}
