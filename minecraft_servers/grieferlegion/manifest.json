@@ -14,8 +14,7 @@
 	"gamemodes": {
 		"Citybuild": {
 			"name": "CityBuild",
-			"color": "",
-			"url": "",
+			"color": "#e87a05",
 			"command": "/qj cb"
 		},
 	},
@@ -24,9 +23,9 @@
 		"rename_to_minecraft_name": false
 	},
 	"brand": {
-		"primary": "",
-		"background": "",
-		"text": ""
+		"primary": "#e87a05",
+		"background": "#bd9f0d",
+		"text": "#0a71bf"
 	},
 	"location": {
 		"city": "Vienna",
