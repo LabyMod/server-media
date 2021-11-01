@@ -11,4 +11,4 @@ jobs:
         uses: joelwmale/webhook-action@master
         with:
           url: ${{ secrets.WEBHOOK_UPDATE_URL }}
-          headers: '{\"X-AUTH-TOKEN\": \"${{ secrets.NEXT_AUTH_TOKEN }}\"}'
+          headers: '{"X-AUTH-TOKEN": "${{ secrets.NEXT_AUTH_TOKEN }}"}'
