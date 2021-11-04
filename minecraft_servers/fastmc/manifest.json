@@ -1,6 +1,6 @@
 {
   "server_name": "FastMC",
-  "nice_name": "FasTMC Network",
+  "nice_name": "FastMC Network",
   "direct_ip": "play.FastMC.net",
   "server_wildcards": [
     "%.fastmc.net"
