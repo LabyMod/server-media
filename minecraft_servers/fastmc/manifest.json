@@ -1,7 +1,7 @@
 {
   "server_name": "fastmc",
   "nice_name": "FastMC Network",
-  "direct_ip": "play.FastMC.net",
+  "direct_ip": "play.fastmc.net",
   "server_wildcards": [
     "%.fastmc.net"
   ],
@@ -9,13 +9,13 @@
      "de"
   ],
   "social": {
-    "web": "https://www.FastMC.net/",
-    "web_shop": "https://shop.FastMC.net/",
+    "web": "https://www.fastmc.net",
+    "web_shop": "https://shop.fastmc.net",
     "twitter": "FastMC_NET",
     "tiktok": "@FastMCNetwork",
     "youtube": "https://FastMC.net/sonstiges/link.php?link=yt",
-    "discord": "https://discord.FastMC.net",
-    "teamspeak": "ts.FastMC.net"
+    "discord": "https://discord.fastmc.net",
+    "teamspeak": "ts.fastmc.net"
   },
   "discord": {
     "server_id": 567019399974748171,
