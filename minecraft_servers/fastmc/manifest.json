@@ -1,0 +1,20 @@
+{
+  "server_name": "FastMC",
+  "nice_name": "FasTMC Network",
+  "direct_ip": "play.FastMC.net",
+  "server_wildcards": [
+    "%.fastmc.net"
+  ],
+  "social": {
+    "web": "https://www.FastMC.net/",
+    "web_shop": "https://shop.FastMC.net/",
+    "twitter": "FastMC_NET",
+    "youtube": "https://FastMC.net/sonstiges/link.php?link=yt",
+    "discord": "https://discord.FastMC.net",
+    "teamspeak": "ts.FastMC.net"
+  },
+  "discord": {
+    "server_id": 567019399974748171,
+    "rename_to_minecraft_name": true
+  }
+}
