@@ -106,7 +106,7 @@ like https://labymod.net/dc are only supported for partner servers.<br>
      "city": "Walldorf",
      "country": "Germany",
      "country_code": "DE"
-   },
+  },
   "yt_trailer": "8asFIRe2HSw",
   "user_stats": "https://laby.net/@{userName}"
 }
