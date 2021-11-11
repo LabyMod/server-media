@@ -12,7 +12,7 @@
 | `server_wildcards`   | Wildcards the user can use | `["%.laby.net", "%.labymod.net"]` |
 | `supported_languages`   | Supported languages on your server - Format: ISO 639-1 | `["de", "en"]` |
 | `social.web`   | [Website **URL**](Usages.md#social) | `"https://labymod.net"` |
-| `social.web_shop`   | [Shop **URL**](Usages.md#links)) | `"https://labymod.net/shop"` |
+| `social.web_shop`   | [Shop **URL**](Usages.md#links) | `"https://labymod.net/shop"` |
 | `social.web_support`   | [Support page **URL**](Usages.md#links), e.g. faq page | `"https://labymod.net/support"` |
 | `social.twitter`   | [Twitter **username**](Usages.md#social) | `"LabyMod"` |
 | `social.discord`   | [Discord invite **URL**](Usages.md#social) | `"https://discord.gg/labymod"` *or* `"https://discord.gg/Wbg7rArky7"` ([Read more](#discord-url)) |
@@ -106,7 +106,7 @@ like https://labymod.net/dc are only supported for partner servers.<br>
      "city": "Walldorf",
      "country": "Germany",
      "country_code": "DE"
-   },
+  },
   "yt_trailer": "8asFIRe2HSw",
   "user_stats": "https://laby.net/@{userName}"
 }
