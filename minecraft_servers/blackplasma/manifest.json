@@ -3,7 +3,9 @@
   "nice_name": "Black Plasma Studios Network",
   "direct_ip": "blackplasma.community",
   "server_wildcards": [
-    "%.blackplasma.community"
+    "%.blackplasma.community",
+    "%.blackplasma.xyz",
+    "blackplasma.beastmc.com"
   ],
   "social": {
     "web": "https://blackplasmastudios.net",
