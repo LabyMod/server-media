@@ -1,0 +1,35 @@
+{
+  "server_name": "BeeGames.eu",
+  "nice_name": "BeeGames",
+  "direct_ip": "mc.beegames.eu",
+  "server_wildcards": [
+    "%.beegames.eu"
+  ],
+  "supported_languages": [
+     "cs",
+     "sk"
+  ],
+  "social": {
+    "web": "https://beegames.eu/",
+    "web_shop": "https://store.beegames.eu/",
+    "web_support": "https://wiki.beegames.eu/",
+    "tiktok": "BeeGames.eu",
+    "facebook": "BeeGames.eu",
+    "instagram": "beegames.eu",
+    "discord": "https://discord.com/invite/kZG4NQAMJE",
+    "teamspeak": "ts3.beegames.eu"
+  },
+  "discord": {
+    "server_id": 824022859126931496,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#EECA28",
+     "background": "#403F3A",
+     "text": "#FFFFFF"
+  }, 
+  "location": {
+     "city": "Walldorf",
+     "country": "Germany",
+     "country_code": "DE"
+  },
