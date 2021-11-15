@@ -1,7 +1,7 @@
 {
-   "server_name":"BeeGames.eu",
-   "nice_name":"BeeGames.eu",
-   "direct_ip":"mc.beegames.eu",
+   "server_name": "BeeGames.eu",
+   "nice_name": "BeeGames.eu",
+   "direct_ip": "mc.beegames.eu",
    "server_wildcards":[
       "%.beegames.eu"
    ],
@@ -10,24 +10,24 @@
       "sk"
    ],
    "social":{
-      "web":"https://beegames.eu/",
-      "web_shop":"https://store.beegames.eu/",
-      "web_support":"https://wiki.beegames.eu/",
-      "tiktok":"BeeGames.eu",
-      "facebook":"BeeGames.eu",
-      "instagram":"beegames.eu",
-      "discord":"https://discord.com/invite/kZG4NQAMJE",
-      "teamspeak":"ts3.beegames.eu"
+      "web": "https://beegames.eu",
+      "web_shop": "https://store.beegames.eu",
+      "web_support": "https://wiki.beegames.eu",
+      "tiktok": "BeeGames.eu",
+      "facebook": "BeeGames.eu",
+      "instagram": "beegames.eu",
+      "discord": "https://discord.com/invite/kZG4NQAMJE",
+      "teamspeak": "ts3.beegames.eu"
    },
    "discord":{
-      "server_id":"824022859126931496"
+      "server_id": "824022859126931496"
    },
    "brand":{
-      "primary":"#EECA28"
+      "primary": "#EECA28"
    },
    "location":{
-      "city":"Prague",
-      "country":"Czech Republic",
-      "country_code":"CZ"
+      "city": "Prague",
+      "country": "Czech Republic",
+      "country_code": "CZ"
    }
 }
