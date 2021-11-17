@@ -2,14 +2,14 @@
    "server_name": "beegames",
    "nice_name": "BeeGames.eu",
    "direct_ip": "mc.beegames.eu",
-   "server_wildcards":[
+   "server_wildcards": [
       "%.beegames.eu"
    ],
-   "supported_languages":[
+   "supported_languages": [
       "cs",
       "sk"
    ],
-   "social":{
+   "social": {
       "web": "https://beegames.eu",
       "web_shop": "https://store.beegames.eu",
       "web_support": "https://wiki.beegames.eu",
@@ -19,13 +19,13 @@
       "discord": "https://discord.com/invite/kZG4NQAMJE",
       "teamspeak": "ts3.beegames.eu"
    },
-   "discord":{
+   "discord": {
       "server_id": "824022859126931496"
    },
-   "brand":{
+   "brand": {
       "primary": "#EEB928"
    },
-   "location":{
+   "location": {
       "city": "Prague",
       "country": "Czech Republic",
       "country_code": "CZ"
