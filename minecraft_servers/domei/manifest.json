@@ -9,8 +9,8 @@
      "fr"
   ],
   "social": {
-    "web": "https://domei.eu/",
-    "web_shop": "https://domei.eu/boutique/",
+    "web": "https://domei.eu",
+    "web_shop": "https://domei.eu/boutique",
     "twitter": "DomeiMc",
     "discord": "https://discord.com/invite/domei",
     "youtube": "https://www.youtube.com/channel/UCOV9bf8jJ973hjg17zXMhAQ"
@@ -55,7 +55,7 @@
   },
   "discord": {
     "server_id": 837316390708445204,
-    "rename_to_minecraft_name": true
+    "rename_to_minecraft_name": false
   },
   "brand": {
      "primary": "#dd2d2d",
