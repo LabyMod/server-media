@@ -23,14 +23,20 @@ def main():
         return
 
     for manifest_file in manifest_files:
-        with open(manifest_file) as file:
-            print(f'Open manifest file: {manifest_file}')
+        if manifest_file == 'minecraft_servers/manifest.json':
+            continue
+        try:
+            with open(manifest_file) as file:
+                print(f'Open manifest file: {manifest_file}')
 
-            try:
-                data = json.load(file)
-            except json.JSONDecodeError:
-                comment += f'- JSON is invalid! Workflow is not able to check {manifest_file}\n'
-                continue
+                try:
+                    data = json.load(file)
+                except json.JSONDecodeError:
+                    comment += f'- JSON is invalid! Workflow is not able to check {manifest_file}\n'
+                    continue
+        except FileNotFoundError:
+            print(f'Unable to open {manifest_file} - Continue...')
+            continue
 
         # Check for required keys
         if not all(key in data for key in REQUIRED_KEYS):
@@ -41,7 +47,7 @@ def main():
 
         server_directory = manifest_file.replace('minecraft_servers/', '').replace('/manifest.json', '')
         if server_directory != data['server_name']:
-            comment += '**Servername has to be directory name!**'
+            comment += '**Servername has to be directory name!**\n'
 
         # Check for https
         if 'social' in data:
@@ -59,7 +65,7 @@ def main():
                 facebook_username = social['facebook']
                 request = requests.get(f'https://facebook.com/{facebook_username}')
                 if request.status_code == 404:
-                    comment += f'- Invalid facebook username not available: {facebook_username} ' \
+                    comment += f'- Invalid facebook account: https://facebook.com/{facebook_username} ' \
                                f'(`social.facebook`)\n'
 
         # check for numeric server id (discord)
