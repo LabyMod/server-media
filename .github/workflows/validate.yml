@@ -12,7 +12,7 @@ jobs:
         with:
           ref: refs/pull/${{ github.event.number }}/merge
       - name: Validate images
-        uses: ./.github/workflows/validate
+        uses: LabyMod/server-media/.github/actions/validate@master
   validate_manifest:
     name: Manifest
     runs-on: ubuntu-latest
@@ -30,7 +30,7 @@ jobs:
         run:
           cp ${HOME}/files.json ./
       - name: Validate manifest
-        uses: LabyMod/server-media/.github/workflows/validate-manifest@master
+        uses: LabyMod/server-media/.github/actions/validate-manifest@master
         env:
           PR_ID: ${{ github.event.pull_request.number }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
