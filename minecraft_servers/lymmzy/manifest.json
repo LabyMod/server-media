@@ -9,11 +9,12 @@
      "en"
   ],
   "social": {
-    "discord": "https://discord.gg/tc7XBYY4eH"
+    "discord": "https://discord.gg/tc7XBYY4eH",
+    "web": "https://lymmzy.com"
   },
   "brand": {
      "primary": "#2195d9",
-     "background": "#0a3052",
+     "background": "#00a6ff",
      "text": "#FFFFFF"
   }
 }

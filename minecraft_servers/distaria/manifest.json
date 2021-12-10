@@ -3,8 +3,37 @@
     "nice_name": "Distaria",
     "direct_ip": "distaria.net",
     "server_wildcards": [
-      "%.distaria.net"
+      "%.distaria.net",
+      "%.distaria.de",
+      "%.cubetastic.eu"
     ],
+    "supported_languages": [
+      "en",
+      "de"
+    ],
+    "gamemodes": {
+      "defense": {
+        "name": "Defense",
+        "color": "#42f563"
+      },
+      "jumpit": {
+        "name": "JumpIT",
+        "color": "#4245f5"
+      },
+      "guessr": {
+        "name": "Guessr",
+        "color": "#eff542"
+      },
+      "bridge": {
+        "name": "Bridge",
+        "color": "#4281f5"
+      }
+    },
+    "location": {
+      "city": "Limburg",
+      "country": "Germany",
+      "country_code": "DE"
+    },
     "social": {
       "web": "https://distaria.net/",
       "twitter": "DistariaNetwork",
