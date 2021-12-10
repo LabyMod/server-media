@@ -25,6 +25,26 @@
       "name": "KnockDash",
       "command": "/gamejoin knockdash",
       "color": "#FFA500"
+    },
+    "ttt": {
+      "name": "TTT",
+      "command": "/gamejoin ttt",
+      "color": "#FFA500"
+    },
+    "ghosthouse": {
+      "name": "GhostHouse",
+      "command": "/gamejoin ghosthouse",
+      "color": "#FFA500"
+    },
+    "challenges": {
+      "name": "Challenges",
+      "command": "/gamejoin challenges",
+      "color": "#FFA500"
+    },
+    "prebuild": {
+      "name": "PreBuild",
+      "command": "/gamejoin prebuild",
+      "color": "#FFA500"
     }
   },
   "discord": {
