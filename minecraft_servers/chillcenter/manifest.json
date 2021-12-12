@@ -1,0 +1,27 @@
+{
+  "server_name": "chillcenter",
+  "nice_name": "ChillCenter",
+  "direct_ip": "play.chillcenter.cc",
+  "server_wildcards": [
+    "play.chillcenter.cc"
+  ],
+  "supported_languages": [
+     "es"
+  ],
+  "social": {
+    "web": "https://chillcenter.cc",
+    "web_shop": "https://tienda.chillcenter.cc",
+    "twitter": "ChillCenterNT",
+    "discord": "https://discord.gg/uAzxQYewJx",
+    "youtube": "https://www.youtube.com/channel/UCy8iLxHgBuZ9E3oA0LvjsXw"
+  },
+  "discord": {
+    "server_id": 730051779299115009,
+    "rename_to_minecraft_name": false
+  },
+  "location": {
+     "city": "Quebec",
+     "country": "Canada",
+     "country_code": "CA"
+  },
+}
