@@ -1,0 +1,19 @@
+{
+  "server_name": "shinybounds",
+  "nice_name": "Shinybounds",
+  "direct_ip": "shinybounds.net",
+  "server_wildcards": [
+    "%.shinybounds.net"
+  ],
+  "supported_languages": [
+    "en"
+  ],
+  "social": {
+    "web": "https://shinybounds.net",
+    "discord": "https://discord.com/invite/kyDH5XF"
+  },
+  "discord": {
+    "server_id": 392330797270695936,
+    "rename_to_minecraft_name": false
+  }
+}

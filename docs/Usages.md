@@ -10,7 +10,8 @@ limitation here, we cannot guarantee that as a permanent feature for smaller ser
 ## LABY.net
 
 We use all uploaded images for [LABY.net](https://laby.net)! In addition, we use the data from
-the [manifest.json](/docs/Manifest.md#example-manifestjson-file) to give interested users more information about the server.
+the [manifest.json](/docs/Manifest.md#example-manifestjson-file) to give interested users more information about the
+server.
 
 ### Images / Files
 
@@ -40,7 +41,22 @@ Show users what is happening on a server. - With a YouTube server trailer!
 Add your brand colors to your LABY.net server page. We'll use `primary_color` for the background image - `background`
 and `text` for elements such as buttons!
 
+### Gamemodes
+<img src="https://user-images.githubusercontent.com/45363287/130877774-f3a54c1b-2fc3-417e-81eb-d308c307aac3.png" width="200">
+You are able to add your information about gamemodes, that are available on your server!
+
 ### One-click discord join (partner-only)
 
 <img src="https://user-images.githubusercontent.com/45363287/125778845-d60d00b7-2e31-4458-8585-0c0b339800be.gif" width="500"><br>
 Users who have linked their discord account can join the server with one click.
+
+### Server location
+
+<img src="https://user-images.githubusercontent.com/45363287/130817858-5332b066-edfb-4079-90d6-04be7fa5c776.png" width="200"><br>
+We try to detect your servers location by reading an api request. If there is something wrong, you can give us custom
+information about the location of your server, that will be added to your LABY.net-page!
+
+### Language specific results
+
+You can add the supported languages on your server to your manifest-file! We can then locate your server and your
+community better to improve features!
