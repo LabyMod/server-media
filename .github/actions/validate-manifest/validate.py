@@ -23,12 +23,20 @@ def main():
         return
 
     for manifest_file in manifest_files:
-        with open(manifest_file) as file:
-            try:
-                data = json.load(file)
-            except json.JSONDecodeError:
-                comment += f'- JSON is invalid! Workflow is not able to check {manifest_file}\n'
-                continue
+        if manifest_file == 'minecraft_servers/manifest.json':
+            continue
+        try:
+            with open(manifest_file) as file:
+                print(f'Open manifest file: {manifest_file}')
+
+                try:
+                    data = json.load(file)
+                except json.JSONDecodeError:
+                    comment += f'- JSON is invalid! Workflow is not able to check {manifest_file}\n'
+                    continue
+        except FileNotFoundError:
+            print(f'Unable to open {manifest_file} - Continue...')
+            continue
 
         # Check for required keys
         if not all(key in data for key in REQUIRED_KEYS):
@@ -39,7 +47,7 @@ def main():
 
         server_directory = manifest_file.replace('minecraft_servers/', '').replace('/manifest.json', '')
         if server_directory != data['server_name']:
-            comment += '**Servername has to be directory name!**'
+            comment += '**Servername has to be directory name!**\n'
 
         # Check for https
         if 'social' in data:
@@ -57,7 +65,7 @@ def main():
                 facebook_username = social['facebook']
                 request = requests.get(f'https://facebook.com/{facebook_username}')
                 if request.status_code == 404:
-                    comment += f'- Invalid facebook username not available: {facebook_username} ' \
+                    comment += f'- Invalid facebook account: https://facebook.com/{facebook_username} ' \
                                f'(`social.facebook`)\n'
 
         # check for numeric server id (discord)
@@ -66,6 +74,9 @@ def main():
                 int(data['discord']['server_id'])
             except ValueError:
                 comment += '- Please use a **numeric** value for your server id (`discord.server_id`)\n'
+
+        if 'user_stats' in data and ('{userName}' not in data['user_stats'] and '{uuid}' not in data['user_stats']):
+            comment += '- Please use {userName} or {uuid} in your stats url (`user_stats`)\n'
 
         # check hex codes
         if 'brand' in data:
@@ -84,6 +95,10 @@ def main():
     if create_comment:
         post_comment(comment)
 
+    for error in comment.split('\n'):
+        # Print error comments, so that the user can relate the issues even if there is no comment
+        print(error)
+
     if comment != '':
         # Make job fail
         sys_exit('Invalid data in manifest.json. See comments above or review in PR for more information.')
@@ -94,7 +109,8 @@ def get_changed_manifest_files():
 
     with open('./files.json') as files:
         data = json.load(files)
-        changed_files = [changed_file for changed_file in data if changed_file.endswith('manifest.json')]
+        changed_files = [changed_file for changed_file in data if changed_file.endswith('manifest.json')
+                         and changed_file.startswith('minecraft_servers/')]
 
     print(changed_files)
 
@@ -118,9 +134,6 @@ def post_comment(comment: str, request_type: str = 'reviews'):
     )
 
     print(f'Github request returned {request.status_code}')
-
-    for error in comment.split('\n'):
-        print(error)
 
 
 def check_server_online_state(ip: str):
@@ -147,6 +160,10 @@ def check_server_online_state(ip: str):
 
 
 def comment_needed():
+    if os.getenv('PR_ACTION').endswith('opened'):
+        print('PR opened - Write comment.')
+        return True
+
     request = requests.get(
         os.getenv('COMMIT_URL')[:-6] + '/' + os.getenv('COMMIT_SHA'),
         headers={'Accept': 'application/vnd.github.v3+json', 'Authorization': f"Token {os.getenv('GH_TOKEN')}"}
