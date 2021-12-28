@@ -27,7 +27,7 @@
 | `brand.text`   | [Text color](Usages.md#colorize-your-page) (*must fit with the background color*) | `"#FFFFFF"` |
 | `location.city`   | [Server location: City](Usages.md#server-location) | `"Berlin"` |
 | `location.country`   | [Server location: Country](Usages.md#server-location) | `"Germany"` |
-| `location.country_code`   | [Server location: Country code](Usages.md#server-location) - Format: ISO 3166-1 alpha-2 | `"de"` |
+| `location.country_code`   | [Server location: Country code](Usages.md#server-location) - Format: ISO 3166-1 alpha-2 (upper-case) | `"DE"` |
 | `yt_trailer`   | [YouTube trailer **embed ID**](Usages.md#server-trailer) | `"vNF-ztQGnUo"` |
 | `user_stats`   | [User stats url](Usages.md#links) | `"https://laby.net/@{userName}"` *or* `"https://laby.net/@{uuid}"` |
 |  `discord.server_id`   | [Discord server id](Usages.md#one-click-discord-join-partner-only) | `260471731809026048` |
