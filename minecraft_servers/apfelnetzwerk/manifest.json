@@ -5,14 +5,23 @@
   "server_wildcards": [
     "%.apfelnetzwerk.de"
   ],
+  "supported_languages": [
+     "de"
+  ],
   "social": {
     "web": "https://apfelnetzwerk.de/",
-    "web_shop": "https://shop.apfelnetzwerk.de/",
     "web_support": "https://support.apfelnetzwerk.de/",
     "twitter": "Apfelnetzwerk",
-    "discord": "https://discord.gg/apfelnetzwerk"
+    "discord": "https://discord.gg/apfelnetzwerk",
+    "teamspeak": "ts.apfelnetzwerk.de"
   },
   "discord": {
-    "server_id": 851012884674641973
+    "server_id": 851012884674641973,
+    "rename_to_minecraft_name": false
   },
+  "location": {
+     "city": "Hamburg",
+     "country": "Germany",
+     "country_code": "DE"
+   }
 }
