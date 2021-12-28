@@ -1,5 +1,5 @@
 {
-  "server_name": "Apfelnetzwerk",
+  "server_name": "apfelnetzwerk",
   "nice_name": "Apfelnetzwerk",
   "direct_ip": "play.apfelnetzwerk.de",
   "server_wildcards": [
@@ -7,18 +7,12 @@
   ],
   "social": {
     "web": "https://apfelnetzwerk.de/",
-    "web_shop": "https://shop.apfelnetzwerk.de",
-    "web_support": "https://support.apfelnetzwerk.de",
+    "web_shop": "https://shop.apfelnetzwerk.de/",
+    "web_support": "https://support.apfelnetzwerk.de/",
     "twitter": "Apfelnetzwerk",
-    "instagram": "Apfelnetzwerk",
     "discord": "https://discord.gg/apfelnetzwerk"
   },
   "discord": {
-    "server_id": "851012884674641973"
+    "server_id": 851012884674641973
   },
-  "location": {
-     "city": "Hamburg",
-     "country": "Germany",
-     "country_code": "DE"
-   },
 }
