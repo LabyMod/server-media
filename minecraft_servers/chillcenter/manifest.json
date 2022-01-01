@@ -3,9 +3,11 @@
   "nice_name": "ChillCenter",
   "direct_ip": "play.chillcenter.cc",
   "server_wildcards": [
-    "play.chillcenter.cc"
+    "play.chillcenter.cc",
+    "play.chillcenter.es"
   ],
   "social": {
+    "web": "https://chillcenter.cc",
     "web_shop": "https://tienda.chillcenter.cc",
     "twitter": "ChillCenterNT",
     "discord": "https://discord.gg/h5kKQtQtyf",
