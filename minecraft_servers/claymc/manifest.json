@@ -1,30 +1,36 @@
 {
   "server_name": "claymc",
-  "nice_name": "ClayMC",
-  "direct_ip": "play.claymc.net",
+  "nice_name": "ClayMC Network",
+  "direct_ip": "claymc.net",
   "server_wildcards": [
-    "%.claymc.net"
+    "%.claymc.net",
+    "%.claymc.eu",
+    "%.golgolex.de"
   ],
   "supported_languages": [
-    "de", "en"
+    "de",
+    "en"
   ],
   "social": {
-    "web": "https://claymc.net",
+    "web": "https://www.claymc.net/",
+    "web_shop": "https://shop.claymc.net/",
+    "web_support": "https://claymc.net/forum/",
     "twitter": "ClayMCNetwork",
-    "discord": "https://discord.gg/zHQacxz4F7",
-    "teamspeak": "claymc.net",
-    "instagram": "claymcnetwork",
-    "tiktok": "claymcnetwork"
+    "tiktok": "ClayMCNetwork",
+    "discord": "https://discord.kuschelstube.link",
+    "teamspeak": "claymc.net"
   },
   "discord": {
-    "server_id": 645357420775997440
+    "server_id": 645357420775997440,
+    "rename_to_minecraft_name": true
   },
   "brand": {
-    "primary": "#ffc300",
-    "text": "#ffffff"
+    "primary": "#FFA500",
+    "background": "#FF8C00",
+    "text": "#FFFFFF"
   },
   "location": {
-    "city": "Frankfurt",
+    "city": "Berlin",
     "country": "Germany",
     "country_code": "DE"
   }
