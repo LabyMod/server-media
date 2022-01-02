@@ -1,0 +1,38 @@
+{
+    "server_name": "firecraft",
+    "nice_name": "FireCraft",
+    "direct_ip": "firecraft.dk",
+    "supported_languages": [
+        "da"
+    ],
+    "social": {
+        "web": "https://www.firecraft.dk",
+        "discord": "https://discord.com/invite/dFND5cXCe9"
+    },
+    "gamemodes": [
+        {
+            "name": "FirePVP",
+            "color": "#FFFF55"
+        },
+        {
+            "name": "Skyblock",
+            "color": "#55FF55"
+        },
+        {
+            "name": "FirePrison",
+            "color": "#FF5555"
+        },
+        {
+            "name": "Survival",
+            "color": "#FF55FF"
+        },
+        {
+            "name": "OpPrison",
+            "color": "#55FFFF"
+        },
+        {
+            "name": "Event",
+            "color": "#5555FF"
+        }
+    ]
+}
