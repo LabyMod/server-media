@@ -5,6 +5,10 @@
   "server_wildcards": [
     "%.timolia.de"
   ],
+  "supported_languages": [
+    "de",
+    "en"
+  ],
   "social": {
     "web": "https://timolia.de/",
     "web_shop": "https://shop.timolia.de/",
@@ -22,7 +26,7 @@
       "url": "https://www.timolia.de/games#jumpworld",
       "color": "#0095B0"
     },
-    "1vs1": {
+    "pvp": {
       "name": "1vs1",
       "command": "/quickjoin 1vs1",
       "url": "https://www.timolia.de/games#pvp",
@@ -36,11 +40,14 @@
     },
      "uhc": {
       "name": "UHC",
-      "color": "#0095B0"
-    },
+      "color": "#0095B0",
+      "url": "https://www.timolia.de/games#uhc",
+      "command": "/joinuhc <name> [password]"
+     },
      "suspicious": {
       "name": "Suspicious",
-      "color": "#0095B0"
+      "color": "#0095B0",
+      "url": "https://www.timolia.de/games#suspicious"
     },
      "arcade": {
       "name": "Arcade",
@@ -60,7 +67,7 @@
       "url": "https://www.timolia.de/games#4rena",
       "color": "#0095B0"
     },
-     "Splun": {
+     "splun": {
       "name": "Splun",
       "command": "/quickjoin splun",
       "url": "https://www.timolia.de/games#splun",
