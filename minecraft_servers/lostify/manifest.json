@@ -16,12 +16,17 @@
     "twitter": "LostifyNet",
     "instagram": "lostifynet",
     "tiktok": "lostifynet",
+    "youtube": "https://www.youtube.com/channel/UCCUWTQ3p4mu8v5x-FVfEd3A",
     "discord": "https://lostify.net/discord/",
     "teamspeak": "lostify.net"
   },
   "gamemodes": {
     "citybuild": {
       "name": "CityBuild",
+      "color": "#0095B0"
+    },
+    "mcdurchspielen": {
+      "name": "MCDurchspielen",
       "color": "#0095B0"
     },
     "minigames": {
