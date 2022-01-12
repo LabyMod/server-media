@@ -1,38 +1,45 @@
 {
     "server_name": "firecraft",
-    "nice_name": "FireCraft",
+    "nice_name": "Firecraft",
     "direct_ip": "firecraft.dk",
     "supported_languages": [
         "da"
     ],
     "social": {
         "web": "https://www.firecraft.dk",
+        "web_shop": "https://www.firecraft.dk/butik",
         "discord": "https://discord.com/invite/dFND5cXCe9"
     },
     "gamemodes": [
         {
-            "name": "FirePVP",
-            "color": "#FFFF55"
+            "name": "FIREPVP",
+            "color": "#FFAA00"
         },
         {
-            "name": "Skyblock",
-            "color": "#55FF55"
+            "name": "SKYBLOCK",
+            "color": "#FFAA00"
         },
         {
-            "name": "FirePrison",
-            "color": "#FF5555"
+            "name": "FIREPRISON",
+            "color": "#FFAA00"
         },
         {
-            "name": "Survival",
-            "color": "#FF55FF"
+            "name": "SURVIVAL",
+            "color": "#FFAA00"
         },
         {
-            "name": "OpPrison",
-            "color": "#55FFFF"
+            "name": "OPPRISON",
+            "color": "#FFAA00"
         },
         {
-            "name": "Event",
-            "color": "#5555FF"
+            "name": "EVENT",
+            "color": "#FFAA00"
         }
-    ]
+    ],
+    "brand": {
+        "primary": "#FFAA00",
+        "background": "#FFAA00",
+        "text": "#FFFFFF"
+    },
+    "yt_trailer": "vLJ-8zxH4yo"
 }
