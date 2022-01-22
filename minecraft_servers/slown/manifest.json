@@ -6,8 +6,8 @@
     "%.slown.eu"
   ],
   "supported_languages": [
-     "de",
-     "en"
+    "de",
+    "en"
   ],
   "social": {
     "web": "https://slown.eu/",
@@ -21,7 +21,7 @@
   },
   "gamemodes": {
     "freebuild": {
-      "name": "Freebuild", 
+      "name": "Freebuild",
       "color": "#FFAA00"
     },
     "citybuild": {
@@ -30,17 +30,17 @@
     }
   },
   "discord": {
-    "server_id": 802892653653655562,
+    "server_id": "802892653653655562"
   },
   "brand": {
-     "primary": "#55FFFF",
-     "background": "#0A56A5",
-     "text": "#FFFFFF"
-  }, 
-  "location": {
-     "city": "Frankfurt am Main",
-     "country": "Germany",
-     "country_code": "DE"
+    "primary": "#55FFFF",
+    "background": "#0A56A5",
+    "text": "#FFFFFF"
   },
-  "yt_trailer": "8XhiOocy0jg",
+  "location": {
+    "city": "Frankfurt am Main",
+    "country": "Germany",
+    "country_code": "DE"
+  },
+  "yt_trailer": "8XhiOocy0jg"
 }
