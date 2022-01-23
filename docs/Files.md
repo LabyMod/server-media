@@ -24,7 +24,7 @@ A folder can contain the following files (*required):
 
 ### Gamemodes
 A folder can also contain a `gamemodes`-folder in it, that contains gamemode icons for LABY.net.<br>
-####File path:
+#### File path
 - `/minecraft_servers/{server_name}/gamemodes/{gamemode_key}/icon.png` (512 x 512)
 
 ## Image specification
