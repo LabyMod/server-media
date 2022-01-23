@@ -1,0 +1,46 @@
+{
+  "server_name": "slown",
+  "nice_name": "Slown",
+  "direct_ip": "slown.eu",
+  "server_wildcards": [
+    "%.slown.eu"
+  ],
+  "supported_languages": [
+    "de",
+    "en"
+  ],
+  "social": {
+    "web": "https://slown.eu",
+    "web_shop": "https://slown.tebex.io",
+    "web_support": "https://slown.eu/forum/index.php?route=/forum/view/8-allgemeiner-support",
+    "twitter": "SlownEu",
+    "tiktok": "slowneu",
+    "discord": "https://discord.com/invite/QKncfGKFPf",
+    "youtube": "https://www.youtube.com/channel/UCx-reISgBwzM6rgATHz97vg",
+    "teamspeak": "slown.eu"
+  },
+  "gamemodes": {
+    "freebuild": {
+      "name": "Freebuild",
+      "color": "#FFAA00"
+    },
+    "citybuild": {
+      "name": "Citybuild",
+      "color": "#FFAA00"
+    }
+  },
+  "discord": {
+    "server_id": "802892653653655562"
+  },
+  "brand": {
+    "primary": "#55FFFF",
+    "background": "#0A56A5",
+    "text": "#FFFFFF"
+  },
+  "location": {
+    "city": "Frankfurt am Main",
+    "country": "Germany",
+    "country_code": "DE"
+  },
+  "yt_trailer": "8XhiOocy0jg"
+}
