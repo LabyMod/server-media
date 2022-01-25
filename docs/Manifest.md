@@ -68,14 +68,14 @@ like https://labymod.net/dc are only supported for partner servers.<br>
      "de"
   ],
   "social": {
-    "web": "https://labymod.net/",
+    "web": "https://labymod.net",
     "web_shop": "https://labymod.net/shop",
     "web_support": "https://labymod.net/support",
     "twitter": "LabyMod",
     "tiktok": "LabyMod",
     "facebook": "LabyMod",
     "instagram": "LabyMod",
-    "discord": "https://discord.com/invite/labymod",
+    "discord": "https://discord.gg/labymod",
     "youtube": "https://www.youtube.com/channel/UCSamgE1KYvC7qZn56T0J2yg",
     "teamspeak": "ts.labymod.net"
   },
