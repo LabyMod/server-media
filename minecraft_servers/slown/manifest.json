@@ -10,14 +10,14 @@
     "en"
   ],
   "social": {
-    "web": "https://slown.eu",
+    "web": "https://www.slown.eu",
     "web_shop": "https://slown.tebex.io",
-    "web_support": "https://slown.eu/forum/index.php?route=/forum/view/8-allgemeiner-support",
+    "web_support": "https://www.slown.eu/forum/index.php?route=/forum/view/8-allgemeiner-support",
     "twitter": "SlownEu",
     "tiktok": "slowneu",
     "discord": "https://discord.com/invite/QKncfGKFPf",
     "youtube": "https://www.youtube.com/channel/UCx-reISgBwzM6rgATHz97vg",
-    "teamspeak": "slown.eu"
+    "teamspeak": "ts.slown.eu"
   },
   "gamemodes": {
     "freebuild": {
