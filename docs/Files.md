@@ -11,7 +11,7 @@ characters (no URL/domain!).
 
 To be accepted a server should be already released and on more than ~20 concurrent players on a daily basis.
 
-A folder can contain seven files (*required):
+A folder can contain the following files (*required):
 
 - `icon.png`*: An icon, mostly the favicon or the Minecraft server icon. (256 x 256)
 - `logo.png`: The logo of the server. Mostly a more detailed image. (128-256 x 256-512)
@@ -21,6 +21,11 @@ A folder can contain seven files (*required):
 - `logo@2x.png`: hDPI version of `logo.png` (256-512 x 512-1024)
 - `background@2x.png`: hDPI version of `background.png` (1920 x 1080)
 - `manifest.json`*: Information for minecraft server. See [example manifest.json](/docs/Manifest.md#example-manifestjson-file)
+
+### Gamemodes
+A folder can also contain a `gamemodes`-folder in it, that contains gamemode icons for LABY.net.<br>
+#### File path
+- `/minecraft_servers/{server_name}/gamemodes/{gamemode_key}/icon.png` (512 x 512)
 
 ## Image specification
 
