@@ -1,7 +1,7 @@
 {
   "server_name": "crowtycraft",
   "nice_name": "CrowtyCraft Network",
-  "direct_ip": "play.crowytycraft.es",
+  "direct_ip": "play.crowtycraft.es",
   "server_wildcards": [
     "%.crowtycraft.es"
   ],
