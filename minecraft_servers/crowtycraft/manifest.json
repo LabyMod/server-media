@@ -40,8 +40,8 @@
     "web_support": "https://crowtycraft.es/foro",
     "twitter": "crowtycraft",
     "tiktok": "crowtycraft",
-    "youtube": "https://crowtycraft.es/youtube",
-    "discord": "https://crowtycraft.es/discord",
+    "youtube": "https://www.youtube.com/channel/UCh2nLY8c1c3sQcdYhhjF1vw",
+    "discord": "https://discord.gg/ADv3WnYTup",
     "instagram": "crowtycraft_network"
   },
   "discord": {
@@ -55,6 +55,5 @@
     "city": "Barcelona",
     "country": "Spain",
     "country_code": "ES"
-  },
-  "user_stats": "https://stats.crowtycraft.es/profile/{userName}"
+  }
 }
