@@ -11,27 +11,27 @@
   "gamemodes": {
     "survival": {
       "name": "Survival 1.16",
-      "color": "#4f24b5"
+      "color": "#e19536"
     },
     "skywars": {
       "name": "SkyWars",
-      "color": "#4f24b5"
+      "color": "#e19536"
     },
     "skypvp": {
       "name": "SkyPVP",
-      "color": "#4f24b5"
+      "color": "#e19536"
     },
     "dicegames": {
       "name": "CrowtyDICE",
-      "color": "#4f24b5"
+      "color": "#e19536"
     },
     "skyblock": {
       "name": "SkyBlock 1.16",
-      "color": "#4f24b5"
+      "color": "#e19536"
     },
     "buildbattle": {
       "name": "BuildBattle",
-      "color": "#4f24b5"
+      "color": "#e19536"
     }
   },
   "social": {
@@ -49,7 +49,7 @@
     "rename_to_minecraft_name": false
   },
   "brand": {
-    "background": "#4f24b5"
+    "background": "#e19536"
   },
   "location": {
     "city": "Barcelona",
