@@ -1,0 +1,36 @@
+{
+  "server_name": "blotcraft",
+  "nice_name": "Blotcraft",
+  "direct_ip": "blotcraft.com",
+  "server_wildcards": [
+    "blotcraft.%"
+  ],
+  "supported_languages": [
+     "en",
+     "es"
+  ],
+  "social": {
+    "web": "https://web.blotcraft.com",
+    "web_shop": "https://blotcraft.shop",
+    "twitter": "BlotCraft",
+    "tiktok": "BløtCraft",
+    "facebook": "BlotCraft",
+    "instagram": "blotcraft",
+    "discord": "https://discord.com/invite/y6uWxEKXT7",
+    "youtube": "https://www.youtube.com/channel/UCscLgnSO8F178W8zza-uhRw"
+  },
+  "discord": {
+    "server_id": 759963966238883920,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#A50F41",
+     "background": "#0A56A5",
+     "text": "#FFFFFF"
+  }, 
+  "location": {
+     "city": "Miami",
+     "country": "The United States of America",
+     "country_code": "US"
+  }
+}

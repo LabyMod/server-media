@@ -24,12 +24,32 @@
     "knockdash": {
       "name": "KnockDash",
       "command": "/gamejoin knockdash",
-      "color": "#FFA500"
+      "color": "#FF5555"
+    },
+    "ttt": {
+      "name": "TTT",
+      "command": "/gamejoin ttt",
+      "color": "#AA0000"
+    },
+    "ghosthouse": {
+      "name": "GhostHouse",
+      "command": "/gamejoin ghosthouse",
+      "color": "#FFFFFF"
+    },
+    "challenges": {
+      "name": "Challenges",
+      "command": "/gamejoin challenges",
+      "color": "#00AA00"
+    },
+    "prebuild": {
+      "name": "PreBuild",
+      "command": "/gamejoin prebuild",
+      "color": "#00AA00"
     }
   },
   "discord": {
     "server_id": 423176687753363457,
-    "rename_to_minecraft_name": true
+    "rename_to_minecraft_name": false
   },
   "brand": {
      "primary": "#008FE8",
@@ -40,5 +60,6 @@
      "city": "Frankfurt",
      "country": "Germany",
      "country_code": "DE"
-   }
+   },
+  "yt_trailer": "X4Ukfk8nUHk"
 }

@@ -5,14 +5,19 @@
   "server_wildcards": [
     "%.timolia.de"
   ],
+  "supported_languages": [
+    "de",
+    "en"
+  ],
   "social": {
-    "web": "https://timolia.de/",
-    "web_shop": "https://shop.timolia.de/",
-    "web_support": "https://forum.timolia.de/",
+    "web": "https://timolia.de",
+    "web_shop": "https://shop.timolia.de",
+    "web_support": "https://forum.timolia.de",
     "twitter": "TimoliaTeam",
     "facebook": "timoliamc",
-    "discord": "https://discord.com/invite/Q55FujN",
+    "discord": "https://discord.gg/Q55FujN",
     "teamspeak": "ts.timolia.de",
+    "tiktok": "timolianetwork",
     "youtube": "https://www.youtube.com/Timolia"
   },
   "gamemodes": {
@@ -22,7 +27,7 @@
       "url": "https://www.timolia.de/games#jumpworld",
       "color": "#0095B0"
     },
-    "1vs1": {
+    "pvp": {
       "name": "1vs1",
       "command": "/quickjoin 1vs1",
       "url": "https://www.timolia.de/games#pvp",
@@ -36,12 +41,10 @@
     },
      "uhc": {
       "name": "UHC",
-      "color": "#0095B0"
-    },
-     "suspicious": {
-      "name": "Suspicious",
-      "color": "#0095B0"
-    },
+      "color": "#0095B0",
+      "url": "https://www.timolia.de/games#uhc",
+      "command": "/joinuhc <name> [password]"
+     },
      "arcade": {
       "name": "Arcade",
       "command": "/quickjoin arcade",
@@ -60,39 +63,10 @@
       "url": "https://www.timolia.de/games#4rena",
       "color": "#0095B0"
     },
-     "Splun": {
+     "splun": {
       "name": "Splun",
       "command": "/quickjoin splun",
       "url": "https://www.timolia.de/games#splun",
-      "color": "#0095B0"
-    },
-     "intime": {
-      "name": "InTime",
-      "command": "/quickjoin intime",
-      "url": "https://www.timolia.de/games#intime",
-      "color": "#0095B0"
-    },
-    "tspiele": {
-      "name": "T-Spiele",
-      "url": "https://www.timolia.de/games#tspiele",
-      "color": "#0095B0"
-    },
-     "brainbow": {
-      "name": "BrainBow",
-      "command": "/quickjoin brainbow",
-      "url": "https://www.timolia.de/games#brainbow",
-      "color": "#0095B0"
-    },
-     "dna": {
-      "name": "DNA",
-      "command": "/quickjoin dna",
-      "url": "https://www.timolia.de/games#dna",
-      "color": "#0095B0"
-    },
-     "mineception": {
-      "name": "Mineception",
-      "command": "/quickjoin mineception",
-      "url": "https://www.timolia.de/games#mineception",
       "color": "#0095B0"
     }
   },

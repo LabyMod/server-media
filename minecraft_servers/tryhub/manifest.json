@@ -1,0 +1,32 @@
+{
+  "server_name": "tryhub",
+  "nice_name": "TryHub",
+  "direct_ip": "tryhub.de",
+  "server_wildcards": [
+    "%.tryhub.de"
+  ],
+  "supported_languages": [
+     "de"
+  ],
+  "social": {
+    "web": "https://tryhub.de",
+    "web_support": "https://tryhub.de/message-us",
+    "twitter": "TryHubDE",
+    "discord": "https://discord.gg/PFpuaMEK2E",
+    "teamspeak": "tryhub.de"
+  },
+  "discord": {
+    "server_id": 806169547408277564,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#008FE8",
+     "background": "#0A56A5",
+     "text": "#FFFFFF"
+  }, 
+  "location": {
+     "city": "Frankfurt",
+     "country": "Germany",
+     "country_code": "DE"
+   }
+}
