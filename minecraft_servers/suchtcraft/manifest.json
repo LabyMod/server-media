@@ -3,9 +3,9 @@
   "nice_name": "SuchtCraft",
   "direct_ip": "SuchtCraft.net",
   "social": {
-    "web": "https://suchtcraft.net/",
-    "web_support": "https://suchtcraft.net/forum/",
-    "discord": "https://suchtcraft.net/discord",
+    "web": "https://suchtcraft.net",
+    "web_support": "https://suchtcraft.net/forum",
+    "discord": "https://discord.com/invite/TBc36CpGSU",
     "twitter": "SuchtCraftNET",
     "instagram": "suchtcraftnet"
   },
@@ -14,14 +14,14 @@
       "name": "Stadt",
       "color": "#5454FC"
     },
-	"challenges": {
+    "challenges": {
       "name": "Challenges",
       "color": "#5454FC"
     }
   },
   "discord": {
     "server_id": 538780470192766986,
-    "rename_to_minecraft_name": true
+    "rename_to_minecraft_name": false
   },
   "brand": {
     "primary": "#2D7BFC",
