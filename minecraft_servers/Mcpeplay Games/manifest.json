@@ -1,0 +1,14 @@
+{
+  "server_name": "mcpeplay",
+  "nice_name": "Mcpeplay Games",
+  "direct_ip": "play.mcpeplay.ga",
+  "social": {
+    "web": "https://hypixel.net/",
+    "web_shop": "https://store.hypixel.net/",
+    "discord": "https://discord.com/invite/hypixel",
+  },
+  "discord": {
+    "server_id": 888713717720698912,
+    "rename_to_minecraft_name": true
+  },
+}
