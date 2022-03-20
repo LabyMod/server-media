@@ -22,6 +22,10 @@
   },
   "gamemodes": {
     "citybuild": {
+      "name": "Freebuild",
+      "color": "#FFAA00"
+    },
+    "citybuild": {
       "name": "Citybuild",
       "color": "#FFAA00"
     }
