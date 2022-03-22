@@ -1,7 +1,7 @@
 {
   "server_name": "porgverse",
   "nice_name": "Porgverse",
-  "direct_ip": "porgverse.nl",
+  "direct_ip": "mc.porgverse.nl",
   "server_wildcards": [
     "%.porgverse.nl"
   ],
