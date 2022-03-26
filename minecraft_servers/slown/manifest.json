@@ -24,6 +24,10 @@
     "citybuild": {
       "name": "Citybuild",
       "color": "#FFAA00"
+    },
+    "freebuild": {
+      "name": "Freebuild",
+      "color": "#FFAA00"
     }
   },
   "discord": {
