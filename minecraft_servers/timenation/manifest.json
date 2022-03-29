@@ -1,0 +1,39 @@
+{
+  "server_name": "TimeNation",
+  "nice_name": "TimeNation.net",
+  "direct_ip": "timenation.net",
+  "supported_languages": [
+    "en",
+    "de"
+  ],
+  "social": {
+    "web": "https://timenation.net/",
+    "discord": "https://discord.gg/8zW2Czjkqj",
+    "youtube": "https://www.youtube.com/channel/UC5IC_t6OsrULJfVVxQcV0Tg"
+  },
+  "discord": {
+    "server_id": "772870634639196181"
+  },
+  "gamemodes": {
+    "skywars": {
+      "name": "SkyWars",
+      "color": "#FF5555"
+    },
+    "stagebattle": {
+      "name": "StageBattle",
+      "color": "#55FF55"
+    },
+    "timewars": {
+      "name": "TimeWars",
+      "color": "#00AA00"
+    }
+  },
+  "brand": {
+    "primary": "#fc8403"
+  },
+  "location": {
+    "city": "Frankfurt am Main",
+    "country": "Hessen",
+    "country_code": "HE"
+  }
+}
