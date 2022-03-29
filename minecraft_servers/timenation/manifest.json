@@ -1,6 +1,6 @@
 {
-  "server_name": "TimeNation",
-  "nice_name": "TimeNation.net",
+  "server_name": "timenation",
+  "nice_name": "TimeNation",
   "direct_ip": "timenation.net",
   "supported_languages": [
     "en",
