@@ -1,6 +1,6 @@
 {
   "server_name": "sortygames",
-  "nice_name": "Sorty - Games Netzwerk",
+  "nice_name": "SORTYGAMES NETZWERK",
   "direct_ip": "sortygames.net",
   "supported_languages": [
      "en",
@@ -20,6 +20,10 @@
     "citybuild": {
       "name": "CityBuild", 
       "color": "#ff2600"
+    },
+    "blockparty": {
+      "name": "BlockParty", 
+      "color": "#c603fc"
     }
   },
   "brand": {
