@@ -1,0 +1,31 @@
+{
+    "server_name": "goldzonecz",
+    "nice_name": "Gold-Zone.cz",
+    "direct_ip": "mc.gold-zone.cz",
+    "server_wildcards": [
+        "%.gold-zone.cz"
+    ],
+    "supported_languages": [
+        "cz",
+        "sk"
+    ],
+    "social": {
+        "web": "https://www.gold-zone.cz",
+        "web_shop": "https://www.gold-zone.cz/vip",
+        "web_support": "https://www.gold-zone.cz/profil/tickets",
+        "tiktok": "goldzonecz",
+        "instagram": "goldzonecz",
+        "discord": "https://discord.gg/sQdSSnVakh"
+    },
+    "brand": {
+        "primary": "#FFD700",
+        "background": "#FFD700",
+        "text": "#FFFFFF"
+    },
+    "location": {
+        "city": "Bratislava",
+        "country": "Slovakia",
+        "country_code": "SK"
+    },
+    "yt_trailer": "u06cWhmekwo"
+}
