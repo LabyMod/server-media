@@ -2,6 +2,10 @@
   "server_name": "minevalley",
   "nice_name": "MineValleyEU",
   "direct_ip": "minevalley.eu",
+  "server_wildcards": [
+    "%.minevalley.eu",
+    "%.minevalley.de"
+  ],
   "supported_languages": "de",
   "social": {
     "web": "https://minevalley.eu/",
