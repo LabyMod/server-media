@@ -1,0 +1,29 @@
+{
+  "server_name": "surnex",
+  "nice_name": "SurnexNET",
+  "direct_ip": "surnex.net",
+  "social": {
+    "web": "https://surnex.net",
+    "twitter": "SurnexNET",
+    "discord": "https://dc.Surnex.net",
+    "tiktok": "surnexn.net"
+  },
+  "discord": {
+    "server_id": "696737813630156840",
+    "rename_to_minecraft_name": false
+  },
+  "location": {
+    "city": "Frankfurt am Main",
+    "country": "Germany",
+    "country_code": "DE"
+  },
+  "brand": {
+    "primary": "#55FF55"
+  },
+  "gamemodes": {
+    "citybuild": {
+      "name": "CityBuild-1.16.5",
+      "color": "#55FF55"
+    }
+  }
+}
