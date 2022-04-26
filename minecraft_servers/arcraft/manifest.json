@@ -1,0 +1,20 @@
+{
+   "server_name":"arcraft",
+   "nice_name":"ArCraft Network",
+   "direct_ip":"mc.arcraft.me",
+   "supported_languages":[
+      "ar",
+      "en"
+   ],
+   "social":{
+      "web":"https://arcraft.me",
+      "web_shop":"https://arcraftmc.tebex.io",
+      "tiktok":"mc.arcraft.me",
+      "discord":"https://discord.gg/arcraft"
+   },
+   "brand":{
+      "primary":"#000000",
+      "background":"#5EABDA",
+      "text":"#FFFFFF"
+   }
+}
