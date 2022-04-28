@@ -1,0 +1,17 @@
+{
+  "server_name": "varionity",
+  "nice_name": "Varionity",
+  "direct_ip": "play.varionity.cz",
+  "server_wildcards": [
+    "%.varionity.cz"
+  ],
+  "social": {
+    "web": "https://varionity.cz",
+    "discord": "https://discord.gg/tjvH5K7Kkt"
+  },
+  "brand": {
+    "primary": "#fca800",
+    "background": "#353535",
+    "text": "#FFFFFF"
+  }
+}
