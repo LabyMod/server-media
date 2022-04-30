@@ -3,7 +3,6 @@
   "nice_name": "AuraGames",
   "direct_ip": "auragames.de",
   "social": {
-    "web": "https://auragames.de",
     "twitter": "auragamesde",
     "discord": "https://discord.com/invite/zPve6yD",
     "teamspeak": "auragames.de"
@@ -48,7 +47,7 @@
   },
   "discord": {
     "server_id": 684516687164604421,
-    "rename_to_minecraft_name": true
+    "rename_to_minecraft_name": false
   },
   "brand": {
     "primary": "#497cb1",
