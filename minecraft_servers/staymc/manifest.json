@@ -23,6 +23,10 @@
     "primary": "#2ca7f3"
   },
   "gamemodes": {
+    "survivalgames": {
+      "name": "1.16 SurvivalGames",
+      "color": "#FFFF55"
+    },
     "spleef": {
       "name": "Spleef",
       "color": "#FFFF55"
