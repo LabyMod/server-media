@@ -28,8 +28,8 @@
     },
     "brand": {
        "primary": "#2EE60E",
-       "background": "#FFE819",
-       "text": "#FF8800"
+       "background": "#E19536",
+       "text": "#FFE819"
     }, 
     "location": {
        "city": "Hesse",
