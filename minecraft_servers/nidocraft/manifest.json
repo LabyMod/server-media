@@ -27,9 +27,9 @@
       "rename_to_minecraft_name": false
     },
     "brand": {
-       "primary": "#2EE60E",
-       "background": "#FFE819",
-       "text": "#FF8800"
+       "primary": "#141515",
+       "background": "#FF8800",
+       "text": "#FFE819"
     }, 
     "location": {
        "city": "Hesse",
