@@ -5,7 +5,7 @@
   "server_wildcards": [
     "%.spieleoase.net",
     "%.spieleoase.eu",
-    "%.spieleoase.com",
+    "%.spieleoase.com"
   ],
   "social": {
     "web": "https://spieleoase.net/",
