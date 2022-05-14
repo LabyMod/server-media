@@ -15,13 +15,13 @@
   "gamemodes": {
     "mlgrush": {
       "name": "MLGRush",
-      "color": "",
+      "color": "#6a31c4",
       "url": "https://games.verany.de/mlgrush",
       "command": "/qj mlgfallback"
     },
     "skywarsffa": {
       "name": "SkyWarsFFA",
-      "color": "",
+      "color": "#187504",
       "url": "https://games.verany.de/index.php?games=swffa",
       "command": "/qj swffa"
     }
@@ -31,9 +31,9 @@
     "rename_to_minecraft_name": false
   },
   "brand": {
-    "primary": "",
-    "background": "",
-    "text": ""
+    "primary": "#0ae4f0",
+    "background": "#faa302",
+    "text": "#046ebf"
   },
   "location": {
     "city": "Wien",
