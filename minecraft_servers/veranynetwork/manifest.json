@@ -1,0 +1,43 @@
+{
+ "server_name": "Verany Network",
+  "nice_name": "Verany.net",
+  "direct_ip": "verany.net",
+  "supported_languages": [
+    "de",
+    "en"
+ ],
+  "social": {
+    "web": "https://www.verany.de",
+    "discord": "",
+    "twitter": "https://twitter.com/@VeranyNET",
+    "tiktok": "eyNoah"
+  },
+  "gamemodes": {
+    "mlgrush": {
+      "name": "MLGRush",
+      "color": "",
+      "url": "https://games.verany.de/mlgrush",
+      "command": "/qj mlgfallback"
+    },
+    "skywarsffa": {
+      "name": "SkyWarsFFA",
+      "color": "",
+      "url": "https://games.verany.de/index.php?games=swffa",
+      "command": "/qj swffa"
+    }
+  },
+  "discord": {
+    "server_id": 847985124221124678,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "",
+    "background": "",
+    "text": ""
+  },
+  "location": {
+    "city": "Wien",
+    "country": "Austria",
+    "country_code": "AT"
+  }
+}
