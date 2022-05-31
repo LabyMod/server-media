@@ -1,0 +1,35 @@
+{
+  "server_name": "atomkrieger",
+  "nice_name": "AtomkriegerEU",
+  "direct_ip": "atomkrieger.eu",
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "web": "https://atomkrieger.eu",
+    "twitter": "atomkriegereu",
+    "instagram": "atomkriegereu",
+    "discord": "https://discord.gg/yad6TPS"
+  },
+  "gamemodes": {
+    "showcase": {
+      "name": "ShowCase",
+      "color": "#5555FF"
+    },
+    "buildserver": {
+      "name": "Community Bauserver",
+      "color": "#FF55FF",
+      "url": "https://atmkrgr.link/bsf",
+      "command": "/build"
+    },
+    "discord": {
+      "server_id": "656950463949701192",
+      "rename_to_minecraft_name": "false"
+    },
+    "brand": {
+      "primary": "#90B8F8",
+      "background": "#5F85DB",
+      "text": "#FFFFFF"
+    }
+  }
+}
