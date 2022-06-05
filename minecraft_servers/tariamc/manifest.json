@@ -24,7 +24,7 @@
         }
     },
     "social": {
-        "web": "https://tariamc.net/",
+        "web": "https://tariamc.net",
         "twitter": "TariaMCnet",
         "discord": "https://discord.com/invite/uAc9C9c2JD",
         "teamspeak": "tariamc.net"
@@ -36,6 +36,6 @@
     },
     "discord": {
         "server_id": 952950096843120690,
-        "rename_to_minecraft_name": true
+        "rename_to_minecraft_name": false
     }
 }
