@@ -77,5 +77,5 @@
     "country": "Germany",
     "country_code": "DE"
   },
-  "user_stats": "https://laby.net/@{userName}"
+  "user_stats": "https://laudynetwork.com/stats/{userName}"
 }
