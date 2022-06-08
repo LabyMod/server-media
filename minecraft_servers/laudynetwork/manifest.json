@@ -76,6 +76,5 @@
     "city": "Falkenstein",
     "country": "Germany",
     "country_code": "DE"
-  },
-  "user_stats": "https://laudynetwork.com/stats/{userName}"
+  }
 }
