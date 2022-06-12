@@ -1,6 +1,6 @@
 {
   "server_name": "veranynetwork",
-  "nice_name": "Verany Network",
+  "nice_name": "VeranyNET",
   "direct_ip": "dedi.verany.net",
   "server_wildcards": [
     "%.verany.net"
