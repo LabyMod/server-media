@@ -1,13 +1,17 @@
 {
   "server_name": "Verany",
   "nice_name": "Verany Network",
-  "direct_ip": "37.114.34.120",
+  "direct_ip": "verany.net",
   "server_wildcards": [
-    "%.verany.net",
-    
+    "%.verany.net"
+  ],
+  "supported_languages": [
+    "de",
+    "en"
   ],
   "social": {
     "web": "https://eynoah.de/imprint",
+    "web_shop": "https://veranynet.tebex.io",
     "discord": "https://discord.gg/NCKpJkzXyn",
     "twitter": "VeranyNET"
   },
@@ -46,5 +50,6 @@
     "background": "#134095",
     "text": "#ffffff"
   },
-  "yt_trailer": "4PfP1hH5Kio"
+  "yt_trailer": "4PfP1hH5Kio",
+  "user_stats": "https://laby.net/@{userName}"
 }
