@@ -1,9 +1,10 @@
 {
   "server_name": "Verany",
   "nice_name": "Verany Network",
-  "direct_ip": "verany.net",
+  "direct_ip": "37.114.34.120",
   "server_wildcards": [
-    "%.verany.net"
+    "%.verany.net",
+    
   ],
   "social": {
     "web": "https://eynoah.de/imprint",
