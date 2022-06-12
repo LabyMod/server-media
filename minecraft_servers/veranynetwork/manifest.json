@@ -1,29 +1,39 @@
 {
- "server_name": "Verany Network",
-  "nice_name": "Verany.net",
+  "server_name": "Verany",
+  "nice_name": "Verany Network",
   "direct_ip": "verany.net",
-  "supported_languages": [
-    "de",
-    "en"
- ],
+  "server_wildcards": [
+    "%.verany.net"
+  ],
   "social": {
-    "web": "https://www.verany.de",
-    "discord": "",
-    "twitter": "https://twitter.com/@VeranyNET",
-    "tiktok": "eyNoah"
+    "web": "https://eynoah.de/imprint",
+    "discord": "https://discord.gg/NCKpJkzXyn",
+    "twitter": "VeranyNET"
   },
   "gamemodes": {
-    "mlgrush": {
-      "name": "MLGRush",
-      "color": "#6a31c4",
-      "url": "https://games.verany.de/mlgrush",
-      "command": "/qj mlgfallback"
+    "buildffa": {
+      "name": "BuildFFA",
+      "color": "#3ea359"
     },
     "skywarsffa": {
       "name": "SkyWarsFFA",
-      "color": "#187504",
-      "url": "https://games.verany.de/index.php?games=swffa",
-      "command": "/qj swffa"
+      "color": "#3ea359"
+    },
+    "deathtime": {
+      "name": "DeathTime",
+      "color": "#3ea359"
+    },
+    "waterfight": {
+      "name": "Waterfight",
+      "color": "#3ea359"
+    },
+    "skywars": {
+      "name": "SkyWars",
+      "color": "#3ea359"
+    },
+    "cb": {
+      "name": "CityBuild",
+      "color": "#3ea359"
     }
   },
   "discord": {
@@ -31,13 +41,9 @@
     "rename_to_minecraft_name": false
   },
   "brand": {
-    "primary": "#0ae4f0",
-    "background": "#faa302",
-    "text": "#046ebf"
+    "primary": "#3ea359",
+    "background": "#134095",
+    "text": "#ffffff"
   },
-  "location": {
-    "city": "Wien",
-    "country": "Austria",
-    "country_code": "AT"
-  }
+  "yt_trailer": "4PfP1hH5Kio"
 }
