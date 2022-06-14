@@ -20,6 +20,11 @@ like [LABY.net](https://laby.net).
 
 <img src="https://user-images.githubusercontent.com/45363287/125622136-83dbeafd-6318-40f8-b10a-fc334c2b63d4.png">
 
+## Publish information for contributors
+
+It is checked for repository updates hourly, so server data is updated every hour. Due to caching, it may take
+some time for updates to be applied on labymod.net and LABY.net. In case of problems, please open an issue.
+
 ## Trademark Legal Notices
 
 All product names, trademarks and registered trademarks in the images in this repository, are property of their
