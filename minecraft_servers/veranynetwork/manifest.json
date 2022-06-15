@@ -1,7 +1,7 @@
 {
   "server_name": "veranynetwork",
   "nice_name": "VeranyNET",
-  "direct_ip": "dedi.verany.net",
+  "direct_ip": "mc.verany.net",
   "server_wildcards": [
     "%.verany.net"
   ],
@@ -10,7 +10,6 @@
     "en"
   ],
   "social": {
-    "web": "https://eynoah.de/imprint",
     "web_shop": "https://veranynet.tebex.io",
     "discord": "https://discord.gg/NCKpJkzXyn",
     "twitter": "VeranyNET"
