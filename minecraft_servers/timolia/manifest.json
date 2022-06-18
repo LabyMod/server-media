@@ -22,48 +22,48 @@
   },
   "gamemodes": {
     "jumpworld": {
-      "name": "JumpWorld",
+      "name": "JumpWorld [1.16/1.8]",
       "command": "/quickjoin jumpworld",
       "url": "https://www.timolia.de/games#jumpworld",
       "color": "#0095B0"
     },
     "pvp": {
-      "name": "1vs1",
+      "name": "1vs1 [1.16/1.8]",
       "command": "/quickjoin 1vs1",
       "url": "https://www.timolia.de/games#pvp",
       "color": "#0095B0"
     },
-     "castles": {
+    "castles": {
       "name": "Castles",
       "command": "/quickjoin castles",
       "url": "https://www.timolia.de/games#castles",
       "color": "#0095B0"
     },
-     "uhc": {
+    "uhc": {
       "name": "UHC",
       "color": "#0095B0",
       "url": "https://www.timolia.de/games#uhc",
       "command": "/joinuhc <name> [password]"
-     },
-     "arcade": {
+    },
+    "arcade": {
       "name": "Arcade",
       "command": "/quickjoin arcade",
       "url": "https://www.timolia.de/games#arcade",
       "color": "#0095B0"
     },
-     "survivalquest": {
+    "survivalquest": {
       "name": "SurvivalQuest",
       "command": "/quickjoin survivalquest",
-       "url": "https://www.timolia.de/games#survivalquest",
+      "url": "https://www.timolia.de/games#survivalquest",
       "color": "#0095B0"
     },
-     "4rena": {
+    "4rena": {
       "name": "4rena",
       "command": "/quickjoin 4rena",
       "url": "https://www.timolia.de/games#4rena",
       "color": "#0095B0"
     },
-     "splun": {
+    "splun": {
       "name": "Splun",
       "command": "/quickjoin splun",
       "url": "https://www.timolia.de/games#splun",
@@ -80,10 +80,10 @@
     "text": "#ffffff"
   },
   "location": {
-     "city": "Frankfurt",
-     "country": "Germany",
-     "country_code": "DE"
-   },
+    "city": "Nürnberg",
+    "country": "Germany",
+    "country_code": "DE"
+  },
   "yt_trailer": "vNF-ztQGnUo",
   "user_stats": "https://www.timolia.de/stats/{userName}"
 }
