@@ -22,13 +22,13 @@
   },
   "gamemodes": {
     "jumpworld": {
-      "name": "JumpWorld [1.16/1.8]",
+      "name": "JumpWorld [1.8/1.16]",
       "command": "/quickjoin jumpworld",
       "url": "https://www.timolia.de/games#jumpworld",
       "color": "#0095B0"
     },
     "pvp": {
-      "name": "1vs1 [1.16/1.8]",
+      "name": "1vs1 [1.8/1.16]",
       "command": "/quickjoin 1vs1",
       "url": "https://www.timolia.de/games#pvp",
       "color": "#0095B0"
