@@ -5,6 +5,9 @@
   "server_wildcards": [
     "%.sulentia.net"
   ],
+  "supported_languages": [
+    "de"
+  ],
   "social": {
     "web": "https://sulentia.net",
     "web_support": "https://forum.sulentia.net",
