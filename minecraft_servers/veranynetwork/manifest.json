@@ -17,28 +17,33 @@
   "gamemodes": {
     "buildffa": {
       "name": "BuildFFA",
-      "color": "#3ea359"
+      "color": "#028df0"
     },
     "skywarsffa": {
       "name": "SkyWarsFFA",
-      "color": "#3ea359"
+      "color": "#028df0"
     },
     "deathtime": {
       "name": "DeathTime",
-      "color": "#3ea359"
+      "color": "#028df0"
     },
     "waterfight": {
       "name": "Waterfight",
-      "color": "#3ea359"
+      "color": "#028df0"
     },
     "skywars": {
       "name": "SkyWars",
-      "color": "#3ea359"
+      "color": "#028df0"
     },
     "cb": {
       "name": "CityBuild",
-      "color": "#3ea359"
-    }
+      "color": "#028df0"
+    },
+    {
+     "bw":
+      "name": "BedWars",
+      "color": "#f00a02"
+  }
   },
   "discord": {
     "server_id": 847985124221124678,
