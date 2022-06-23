@@ -1,0 +1,57 @@
+{
+  "server_name": "timenation",
+  "nice_name": "TimeNation",
+  "direct_ip": "timenation.net",
+  "server_wildcards": [
+    "%.timenation.net"
+  ],
+  "supported_languages": [
+    "de",
+    "en"
+  ],
+  "social": {
+    "web": "https://www.timenation.net",
+    "web_shop": "https://store.timenation.net",
+    "web_support": "https://timenation.net/index.php?route=/forum/topic/8-wo-kannst-du-%C3%BCberall-support-erhalten/",
+    "twitter": "TimeNationNET",
+    "tiktok": "timenationnetwork",
+    "instagram": "timenationnetzwerk",
+    "discord": "https://discord.com/invite/8zW2Czjkqj",
+    "youtube": "https://www.youtube.com/channel/UC5IC_t6OsrULJfVVxQcV0Tg"
+  },
+  "gamemodes": {
+    "skywars": {
+      "name": "SkyWars",
+      "color": "#FF5555",
+      "url": "https://timenation.net/index.php?route=/forum/topic/10-skywars-erkl%c3%a4rung/"
+    },
+    "stagebattle": {
+      "name": "StageBattle",
+      "color": "#55FF55",
+      "url": "https://timenation.net/index.php?route=/forum/topic/11-stagebattle-erkl%c3%a4rung/"
+    },
+    "timewars": {
+      "name": "TimeWars",
+      "color": "#00AA00",
+      "url": "https://timenation.net/index.php?route=/forum/topic/9-timewars-erkl%c3%a4rung/"
+    },
+    "magicpvp": {
+      "name": "MagicPvP",
+      "color": "#AA00AA"
+    }
+  },
+  "discord": {
+    "server_id": "772870634639196181",
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#FFBF2B",
+    "background": "#0A56A5",
+    "text": "#FFFFFF"
+  },
+  "location": {
+    "city": "Frankfurt am Main",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}

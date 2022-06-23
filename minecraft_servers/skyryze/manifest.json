@@ -2,6 +2,11 @@
     "server_name": "skyryze",
     "nice_name": "SkyRyze",
     "direct_ip": "skyryze.de",
+    "location": {
+      "city": "Frankfurt am Main",
+      "country": "Germany",
+      "country_code": "de"
+    },
     "social": {
       "web": "https://skyryze.de/",
       "twitter": "SkyRyzeDE",

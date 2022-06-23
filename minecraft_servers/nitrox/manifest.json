@@ -1,0 +1,26 @@
+{
+    "server_name": "nitrox",
+    "nice_name": "NitroX",
+    "direct_ip": "play-nitrox.net",
+    "social": {
+      "tiktok": "nitroxnet",
+      "instagram": "nitroxnet",
+      "teamspeak": "ts.nitroxnetwork.eu",
+      "discord": "https://discord.gg/nitroxnet"
+    },
+    "discord": {
+      "server_id": 966020442571808848,
+      "rename_to_minecraft_name": false
+    },
+    "brand": {
+       "primary": "#ff0000",
+       "background": "#ff0000",
+       "text": "#d6d6d6"
+    },
+    "location": {
+       "city": "Frankfurt",
+       "country": "Germany",
+       "country_code": "DE"
+     }  
+  }
+  

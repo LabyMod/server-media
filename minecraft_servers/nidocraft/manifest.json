@@ -1,0 +1,40 @@
+{
+    "server_name": "nidocraft",
+    "nice_name": "Nidocraft Network",
+    "direct_ip": "play.nidocraft.net",
+    "supported_languages": [
+       "en"
+    ],
+    "social": {
+      "web_shop": "https://store.nidocraft.net/",
+      "tiktok": "nidotok",
+      "instagram": "nidocraftnetwork",
+      "discord": "https://discord.gg/WvCH6NKXBD",
+      "youtube": "https://www.youtube.com/c/NidocraftNetwork"
+    },
+    "gamemodes": {
+      "ffa": {
+        "name": "Free For All", 
+        "color": "#00FF00"
+      },
+      "bridges": {
+        "name": "Bridges",
+        "color": "#ED4C4C"
+      }
+    },
+    "discord": {
+      "server_id": 402362480753377280,
+      "rename_to_minecraft_name": false
+    },
+    "brand": {
+       "primary": "#2EE60E",
+       "background": "#E19536",
+       "text": "#FFE819"
+    }, 
+    "location": {
+       "city": "Hesse",
+       "country": "Germany",
+       "country_code": "DE"
+    },
+    "yt_trailer": "QPMqkId1Wxc"
+  }

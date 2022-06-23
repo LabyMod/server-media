@@ -1,7 +1,7 @@
 {
   "server_name": "lostify",
   "nice_name": "Lostify",
-  "direct_ip": "lostify.net",
+  "direct_ip": "play.lostify.net",
   "server_wildcards": [
     "%.lostify.net"
   ],
@@ -22,7 +22,11 @@
   },
   "gamemodes": {
     "citybuild": {
-      "name": "CityBuild",
+      "name": "CityBuild-1.8",
+      "color": "#0095B0"
+    },
+    "citybuildfuture": {
+      "name": "CityBuild-Future (1.17)",
       "color": "#0095B0"
     },
     "mcdurchspielen": {

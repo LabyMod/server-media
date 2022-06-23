@@ -27,7 +27,7 @@
 | `brand.text`   | [Text color](Usages.md#colorize-your-page) (*must fit with the background color*) | `"#FFFFFF"` |
 | `location.city`   | [Server location: City](Usages.md#server-location) | `"Berlin"` |
 | `location.country`   | [Server location: Country](Usages.md#server-location) | `"Germany"` |
-| `location.country_code`   | [Server location: Country code](Usages.md#server-location) - Format: ISO 3166-1 alpha-2 | `"de"` |
+| `location.country_code`   | [Server location: Country code](Usages.md#server-location) - Format: ISO 3166-1 alpha-2 (upper-case) | `"DE"` |
 | `yt_trailer`   | [YouTube trailer **embed ID**](Usages.md#server-trailer) | `"vNF-ztQGnUo"` |
 | `user_stats`   | [User stats url](Usages.md#links) | `"https://laby.net/@{userName}"` *or* `"https://laby.net/@{uuid}"` |
 |  `discord.server_id`   | [Discord server id](Usages.md#one-click-discord-join-partner-only) | `260471731809026048` |
@@ -68,14 +68,14 @@ like https://labymod.net/dc are only supported for partner servers.<br>
      "de"
   ],
   "social": {
-    "web": "https://labymod.net/",
+    "web": "https://labymod.net",
     "web_shop": "https://labymod.net/shop",
     "web_support": "https://labymod.net/support",
     "twitter": "LabyMod",
     "tiktok": "LabyMod",
     "facebook": "LabyMod",
     "instagram": "LabyMod",
-    "discord": "https://discord.com/invite/labymod",
+    "discord": "https://discord.gg/labymod",
     "youtube": "https://www.youtube.com/channel/UCSamgE1KYvC7qZn56T0J2yg",
     "teamspeak": "ts.labymod.net"
   },
