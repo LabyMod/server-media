@@ -1,0 +1,47 @@
+{
+  "server_name": "galaxycore",
+  "nice_name": "GalaxyCore.net",
+  "direct_ip": "galaxycore.net",
+  "server_wildcards": [
+    "%.galaxycore.net"
+  ],
+  "supported_languages": [
+    "de",
+    "en"
+  ],
+  "social": {
+    "web": "https://galaxycore.net/",
+    "web_support": "https://galaxycore.net/panel/",
+    "tiktok": "galaxycore_net",
+    "instagram": "galaxycore_net",
+    "discord": "https://discord.gg/ye9rRsDEz7",
+    "youtube": "https://www.youtube.com/channel/UCZt-336CBEEnB3v4ujFalVA",
+    "teamspeak": "galaxycore.net"
+  },
+  "discord": {
+    "server_id": "508187928942608384"
+  },
+  "brand": {
+    "primary": "#ecca62"
+  },
+  "yt_trailer": "3xxm5N1bUYY",
+  "location": {
+    "city": "Frankfurt",
+    "country": "Germany",
+    "country_code": "DE"
+  },
+  "gamemodes": {
+      "knockffa": {
+          "name": "KnockFFA",
+          "color": "#ecca62"
+      },
+      "galaxycity": {
+          "name": "GalaxyCity",
+          "color": "#ecca62"
+      },
+      "onehit": {
+          "name": "OneHit",
+          "color": "#ecca62"
+      }
+  }
+}
