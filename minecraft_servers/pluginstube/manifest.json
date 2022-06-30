@@ -13,6 +13,28 @@
     "discord": "https://discord.com/invite/k6eEvJSMZC",
     "teamspeak": "pluginstube.net"
   },
+  "gamemodes": {
+    "SkyBlock": {
+      "name": "SkyBlock",
+      "color": "#cc9352"
+    },
+    "Minefighter": {
+      "name": "Minefighter",
+      "color": "#cc9352"
+    },
+    "TNTRun": {
+      "name": "TNTRun",
+      "color": "#cc9352"
+    },
+    "Dropper": {
+      "name": "Dropper",
+      "color": "#cc9352"
+    },
+     "TTT": {
+      "name": "TTT",
+      "color": "#cc9352"
+    }
+  },
   "discord": {
     "server_id": 960218560716763176,
     "rename_to_minecraft_name": false
@@ -21,5 +43,10 @@
      "primary": "#9B672B",
      "background": "#cc9352",
      "text": "#FFFFFF"
-  }
+  },
+  "location": {
+     "city": "Frankfurt am Main",
+     "country": "Germany",
+     "country_code": "DE"
+   }
 }
