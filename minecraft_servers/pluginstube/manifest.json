@@ -21,10 +21,5 @@
      "primary": "#9B672B",
      "background": "#cc9352",
      "text": "#FFFFFF"
-  },
-  "location": {
-     "city": "Frankfurt am Main",
-     "country": "Germany",
-     "country_code": "DE"
-   }
+  }
 }
