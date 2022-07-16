@@ -1,0 +1,62 @@
+{
+  "server_name": "cidon",
+  "nice_name": "Cidon",
+  "direct_ip": "cidon.de",
+  "server_wildcards": [
+    "%.cidon.de"
+  ],
+  "supported_languages": [
+    "de",
+    "en"
+  ],
+  "social": {
+    "web": "https://cidon.de",
+    "web_shop": "https://cidon.de/store",
+    "web_support": "https://cidon.de/support",
+    "discord": "https://discord.gg/ZVt9peGZw3",
+    "tiktok": "cidon.de",
+    "instagram": "cidon.de",
+    "youtube": "https://www.youtube.com/channel/UCFs7pqWAEcdVdgKqqpFD-bA"
+  },
+  "user_stats": "https://cidon.de/user/view.php?name=@{userName}",
+  "gamemodes": {
+    "reallife": {
+      "name": "Reallife",
+      "color": "#fcba03"
+    },
+    "roleplay": {
+      "name": "Roleplay",
+      "color": "#ffe357"
+    },
+    "fractions": {
+      "name": "Fraktionen",
+      "color": "#fcba03"
+    },
+    "economy": {
+      "name": "Wirtschaft",
+      "color": "#ffe357"
+    },
+    "guns": {
+      "name": "Waffen",
+      "color": "#fcba03"
+    },
+    "cars": {
+      "name": "Fahrzeuge",
+      "color": "#ffe357"
+    }
+  },
+  "discord": {
+    "server_id": 829410502727434240,
+    "rename_to_minecraft_name": true
+  },
+  "brand": {
+    "primary": "#c49812",
+    "background": "#c49812",
+    "text": "#ffffff"
+  },
+  "location": {
+    "city": "Frankfurt am Main",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}
