@@ -1,0 +1,39 @@
+{
+  "server_name": "anturnia",
+  "nice_name": "Anturnia",
+  "direct_ip": "play.anturnia.net",
+  "server_wildcards": [
+    "%.anturnia.net"
+  ],
+  "supported_languages": [
+    "de",
+    "en"
+  ],
+  "social": {
+    "twitter": "Anturnia",
+    "discord": "https://discord.gg/gYsf49MzwH",
+    "tiktok": "anturnia",
+    "youtube": "https://www.youtube.com/channel/UCC7T5dkkUHB7MGliA1YRohQ"
+  },
+  "gamemodes": {
+    "oneblock": {
+      "name": "OneBlock [1.17 - 1.19]",
+      "command": "/oneblock",
+      "color": "#00aa00"
+    },
+    "kitpvp": {
+      "name": "KitPVP [1.8 - 1.19]",
+      "command": "/kitpvp",
+      "color": "#00aa00"
+    }
+  },
+  "discord": {
+    "server_id": 870227603615805441,
+    "rename_to_minecraft_name": false
+  },
+  "location": {
+    "city": "Nürnberg",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}
