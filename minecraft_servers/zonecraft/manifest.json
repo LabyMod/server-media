@@ -4,9 +4,13 @@
   "direct_ip": "play.zonecraft.es",
   "server_wildcards": [
     "%.zonecraft.es",
+    "%.zonecn.es",
     "%.hypixel.es",
     "%.amamarla.com",
-    "%.banananetwork.es"
+    "%.banananetwork.es",
+    "%.darktimes.es",
+    "%.bedwars.es",
+    "%.zonehosting.net"
   ],
   "social": {
     "web": "https://zonecraft.es",
