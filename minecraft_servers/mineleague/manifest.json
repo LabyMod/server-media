@@ -3,9 +3,8 @@
    "nice_name":"MineLeague.eu",
    "direct_ip":"mineleague.eu",
    "supported_languages":[
-      "de",
-      "en",
-	  "cz",
+	  "de",
+	  "en",
 	  "al"
    ],
    "social":{
