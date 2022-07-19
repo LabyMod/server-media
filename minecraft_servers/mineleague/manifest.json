@@ -1,19 +1,15 @@
 {
-   "server_name":"mineleague",
-   "nice_name":"MineLeague.eu",
-   "direct_ip":"mineleague.eu",
-   "supported_languages":[
-	  "de",
-	  "en",
-	  "al"
-   ],
-   "social":{
-      "web":"https://mineleague.eu",
-      "discord":"https://link.mineleague.eu/discord"
-   },
-   "brand":{
-      "primary":"#000000",
-      "background":"#5EABDA",
-      "text":"#FFFFFF"
-   }
-}
+  "server_name": "mineleague",
+  "nice_name": "MineLeague.eu",
+  "direct_ip": "mineleague.eu",
+  "server_wildcards": [
+    "%.mineleague.eu"
+  ],
+  "social": {
+    "web": "https://mineleague.eu/",
+    "twitter": "MineLeagueEU",
+    "discord": "https://www.discord.gg/uZdz54978w",
+  },
+  "discord": {
+    "server_id": 932447787092672553
+  }
