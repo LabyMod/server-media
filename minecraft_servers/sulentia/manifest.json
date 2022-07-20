@@ -21,10 +21,10 @@
   "discord": {
     "server_id": 841711753876078622,
     "rename_to_minecraft_name": false
-  }
+  },
   "location": {
     "city": "Frankfurt",
     "country": "Germany",
     "country_code": "DE"
-  },
+  }
 }
