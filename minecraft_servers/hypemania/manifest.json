@@ -1,0 +1,31 @@
+{
+  "server_name": "hypemania",
+  "nice_name": "Hypemania",
+  "direct_ip": "hypemania.net",
+  "server_wildcards": [
+    "%.hypemania.net"
+  ],
+  "supported_languages": [
+    "de",
+    "en"
+  ],
+  "social": {
+    "discord": "https://discord.gg/NCb7U26RMX"
+  },
+  "gamemodes": {
+    "Citybuild": {
+      "name": "Citybuild [1.12 - 1.19]",
+      "command": "/tutorial",
+      "color": "#00aa00"
+    }
+  },
+  "discord": {
+    "server_id": 985208179895967754,
+    "rename_to_minecraft_name": false
+  },
+  "location": {
+    "city": "Frankfurt",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}
