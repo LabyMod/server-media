@@ -11,7 +11,8 @@
   ],
   "social": {
     "social.web": "https://hypemania.net/"
-    "discord": "https://discord.gg/NCb7U26RMX"
+    "social.support": "https://discord.hypemania.net/"
+    "discord": "https://discord.hypemania.net/"
   },
   "gamemodes": {
     "Citybuild": {
