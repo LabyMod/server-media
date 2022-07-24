@@ -53,8 +53,12 @@ def main():
         if 'social' in data:
             social = data['social']
             for key in URL_SOCIAL_KEYS:
-                if key in social and not social[key].startswith('https://'):
+                if key not in social:
+                    continue
+                if not social[key].startswith('https://'):
                     comment += f'- Invalid url. URL has to start with **https://** (`social.{key}`)\n'
+                if social[key].endswith('/'):
+                    comment += f'- Please remove **/** at the end of url (`social.{key}`)\n'
 
             for key in USERNAME_SOCIAL_KEYS:
                 if key in social and (social[key].startswith('http') or 'www' in social[key]):

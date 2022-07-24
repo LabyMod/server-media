@@ -1,0 +1,117 @@
+{
+  "server_name": "librecraft",
+  "nice_name": "Librecraft",
+  "direct_ip": "mc.librecraft.com",
+  "server_wildcards": [
+    "%.librecraft.com",
+    "%.librecraft.juegos"
+  ],
+  "supported_languages": [
+     "es"
+  ],
+  "social": {
+    "web": "https://librecraft.com",
+    "twitter": "LibrecraftMC",
+    "discord": "https://discord.com/invite/v9H6xd6",
+    "youtube": "https://go.librecraft.com/youtube"
+  },
+  "gamemodes": {
+    "survival": {
+      "name": "Survival", 
+      "color": "#FFA500"
+    },
+    "creativo": {
+      "name": "Creativo", 
+      "color": "#FFA500"
+    },
+    "skyblock": {
+      "name": "SkyBlock", 
+      "color": "#FFA500"
+    },
+    "jailop": {
+      "name": "JailOP", 
+      "color": "#FFA500"
+    },
+    "factions": {
+      "name": "Factions", 
+      "color": "#FFA500"
+    },
+    "skywars": {
+      "name": "Skywars", 
+      "color": "#FFA500",
+      "url": "https://librecraft.com/perfiles/juegos/skywars"
+    },
+    "teamskywars": {
+      "name": "TeamSkywars", 
+      "color": "#FFA500",
+      "url": "https://librecraft.com/perfiles/juegos/team-skywars"
+    },
+    "luckywars": {
+      "name": "Luckywars", 
+      "color": "#FFA500",
+      "url": "https://librecraft.com/perfiles/juegos/luckywars"
+    },
+    "eggwars": {
+      "name": "Eggwars", 
+      "color": "#FFA500",
+      "url": "https://librecraft.com/perfiles/juegos/eggwars"
+    },
+    "bedwars": {
+      "name": "Bedwars", 
+      "color": "#FFA500"
+    },
+    "fullpvp": {
+      "name": "FullPVP", 
+      "color": "#FFA500",
+      "url": "https://librecraft.com/perfiles/juegos/full-pvp"
+    },
+    "jdh": {
+      "name": "Juegos del Hambre", 
+      "color": "#FFA500",
+      "url": "https://librecraft.com/perfiles/juegos/survival-games"
+    },
+    "ctw": {
+      "name": "Captura la lana", 
+      "color": "#FFA500",
+      "url": "https://librecraft.com/perfiles/juegos/captura-la-lana"
+    },
+    "thetowers": {
+      "name": "The Towers", 
+      "color": "#FFA500",
+      "url": "https://librecraft.com/perfiles/juegos/the-towers"
+    },
+    "buildbattle": {
+      "name": "Build Battle", 
+      "color": "#FFA500",
+      "url": "https://librecraft.com/perfiles/juegos/build-battle"
+    },
+    "escapa": {
+      "name": "Escapa de la Bestia", 
+      "color": "#FFA500",
+      "url": "https://librecraft.com/perfiles/juegos/escapa-de-la-bestia"
+    },
+    "murder": {
+      "name": "Murder Mystery", 
+      "color": "#FFA500",
+      "url": "https://librecraft.com/perfiles/juegos/murder-mystery"
+    },
+    "speedbuilders": {
+      "name": "Speed Builders", 
+      "color": "#FFA500",
+      "url": "https://librecraft.com/perfiles/juegos/speedbuilders"
+    },
+    "zombies": {
+      "name": "Zombies", 
+      "color": "#FFA500"
+    }
+  },
+  "discord": {
+    "server_id": 260471731809026048,
+    "rename_to_minecraft_name": false
+  }, 
+  "location": {
+     "country": "Canada",
+     "country_code": "CA"
+  },
+  "user_stats": "https://librecraft.com/perfiles/jugadores/@{userName}"
+}
