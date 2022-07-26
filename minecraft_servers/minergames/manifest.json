@@ -45,7 +45,7 @@
   },
   "discord": {
     "server_id": 816762698275618894,
-    "rename_to_minecraft_name": true
+    "rename_to_minecraft_name": false
   },
   "brand": {
     "primary": "#FFB028",
