@@ -21,25 +21,25 @@
     "citybuild": {
       "name": "CityBuild",
       "color": "#55FF55",
-      "url": "https://www.minergames.com/game/citybuild",
+      "url": "https://www.minergames.net/game/citybuild",
       "command": "/join citybuild"
     },
     "duels": {
       "name": "Duels",
       "color": "#FF5555",
-      "url": "https://www.minergames.com/game/duels",
+      "url": "https://www.minergames.net/game/duels",
       "command": "/join duels"
     },
     "gungame": {
       "name": "GunGame",
       "color": "#FFAA00",
-      "url": "https://www.minergames.com/game/gungame",
+      "url": "https://www.minergames.net/game/gungame",
       "command": "/join gungame"
     },
     "bedwars": {
       "name": "Bedwars",
       "color": "#AA0000",
-      "url": "https://www.minergames.com/game/gungame",
+      "url": "https://www.minergames.net/game/gungame",
       "command": "/join bedwars"
     }
   },
