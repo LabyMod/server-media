@@ -1,0 +1,27 @@
+{
+    "server_name": "mineplace",
+    "nice_name": "MinePlace",
+    "direct_ip": "mineplace.space",
+    "server_wildcards": [
+        "%.mineplace.space"
+    ],
+    "supported_languages": [
+        "en"
+    ],
+    "social": {
+        "web": "https://mineplace.space",
+        "tiktok": "https://tiktok.com/@mineplace.space",
+        "discord": "https://discord.gg/4ttvN7m2SY",
+        "youtube": "https://www.youtube.com/channel/UCV3g8SaOF1JDo7Cn6woEBMQ"
+    },
+    "brand": {
+        "primary": "#FF4300",
+        "background": "#D8D8D8",
+        "text": "#FFFFFF"
+    },
+    "location": {
+        "city": "Frankfurt am Main",
+        "country": "Germany"
+    },
+    "yt_trailer": "8AZnYyCOB74"
+}
