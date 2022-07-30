@@ -19,6 +19,10 @@
         "background": "#D8D8D8",
         "text": "#FFFFFF"
     },
+    "discord": {
+        "server_id": 964076610464649236,
+        "rename_to_minecraft_name": false
+    },
     "location": {
         "city": "Frankfurt am Main",
         "country": "Germany"
