@@ -45,7 +45,7 @@ while read image; do
 
     # check for invalid file names
     filenames=("icon.png" "icon@2x.png" "logo.png" "logo@2x.png" "background.png" "background@2x.png")
-    if [[ ! " ${filenames[@]} " =~ " ${filename} " ]]; then
+    if [[ ! " ${filenames[@]} " =~ " ${filename} " && "${folderpath}" != *"gamemodes"* ]]; then
         error "${image}" "Invalid file name ${filename}: https://github.com/LabyMod/server-media/blob/master/docs/Files.md#filestructure"
     fi
 
