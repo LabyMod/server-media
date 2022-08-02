@@ -47,9 +47,6 @@ while read image; do
     filenames=("icon.png" "icon@2x.png" "logo.png" "logo@2x.png" "background.png" "background@2x.png")
     if [[ ! " ${filenames[@]} " =~ " ${filename} " ]]; then
         error "${image}" "Invalid file name ${filename}: https://github.com/LabyMod/server-media/blob/master/docs/Files.md#filestructure"
-        echo "${filename} does not match!"
-    else
-        echo "${filename} matches!"
     fi
 
     # Ensure normal version exists when hDPI image is provided
