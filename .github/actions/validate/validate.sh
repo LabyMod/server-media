@@ -43,6 +43,12 @@ while read image; do
     [[ "${type}" != "PNG" ]] \
       && error "${image}" "Invalid file type '${type}' for file"
 
+    # check for invalid file names
+    filenames=("icon.png" "icon@2x.png" "logo.png" "logo@2x.png" "background.png" "background@2x.png")
+    if [[ ! " ${filenames[@]} " =~ " ${filename} " ]]; then
+        error "${image}" "Invalid file name ${filename}: https://github.com/LabyMod/server-media/blob/master/docs/Files.md#filestructure"
+    fi
+
     # Ensure normal version exists when hDPI image is provided
     [[ "${filename}" == "icon@2x.png" ]] \
       && [[ ! -f "${folderpath}/icon.png" ]] \
