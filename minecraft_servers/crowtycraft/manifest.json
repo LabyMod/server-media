@@ -32,6 +32,10 @@
     "buildbattle": {
       "name": "BuildBattle",
       "color": "#4f24b5"
+    },
+    "bedwars": {
+      "name": "BedWars",
+      "color": "#4f24b5"
     }
   },
   "social": {

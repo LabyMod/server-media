@@ -2,20 +2,38 @@
   "server_name": "introuble",
   "nice_name": "InTrouble",
   "direct_ip": "introuble.de",
-  "server_wildcards": [
-    "%.introuble.eu",
-    "%.inwabel.de"
-  ],
   "social": {
-    "web": "https://www.introuble.de/",
-    "web_shop": "https://introuble.de/shop/",
+    "web": "https://introuble.de/",
+    "web_shop": "https://shop.introuble.de",
     "web_support": "https://forum.introuble.de/",
-    "tiktok": "InTroubleDE",
-    "instagram": "InTroubleNetwork",
-    "youtube": "https://www.youtube.com/channel/UC7yqqJQMZ8a9yOP-nYQsuMw",
+    "tiktok": "introublede",
+    "instagram": "introublenetwork",
+    "youtube": "https://www.youtube.com/channel/UCrBnIsvaE0QuX1o99VVkNKw",
     "teamspeak": "introuble.de",
     "twitter": "InTroubleDE",
-    "discord": "https://discord.gg/ExxeR7CYWX"
+    "discord": "https://discord.gg/introuble"
+  },
+  "gamemodes": {
+    "clutches": {
+      "name": "Clutches",
+      "color": "#f8e904"
+    },
+    "bridge": {
+      "name": "Bridge",
+      "color": "#f8e904"
+    },
+     "training": {
+      "name": "Training",
+      "color": "#f8e904"
+    },
+     "kbffa": {
+      "name": "Knockback-FFA",
+      "color": "#f8e904"
+    },
+     "bffa": {
+      "name": "Build-FFA",
+      "color": "#f8e904"
+    }
   },
   "discord": {
     "server_id": 611919656894070785,
@@ -25,5 +43,10 @@
      "primary": "#f8e904",
      "background": "#cd9219",
      "text": "#d6d6d6"
-  }
+  },
+  "location": {
+     "city": "Frankfurt",
+     "country": "Germany",
+     "country_code": "DE"
+   }  
 }

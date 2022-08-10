@@ -14,7 +14,7 @@
     "web_shop": "https://store.timenation.net",
     "web_support": "https://timenation.net/index.php?route=/forum/topic/8-wo-kannst-du-%C3%BCberall-support-erhalten/",
     "twitter": "TimeNationNET",
-    "tiktok": "timenationnet",
+    "tiktok": "timenationnetwork",
     "instagram": "timenationnetzwerk",
     "discord": "https://discord.com/invite/8zW2Czjkqj",
     "youtube": "https://www.youtube.com/channel/UC5IC_t6OsrULJfVVxQcV0Tg"
@@ -34,6 +34,10 @@
       "name": "TimeWars",
       "color": "#00AA00",
       "url": "https://timenation.net/index.php?route=/forum/topic/9-timewars-erkl%c3%a4rung/"
+    },
+    "magicpvp": {
+      "name": "MagicPvP",
+      "color": "#AA00AA"
     }
   },
   "discord": {

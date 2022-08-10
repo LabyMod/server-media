@@ -17,6 +17,7 @@ function error() {
   fi
 }
 
+given_names=()
 # Find all files in the src folder
 while read image; do
     filename=$(basename "${image}")
@@ -42,6 +43,14 @@ while read image; do
     # Ensure file is actually a PNG file
     [[ "${type}" != "PNG" ]] \
       && error "${image}" "Invalid file type '${type}' for file"
+
+    given_names+=("${filename}")
+
+    # check for invalid file names
+    filenames=("icon.png" "icon@2x.png" "logo.png" "logo@2x.png" "background.png" "background@2x.png")
+    if [[ ! " ${filenames[@]} " =~ " ${filename} " && "${folderpath}" != *"gamemodes"* ]]; then
+        error "${image}" "Invalid file name ${filename}: https://github.com/LabyMod/server-media/blob/master/docs/Files.md#filestructure"
+    fi
 
     # Ensure normal version exists when hDPI image is provided
     [[ "${filename}" == "icon@2x.png" ]] \
@@ -110,6 +119,10 @@ while read image; do
 
     ((IMAGES++))
 done <<< $(find minecraft_servers -type f)
+
+if [[ ! "${given_names[@]}" =~ "icon.png" || ! "${given_names[@]}" =~ "icon@2x.png" ]]; then
+  error "At least one of the required files is not given (icon.png or icon@2x.png)"
+fi
 
 echo ""
 echo "Total of ${IMAGES} images checked, found ${ERRORS} issues."

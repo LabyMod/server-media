@@ -23,11 +23,15 @@
   "gamemodes": {
     "citybuild": {
       "name": "Citybuild",
-      "color": "#FFAA00"
+      "color": "#FFFF55"
+    },
+    "creative": {
+      "name": "Creative",
+      "color": "#AA0000"
     },
     "freebuild": {
       "name": "Freebuild",
-      "color": "#FFAA00"
+      "color": "#55FF55"
     }
   },
   "discord": {
