@@ -11,7 +11,6 @@
   ],
   "social": {
     "web": "https://librecraft.com",
-    "web_shop": "https://tienda.librecraft.com",
     "twitter": "LibrecraftMC",
     "discord": "https://discord.com/invite/v9H6xd6",
     "youtube": "https://go.librecraft.com/youtube"
@@ -109,6 +108,10 @@
   "discord": {
     "server_id": 260471731809026048,
     "rename_to_minecraft_name": false
+  }, 
+  "location": {
+     "country": "Canada",
+     "country_code": "CA"
   },
   "user_stats": "https://librecraft.com/perfiles/jugadores/@{userName}"
 }

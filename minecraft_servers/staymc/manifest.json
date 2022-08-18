@@ -15,7 +15,7 @@
     "rename_to_minecraft_name": false
   },
   "location": {
-    "city": "Frankfurt am Main",
+    "city": "Offenbach am Main",
     "country": "Germany",
     "country_code": "DE"
   },
@@ -23,6 +23,10 @@
     "primary": "#2ca7f3"
   },
   "gamemodes": {
+    "survivalgames": {
+      "name": "1.16 SurvivalGames",
+      "color": "#FFFF55"
+    },
     "spleef": {
       "name": "Spleef",
       "color": "#FFFF55"

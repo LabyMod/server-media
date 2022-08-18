@@ -1,0 +1,18 @@
+{
+  "server_name": "ultimis",
+  "nice_name": "UltimisMC",
+  "direct_ip": "play.UltimisMC.com",
+  "server_wildcards": [
+    "%.UltimisMC.com"
+  ],
+  "social": {
+    "twitter": "UltimisMC",
+    "discord": "https://discord.gg/UltimisMC"
+  },
+  "brand": {
+     "primary": "#008FE8",
+     "background": "#0A56A5",
+     "text": "#FFFFFF"
+  },
+  "yt_trailer": "000fYpUpEsk"
+}

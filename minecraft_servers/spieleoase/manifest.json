@@ -1,19 +1,18 @@
 {
   "server_name": "spieleoase",
   "nice_name": "SpieleOase.NET",
-  "direct_ip": "play.spieleoase.net",
+  "direct_ip": "spieleoase.net",
   "server_wildcards": [
     "%.spieleoase.net",
     "%.spieleoase.eu",
-    "%.spieleoase.com",
-    "%.vepex.de",
-    "%.vepex.eu"
+    "%.spieleoase.com"
   ],
   "social": {
     "web": "https://spieleoase.net/",
-    "twitter": "SpieleOaseNET",
-    "youtube": "https://www.youtube.com/SpieleOaseNET",
-    "instagram": "SpieleOaseNET",
+    "web_shop": "https://spieleoase.net/shop",
+    "twitter": "SpieleOase_NET",
+    "youtube": "https://www.youtube.com/channel/UCRFQyQcys1aIT3zJR5FbjPg",
+    "instagram": "SpieleOase_NET",
     "discord": "https://spieleoase.net/discord"
   }
 }
