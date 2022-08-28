@@ -1,0 +1,19 @@
+{
+   "server_name":"spiritsmc",
+   "nice_name":"SpiritsMC",
+   "direct_ip":"spiritsmc.com",
+   "supported_languages":[
+      "ar",
+      "en"
+   ],
+   "social":{
+      "web_shop":"https://store.spiritsmc.com",
+      "youtube":"https://www.youtube.com/channel/UCt0j6W900KLGz7AQV2bh0bA",
+      "discord":"https://discord.gg/spr"
+   },
+   "brand":{
+      "primary":"#000000",
+      "background":"#D20C28",
+      "text":"#FFFFFF"
+   }
+}
