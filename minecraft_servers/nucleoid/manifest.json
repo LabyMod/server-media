@@ -11,7 +11,7 @@
   "social": {
     "web": "https://nucleoid.xyz/",
     "twitter": "NucleoidMC",
-    "discord": "https://discord.com/invite/MVsm5Pu",
+    "discord": "https://discord.com/invite/MVsm5Pu"
   },
   "discord": {
     "server_id": 733462796582387753,
@@ -22,5 +22,5 @@
      "country": "Germany",
      "country_code": "DE"
   },
-  "user_stats": "https://stats.nucleoid.xyz/players/{uuid}",
+  "user_stats": "https://stats.nucleoid.xyz/players/{uuid}"
 }
