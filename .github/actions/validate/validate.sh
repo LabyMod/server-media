@@ -47,7 +47,7 @@ while read image; do
     given_names+=("${filename}")
 
     # check for invalid file names
-    filenames=("icon.png" "icon@2x.png" "logo.png" "logo@2x.png" "background.png" "background@2x.png")
+    filenames=("icon.png" "icon@2x.png" "logo.png" "logo@2x.png" "background.png" "background@2x.png" "banner.png")
     if [[ ! " ${filenames[@]} " =~ " ${filename} " && "${folderpath}" != *"gamemodes"* ]]; then
         error "${image}" "Invalid file name ${filename}: https://github.com/LabyMod/server-media/blob/master/docs/Files.md#filestructure"
     fi
@@ -115,6 +115,18 @@ while read image; do
       # hDPI background dimension
       [[ "${width}" -ne 1920 || "${height}" -ne 1080 ]] \
         && error "${image}" "Invalid hDPI background size! Size is ${width}x${height}px, must be 1920x1080px"
+
+
+    # check banner.png if it exists
+    elif [[ "${filename}" == "banner.png" ]]; then
+      # banner dimension
+      [[ "${width}" -ne 1280 || "${height}" -ne 512 ]] \
+        && error "${image}" "Invalid banner size! Size is ${width}x${height}px, must be 1280x512px"
+
+      # aspect ratio must be 5:1
+      aspect_ratio=$(echo "scale=2; ${width} / ${height}" | bc)
+      [[ "${aspect_ratio}" != "5.00" ]] \
+        && error "${image}" "Invalid banner aspect ratio! Aspect ratio is ${aspect_ratio}, must be 5:1"
     fi
 
     ((IMAGES++))
