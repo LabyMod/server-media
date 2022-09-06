@@ -120,8 +120,8 @@ while read image; do
     # check banner.png if it exists
     elif [[ "${filename}" == "banner.png" ]]; then
       # banner dimension
-      [[ "${width}" -ne 1280 || "${height}" -ne 512 ]] \
-        && error "${image}" "Invalid banner size! Size is ${width}x${height}px, must be 1280x512px"
+      [[ "${width}" -ne 1280 || "${height}" -ne 256 ]] \
+        && error "${image}" "Invalid banner size! Size is ${width}x${height}px, must be 1280x256px"
 
       # aspect ratio must be 5:1
       aspect_ratio=$(echo "scale=2; ${width} / ${height}" | bc)
