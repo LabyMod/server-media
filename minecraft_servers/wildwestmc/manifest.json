@@ -5,9 +5,6 @@
   "server_wildcards": [
     "%.wildwestmc.net"
   ],
-  "social": {
-    "web": "https://wildwestmc.net"
-  },
   "brand": {
      "primary": "#cc0001",
      "background": "#8a0001",
