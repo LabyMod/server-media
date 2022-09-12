@@ -1,7 +1,7 @@
 {
   "server_name": "royalpixels",
-  "nice_name": "Royalpixels",
-  "direct_ip": "mc.royalpixels.de",
+  "nice_name": "RoyalPixels",
+  "direct_ip": "royalpixels.de",
 
   "supported_languages": [
      "en",
@@ -20,11 +20,11 @@
   "gamemodes": {
     "skywarsffa": {
       "name": "SkyWarsFFA", 
-      "color": "#FFA500"
+      "color": "#55FFFF"
     },
     "eventsystem": {
       "name": "EventSystem",
-      "color": "#ADD8E6"
+      "color": "#00AAAA"
     }
   },
   "discord": {
@@ -32,12 +32,12 @@
     "rename_to_minecraft_name": false
   },
   "brand": {
-     "primary": "#54FCFC",
-     "background": "#54FCFC",
+     "primary": "#e19536",
+     "background": "#e19536",
      "text": "#FFFFFF"
   }, 
   "location": {
-     "city": "Nürenberg",
+     "city": "Frankfurt am Main",
      "country": "Germany",
      "country_code": "DE"
   },
