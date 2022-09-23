@@ -16,7 +16,6 @@
     "citybuild": {
       "name": "CityBuild",
       "command": "/spawn",
-      "url": "",
       "color": "#ff00f9"
     }
   },
