@@ -2,21 +2,33 @@
   "server_name": "PommesMC",
   "nice_name": "PommesMC",
   "direct_ip": "pommesmc.tk",
-
+  "server_wildcards": [
+    "play.pommesmc.tk"
+  ],
   "supported_languages": [
-    "de",
+    "de"
   ],
   "social": {
+    "web": "",
+    "web_shop": "",
+    "web_support": "",
     "twitter": "pommesdev",
+    "facebook": "",
     "discord": "https://discord.gg/jraSytjU43",
+    "teamspeak": "",
+    "tiktok": "",
+    "youtube": ""
   },
   "gamemodes": {
     "citybuild": {
       "name": "CityBuild",
+      "command": "/spawn",
+      "url": "",
       "color": "#ff00f9"
   },
   "discord": {
     "server_id": 847516968478441522,
+    "rename_to_minecraft_name": true
   },
   "brand": {
     "primary": "#497cb1",
@@ -27,3 +39,7 @@
     "city": "Baden-Württemberg",
     "country": "Germany",
     "country_code": "DE"
+  },
+  "yt_trailer": "",
+  "user_stats": ""
+}
