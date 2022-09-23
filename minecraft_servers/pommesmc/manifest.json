@@ -1,9 +1,9 @@
 {
-  "server_name": "PommesMC",
+  "server_name": "pommesmc",
   "nice_name": "PommesMC",
   "direct_ip": "pommesmc.tk",
   "server_wildcards": [
-    "play.pommesmc.tk"
+    "%.pommesmc.tk"
   ],
   "supported_languages": [
     "de"
@@ -30,16 +30,7 @@
     "server_id": 847516968478441522,
     "rename_to_minecraft_name": true
   },
-  "brand": {
-    "primary": "#497cb1",
-    "background": "#497cb1",
-    "text": "#ffffff"
-  },
   "location": {
     "city": "Baden-Württemberg",
     "country": "Germany",
     "country_code": "DE"
-  },
-  "yt_trailer": "",
-  "user_stats": ""
-}
