@@ -1,0 +1,29 @@
+{
+  "server_name": "PommesMC",
+  "nice_name": "PommesMC",
+  "direct_ip": "pommesmc.tk",
+
+  "supported_languages": [
+    "de",
+  ],
+  "social": {
+    "twitter": "pommesdev",
+    "discord": "https://discord.gg/jraSytjU43",
+  },
+  "gamemodes": {
+    "citybuild": {
+      "name": "CityBuild",
+      "color": "#ff00f9"
+  },
+  "discord": {
+    "server_id": 847516968478441522,
+  },
+  "brand": {
+    "primary": "#497cb1",
+    "background": "#497cb1",
+    "text": "#ffffff"
+  },
+  "location": {
+    "city": "Baden-Württemberg",
+    "country": "Germany",
+    "country_code": "DE"
