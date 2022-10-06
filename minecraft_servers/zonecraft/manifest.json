@@ -10,15 +10,22 @@
     "%.banananetwork.es",
     "%.darktimes.es",
     "%.bedwars.es",
-    "%.zonehosting.net"
+    "%.zonehosting.net",
+	"%.skywars.es",
+	"%.pickaxe.es"
+  ],
+  "supported_languages": [
+	"es",
+	"en"
   ],
   "social": {
     "web": "https://zonecraft.es",
     "web_shop": "https://tienda.zonecraft.es",
     "twitter": "ZoneCraftES",
-    "discord": "https://discord.zonecraft.es",
+    "discord": "https://discord.gg/zonecraft",
     "youtube": "https://www.youtube.com/c/ZoneCraftNetwork",
-    "instagram": "zonecraftes"
+    "instagram": "zonecraftes",
+	"tiktok": "zonecraftes"
   },
   "gamemodes": {
     "bedwars": {
@@ -33,7 +40,7 @@
       "name": "ArenaPvP",
       "color": "#FFF"
     },
-    "breezily¡": {
+    "breezily": {
       "name": "Breezily",
       "color": "#FFF"
     },
@@ -56,19 +63,21 @@
     "skypvp": {
       "name": "SkyPvP",
       "color": "#FFF"
-    },
-    "eggwars": {
-      "name": "EggWars",
-      "color": "#FFF"
     }
   },
+  "brand": {
+     "primary": "#FF3344",
+     "background": "#34ADD8",
+     "text": "#FFFFFF"
+  },
   "location": {
-    "city": "Madrid",
-    "country": "Spain",
-    "country_code": "ES"
+    "city": "Beauharnois",
+    "country": "Canada",
+    "country_code": "CA"
   },
   "discord": {
     "server_id": 424584809612836865,
     "rename_to_minecraft_name": false
   }
+  "yt_trailer": "hBfc1uI6F-0"
 }
