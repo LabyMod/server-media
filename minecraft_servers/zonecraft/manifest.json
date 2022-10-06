@@ -11,12 +11,12 @@
     "%.darktimes.es",
     "%.bedwars.es",
     "%.zonehosting.net",
-	"%.skywars.es",
-	"%.pickaxe.es"
+    "%.skywars.es",
+    "%.pickaxe.es"
   ],
   "supported_languages": [
-	"es",
-	"en"
+    "es",
+    "en"
   ],
   "social": {
     "web": "https://zonecraft.es",
@@ -25,7 +25,7 @@
     "discord": "https://discord.gg/zonecraft",
     "youtube": "https://www.youtube.com/c/ZoneCraftNetwork",
     "instagram": "zonecraftes",
-	"tiktok": "zonecraftes"
+    "tiktok": "zonecraftes"
   },
   "gamemodes": {
     "bedwars": {
@@ -78,6 +78,6 @@
   "discord": {
     "server_id": 424584809612836865,
     "rename_to_minecraft_name": false
-  }
+  },
   "yt_trailer": "hBfc1uI6F-0"
 }
