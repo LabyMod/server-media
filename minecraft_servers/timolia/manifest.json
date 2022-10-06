@@ -22,14 +22,14 @@
   },
   "gamemodes": {
     "jumpworld": {
-      "name": "JumpWorld [1.8/1.16]",
-      "command": "/quickjoin jumpworld",
+      "name": "JumpWorld 1.16+",
+      "command": "/quickjoin jumpworld16",
       "url": "https://www.timolia.de/games#jumpworld",
       "color": "#0095B0"
     },
     "pvp": {
-      "name": "1vs1 [1.8/1.16]",
-      "command": "/quickjoin 1vs1",
+      "name": "PVP 1.16+",
+      "command": "/quickjoin pvp16",
       "url": "https://www.timolia.de/games#pvp",
       "color": "#0095B0"
     },
@@ -42,8 +42,7 @@
     "uhc": {
       "name": "UHC",
       "color": "#0095B0",
-      "url": "https://www.timolia.de/games#uhc",
-      "command": "/joinuhc <name> [password]"
+      "url": "https://www.timolia.de/games#uhc"
     },
     "arcade": {
       "name": "Arcade",
@@ -58,8 +57,8 @@
       "color": "#0095B0"
     },
     "4rena": {
-      "name": "4rena",
-      "command": "/quickjoin 4rena",
+      "name": "4rena 1.16+",
+      "command": "/quickjoin 4rena16",
       "url": "https://www.timolia.de/games#4rena",
       "color": "#0095B0"
     },
