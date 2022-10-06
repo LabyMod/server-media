@@ -21,16 +21,40 @@
     "youtube": "https://www.youtube.com/Timolia"
   },
   "gamemodes": {
-    "jumpworld": {
+    "jumpworld16": {
       "name": "JumpWorld 1.16+",
       "command": "/quickjoin jumpworld16",
       "url": "https://www.timolia.de/games#jumpworld",
       "color": "#0095B0"
     },
-    "pvp": {
+    "jumpworld": {
+      "name": "JumpWorld 1.8+",
+      "command": "/quickjoin jumpworld",
+      "url": "https://www.timolia.de/games#jumpworld",
+      "color": "#0095B0"
+    },
+    "pvp16": {
       "name": "PVP 1.16+",
       "command": "/quickjoin pvp16",
       "url": "https://www.timolia.de/games#pvp",
+      "color": "#0095B0"
+    },
+    "pvp": {
+      "name": "PVP 1.8+",
+      "command": "/quickjoin pvp",
+      "url": "https://www.timolia.de/games#pvp",
+      "color": "#0095B0"
+    },
+    "4rena16": {
+      "name": "4rena 1.16+",
+      "command": "/quickjoin 4rena16",
+      "url": "https://www.timolia.de/games#4rena",
+      "color": "#0095B0"
+    },
+    "4rena": {
+      "name": "4rena 1.8+",
+      "command": "/quickjoin 4rena",
+      "url": "https://www.timolia.de/games#4rena",
       "color": "#0095B0"
     },
     "castles": {
@@ -54,12 +78,6 @@
       "name": "SurvivalQuest",
       "command": "/quickjoin survivalquest",
       "url": "https://www.timolia.de/games#survivalquest",
-      "color": "#0095B0"
-    },
-    "4rena": {
-      "name": "4rena 1.16+",
-      "command": "/quickjoin 4rena16",
-      "url": "https://www.timolia.de/games#4rena",
       "color": "#0095B0"
     },
     "splun": {
