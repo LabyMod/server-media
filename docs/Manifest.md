@@ -85,13 +85,15 @@ like https://labymod.net/dc are only supported for partner servers.<br>
       "name": "JumpWorld", 
       "color": "#FFA500",
       "url": "https://www.timolia.de/games#jumpworld",
-      "command": "/quickjoin jumpworld"
+      "command": "/quickjoin jumpworld16",
+      "versions": "1.17<*"
     },
     "dna": {
       "name": "DNA",
       "color": "#ADD8E6",
       "url": "https://www.timolia.de/games#dna",
-      "command": "/quickjoin dna"
+      "command": "/quickjoin dna",
+      "versions": "1.8<*"
     }
   },
   "discord": {
