@@ -86,7 +86,7 @@ like https://labymod.net/dc are only supported for partner servers.<br>
       "color": "#FFA500",
       "url": "https://www.timolia.de/games#jumpworld",
       "command": "/quickjoin jumpworld16",
-      "versions": "1.17<1.19.1"
+      "versions": "1.17<*"
     },
     "dna": {
       "name": "DNA",
