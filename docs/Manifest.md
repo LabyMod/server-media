@@ -37,12 +37,13 @@
 
 
 ### Gamemode object
-| Key         | Description            | Example value    |
-|-------------|----------------------------|------------------|
-| `name`* | Gamemode nice name | `"JumpWorld"`           |
-| `color`* | Brand color | `"#ADD8E6"`           |
-| `url` | Gamemode description url / website related to the gamemode | `"https://www.timolia.de/games#jumpworld"`           |
-| `command` | e.g. quickjoin-command | `"/quickjoin jumpworld"`           |
+| Key        | Description                                                | Example value                              |
+|------------|------------------------------------------------------------|--------------------------------------------|
+| `name`*    | Gamemode nice name                                         | `"JumpWorld"`                              |
+| `color`*   | Brand color                                                | `"#ADD8E6"`                                |
+| `url`      | Gamemode description url / website related to the gamemode | `"https://www.timolia.de/games#jumpworld"` |
+| `command`  | e.g. quickjoin-command                                     | `"/quickjoin jumpworld"`                   |
+| `versions` | Restrict supported Minecraft versions for the gamemode     | `"1.17<1.19.1"`, `"1.8<*"`                 |
 
 * Required values are: `name` & `color`
 
