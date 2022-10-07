@@ -22,40 +22,46 @@
   },
   "gamemodes": {
     "jumpworld16": {
-      "name": "JumpWorld 1.16+",
+      "name": "JumpWorld",
       "command": "/quickjoin jumpworld16",
       "url": "https://www.timolia.de/games#jumpworld",
-      "color": "#0095B0"
+      "color": "#0095B0",
+      "versions": "1.17<*"
     },
     "jumpworld": {
-      "name": "JumpWorld 1.8+",
+      "name": "JumpWorld",
       "command": "/quickjoin jumpworld",
       "url": "https://www.timolia.de/games#jumpworld",
-      "color": "#0095B0"
+      "color": "#0095B0",
+      "versions": "1.8<1.17"
     },
     "pvp16": {
-      "name": "PVP 1.16+",
+      "name": "PVP",
       "command": "/quickjoin pvp16",
       "url": "https://www.timolia.de/games#pvp",
-      "color": "#0095B0"
+      "color": "#0095B0",
+      "versions": "1.17<*"
     },
     "pvp": {
-      "name": "PVP 1.8+",
+      "name": "PVP",
       "command": "/quickjoin pvp",
       "url": "https://www.timolia.de/games#pvp",
-      "color": "#0095B0"
+      "color": "#0095B0",
+      "versions": "1.8<1.17"
     },
     "4rena16": {
-      "name": "4rena 1.16+",
+      "name": "4rena",
       "command": "/quickjoin 4rena16",
       "url": "https://www.timolia.de/games#4rena",
-      "color": "#0095B0"
+      "color": "#0095B0",
+      "versions": "1.17<*"
     },
     "4rena": {
-      "name": "4rena 1.8+",
+      "name": "4rena",
       "command": "/quickjoin 4rena",
       "url": "https://www.timolia.de/games#4rena",
-      "color": "#0095B0"
+      "color": "#0095B0",
+      "versions": "1.8<1.17"
     },
     "castles": {
       "name": "Castles",
