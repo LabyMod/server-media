@@ -1,0 +1,19 @@
+{
+  "server_name": "7GAMES",
+  "nice_name": "7GAMES Network",
+  "direct_ip": "7GAMES.ga",
+  "server_wildcards": [
+    "play7games.eu"
+  ],
+  "social": {
+    "web": "https://7games.ga/",
+    "twitter": "7GAMESNetwork",
+    "instagram": "7GAMESNetwork",
+    "discord": "https://discord.com/invite/qqhKzawhXE",
+    "teamspeak": "ts.7games.ga"
+  },
+  "discord": {
+    "server_id": 811256628758315049,
+    "rename_to_minecraft_name": true
+  },
+}
