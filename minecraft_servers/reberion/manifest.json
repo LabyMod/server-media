@@ -1,9 +1,9 @@
 {
-  "server_name": "ReberionNetwork",
+  "server_name": "reberion",
   "nice_name": "Reberion Network",
   "direct_ip": "eu.reberion.com",
   "social": {
-    "twitter": "https://twitter.com/ReberionFeeds",
+    "twitter": "ReberionFeeds",
     "discord": "https://discord.gg/DN2f3kWUkF",
     "web_shop": "https://store.reberion.com"
   },
