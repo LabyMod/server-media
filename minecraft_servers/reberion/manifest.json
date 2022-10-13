@@ -1,20 +1,14 @@
 {
-  "server_name": "reberion",
+  "server_name": "ReberionNetwork",
   "nice_name": "Reberion Network",
-  "direct_ip": "reberion.eu",
-  "server_wildcards": [
-    "%.reberion.eu"
-  ],
+  "direct_ip": "eu.reberion.com",
   "social": {
-    "web": "https://www.reberion.eu",
-    "twitter": "ReberionFeeds",
-    "teamspeak": "ts.reberion.eu",
-    "discord": "https://reberion.eu/discord",
-    "web_shop": "https://shop.reberion.eu",
-    "web_support": "https://support.reberion.eu"
+    "twitter": "https://twitter.com/ReberionFeeds",
+    "discord": "https://discord.gg/DN2f3kWUkF",
+    "web_shop": "https://store.reberion.com"
   },
   "discord": {
     "server_id": 1018169330875236362,
-    "rename_to_minecraft_name": true
+    "rename_to_minecraft_name": false
   }
 }
