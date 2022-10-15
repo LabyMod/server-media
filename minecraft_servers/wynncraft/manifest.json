@@ -1,0 +1,26 @@
+{
+  "server_name": "wynncraft",
+  "nice_name": "Wynncraft",
+  "direct_ip": "play.wynncraft.com",
+  "server_wildcards": [
+    "%.wynncraft.com"
+  ],
+  "social": {
+    "web": "https://wynncraft.com",
+    "web_shop": "https://store.wynncraft.com",
+    "web_support": "https://wynncraft.com/help",
+    "twitter": "Wynncraft",
+    "discord": "https://discord.gg/yJkSQwp",
+    "youtube": "https://www.youtube.com/c/WynncraftOfficial"
+  },
+  "brand": {
+    "background": "#a7eb65",
+    "text": "#000000"
+  },
+  "discord": {
+    "server_id": 143852930036924417,
+    "rename_to_minecraft_name": false
+  },
+  "yt_trailer": "mt6EdX76JR4",
+  "user_stats": "https://wynncraft.com/stats/player/{userName}"
+}
