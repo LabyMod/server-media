@@ -20,6 +20,7 @@
     },
     "bedwars": {
       "name": "BedWars",
+      "command": "/play bedwars-solo",
       "color": "#c9091a"
     },
      "stickduell": {
@@ -32,6 +33,7 @@
     },
      "skypvp": {
       "name": "SkyPvP",
+      "command": "/play skypvp",
       "color": "#c9091a"
     },
      "murder": {
@@ -48,6 +50,7 @@
     },
      "woolbattle": {
       "name": "WoolBattle",
+      "command": "/play woolbattle-solo",
       "color": "#c9091a"
     },
      "clanWarstraining": {
