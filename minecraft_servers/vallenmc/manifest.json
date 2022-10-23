@@ -11,4 +11,5 @@
     "twitter": "VallenMC",
     "discord": "https://discord.gg/vallenmc"
   },
+  "user_stats": "https://vallenmc.net/player/{userName}"
 }
