@@ -9,7 +9,7 @@
   "social": {
     "twitter": "ReberionFeeds",
     "discord": "https://discord.gg/DN2f3kWUkF",
-    "web_shop": "https://store.reberion.com"
+    "web_shop": "https://reberion-webshop.tebex.io/"
   },
   "discord": {
     "server_id": 1018169330875236362,
@@ -19,11 +19,6 @@
      "primary": "#2ad6d9",
      "background": "#0A56A5",
      "text": "#FFFFFF"
-  }, 
-  "location": {
-     "city": "Esenyurt",
-     "country": "Turkey",
-     "country_code": "TR"
   },
   "user_stats": "https://www.reberion.com/player/{userName}/"
 }
