@@ -1,18 +1,28 @@
 {
-  "server_name": "antiac",
   "nice_name": "AntiAC",
   "direct_ip": "antiac.net",
   "server_wildcards": [
     "%.antiac.net",
-    "%.antiac.eu",
-    "%.antiac.de",
-    "%.antiac.us"
+  ],
+  "supported_languages": [
+    "de",
+    "en"
   ],
   "social": {
     "web": "https://antiac.net",
-    "web_shop": "https://shop.antiac.net/",
-    "web_support": "https://antiac.de/forum/",
+    "web_shop": "https://shop.antiac.net",
     "twitter": "AntiACnet",
-    "discord": "https://discord.com/invite/q2uA4HP"
+    "discord": "https://discord.gg/antiac",
+    "teamspeak": "AntiAC.net",
+    "tiktok": "antiacnet",
+    "youtube": "https://www.youtube.com/channel/UCv7sUEzUug4RmhJPceIy2fA"
+  },
+  "discord": {
+    "server_id": 668792986930249760,
+    "rename_to_minecraft_name": true
+  },
+  "location": {
+    "country": "Germany",
+    "country_code": "DE"
   }
 }
