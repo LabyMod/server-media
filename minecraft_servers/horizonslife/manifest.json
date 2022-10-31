@@ -1,0 +1,17 @@
+{
+  "server_name": "horizonslife",
+  "nice_name": "HorizonsLife",
+  "direct_ip": "horizonslife.eu",
+  "supported_languages": [
+     "de"
+  ],
+  "social": {
+    "instagram": "horizonslifenet",
+    "discord": "https://discord.gg/f3Vrqrk3V5",
+    "youtube": "https://www.youtube.com/channel/UCY0OnLrQjnqYSJQ-pQYf0Pw",
+    "teamspeak": "ts.horizonslife.eu"
+  },
+  "discord": {
+    "server_id": 1025541214910562304,
+    "rename_to_minecraft_name": false
+}
