@@ -2,6 +2,11 @@
   "server_name": "introuble",
   "nice_name": "InTrouble",
   "direct_ip": "introuble.de",
+  "supported_languages": [
+    "de",
+    "en",
+    "ru"
+  ],
   "social": {
     "web": "https://introuble.de/",
     "web_shop": "https://shop.introuble.de",
