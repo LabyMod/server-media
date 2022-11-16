@@ -2,11 +2,16 @@
   "server_name": "neruxvace",
   "nice_name": "NeruxVace",
   "direct_ip": "neruxvace.de",
+  "supported_languages": [
+    "de",
+    "en",
+    "ru"
+  ]
   "social": {
     "web": "https://neruxvace.de",
     "web_shop": "https://neruxvace.shop",
     "web_support": "https://forum.neruxvace.de",
-    "discord": "https://nrxvc.link/dc",
+    "discord": "https://discord.gg/36HN5Yb",
     "twitter": "NeruxVace",
     "teamspeak": "ts.neruxvace.de",
     "youtube": "https://www.youtube.com/NeruxVaceNetzwerk",
