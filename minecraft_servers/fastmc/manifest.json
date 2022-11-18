@@ -1,0 +1,28 @@
+{
+  "server_name": "fastmc",
+  "nice_name": "FastMC Network",
+  "direct_ip": "play.fastmc.net",
+  "server_wildcards": [
+    "%.fastmc.net"
+  ],
+  "supported_languages": [
+     "de"
+  ],
+  "social": {
+    "web": "https://www.fastmc.net",
+    "twitter": "FastMC_NET",
+    "tiktok": "@FastMCNetwork",
+    "youtube": "https://fastmc.net/sonstiges/link.php?link=yt",
+    "discord": "https://discord.com/invite/NUcuZAT",
+    "teamspeak": "ts.fastmc.net"
+  },
+  "discord": {
+    "server_id": 567019399974748171,
+    "rename_to_minecraft_name": true
+  },
+  "location": {
+     "city": "Hessen",
+     "country": "Germany",
+     "country_code": "DE"
+   }
+}

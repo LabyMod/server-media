@@ -1,0 +1,34 @@
+{
+  "server_name": "minevalley",
+  "nice_name": "MineValleyEU",
+  "direct_ip": "minevalley.eu",
+  "server_wildcards": [
+    "%.minevalley.eu",
+    "%.minevalley.de"
+  ],
+  "supported_languages": "de",
+  "social": {
+    "web": "https://minevalley.eu/",
+    "teamspeak": "MineValley.eu",
+    "discord": "https://discord.com/invite/tMBRrcfQ27",
+    "instagram": "MineValleyEU",
+    "tiktok": "MineValleyEU",
+    "youtube": "https://www.youtube.com/channel/UCinP-74-J74XJg6ijLjw5ZA",
+    "twitter": "MineValleyEU"
+  },
+  "location": {
+    "city": "Freiburg",
+    "country": "Germany",
+    "country_code": "DE"
+  },
+  "gamemodes": {
+    "wirtschaft": {
+      "name": "Wirtschaft",
+      "color": "#0e548a"
+    },
+    "reallife": {
+      "name": "Reallife",
+      "color": "#0e8a4e"
+    }
+  }
+}

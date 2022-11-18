@@ -1,0 +1,17 @@
+{
+    "server_name": "minehub",
+    "nice_name": "MineHub.cz",
+    "direct_ip": "mc.minehub.cz",
+    "server_wildcards": [
+        "%.minehub.cz"
+    ],
+    "social": {
+        "web": "https://minehub.cz",
+        "discord": "https://discord.com/invite/KPjFcJ2",
+        "tiktok": "minehub.cz",
+        "instagram": "minehubcz",
+        "youtube": "https://www.youtube.com/channel/UC-I71_VfftbZWU-edx21btA",
+        "facebook": "minehubcz",
+        "twitter": "MineHubCZ"
+    }
+}

@@ -1,0 +1,13 @@
+{
+  "server_name": "roxbot",
+  "nice_name": "Roxbot",
+  "direct_ip": "roxbot.com",
+  "social": {
+    "web": "https://www.roxbot.com/",
+    "web_shop": "https://shop.roxbot.com/",
+    "web_support": "https://www.roxbot.com/support/",
+    "twitter": "Jigabot",
+    "discord": "https://discord.com/invite/0k2T4T1VdCyt5e8e"
+  },
+  "user_stats": "https://www.roxbot.com/u/{userName}/"
+}

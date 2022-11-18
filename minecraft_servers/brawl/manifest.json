@@ -1,0 +1,55 @@
+{
+  "server_name": "brawl",
+  "nice_name": "Brawl Games",
+  "direct_ip": "brawl.com",
+  "server_wildcards": [
+    "%.brawl.com"
+  ],
+  "social": {
+    "web": "https://www.brawl.com",
+    "web_shop": "https://shop.brawl.com",
+    "web_support": "https://www.brawl.com/support",
+    "twitter": "BrawlGames",
+    "facebook": "BrawlGames",
+    "tiktok":  "brawlwastaken",
+    "instagram": "minecraft_brawl",
+    "youtube": "https://www.youtube.com/channel/UCDHRIcT3eQ9HEFlqGtv_9kQ",
+    "discord": "https://discord.gg/Q5ZfcS7"
+  },
+  "gamemodes": {
+    "ctf": {
+      "name": "Capture the Flag", 
+      "command": "/play ctf", 
+      "url": "https://www.brawl.com/games/capturetheflag",
+      "color": "#5555FF"
+    },
+    "build": {
+      "name": "Minecraft Build",
+      "command": "/play build", 
+      "url": "https://www.brawl.com/games/minecraftbuild",
+      "color": "#55FF55"
+    },
+    "party": {
+      "name": "Party Deluxe",
+      "command": "/play party",
+      "url": "https://www.brawl.com/games/partydeluxe",
+      "color": "#FF55FF"
+    },
+    "raid": {
+      "name": "Raid",
+      "command": "/play raid",
+      "url": "https://www.brawl.com/games/raid",
+      "color": "#AA00AA"
+    },
+    "warz": {
+      "name": "Mc-WarZ",
+      "command": "/play warz",
+      "url": "https://www.brawl.com/games/mcwarz",
+      "color": "#00AA00"
+    }
+  },
+  "discord": {
+    "server_id": 260952340373307392
+  },
+  "user_stats": "https://www.brawl.com/players/{userName}"
+}

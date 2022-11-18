@@ -10,6 +10,13 @@
   "social": {
     "web": "https://randymc.de/",
     "twitter": "RandyMC",
-    "discord": "https://randymc.de/discord"
+    "teamspeak": "ts.randymc.de",
+    "discord": "https://randymc.de/discord",
+    "web_shop": "https://shop.randymc.de/",
+    "web_support": "https://support.randymc.de/"
+  },
+  "discord": {
+    "server_id": 322498802583994370,
+    "rename_to_minecraft_name": true
   }
 }

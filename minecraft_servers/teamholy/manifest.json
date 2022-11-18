@@ -1,0 +1,27 @@
+{
+    "server_name": "teamholy",
+    "nice_name": "TeamHoly",
+    "direct_ip": "teamholy.de",
+    "server_wildcards": [
+      "%.teamholy.de"
+     ],
+    "social": {
+      "web": "https://www.teamholy.de/",
+      "web_shop": "https://shop.teamholy.de",
+      "web_support": "https://forum.teamholy.de/",
+      "tiktok": "TeamHolyDE",
+      "youtube": "https://www.youtube.com/channel/UCvzdgyzp_hmlhGqD0QNObgg",
+      "teamspeak": "teamholy.de",
+      "twitter": "teamholymc",
+      "discord": "https://discord.gg/p9dubry6w7"
+    },
+    "discord": {
+      "server_id": 770033160208515134,
+      "rename_to_minecraft_name": true
+    },
+    "brand": {
+       "primary": "#FFA500",
+       "background": "#FF8C00",
+       "text": "#FFFFFF"
+    }
+  }
