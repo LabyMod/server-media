@@ -2,6 +2,12 @@
   "server_name": "neruxvace",
   "nice_name": "NeruxVace",
   "direct_ip": "neruxvace.de",
+  "server_wildcards": [
+    "neruxvace.net",
+    "%.nerux.net",
+    "thevace.net",
+    "neruxvase.net"
+  ],
   "supported_languages": [
     "de",
     "en",
