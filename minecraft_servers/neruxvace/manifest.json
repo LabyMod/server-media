@@ -1,14 +1,25 @@
 {
   "server_name": "neruxvace",
   "nice_name": "NeruxVace",
-  "direct_ip": "neruxvace.net",
+  "direct_ip": "neruxvace.de",
+  "server_wildcards": [
+    "neruxvace.net",
+    "%.nerux.net",
+    "thevace.net",
+    "neruxvase.net"
+  ],
+  "supported_languages": [
+    "de",
+    "en",
+    "ru"
+  ],
   "social": {
-    "web": "https://neruxvace.net",
+    "web": "https://neruxvace.de",
     "web_shop": "https://neruxvace.shop",
-    "web_support": "https://forum.neruxvace.net",
-    "discord": "https://nrxvc.link/dc",
+    "web_support": "https://forum.neruxvace.de",
+    "discord": "https://discord.gg/36HN5Yb",
     "twitter": "NeruxVace",
-    "teamspeak": "ts.neruxvace.net",
+    "teamspeak": "ts.neruxvace.de",
     "youtube": "https://www.youtube.com/NeruxVaceNetzwerk",
     "instagram": "neruxvacenet"
   },
@@ -93,5 +104,5 @@
      "country_code": "DE"
    },
   "yt_trailer": "j_o3tG6RrlY",
-  "user_stats": "https://neruxvace.net/player/{userName}"
+  "user_stats": "https://neruxvace.de/player/{userName}"
 }
