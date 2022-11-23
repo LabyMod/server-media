@@ -9,7 +9,7 @@
     "web": "https://mythria.net",
     "tiktok": "MythriaNET",
     "instagram": "MythriaNET",
-    "discord": "https://dc.mythria.net",
+    "discord": "https://dc.mythria.net"
   },
   "gamemodes": {
     "citybuild": {
@@ -30,7 +30,5 @@
      "city": "Frankfurt am Main",
      "country": "Germany",
      "country_code": "DE"
-  },
-  "yt_trailer": "8asFIRe2HSw",
-  "user_stats": "https://laby.net/@{userName}"
+  }
 }
