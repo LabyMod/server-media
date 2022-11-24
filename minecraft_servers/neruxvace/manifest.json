@@ -103,6 +103,9 @@
      "country": "Germany",
      "country_code": "DE"
    },
-  "yt_trailer": "j_o3tG6RrlY",
+  "chat": {
+    "message_formats": ["^§[a-f0-9](?<level>\\d+)(| §[a-f0-9](?<rank>\\S+)) §8┃ §[a-f0-9](?<sender>[a-zA-Z0-9_]{2,16}) §8» §f(?<message>.*)$"]
+  },
+  "yt_trailer": "tyYJANsRHKA",
   "user_stats": "https://neruxvace.de/player/{userName}"
 }
