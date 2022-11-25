@@ -19,6 +19,11 @@
     "server_id": 975060590290698280,
     "rename_to_minecraft_name": true
   },
+  "brand": {
+    "primary": "#ff992c",
+    "background": "#ff992c",
+    "text": "#ffffff"
+  },
   "location": {
      "city": "Frankfurt",
      "country": "Germany",
