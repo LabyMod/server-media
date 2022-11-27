@@ -5,6 +5,7 @@
   "server_wildcards": [
     "%.justminecraft.net"
   ],
+  "primary_color": "#FEA902"
   "supported_languages": "en",
   "social": {
     "web": "https://www.justminecraft.net/",
