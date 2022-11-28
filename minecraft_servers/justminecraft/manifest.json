@@ -5,7 +5,6 @@
   "server_wildcards": [
     "%.justminecraft.net"
   ],
-  "primary_color": "#FEA902"
   "supported_languages": "en",
   "social": {
     "web": "https://www.justminecraft.net/",
@@ -35,5 +34,10 @@
   "discord": {
     "server_id": 295429838041382912,
     "rename_to_minecraft_name": true
+  },
+  "brand": {
+   "primary": "#FEA902",
+   "background": "#0b0b0b",
+   "text": "#FFFFFF"
   }
 }
