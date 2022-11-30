@@ -32,8 +32,7 @@
     }
   },
   "discord": {
-    "server_id": 295429838041382912,
-    "rename_to_minecraft_name": true
+    "server_id": 295429838041382912
   },
   "brand": {
    "primary": "#FEA902",
