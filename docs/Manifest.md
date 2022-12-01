@@ -120,6 +120,10 @@ like https://labymod.net/dc are only supported for partner servers.<br>
      "country": "Germany",
      "country_code": "DE"
   },
+  "chat": {
+    "message_formats": [
+      "^§[a-f0-9](?<level>\\d+)( \\||§8 \\|) §[a-f0-9](?<sender>[a-zA-Z0-9_]{2,16})§r§7: §f(?<message>.*)$"
+    ]},
   "yt_trailer": "8asFIRe2HSw",
   "user_stats": "https://laby.net/@{userName}"
 }
