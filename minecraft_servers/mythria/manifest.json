@@ -1,6 +1,6 @@
 {
   "server_name": "mythria",
-  "nice_name": "mythriaNET",
+  "nice_name": "MythriaNET",
   "direct_ip": "mythria.net",
   "supported_languages": [
      "de"
@@ -14,6 +14,10 @@
   "gamemodes": {
     "citybuild": {
       "name": "CityBuild", 
+      "color": "#FFA500"
+    },
+    "private_server": {
+      "name": "Private Server", 
       "color": "#FFA500"
     }
   },
