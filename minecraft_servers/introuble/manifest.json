@@ -2,10 +2,15 @@
   "server_name": "introuble",
   "nice_name": "InTrouble",
   "direct_ip": "introuble.de",
+  "supported_languages": [
+    "de",
+    "en",
+    "ru"
+  ],
   "social": {
-    "web": "https://introuble.de/",
+    "web": "https://introuble.de",
     "web_shop": "https://shop.introuble.de",
-    "web_support": "https://forum.introuble.de/",
+    "web_support": "https://forum.introuble.de",
     "tiktok": "introublede",
     "instagram": "introublenetwork",
     "youtube": "https://www.youtube.com/channel/UCrBnIsvaE0QuX1o99VVkNKw",

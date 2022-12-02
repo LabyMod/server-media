@@ -1,0 +1,29 @@
+{
+  "server_name": "manacube",
+  "nice_name": "ManaCube",
+  "direct_ip": "play.manacube.com",
+  "server_wildcards": [
+    "%.manacube.com",
+    "%.manacube.net",
+    "%.mineville.net",
+    "%.minevast.com"
+  ],
+  "social": {
+    "web": "https://manacube.com",
+    "web_shop": "https://store.manacube.com",
+    "web_support": "https://manacube.com/support",
+    "twitter": "ManacubeMC",
+    "discord": "https://discord.gg/manacube",
+    "youtube": "https://www.youtube.com/c/manacube"
+  },
+  "brand": {
+    "background": "#66B3FF",
+    "text": "#E6FBFF"
+  },
+  "discord": {
+    "server_id": 224546291663896578,
+    "rename_to_minecraft_name": false
+  },
+  "yt_trailer": "YpNGlgZn2u4",
+  "user_stats": "https://manacube.com/stats/player/{userName}"
+}

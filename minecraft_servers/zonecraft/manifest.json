@@ -1,74 +1,75 @@
 {
-  "server_name": "zonecraft",
-  "nice_name": "ZoneCraft Network",
-  "direct_ip": "play.zonecraft.es",
-  "server_wildcards": [
-    "%.zonecraft.es",
-    "%.zonecn.es",
-    "%.hypixel.es",
-    "%.amamarla.com",
-    "%.banananetwork.es",
-    "%.darktimes.es",
-    "%.bedwars.es",
-    "%.zonehosting.net"
-  ],
-  "social": {
-    "web": "https://zonecraft.es",
-    "web_shop": "https://tienda.zonecraft.es",
-    "twitter": "ZoneCraftES",
-    "discord": "https://discord.zonecraft.es",
-    "youtube": "https://www.youtube.com/c/ZoneCraftNetwork",
-    "instagram": "zonecraftes"
-  },
-  "gamemodes": {
-    "bedwars": {
-      "name": "BedWars",
-      "color": "#FFF"
+    "server_name": "zonecraft",
+    "nice_name": "ZoneCraft Network",
+    "direct_ip": "play.zonecraft.es",
+    "server_wildcards": [
+      "%.zonecraft.es",
+      "%.zonecn.es",
+      "%.hypixel.es",
+      "%.amamarla.com",
+      "%.banananetwork.es",
+      "%.darktimes.es",
+      "%.bedwars.es",
+      "%.zonehosting.net",
+      "%.skywars.es",
+      "%.pickaxe.es"
+    ],
+    "supported_languages": [
+      "es",
+      "en"
+    ],
+    "social": {
+      "web": "https://zonecraft.es",
+      "web_shop": "https://tienda.zonecraft.es",
+      "twitter": "ZoneCraftES",
+      "discord": "https://discord.gg/zonecraft",
+      "youtube": "https://www.youtube.com/c/ZoneCraftNetwork",
+      "instagram": "zonecraftes",
+      "tiktok": "zonecraftes"
     },
-    "skywars": {
-      "name": "SkyWars",
-      "color": "#FFF"
+    "gamemodes": {
+      "bedwars": {
+        "name": "BedWars",
+        "color": "#FFF"
+      },
+      "skywars": {
+        "name": "SkyWars",
+        "color": "#FFF"
+      },
+      "arenapvp": {
+        "name": "ArenaPvP",
+        "color": "#FFF"
+      },
+      "breezily": {
+        "name": "Breezily",
+        "color": "#FFF"
+      },
+      "knockback_ffa": {
+        "name": "Knockback FFA",
+        "color": "#FFF"
+      },
+      "bedwars_practice": {
+        "name": "BedWars Practice",
+        "color": "#FFF"
+      },
+      "skypvp": {
+        "name": "SkyPvP",
+        "color": "#FFF"
+      }
     },
-    "arenapvp": {
-      "name": "ArenaPvP",
-      "color": "#FFF"
+    "brand": {
+       "primary": "#FF3344",
+       "background": "#00000",
+       "text": "#FFFFFF"
     },
-    "breezily¡": {
-      "name": "Breezily",
-      "color": "#FFF"
+    "location": {
+      "city": "Beauharnois",
+      "country": "Canada",
+      "country_code": "CA"
     },
-    "knockback_ffa": {
-      "name": "Knockback FFA",
-      "color": "#FFF"
+    "discord": {
+      "server_id": 424584809612836865,
+      "rename_to_minecraft_name": false
     },
-    "tntgames": {
-      "name": "TNT Games",
-      "color": "#FFF"
-    },
-    "thebridge": {
-      "name": "The Bridge",
-      "color": "#FFF"
-    },
-    "bedwars_practice": {
-      "name": "BedWars Practice",
-      "color": "#FFF"
-    },
-    "skypvp": {
-      "name": "SkyPvP",
-      "color": "#FFF"
-    },
-    "eggwars": {
-      "name": "EggWars",
-      "color": "#FFF"
-    }
-  },
-  "location": {
-    "city": "Madrid",
-    "country": "Spain",
-    "country_code": "ES"
-  },
-  "discord": {
-    "server_id": 424584809612836865,
-    "rename_to_minecraft_name": false
-  }
+    "yt_trailer": "NrVUUFEAij8"
 }

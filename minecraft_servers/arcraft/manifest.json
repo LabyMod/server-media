@@ -1,6 +1,6 @@
 {
    "server_name":"arcraft",
-   "nice_name":"ArCraft Network",
+   "nice_name":"ArCraft RolePlay",
    "direct_ip":"mc.arcraft.me",
    "supported_languages":[
       "ar",
@@ -9,7 +9,9 @@
    "social":{
       "web":"https://arcraft.me",
       "web_shop":"https://arcraftmc.tebex.io",
+      "web_support": "https://arcraft.me/support/tickets",
       "tiktok":"mc.arcraft.me",
+      "instagram": "arcraftme",
       "discord":"https://discord.gg/arcraft"
    },
    "brand":{

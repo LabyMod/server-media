@@ -6,16 +6,54 @@
     "%.cytooxien.de",
     "%.cytooxien.net"
   ],
+  "supported_languages": [
+    "de", "en", "fr", "es", "ru"
+  ],
   "social": {
-    "web": "https://www.cytooxien.de/",
-    "web_shop": "https://shop.cytooxien.de/",
-    "web_support": "https://www.cytooxien.de/support/",
+    "web": "https://www.cytooxien.de",
+    "web_shop": "https://shop.cytooxien.de",
+    "web_support": "https://www.cytooxien.de/support",
     "twitter": "Cytooxien",
     "discord": "https://cxn.link/discord",
-    "teamspeak": "ts.cytooxien.net"
+    "teamspeak": "ts.cytooxien.de"
   },
   "discord": {
     "server_id": 443768116216987648
   },
-  "user_stats": "https://stats.cytooxien.de/player/{userName}"
+  "user_stats": "https://stats.cytooxien.de/player/{userName}",
+  "gamemodes": {
+    "skyblock": {
+      "name": "Skyblock",
+      "command": "/server skyblockx",
+      "color": "#ffc300",
+      "url": "https://wiki.cytooxien.de/games/skyblock",
+      "versions": "1.19<*"
+    },
+    "reallife": {
+      "name": "Reallife",
+      "command": "/server reallife",
+      "color": "#ffc300",
+      "url": "https://wiki.cytooxien.de/games/reallife",
+      "versions": "1.19<*"
+    },
+    "citybuild": {
+      "name": "Citybuild",
+      "command": "/server citybuild",
+      "color": "#ffc300",
+      "url": "https://wiki.cytooxien.de/games/citybuild",
+      "versions": "1.19<*"
+    },
+    "factions": {
+      "name": "Factions",
+      "command": "/server factions",
+      "color": "#ffc300",
+      "url": "https://wiki.cytooxien.de/games/factions",
+      "versions": "1.19<*"
+    }
+  },
+  "brand": {
+    "primary": "#ffc300",
+    "background": "#ffc300",
+    "text": "#ffffff"
+  }
 }
