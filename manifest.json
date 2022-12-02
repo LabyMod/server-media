@@ -1,67 +1,67 @@
 {
-	"server_name": "terramc",
-	"nice_name": "TerraMC",
-	"direct_ip": "terramc.net",
-	"supported_languages": [
-		"de",
-		"en"
-	],
-	"social": {
-		"web": "https://terramc.net/",
-		"twitter": "TerraMCnet",
-		"tiktok": "TerraMCnet",
-		"instagram": "terramcnet",
-		"discord": "https://discord.gg/tbNaSWN",
-		"youtube": "https://www.youtube.com/channel/UC76wAuVoucTxtJeZIjeOupw",
-		"teamspeak": "terramc.net"
-	},
-	"gamemodes": {
-		"teamdeathmatch": {
-			"name": "TeamDeathMatch", 
-			"color": "#AA0000"
-		},
-		"ffa": {
-			"name": "FFA",
-			"color": "#FF5555"
-		},
-		"souptrainer": {
-			"name": "SoupTrainer",
-			"color": "#55FFFF"
-		},
-		"xp": {
-			"name": "XP",
-			"color": "#FFFF55"
-		},
-		"buildffa": {
-			"name": "BuildFFA",
-			"color": "#FFFF55"
-		},
-		"knockbackffa": {
-			"name": "KnockBackFFA",
-			"color": "#FFAA00"
-		},
-		"thelab": {
-			"name": "TheLab",
-			"color": "#55FFFF"
-		},
-		"gungame": {
-			"name": "GunGame",
-			"color": "#FFAA00"
-		}
-	},
-	"discord": {
-		"server_id": 616645756077736001,
-		"rename_to_minecraft_name": false
-	},
-	"brand": {
-		"primary": "#55FF55",
-		"background": "#AAAAAA",
-		"text": "#FFFFFF"
-	},
-	"location": {
-		"city": "Frankfurt",
-		"country": "Germany",
-		"country_code": "DE"
-   },
-   "yt_trailer": "dERYAYRWh7w"
+  "server_name": "terramc",
+  "nice_name": "TerraMC",
+  "direct_ip": "terramc.net",
+  "supported_languages": [
+    "de",
+    "en"
+  ],
+  "social": {
+    "web": "https://terramc.net/",
+    "twitter": "TerraMCnet",
+    "tiktok": "TerraMCnet",
+    "instagram": "terramcnet",
+    "discord": "https://discord.gg/tbNaSWN",
+    "youtube": "https://www.youtube.com/channel/UC76wAuVoucTxtJeZIjeOupw",
+    "teamspeak": "terramc.net"
+  },
+  "gamemodes": {
+    "teamdeathmatch": {
+      "name": "TeamDeathMatch", 
+      "color": "#AA0000"
+    },
+    "ffa": {
+      "name": "FFA",
+      "color": "#FF5555"
+    },
+    "souptrainer": {
+      "name": "SoupTrainer",
+      "color": "#55FFFF"
+    },
+    "xp": {
+      "name": "XP",
+      "color": "#FFFF55"
+    },
+    "buildffa": {
+      "name": "BuildFFA",
+      "color": "#FFFF55"
+    },
+    "knockbackffa": {
+      "name": "KnockBackFFA",
+      "color": "#FFAA00"
+    },
+    "thelab": {
+      "name": "TheLab",
+      "color": "#55FFFF"
+    },
+    "gungame": {
+      "name": "GunGame",
+      "color": "#FFAA00"
+    }
+  },
+  "discord": {
+    "server_id": 616645756077736001,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#55FF55",
+    "background": "#AAAAAA",
+    "text": "#FFFFFF"
+  },
+  "location": {
+    "city": "Frankfurt",
+    "country": "Germany",
+    "country_code": "DE"
+  },
+  "yt_trailer": "dERYAYRWh7w"
 }
