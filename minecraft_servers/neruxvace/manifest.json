@@ -1,14 +1,25 @@
 {
   "server_name": "neruxvace",
   "nice_name": "NeruxVace",
-  "direct_ip": "neruxvace.net",
+  "direct_ip": "neruxvace.de",
+  "server_wildcards": [
+    "neruxvace.net",
+    "%.nerux.net",
+    "thevace.net",
+    "neruxvase.net"
+  ],
+  "supported_languages": [
+    "de",
+    "en",
+    "ru"
+  ],
   "social": {
-    "web": "https://neruxvace.net/",
-    "web_shop": "https://neruxvace.shop/",
-    "web_support": "https://forum.neruxvace.net/",
-    "discord": "https://nrxvc.link/dc",
+    "web": "https://neruxvace.de",
+    "web_shop": "https://neruxvace.shop",
+    "web_support": "https://forum.neruxvace.de",
+    "discord": "https://discord.gg/36HN5Yb",
     "twitter": "NeruxVace",
-    "teamspeak": "ts.neruxvace.net",
+    "teamspeak": "ts.neruxvace.de",
     "youtube": "https://www.youtube.com/NeruxVaceNetzwerk",
     "instagram": "neruxvacenet"
   },
@@ -20,6 +31,7 @@
     },
     "bedwars": {
       "name": "BedWars",
+      "command": "/play bedwars-solo",
       "color": "#c9091a"
     },
      "stickduell": {
@@ -32,6 +44,7 @@
     },
      "skypvp": {
       "name": "SkyPvP",
+      "command": "/play skypvp",
       "color": "#c9091a"
     },
      "murder": {
@@ -48,6 +61,7 @@
     },
      "woolbattle": {
       "name": "WoolBattle",
+      "command": "/play woolbattle-solo",
       "color": "#c9091a"
     },
      "clanWarstraining": {
@@ -89,6 +103,9 @@
      "country": "Germany",
      "country_code": "DE"
    },
-  "yt_trailer": "j_o3tG6RrlY",
-  "user_stats": "https://neruxvace.net/player/{userName}"
+  "chat": {
+    "message_formats": ["^§[a-f0-9](?<level>\\d+)(| §[a-f0-9](?<rank>\\S+)) §8┃ §[a-f0-9](?<sender>[a-zA-Z0-9_]{2,16}) §8» §f(?<message>.*)$"]
+  },
+  "yt_trailer": "tyYJANsRHKA",
+  "user_stats": "https://neruxvace.de/player/{userName}"
 }
