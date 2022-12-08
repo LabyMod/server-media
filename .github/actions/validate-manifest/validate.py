@@ -53,8 +53,12 @@ def main():
         if 'social' in data:
             social = data['social']
             for key in URL_SOCIAL_KEYS:
-                if key in social and not social[key].startswith('https://'):
+                if key not in social:
+                    continue
+                if not social[key].startswith('https://'):
                     comment += f'- Invalid url. URL has to start with **https://** (`social.{key}`)\n'
+                if social[key].endswith('/'):
+                    comment += f'- Please remove **/** at the end of url (`social.{key}`)\n'
 
             for key in USERNAME_SOCIAL_KEYS:
                 if key in social and (social[key].startswith('http') or 'www' in social[key]):
@@ -77,6 +81,14 @@ def main():
 
         if 'user_stats' in data and ('{userName}' not in data['user_stats'] and '{uuid}' not in data['user_stats']):
             comment += '- Please use {userName} or {uuid} in your stats url (`user_stats`)\n'
+
+        if 'location' in data and 'country_code' in data['location']:
+            country_code = data['location']['country_code']
+            if len(country_code) > 2 or len(country_code) <= 1:
+                comment += '- Use valid format (ISO 3166-1 alpha-2) for country code. (`location.country_code`)\n'
+
+            if not country_code.isupper():
+                comment += '- Use upper-case for country code. (`location.country_code`)\n'
 
         # check hex codes
         if 'brand' in data:

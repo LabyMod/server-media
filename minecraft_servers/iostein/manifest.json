@@ -1,0 +1,27 @@
+{
+  "server_name": "iostein",
+  "nice_name": "iostein",
+  "direct_ip": "iostein.de",
+  "server_wildcards": [
+    "%.iostein.net",
+    "%.iostein.de"
+  ],
+  "social": {
+    "web": "https://iostein.net",
+    "web_shop": "https://iostein.net/credits",
+    "web_support": "https://forum.iostein.net",
+    "twitter": "iostein",
+    "tiktok": "iostein",
+    "instagram": "iosteinde",
+    "discord": "https://iostein.net/discord",
+    "teamspeak": "iostein.net"
+  },
+  "discord": {
+    "server_id": 787349516885557286,
+    "rename_to_minecraft_name": false
+  },
+  "location": {
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}

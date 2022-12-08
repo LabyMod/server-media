@@ -1,12 +1,12 @@
 {
   "server_name": "porgverse",
   "nice_name": "Porgverse",
-  "direct_ip": "porgverse.nl",
+  "direct_ip": "mc.porgverse.nl",
   "server_wildcards": [
     "%.porgverse.nl"
   ],
   "social": {
-    "web": "https://web.porgverse.nl/",
+    "web": "https://porgverse.nl/",
     "tiktok": "Porgverse",
     "discord": "https://discord.gg/vZ2ARfwk6K"
   },
@@ -28,10 +28,10 @@
     "rename_to_minecraft_name": false
   },
   "gamemodes": {
-    "starwars": {
-      "name": "StarWars RPG", 
+    "porgverse": {
+      "name": "Porgverse", 
       "color": "#ff9900"
     }
   },
-  "user_stats": "https://web.porgverse.nl/player/{userName}"
+  "user_stats": "https://porgverse.nl/player/{userName}"
 }
