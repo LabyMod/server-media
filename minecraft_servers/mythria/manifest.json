@@ -19,6 +19,10 @@
     "private_server": {
       "name": "Private Server", 
       "color": "#FFA500"
+    },
+    "freebuild": {
+      "name": "FreeBuild", 
+      "color": "#FFA500"
     }
   },
   "discord": {
