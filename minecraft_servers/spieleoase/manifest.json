@@ -38,30 +38,6 @@
       "color": "#23b573",
       "versions": "1.8<*"
     },
-    "mlgrush": {
-      "name": "MLG-Rush",
-      "command": "/quickjoin mlgrush",
-      "color": "#23b573",
-      "versions": "1.8<*"
-    },
-    "kitpvp": {
-      "name": "Kit-PvP",
-      "command": "/quickjoin kitpvp",
-      "color": "#23b573",
-      "versions": "1.8<*"
-    },
-    "gungame": {
-      "name": "GunGame",
-      "command": "/quickjoin gungame",
-      "color": "#23b573",
-      "versions": "1.8<*"
-    },
-    "training": {
-      "name": "Training",
-      "command": "/quickjoin training",
-      "color": "#23b573",
-      "versions": "1.8<*"
-    },
     "bffa": {
       "name": "Build-FFA",
       "command": "/quickjoin buildffa",
@@ -74,9 +50,15 @@
       "color": "#23b573",
       "versions": "1.8<*"
     },
-    "fungames": {
-      "name": "FunGames",
-      "command": "/quickjoin fun_games",
+    "mlgrush": {
+      "name": "MLG-Rush",
+      "command": "/quickjoin mlgrush",
+      "color": "#23b573",
+      "versions": "1.8<*"
+    },
+    "kitpvp": {
+      "name": "Kit-PvP",
+      "command": "/quickjoin kitpvp",
       "color": "#23b573",
       "versions": "1.8<*"
     }
