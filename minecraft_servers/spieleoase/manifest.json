@@ -7,12 +7,60 @@
     "%.spieleoase.eu",
     "%.spieleoase.com"
   ],
+  "supported_languages": [
+    "de", "en", "fr", "es", "ru", "pl", "nb"
+  ],
   "social": {
-    "web": "https://spieleoase.net/",
+    "web": "https://spieleoase.net",
     "web_shop": "https://spieleoase.net/shop",
     "twitter": "SpieleOase_NET",
-    "youtube": "https://www.youtube.com/channel/UCRFQyQcys1aIT3zJR5FbjPg",
+    "youtube": "https://www.youtube.com/@spieleoase",
     "instagram": "SpieleOase_NET",
     "discord": "https://spieleoase.net/discord"
+  },
+  "location": {
+    "country": "Germany",
+    "country_code": "DE"
+  },
+  "discord": {
+    "server_id": 973686836469825606,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#23b573",
+    "background": "#006083",
+    "text": "#ffffff"
+  },
+  "gamemodes": {
+    "cwbwt": {
+      "name": "CWBW-Training",
+      "command": "/quickjoin cwbwtraining",
+      "color": "#23b573",
+      "versions": "1.8<*"
+    },
+    "bffa": {
+      "name": "Build-FFA",
+      "command": "/quickjoin buildffa",
+      "color": "#23b573",
+      "versions": "1.8<*"
+    },
+    "bedwars": {
+      "name": "BedWars",
+      "command": "/quickjoin bedwars",
+      "color": "#23b573",
+      "versions": "1.8<*"
+    },
+    "mlgrush": {
+      "name": "MLG-Rush",
+      "command": "/quickjoin mlgrush",
+      "color": "#23b573",
+      "versions": "1.8<*"
+    },
+    "kitpvp": {
+      "name": "Kit-PvP",
+      "command": "/quickjoin kitpvp",
+      "color": "#23b573",
+      "versions": "1.8<*"
+    }
   }
 }
