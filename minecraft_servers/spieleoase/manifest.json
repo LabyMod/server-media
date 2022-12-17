@@ -27,34 +27,58 @@
     "rename_to_minecraft_name": false
   },
   "brand": {
-    "primary": "#ffc300",
+    "primary": "#23b573",
     "background": "#006083",
     "text": "#ffffff"
   },
   "gamemodes": {
     "cwbwt": {
-      "name": "CWBW-Training"
+      "name": "CWBW-Training",
+      "command": "/quickjoin cwbwtraining",
+      "color": "#23b573",
+      "versions": "1.8<*"
     },
     "mlgrush": {
-      "name": "MLG-Rush"
+      "name": "MLG-Rush",
+      "command": "/quickjoin mlgrush",
+      "color": "#23b573",
+      "versions": "1.8<*"
     },
     "kitpvp": {
-      "name": "Kit-PvP"
+      "name": "Kit-PvP",
+      "command": "/quickjoin kitpvp",
+      "color": "#23b573",
+      "versions": "1.8<*"
     },
     "gungame": {
-      "name": "GunGame"
+      "name": "GunGame",
+      "command": "/quickjoin gungame",
+      "color": "#23b573",
+      "versions": "1.8<*"
     },
     "training": {
-      "name": "Training"
+      "name": "Training",
+      "command": "/quickjoin training",
+      "color": "#23b573",
+      "versions": "1.8<*"
     },
     "bffa": {
-      "name": "Build-FFA"
+      "name": "Build-FFA",
+      "command": "/quickjoin buildffa",
+      "color": "#23b573",
+      "versions": "1.8<*"
     },
     "bedwars": {
-      "name": "BedWars"
+      "name": "BedWars",
+      "command": "/quickjoin bedwars",
+      "color": "#23b573",
+      "versions": "1.8<*"
     },
     "fungames": {
-      "name": "FunGames"
+      "name": "FunGames",
+      "command": "/quickjoin fun_games",
+      "color": "#23b573",
+      "versions": "1.8<*"
     }
   }
 }
