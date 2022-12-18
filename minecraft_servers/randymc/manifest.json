@@ -8,12 +8,12 @@
     "%.randymc.com"
   ],
   "social": {
-    "web": "https://randymc.de/",
+    "web": "https://randymc.de",
     "twitter": "RandyMC",
     "teamspeak": "ts.randymc.de",
     "discord": "https://randymc.de/discord",
-    "web_shop": "https://shop.randymc.de/",
-    "web_support": "https://support.randymc.de/"
+    "web_shop": "https://shop.randymc.de",
+    "web_support": "https://support.randymc.de"
   },
   "discord": {
     "server_id": 322498802583994370,

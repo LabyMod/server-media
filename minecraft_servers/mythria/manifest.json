@@ -1,0 +1,42 @@
+{
+  "server_name": "mythria",
+  "nice_name": "MythriaNET",
+  "direct_ip": "mythria.net",
+  "supported_languages": [
+     "de"
+  ],
+  "social": {
+    "web": "https://mythria.net",
+    "tiktok": "MythriaNET",
+    "instagram": "MythriaNET",
+    "discord": "https://dc.mythria.net"
+  },
+  "gamemodes": {
+    "citybuild": {
+      "name": "CityBuild", 
+      "color": "#FFA500"
+    },
+    "private_server": {
+      "name": "Private Server", 
+      "color": "#FFA500"
+    },
+    "freebuild": {
+      "name": "FreeBuild", 
+      "color": "#FFA500"
+    }
+  },
+  "discord": {
+    "server_id": 822240856077238272,
+    "rename_to_minecraft_name": true
+  },
+  "brand": {
+     "primary": "#008FE8",
+     "background": "#0A56A5",
+     "text": "#FFFFFF"
+  }, 
+  "location": {
+     "city": "Frankfurt am Main",
+     "country": "Germany",
+     "country_code": "DE"
+  }
+}
