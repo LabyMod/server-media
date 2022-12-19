@@ -14,5 +14,10 @@
     "instagram": "germanrp.pr",
     "teamspeak": "germanrp.eu",
     "discord": "https://discord.gg/Vd75V3H3fs"
+  },
+  "location": {
+    "city": "Frankfurt am Main",
+    "country": "Germany",
+    "country_code": "DE"
   }
 }
