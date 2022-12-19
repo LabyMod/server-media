@@ -1,14 +1,27 @@
 {
   "server_name": "potatonetwork",
   "nice_name": "Potato Network",
-  "direct_ip": "mc.potatonetwork.de",
+  "direct_ip": "play.potatonetwork.de",
   "server_wildcards": [
     "%.potatonetwork.de"
   ],
   "social": {
     "twitter": "PotatoNetworkMC",
-    "discord": "https://discord.com/invite/JFwVkZ7",
-    "teamspeak": "ts.potatonetwork.de"
+    "discord": "https://discord.gg/JFwVkZ7"
+  },
+  "gamemodes": {
+    "buildffa": {
+      "name": "BuildFFA"
+    },
+    "harcoreffa": {
+      "name": "HardcoreFFA"
+    },
+    "bedwars": {
+      "name": "BedWars"
+    },
+    "stickduel": {
+      "name": "StickDuel"
+    }
   },
   "discord": {
     "server_id": 643165107886751757,
@@ -20,8 +33,8 @@
     "text": "#ffffff"
   },
   "location": {
-     "city": "Düsseldorf",
+     "city": "Frankfurt am Main",
      "country": "Germany",
      "country_code": "DE"
-   }
+  }
 }
