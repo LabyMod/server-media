@@ -6,13 +6,13 @@
         "%.earthmc.net"
     ],
     "social": {
-        "web": "https://earthmc.net/",
-        "web_shop": "https://store.earthmc.net/",
+        "web": "https://earthmc.net",
+        "web_shop": "https://store.earthmc.net",
         "twitter": "OfficialEarthMC",
         "discord": "https://discord.gg/TFVYpWQ"
     },
     "brand": {
-        "primary": "344abd",
-        "background": "3b8526"
+        "primary": "#344abd",
+        "background": "#3b8526"
     }
 }
