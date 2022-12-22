@@ -1,7 +1,7 @@
 {
   "server_name": "madcraft",
   "nice_name": "MadCraft",
-  "direct_ip": "madcraft.ir",
+  "direct_ip": "play.madcraft.ir",
   "server_wildcards": [
     "%.lymmzy.com"
   ],
@@ -9,7 +9,7 @@
     "fa"
   ],
   "social": {
-    "discord": "discord.gg/hRjhTkVPq9",
+    "discord": "https://discord.gg/hRjhTkVPq9",
     "web": "https://mc.madgames.ir"
   },
   "brand": {
