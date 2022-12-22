@@ -1,0 +1,50 @@
+{
+  "server_name": "madcraft",
+  "nice_name": "MadCraft",
+  "direct_ip": "madcraft.ir",
+  "server_wildcards": [
+    "%.lymmzy.com"
+  ],
+  "supported_languages": [
+    "fa"
+  ],
+  "social": {
+    "discord": "discord.gg/hRjhTkVPq9",
+    "web": "https://mc.madgames.ir"
+  },
+  "brand": {
+    "primary": "#d9ae21",
+    "background": "#ffd500",
+    "text": "#FFFFFF"
+  },
+  "gamemodes": {
+    "survival": {
+      "name": "Survival",
+      "color": "#FFA500"
+    },
+    "kitpvp": {
+      "name": "KitPVP",
+      "color": "#FFA500"
+    },
+    "skyblock": {
+      "name": "OneBlock",
+      "color": "#FFA500"
+    },
+    "oneblock": {
+      "name": "SkyBlock",
+      "color": "#FFA500"
+    },
+    "prison": {
+      "name": "Prison",
+      "color": "#FFA500"
+    },
+    "eggwars": {
+      "name": "Eggwars",
+      "color": "#FFA500"
+    },
+    "bedwars": {
+      "name": "Bedwars",
+      "color": "#FFA500"
+    }
+  }
+}
