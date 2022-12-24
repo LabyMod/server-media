@@ -3,7 +3,7 @@
   "nice_name": "Surnex",
   "direct_ip": "surnex.net",
   "supported_languages": [
-     "de"
+    "de"
   ],
   "social": {
     "web": "https://surnex.net",
@@ -21,3 +21,4 @@
     "country": "Germany",
     "country_code": "DE"
   }
+}
