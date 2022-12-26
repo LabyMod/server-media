@@ -1,6 +1,6 @@
 {
     "server_name": "labymod",
-    "nice_name": "LabyMod Lobby",
+    "nice_name": "LabyMod.net",
     "direct_ip": "labymod.net",
     "server_wildcards": [
         "%.labymod.net",
