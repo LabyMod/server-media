@@ -3,7 +3,7 @@
   "nice_name": "ArcticMC",
   "direct_ip": "eu.arcticmc.net",
   "server_wildcards": [
-    "*.arcticmc.net"
+    "%.arcticmc.net"
   ],
   "social": {
     "web_shop": "https://store.arcticmc.net",
