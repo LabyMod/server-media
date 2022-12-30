@@ -3,7 +3,8 @@
   "nice_name": "Brawl Games",
   "direct_ip": "mcbrawl.com",
   "server_wildcards": [
-    "%.mcbrawl.com"
+    "%.mcbrawl.com",
+    "%.brawl.com"
   ],
   "social": {
     "web": "https://www.mcbrawl.com",
