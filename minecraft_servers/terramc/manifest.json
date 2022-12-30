@@ -1,0 +1,29 @@
+{
+    "server_name": "terramc",
+    "nice_name": "TerraMC",
+    "direct_ip": "terramc.net",
+    "supported_languages": [
+        "de",
+        "en"
+    ],
+    "social": {
+        "web": "https://terramc.net",
+		"web_support": "https://terramc.net/forum",
+        "twitter": "TerraMCnet",
+        "tiktok": "terramcnet",
+        "instagram": "terramcnet",
+        "discord": "https://discord.gg/tbNaSWN",
+        "youtube": "https://www.youtube.com/channel/UC76wAuVoucTxtJeZIjeOupw",
+        "teamspeak": "terramc.net"
+    },
+    "brand": {
+        "primary": "#153F15",
+        "background": "#2A2A2A",
+        "text": "#FFFFFF"
+    },
+    "location": {
+        "city": "Frankfurt",
+        "country": "Germany"
+    },
+    "yt_trailer": "dERYAYRWh7w"
+}
