@@ -1,0 +1,18 @@
+{
+    "server_name": "byen",
+    "nice_name": "Byen",
+    "direct_ip": "mc.byen.net",
+    "server_wildcards": [
+      "byen.net",
+      "%.byen.net"
+    ],
+    "social": {
+      "web": "https://byen.net",
+      "web_shop": "https://butik.byen.mnet",
+      "web_support": "https://discord.byen.net",
+      "discord": "https://discord.byen.net"
+    },
+    "discord": {
+        "server_id": 1024400250649194586
+    },
+}
