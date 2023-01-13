@@ -24,21 +24,21 @@
       "command": "/citybuild",
       "url": "https://www.zirkoniamc.net/wiki/citybuild/",
       "color": "#9A00EE",
-      "versions": "1.18 - 1.19"
+      "versions": "1.18<*"
     },
     "creative": {
       "name": "Creative",
       "command": "/creative",
       "url": "https://www.zirkoniamc.net/wiki/creative/",
       "color": "#9A00EE",
-      "versions": "1.16 - 1.19"
+      "versions": "1.16<*"
     },
     "oneblock": {
       "name": "OneBlock",
       "command": "/oneblock",
       "url": "https://www.zirkoniamc.net/wiki/oneblock/",
       "color": "#9A00EE",
-      "versions": "1.18 - 1.19"
+      "versions": "1.18<*"
     }
   },
   "discord": {
