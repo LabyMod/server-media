@@ -1,7 +1,7 @@
 {
     "server_name": "lunar",
     "nice_name": "Lunar",
-    "direct_ip": "laby.gg",
+    "direct_ip": "lunar.gg",
     "server_wildcards": [
       "%.lunar.gg",
       "%.eu.lunar.gg"
@@ -10,7 +10,7 @@
 
     "social": {
       "web": "https://Lunar.gg",
-      "web_shop": "https://store.lunar.gg/",
+      "web_shop": "https://store.lunar.gg",
       "web_support": "https://www.lunar.gg/login?next=/tickets",
       "twitter": "Lunarnetwork",
       "discord": "https://lunar.gg/discord"
