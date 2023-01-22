@@ -1,0 +1,50 @@
+{
+  "server_name": "shadymc",
+  "nice_name": "ShadyMC",
+  "direct_ip": "ShadyMC.de",
+  "server_wildcards": [
+    "%.shadymc.de"
+  ],
+  "supported_languages": [
+     "de"
+  ],
+  "social": {
+    "web": "https://ShadyMC.de",
+    "twitter": "ShadyMC_Team",
+    "tiktok": "shadymc.de",
+    "discord": "https://discord.gg/PpePA4SEMb",
+    "youtube": "https://www.youtube.com/@ShadyMC",
+    "teamspeak": "ts.shadymc.de"
+  },
+  "gamemodes": {
+    "mlgrush": {
+      "name": "MLG Rush", 
+      "color": "#F0D300",
+      "versions": "1.8<*"
+    },
+    "knockbackffa": {
+      "name": "KnockbackFFA",
+      "color": "#4CF000",
+      "versions": "1.8<*"
+    },
+    "bedwars": {
+      "name": "BedWars",
+      "color": "#FF5C5C",
+      "versions": "1.8<*"
+    }
+  },
+  "discord": {
+    "server_id": 1044614597551857674,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#ff3838",
+     "background": "#8f0000",
+     "text": "#FFFFFF"
+  }, 
+  "location": {
+     "city": "Frankfurt",
+     "country": "Germany",
+     "country_code": "DE"
+  }
+}
