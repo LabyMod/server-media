@@ -6,27 +6,43 @@
     "%.tryhub.de"
   ],
   "supported_languages": [
-     "de"
+    "de"
   ],
   "social": {
     "web": "https://tryhub.de",
     "web_support": "https://tryhub.de/message-us",
     "twitter": "TryHubDE",
-    "discord": "https://discord.gg/PFpuaMEK2E",
-    "teamspeak": "tryhub.de"
+    "discord": "https://discord.gg/CAc2T8gY43"
   },
   "discord": {
     "server_id": 806169547408277564,
     "rename_to_minecraft_name": false
   },
   "brand": {
-     "primary": "#008FE8",
-     "background": "#0A56A5",
-     "text": "#FFFFFF"
-  }, 
+    "primary": "#008FE8",
+    "background": "#0A56A5",
+    "text": "#FFFFFF"
+  },
+  "gamemodes": {
+    "capture": {
+      "name": "Capture",
+      "color": "#FFFF55",
+      "command": "/forcejoin Capture"
+    },
+    "survivalgames": {
+      "name": "SurvivalGames",
+      "color": "#55FF55",
+      "command": "/forcejoin SurvivalGames"
+    },
+    "bedwars": {
+      "name": "BedWars",
+      "color": "#FF5555",
+      "command": "/forcejoin BedWars"
+    }
+  },
   "location": {
-     "city": "Frankfurt",
-     "country": "Germany",
-     "country_code": "DE"
-   }
+    "city": "Frankfurt",
+    "country": "Germany",
+    "country_code": "DE"
+  }
 }
