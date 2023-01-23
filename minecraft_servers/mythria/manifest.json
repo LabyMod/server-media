@@ -8,7 +8,6 @@
   "social": {
     "web": "https://mythria.net",
     "web_shop": "https://store.mythria.net",
-    "web_support": "https://discord.gg/CvmKExSyQB",
     "tiktok": "MythriaNET",
     "instagram": "MythriaNET",
     "discord": "https://dc.mythria.net"
@@ -20,6 +19,10 @@
     },
     "freebuild": {
       "name": "FreeBuild", 
+      "color": "#FFA500"
+    },
+    "privateserver": {
+      "name": "Private Server", 
       "color": "#FFA500"
     }
   },
