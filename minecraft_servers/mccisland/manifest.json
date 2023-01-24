@@ -1,0 +1,49 @@
+{
+  "server_name": "mccisland",
+  "nice_name": "MCCIsland",
+  "direct_ip": "play.mccisland.net",
+  "server_wildcards": [
+    "%.mccisland.net"
+  ],
+  "social": {
+    "web": "https://mccisland.net",
+    "web_shop": "https://store.mccisland.net",
+    "web_support": "https://mccisland.net/forums",
+    "twitter": "MCCisland_",
+    "tiktok": "mccisland",
+    "discord": "https://discord.gg/mcc",
+    "youtube": "https://www.youtube.com/Noxcrew"
+  },
+  "gamemodes": {
+    "hitw": {
+      "name": "Hole in the Wall", 
+      "url": "https://mccisland.net/threads/mcc-island-hole-in-the-wall.1046/"
+    },
+    "skybattle": {
+      "name": "Sky Battle", 
+      "url": "https://mccisland.net/threads/mcc-island-sky-battle.1031/"
+    },
+    "battlebox": {
+      "name": "Battle Box", 
+      "url": "https://mccisland.net/threads/mcc-island-battle-box.1013/"
+    },
+    "tgttos": {
+      "name": "To Get to the Other Side", 
+      "url": "https://mccisland.net/threads/mcc-island-tgttos.1086/"
+    }
+  },
+  "discord": {
+    "server_id": 707193125478596668,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#00f2fe",
+     "background": "#e69f47",
+     "text": "#FFFFFF"
+  }, 
+  "location": {
+     "country": "Canada",
+     "country_code": "CA"
+  },
+  "yt_trailer": "PX4JrJzoHSs"
+}
