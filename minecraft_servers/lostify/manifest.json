@@ -22,12 +22,12 @@
   },
   "gamemodes": {
     "citybuild": {
-      "name": "CityBuild-1.8",
+      "name": "CityBuild",
       "color": "#0095B0",
       "versions": "1.8<*"
     },
     "citybuildfuture": {
-      "name": "CityBuild-Future (1.17)",
+      "name": "CityBuild Future",
       "color": "#0095B0",
       "versions": "1.17.1<1.19.3"
     },
