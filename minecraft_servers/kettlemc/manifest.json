@@ -22,7 +22,6 @@
   "discord": {
     "server_id": 719284014283751425
   },
-  "user_stats": "https://cloudy.kettlemc.net/api/stats/players",
   "gamemodes": {
     "jet": {
       "name": "JET",
