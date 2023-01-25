@@ -17,33 +17,39 @@
     "instagram": "lostifynet",
     "tiktok": "lostifynet",
     "youtube": "https://www.youtube.com/channel/UCCUWTQ3p4mu8v5x-FVfEd3A",
-    "discord": "https://lostify.net/discord/",
+    "discord": "https://lostify.net/discord",
     "teamspeak": "lostify.net"
   },
   "gamemodes": {
     "citybuild": {
-      "name": "CityBuild-1.8",
-      "color": "#0095B0"
+      "name": "CityBuild",
+      "color": "#0095B0",
+      "versions": "1.8<*"
     },
     "citybuildfuture": {
-      "name": "CityBuild-Future (1.17)",
-      "color": "#0095B0"
+      "name": "CityBuild Future",
+      "color": "#0095B0",
+      "versions": "1.17.1<1.19.3"
     },
     "mcdurchspielen": {
       "name": "MCDurchspielen",
-      "color": "#0095B0"
+      "color": "#0095B0",
+      "versions": "1.17.1<1.19.3"
     },
     "minigames": {
       "name": "Minigames",
-      "color": "#0095B0"
+      "color": "#0095B0",
+      "versions": "1.8<*"
     },
      "ffa": {
       "name": "FFA",
-      "color": "#0095B0"
+      "color": "#0095B0",
+       "versions": "1.8<*"
     },
      "amongus": {
-      "name": "AmongUs",
-      "color": "#0095B0"
+      "name": "7vsMc",
+      "color": "#0095B0",
+      "versions": "1.17.1<1.19.3"
     }
   },
   "discord": {
@@ -56,7 +62,7 @@
     "text": "#ffffff"
   },
   "location": {
-     "city": "Frankfurt am Main",
+     "city": "Offenbach am Main",
      "country": "Germany",
      "country_code": "DE"
    }
