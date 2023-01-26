@@ -1,0 +1,23 @@
+{
+  "server_name": "germanrp",
+  "nice_name": "GermanRP",
+  "direct_ip": "germanrp.eu",
+  "server_wildcards": [
+    "%.germanrp.eu"
+  ],
+  "supported_languages": [
+     "de"
+  ],
+  "social": {
+    "web": "https://germanrp.eu",
+    "web_shop": "https://germanrp.craftingstore.net",
+    "instagram": "germanrp.pr",
+    "teamspeak": "germanrp.eu",
+    "discord": "https://discord.gg/Vd75V3H3fs"
+  },
+  "location": {
+    "city": "Frankfurt am Main",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}

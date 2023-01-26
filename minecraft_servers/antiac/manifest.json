@@ -11,6 +11,10 @@
   "social": {
     "web": "https://antiac.net",
     "web_shop": "https://shop.antiac.net",
+<<<<<< patch-1
+======
+    "web_support": "https://antiac.de/forum",
+>>>>>> master
     "twitter": "AntiACnet",
     "discord": "https://discord.gg/antiac"
   }

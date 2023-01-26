@@ -1,0 +1,20 @@
+{
+  "server_name": "madcraft",
+  "nice_name": "MadCraft",
+  "direct_ip": "play.madcraft.ir",
+  "server_wildcards": [
+    "%.madcraft.ir"
+  ],
+  "supported_languages": [
+    "fa"
+  ],
+  "social": {
+    "discord": "https://discord.gg/hRjhTkVPq9",
+    "web": "https://mc.madgames.ir"
+  },
+  "brand": {
+    "primary": "#d9ae21",
+    "background": "#ffd500",
+    "text": "#FFFFFF"
+  }
+}
