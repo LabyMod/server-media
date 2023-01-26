@@ -4,13 +4,14 @@
   "direct_ip": "antiac.net",
   "server_wildcards": [
     "%.antiac.net",
-    "%.antiac.eu",
-    "%.antiac.de",
-    "%.antiac.us"
+    "%.de.antiac.net",
+    
+    
   ],
   "social": {
     "web": "https://antiac.net",
-    "web_shop": "https://shop.antiac.net/",
+    "web_shop": "https://shop.antiac.net",
+    "web_support": https://antiac.net,
     "twitter": "AntiACnet",
     "discord": "https://discord.gg/antiac"
   }
