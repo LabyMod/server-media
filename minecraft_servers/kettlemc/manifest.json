@@ -9,14 +9,13 @@
   ],
   "supported_languages": [
     "de", 
-	"en"
+    "en"
   ],
   "social": {
     "web": "https://kettlemc.net",
     "instagram": "kettlemc_net",
     "twitter": "KettleMC",
-    "discord": "https://discord.gg/f9P9HEj",
-    "youtube": "https://www.youtube.com/@LeStegii"
+    "discord": "https://discord.gg/f9P9HEj"
   },
   "discord": {
     "server_id": 719284014283751425
