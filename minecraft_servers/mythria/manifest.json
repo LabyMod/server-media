@@ -7,6 +7,7 @@
   ],
   "social": {
     "web": "https://mythria.net",
+    "web_shop": "https://store.mythria.net",
     "tiktok": "MythriaNET",
     "instagram": "MythriaNET",
     "discord": "https://dc.mythria.net"
@@ -16,12 +17,12 @@
       "name": "CityBuild", 
       "color": "#FFA500"
     },
-    "private_server": {
-      "name": "Private Server", 
-      "color": "#FFA500"
-    },
     "freebuild": {
       "name": "FreeBuild", 
+      "color": "#FFA500"
+    },
+    "privateserver": {
+      "name": "Private Server", 
       "color": "#FFA500"
     }
   },
