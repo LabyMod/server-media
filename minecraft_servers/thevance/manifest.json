@@ -3,10 +3,10 @@
   "nice_name": "TheVance",
   "direct_ip": "TheVance.net",
 
-  "supported_languages": [
+  "supported_languages": {
      "en",
      "de"
-  ],
+  },
   "social": {
     "web": "https://thevance.net",
     "web_shop": "https://shop.thevance.net",
