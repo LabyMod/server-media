@@ -1,32 +1,34 @@
 {
-  "server_name": "thevance",
-  "nice_name": "TheVance",
-  "direct_ip": "TheVance.net",
+  "server_name": "royalpixels",
+  "nice_name": "RoyalPixels",
+  "direct_ip": "royalpixels.de",
 
-  "supported_languages": {
+  "supported_languages": [
      "en",
      "de"
-  },
+  ],
   "social": {
-    "web": "https://thevance.net",
-    "web_shop": "https://shop.thevance.net",
-    "twitter": "TheVanceNet",
-    "instagram": "thevancenet",
-    "discord": "https://discord.gg/ry9uNPUzaz",
-    "youtube": "hhttps://www.youtube.com/@thevance1398",
+    "web": "https://royalpixels.de",
+    "web_shop": "https://shop.royalpixels.de",
+    "twitter": "RoyalPixelsDE",
+    "tiktok": "royalpixels",
+    "instagram": "royalpixels.de",
+    "discord": "https://discord.gg/royalpixels",
+    "youtube": "https://www.youtube.com/RoyalPixels",
+    "teamspeak": "ts.royalpixels.de"
   },
   "discord": {
     "server_id": 645357420775997440,
     "rename_to_minecraft_name": false
   },
   "brand": {
-     "primary": "#1bb1e2",
-     "background": "#1bb1e2",
-     "text": "#FFFFFF"
+    "primary": "#1bb1e2",
+    "background": "#1bb1e2",
+    "text": "#FFFFFF"
   }, 
   "location": {
      "city": "Frankfurt am Main",
      "country": "Germany",
      "country_code": "DE"
-  },
+  }
 }
