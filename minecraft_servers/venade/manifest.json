@@ -1,6 +1,6 @@
 {
   "server_name": "venade",
-  "nice_name": "Venade",
+  "nice_name": "Venade Network",
   "direct_ip": "venade.net",
   "server_wildcards": [
     "%.venade.net"
