@@ -8,15 +8,13 @@
      "de"
   ],
   "social": {
-    "web": "https://thevance.net/",
-    "web_shop": "https://shop.thevance.net/",
+    "web": "https://thevance.net",
+    "web_shop": "https://shop.thevance.net",
     "twitter": "TheVanceNet",
     "instagram": "thevancenet",
     "discord": "https://discord.gg/ry9uNPUzaz",
     "youtube": "hhttps://www.youtube.com/@thevance1398",
-
   },
-  
   "discord": {
     "server_id": 645357420775997440,
     "rename_to_minecraft_name": false
