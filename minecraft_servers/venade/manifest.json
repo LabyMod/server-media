@@ -14,6 +14,9 @@
     "discord": "https://discord.gg/venade",
     "youtube": "https://www.youtube.com/@venadenetwork"
   },
+  "discord": {
+    "server_id": 615119175127400458
+  },
   "gamemodes": {
     "freeforall": {
       "name": "Free For All", 
