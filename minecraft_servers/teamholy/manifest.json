@@ -6,17 +6,17 @@
       "%.teamholy.de"
      ],
     "social": {
-      "web": "https://www.teamholy.de",
-      "web_shop": "https://shop.teamholy.de",
-      "web_support": "https://forum.teamholy.de",
-      "tiktok": "TeamHolyDE",
+      "web": "https://teamholy.de",
+      "web_shop": "https://teamholy.de/store",
+      "web_support": "https://teamholy.de",
+      "tiktok": "teamholyde",
       "youtube": "https://www.youtube.com/channel/UCvzdgyzp_hmlhGqD0QNObgg",
       "teamspeak": "teamholy.de",
       "twitter": "teamholymc",
-      "discord": "https://discord.gg/p9dubry6w7"
+      "discord": "https://discord.gg/RTCPkBRHrN"
     },
     "discord": {
-      "server_id": 770033160208515134,
+      "server_id": 1054872169731067945,
       "rename_to_minecraft_name": true
     },
     "brand": {
