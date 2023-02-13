@@ -13,7 +13,6 @@
   "social": {
     "web": "https://justchunks.net",
     "web_shop": "https://shop.justchunks.net",
-    "web_support": "https://forum.timolia.de",
     "twitter": "JustChunks",
     "discord": "https://discord.gg/wf94dAA",
     "tiktok": "justchunksnet",
@@ -51,6 +50,6 @@
   "user_stats": "https://justchunks.net/user/{userName}",
   "discord": {
     "server_id": 140450742329671680,
-    "rename_to_minecraft_name": true
+    "rename_to_minecraft_name": false
   }
 }
