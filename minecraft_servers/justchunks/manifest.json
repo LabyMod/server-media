@@ -3,7 +3,9 @@
   "nice_name": "JustChunks",
   "direct_ip": "mc.justchunks.net",
   "server_wildcards": [
-    "%.justchunks.net"
+    "%.justchunks.net",
+    "%.justchunks.de",
+    "%.justchunks.com"
   ],
   "supported_languages": [
     "de",
