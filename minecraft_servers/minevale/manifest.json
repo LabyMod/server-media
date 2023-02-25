@@ -37,7 +37,7 @@
     },
     "citybuild4": {
       "name": "CityBuild 4", 
-	  "color": "#52ff59",
+      "color": "#52ff59",
       "command": "/queue citybuild4"
     }
   }
