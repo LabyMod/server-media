@@ -13,25 +13,29 @@
     "web": "https://www.slown.eu",
     "web_shop": "https://slown.tebex.io",
     "web_support": "https://www.slown.eu/forum/index.php?route=/forum/view/8-allgemeiner-support",
-    "twitter": "slownserver",
+    "twitter": "slowneu",
     "tiktok": "slownserver",
     "instagram": "slownserver",
-    "discord": "https://discord.com/invite/vUcpZEJUS5",
+    "discord": "https://discord.com/invite/9q44zGDgJK",
     "youtube": "https://www.youtube.com/channel/UCrVHevI55CrhfT8nl8vBMNw",
     "teamspeak": "ts.slown.eu"
   },
   "gamemodes": {
-    "citybuild": {
-      "name": "Citybuild",
-      "color": "#FFFF55"
-    },
-    "creative": {
-      "name": "Creative",
-      "color": "#AA0000"
+    "buildffa": {
+      "name": "BuildFFA",
+      "color": "#FF55FF"
     },
     "freebuild": {
       "name": "Freebuild",
-      "color": "#55FF55"
+      "color": "#FFFF55"
+    },
+    "citybuild": {
+      "name": "Citybuild 1.8",
+      "color": "#FFFF55"
+    },
+    "skyblock": {
+      "name": "Skyblock 1.19",
+      "color": "#FFFF55"
     }
   },
   "discord": {
