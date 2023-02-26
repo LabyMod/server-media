@@ -1,0 +1,61 @@
+{
+  "server_name": "zelicraft",
+  "nice_name": "Zelicraft",
+  "direct_ip": "zelicraft.com",
+  "server_wildcards": [
+    "dev.zelicraft.com",
+    "potyh.es",
+    "followersland.me",
+    "endydev.com"
+  ],
+  "supported_languages": [
+     "es",
+     "en"
+  ],
+  "social": {
+    "web": "https://zelicraft.com",
+    "web_shop": "https://tienda.zelicraft.com",
+    "twitter": "Zelicraft",
+    "tiktok": "ZelikaFB",
+    "facebook": "ZelikaFB",
+    "instagram": "ZelikaFB",
+    "discord": "https://discord.gg/zelicraft",
+    "youtube": "https://www.youtube.com/c/ZelikaFB"
+  },
+  "gamemodes": {
+    "survival19": {
+      "name": "Survival 1.19.3", 
+      "color": "#009709",
+      "versions": "1.19.3"
+    },
+    "vsurvival": {
+      "name": "Survival Vanilla",
+      "color": "#00B932",
+      "versions": "1.19.3"
+    },
+    "skywars": {
+      "name": "SkyWars",
+      "color": "#DEAA02",
+      "versions": "1.8<*"
+    },
+    "squidgames": {
+      "name": "SquidGames",
+      "color": "#DEAA02",
+      "versions": "1.8<*"
+    }
+  },
+  "discord": {
+    "server_id": 992594325617770657,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#C502DE",
+     "background": "#780087",
+     "text": "#FFFFFF"
+  }, 
+  "location": {
+     "city": "Quebec",
+     "country": "Canada",
+     "country_code": "CA"
+  }
+}
