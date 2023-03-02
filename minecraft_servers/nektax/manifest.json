@@ -1,0 +1,32 @@
+{
+    "server_name": "nektax",
+    "nice_name": "Nektax Network",
+    "direct_ip": "nektax.net",
+    "server_wildcards": ["play.nektax.net"],
+    "supported_languages": [
+        "de",
+        "en",
+        "tr"
+    ],
+    "social": {
+        "web": "https://nektax.net",
+        "web_shop": "https://nektax.tebex.io",
+        "web_support": "https://discord.gg/zY7X4rVWEb",
+        "discord": "https://discord.gg/hCvQYmSp7M"
+    },
+    "brand": {
+        "primary": "#897edc",
+        "background": "#1c1c1c",
+        "text": "#FFFFFF"
+    },
+    "location": {
+        "city": "Frankfurt",
+        "country": "Germany",
+        "country_code": "DE"
+    },
+    "user_stats": "https://nektax.net/player/@{userName}",
+    "discord": {
+        "server_id": 713785331815678003,
+        "rename_to_minecraft_name": false
+    }
+}
