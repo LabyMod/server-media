@@ -9,7 +9,6 @@
         "tr"
     ],
     "social": {
-        "web": "https://nektax.net",
         "web_shop": "https://nektax.tebex.io",
         "web_support": "https://discord.gg/zY7X4rVWEb",
         "discord": "https://discord.gg/hCvQYmSp7M"
@@ -24,7 +23,6 @@
         "country": "Germany",
         "country_code": "DE"
     },
-    "user_stats": "https://nektax.net/player/@{userName}",
     "discord": {
         "server_id": 713785331815678003,
         "rename_to_minecraft_name": false
