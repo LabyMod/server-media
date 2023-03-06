@@ -29,5 +29,10 @@
   "discord": {
     "server_id": 939479293128474654,
     "rename_to_minecraft_name": false
-  }
+  },
+  "location": {
+     "city": "Frankfurt am Main",
+     "country": "Germany",
+     "country_code": "DE"
+   }
 }
