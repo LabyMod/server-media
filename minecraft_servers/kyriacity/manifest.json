@@ -3,12 +3,11 @@
   "nice_name": "KyriaCity",
   "direct_ip": "kyriacity.net",
   "supported_languages": [
-     "en",
-     "de"
+     "en", "de"
   ],
   "social": {
-    "web": "https://kyriacity.net",
-    "web_shop": "https://shop.kyriacity.net",
+    "web": "https://kyriacity.net/",
+    "web_shop": "https://shop.kyriacity.net/",
     "twitter": "KyriaCityNET",
     "instagram": "kyriacity",
     "tiktok": "kyriacitynet",
@@ -25,9 +24,10 @@
       "name": "Citybuild", 
       "color": "#FFFFFF",
       "versions": "1.19.3"
-    },
+    }
+  }
   "discord": {
     "server_id": 939479293128474654,
     "rename_to_minecraft_name": false
-  },
-}  
+  }
+}
