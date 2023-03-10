@@ -3,11 +3,11 @@
   "nice_name": "KyriaCity",
   "direct_ip": "kyriacity.net",
   "supported_languages": [
-     "en", "de"
+     "en", 
+     "de"
   ],
   "social": {
     "web": "https://kyriacity.net",
-    "web_shop": "https://shop.kyriacity.net",
     "twitter": "KyriaCityNET",
     "instagram": "kyriacitynet",
     "tiktok": "kyriacitynet",
