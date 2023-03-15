@@ -1,0 +1,48 @@
+{
+    "server_name":"minemenclub",
+    "nice_name":"Minemen Club",
+    "direct_ip":"minemen.club",
+    "server_wildcards":[
+      "na.minemen.club",
+      "eu.minemen.club",
+      "as.minemen.club"
+    ],
+    "social":{
+      "web":"https://minemen.club/",
+      "web_shop":"https://store.minemen.club/",
+      "web_support":"https://minemen.club/support",
+      "twitter":"Minemen_Network",
+      "tiktok":"minemen_club",
+      "discord":"https://discord.gg/minemenclub",
+      "youtube":"https://www.youtube.com/@minemen_club"
+    },
+    "gamemodes":{
+      "practice":{
+        "name":"Practice",
+        "color":"#E910E4"
+      },
+      "survival_games":{
+        "name":"Survival Games",
+        "color":"#E910E4"
+      },
+      "uhc_meetup":{
+        "name":"UHC Meetup",
+        "color":"#E910E4"
+      },
+      "uhc_games":{
+        "name":"UHC Games",
+        "color":"#E910E4"
+      }
+    },
+    "discord":{
+      "server_id":433420603375222784,
+      "rename_to_minecraft_name":false
+    },
+    "brand":{
+      "primary":"#E910E4",
+      "background":"#111317",
+      "text":"#FFEFEF"
+    },
+    "user_stats": "https://minemen.club/player/{userName}"
+  }
+  
