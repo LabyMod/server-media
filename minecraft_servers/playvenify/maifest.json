@@ -7,7 +7,8 @@
       "%.nurserver.net"
     ],
     "supported_languages": [
-      "de", "en"
+      "de", 
+      "en"
     ],
     "social": {
       "web": "https://www.playvenify.net",
@@ -32,4 +33,3 @@
       "text": "#ffffff"
     }
   }
-  
