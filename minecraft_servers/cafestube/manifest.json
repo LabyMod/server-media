@@ -1,0 +1,51 @@
+{
+    "server_name": "cafestube",
+    "nice_name": "CafeStube",
+    "direct_ip": "cafestu.be",
+    "server_wildcards": ["%.cafestu.be"],
+    "supported_languages": ["en", "de", "no", "fr"],
+    "social": {
+        "web": "https://cafestu.be",
+        "twitter": "CafeStube",
+        "tiktok": "cafestube",
+        "discord": "https://discord.com/invite/Pm9P5pa",
+        "youtube": "https://www.youtube.com/@cafestube",
+        "instagram": "cafestube"
+    },
+    "gamemodes": {
+        "catch": {
+            "name": "Catch",
+            "color": "#55FF55"
+        },
+        "tumble": {
+            "name": "Tumble",
+            "color": "#FF55FF"
+        },
+        "skirmish": {
+            "name": "Skirmish",
+            "color": "#00AA00"
+        },
+        "beebattle": {
+            "name": "BeeBattle",
+            "color": "#FFFF55"
+        },
+        "battlemix": {
+            "name": "BattleMix",
+            "color": "#55FFFF"
+        }
+    },
+    "discord": {
+        "server_id": 694814874630488116,
+        "rename_to_minecraft_name": false
+    },
+    "brand": {
+        "primary": "#FFFF55",
+        "background": "#0A56A5",
+        "text": "#FFFFFF"
+    },
+    "location": {
+        "city": "Falkenstein",
+        "country": "Germany",
+        "country_code": "DE"
+    }
+}
