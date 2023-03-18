@@ -1,0 +1,27 @@
+{
+  "server_name": "leb",
+  "nice_name": "Legacy Edition: Battle",
+  "direct_ip": "leb.derpbox.xyz",
+  "server_wildcards": [
+    "leb.derpbox.xyz",
+    "leb-2.derpbox.xyz",
+    "leb-3.derpbox.xyz",
+    "germany.leb.derpbox.xyz",
+    "test.leb.derpbox.xyz"
+  ],
+  "social": {
+    "web": "https://lemsite.derpbox.xyz/",
+    "web_shop": "https://lemsite.derpbox.xyz/donate",
+    "web_support": "https://lemsite.derpbox.xyz/rules",
+    "discord": "https://discord.gg/5q2zz3EdYf"
+  },
+  "discord": {
+    "server_id": 860805393441357834,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#F0B900",
+     "background": "#F09C00",
+     "text": "#FFFFFF"
+  }
+}
