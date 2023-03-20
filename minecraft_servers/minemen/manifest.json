@@ -5,7 +5,25 @@
     "server_wildcards":[
       "na.minemen.club",
       "eu.minemen.club",
-      "as.minemen.club"
+      "as.minemen.club",
+      "mineman.club",
+      "na.mineman.club",
+      "eu.mineman.club",
+      "as.mineman.club",
+      "minemenclub.com",
+      "minemenclub.com",
+      "minemenclub.com",
+      "na.minemenclub.com",
+      "eu.minemenclub.com",
+      "as.minemenclub.com",
+      "zonix.us",
+      "na.zonix.us",
+      "eu.zonix.us",
+      "as.zonix.us",
+      "pvp.bar",
+      "na.pvp.bar",
+      "eu.pvp.bar",
+      "as.pvp.bar"
     ],
     "social":{
       "web":"https://minemen.club",
@@ -19,20 +37,29 @@
     "gamemodes":{
       "practice":{
         "name":"Practice",
-        "color":"#E910E4"
+        "color":"#FFAA00",
+        "command":"/joinqueue na-practice"
       },
       "survival_games":{
         "name":"Survival Games",
-        "color":"#E910E4"
+        "color":"#E910E4",
+        "command":"/joinqueue na-sg"
       },
       "uhc_meetup":{
         "name":"UHC Meetup",
-        "color":"#E910E4"
+        "color":"#E910E4",
+        "command":"/joinqueue na-um"
       },
       "uhc_games":{
         "name":"UHC Games",
-        "color":"#E910E4"
+        "color":"#E910E4",
+        "command":"/joinqueue na-ug"
       }
+    },
+    "chat": {
+      "message_formats": [
+        "^(?<rank>\\[.+?\\]\\s)?(?<sender>[a-zA-Z0-9_]{1,16})(\\s(?<tag>[a-zA-Z0-9_ ]+))?:(?<message>.*)$"
+      ]
     },
     "discord":{
       "server_id":433420603375222784,
@@ -43,6 +70,7 @@
       "background":"#111317",
       "text":"#FFEFEF"
     },
-    "user_stats": "https://minemen.club/player/{userName}"
+    "user_stats": "https://minemen.club/player/{userName}",
+    "command_delay": 3000
   }
   
