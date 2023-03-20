@@ -1,0 +1,38 @@
+{
+  "server_name": "projektweihnachten",
+  "nice_name": "Projekt Weihnachten 2023",
+  "direct_ip": "projekt-weihnachten.de",
+  "server_wildcards": ["%.projekt-weihnachten.de", "%.projektweihnachten.de"],
+  "supported_languages": ["de"],
+  "social": {
+    "web": "https://projekt-weihnachten.de",
+    "discord": "https://discord.gg/52HxD2N",
+    "youtube": "https://www.youtube.com/@RedstoneSucht"
+  },
+  "gamemodes": {
+    "survival": {
+      "name": "Survival",
+      "color": "#7DC5F2",
+      "versions": "1.19.4"
+    },
+    "spread2": {
+      "name": "Spread 2",
+      "color": "#138F4F"
+    }
+  },
+  "discord": {
+    "server_id": 317274714307428362,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#128fd0",
+    "background": "#0a0a0a",
+    "text": "#dddde2"
+  },
+  "location": {
+    "city": "Düsseldorf",
+    "country": "Germany",
+    "country_code": "DE"
+  },
+  "yt_trailer": "r7EneCO4krQ"
+}
