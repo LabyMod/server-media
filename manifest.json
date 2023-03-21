@@ -4,7 +4,7 @@
   "direct_ip": "minetropical.net",
   "server_wildcards": [
     "%.minetropical.net",
-	"%.minetropical.eu",
+    "%.minetropical.eu",
     "%.minetropical.de"
   ],
   "supported_languages": [
