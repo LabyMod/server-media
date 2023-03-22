@@ -1,0 +1,40 @@
+{
+  "server_name": "fynncraft.de",
+  "nice_name": "FynnCraft.de",
+  "direct_ip": "fynncraft.de",
+  "server_wildcards": [
+    "%.fynncraft.de",
+    "%.fynncraft.eu",
+    "%.fynncraft.xyz"
+  ],
+  "social": {
+    "web": "https://fynncraft.de",
+    "twitter": "FynnCraftDE",
+    "tiktok": "FynnCraft",
+    "youtube": "https://www.youtube.com/@FynnCraft",
+    "discord": "https://discord.com/invite/shqWDttxyP"
+  },
+  "gamemodes": {
+    "bingo": {
+      "name": "AlleGegenEinen",
+      "command": "/gameteleport AlleGegenEinen",
+      "versions": "1.19.1<*"
+    },
+    "bedwars": {
+      "name": "Events",
+      "command": "/gameteleport Events"
+    },
+    "skywars": {
+      "name": "SkyWarsFFA",
+      "command": "/gameteleport SkyWarsFFA"
+    },
+    "citybuild": {
+      "name": "Survival",
+      "command": "/gameteleport Survival"
+    }
+  },
+  "discord": {
+    "server_id": 789165233540956180,
+    "rename_to_minecraft_name": false
+  }
+}
