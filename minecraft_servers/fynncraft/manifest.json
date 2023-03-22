@@ -15,20 +15,20 @@
     "discord": "https://discord.com/invite/shqWDttxyP"
   },
   "gamemodes": {
-    "bingo": {
+    "allegegeneinen": {
       "name": "AlleGegenEinen",
       "command": "/gameteleport AlleGegenEinen",
       "versions": "1.19.1<*"
     },
-    "bedwars": {
+    "events": {
       "name": "Events",
       "command": "/gameteleport Events"
     },
-    "skywars": {
+    "skywarsffa": {
       "name": "SkyWarsFFA",
       "command": "/gameteleport SkyWarsFFA"
     },
-    "citybuild": {
+    "survival": {
       "name": "Survival",
       "command": "/gameteleport Survival"
     }
