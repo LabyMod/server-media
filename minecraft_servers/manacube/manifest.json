@@ -27,61 +27,61 @@
   "gamemodes": {
     "skyblock": {
       "name": "SkyBlock",
-      "color": "#FFFFFF",
+      "color": "#c4a525",
       "command": "/skyblock",
       "versions": "1.18<*"
     },
     "olympus_prison": {
       "name": "Olympus Prison",
-      "color": "#FFFFFF",
+      "color": "#c4a525",
       "command": "/olympus",
       "versions": "1.19<*"
     },
     "survival": {
       "name": "Survival",
-      "color": "#FFFFFF",
+      "color": "#c4a525",
       "command": "/survival",
       "versions": "1.19<*"
     },
     "parcour": {
       "name": "Parcour",
-      "color": "#FFFFFF",
+      "color": "#c4a525",
       "command": "/parcour",
       "versions": "1.8<*"
     },
     "islands": {
       "name": "Islands",
-      "color": "#FFFFFF",
+      "color": "#c4a525",
       "command": "/island",
       "versions": "1.16<*"
     },
     "anarchy": {
       "name": "Anarchy",
-      "color": "#FFFFFF",
+      "color": "#c4a525",
       "command": "/anarchy",
       "versions": "1.16<*"
     },
     "creative": {
       "name": "Creative",
-      "color": "#FFFFFF",
+      "color": "#c4a525",
       "command": "/creative",
       "versions": "1.8<*"
     },
     "earth_towny": {
       "name": "Earth Towny",
-      "color": "#FFFFFF",
+      "color": "#c4a525",
       "command": "/earth",
       "versions": "1.19<*"
     },
     "factions": {
       "name": "Factions",
-      "color": "#FFFFFF",
+      "color": "#c4a525",
       "command": "/factions",
       "versions": "1.8<*"
     },
     "kitpvp": {
       "name": "KitPvP",
-      "color": "#FFFFFF",
+      "color": "#c4a525",
       "command": "/kitpvp",
       "versions": "1.8<*"
     }
