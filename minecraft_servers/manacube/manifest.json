@@ -24,6 +24,68 @@
     "server_id": 224546291663896578,
     "rename_to_minecraft_name": false
   },
+  "gamemodes": {
+    "skyblock": {
+      "name": "SkyBlock",
+      "color": "#FFFFFF",
+      "command": "/skyblock",
+      "versions": "1.18<*"
+    },
+    "olympus_prison": {
+      "name": "Olympus Prison",
+      "color": "#FFFFFF",
+      "command": "/olympus",
+      "versions": "1.19<*"
+    },
+    "survival": {
+      "name": "Survival",
+      "color": "#FFFFFF",
+      "command": "/survival",
+      "versions": "1.19<*"
+    },
+    "parcour": {
+      "name": "Parcour",
+      "color": "#FFFFFF",
+      "command": "/parcour",
+      "versions": "1.8<*"
+    },
+    "islands": {
+      "name": "Islands",
+      "color": "#FFFFFF",
+      "command": "/island",
+      "versions": "1.16<*"
+    },
+    "anarchy": {
+      "name": "Anarchy",
+      "color": "#FFFFFF",
+      "command": "/anarchy",
+      "versions": "1.16<*"
+    },
+    "creative": {
+      "name": "Creative",
+      "color": "#FFFFFF",
+      "command": "/creative",
+      "versions": "1.8<*"
+    },
+    "earth_towny": {
+      "name": "Earth Towny",
+      "color": "#FFFFFF",
+      "command": "/earth",
+      "versions": "1.19<*"
+    },
+    "factions": {
+      "name": "Factions",
+      "color": "#FFFFFF",
+      "command": "/factions",
+      "versions": "1.8<*"
+    },
+    "kitpvp": {
+      "name": "KitPvP",
+      "color": "#FFFFFF",
+      "command": "/kitpvp",
+      "versions": "1.8<*"
+    }
+  },
   "yt_trailer": "YpNGlgZn2u4",
   "user_stats": "https://manacube.com/stats/player/{userName}"
 }
