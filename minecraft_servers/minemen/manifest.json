@@ -1,0 +1,76 @@
+{
+    "server_name":"minemen",
+    "nice_name":"Minemen Club",
+    "direct_ip":"minemen.club",
+    "server_wildcards":[
+      "na.minemen.club",
+      "eu.minemen.club",
+      "as.minemen.club",
+      "mineman.club",
+      "na.mineman.club",
+      "eu.mineman.club",
+      "as.mineman.club",
+      "minemenclub.com",
+      "minemenclub.com",
+      "minemenclub.com",
+      "na.minemenclub.com",
+      "eu.minemenclub.com",
+      "as.minemenclub.com",
+      "zonix.us",
+      "na.zonix.us",
+      "eu.zonix.us",
+      "as.zonix.us",
+      "pvp.bar",
+      "na.pvp.bar",
+      "eu.pvp.bar",
+      "as.pvp.bar"
+    ],
+    "social":{
+      "web":"https://minemen.club",
+      "web_shop":"https://store.minemen.club",
+      "web_support":"https://minemen.club/support",
+      "twitter":"Minemen_Network",
+      "tiktok":"minemen_club",
+      "discord":"https://discord.gg/minemenclub",
+      "youtube":"https://www.youtube.com/@minemen_club"
+    },
+    "gamemodes":{
+      "practice":{
+        "name":"Practice",
+        "color":"#FFAA00",
+        "command":"/joinqueue na-practice"
+      },
+      "survival_games":{
+        "name":"Survival Games",
+        "color":"#E910E4",
+        "command":"/joinqueue na-sg"
+      },
+      "uhc_meetup":{
+        "name":"UHC Meetup",
+        "color":"#E910E4",
+        "command":"/joinqueue na-um"
+      },
+      "uhc_games":{
+        "name":"UHC Games",
+        "color":"#E910E4",
+        "command":"/joinqueue na-ug"
+      }
+    },
+    "chat": {
+      "message_formats": [
+        "^(?<rank>\\[.+?\\]\\s)?(?<sender>[a-zA-Z0-9_]{1,16})(\\s(?<tag>[a-zA-Z0-9_ ]+))?:(?<message>.*)$"
+      ]
+    },
+    "discord":{
+      "server_id":433420603375222784,
+      "rename_to_minecraft_name":false
+    },
+    "brand":{
+      "primary":"#E910E4",
+      "background":"#111317",
+      "text":"#FFEFEF"
+    },
+    "user_stats": "https://minemen.club/player/{userName}",
+    "command_delay": 3000
+  }
+  

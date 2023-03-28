@@ -20,22 +20,27 @@
     "gamemodes":{
       "bedwars":{
         "name":"BedWars",
-        "color":"#5BC3FF"
+        "color":"#5BC3FF",
+        "command":"/queue join BedWars2v2"
       },
       "1v1bed":{
         "name":"1v1 BedWars",
+        "command":"/queue join 1v1Bed",
         "color":"#5BC3FF"
       },
       "fallenkingdoms":{
         "name":"Fallen Kingdoms",
+        "command":"/queue join FK",
         "color":"#5BC3FF"
       },
       "jumpleague":{
         "name":"JumpLeague",
+        "command":"/queue join JL",
         "color":"#5BC3FF"
       },
       "blocksumo":{
         "name":"BlockSumo",
+        "command":"/queue join BS",
         "color":"#5BC3FF"
       },
       "kitpvp":{

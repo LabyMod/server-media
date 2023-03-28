@@ -1,0 +1,43 @@
+{
+  "server_name": "lem",
+  "nice_name": "Legacy Edition: Minigames",
+  "direct_ip": "minigames.derpbox.xyz",
+  "server_wildcards": [
+    "%.derpbox.xyz"
+  ],
+  "social": {
+    "web": "https://lemsite.derpbox.xyz",
+    "web_shop": "https://lemsite.derpbox.xyz/donate",
+    "discord": "https://discord.gg/5q2zz3EdYf"
+  },
+  "gamemodes": {
+    "battle1": {
+      "name": "Battle-1", 
+      "command": "/server battle_1"
+    },
+    "battle2": {
+      "name": "Battle-2", 
+      "command": "/server battle_2"
+    },
+    "battle3": {
+      "name": "Battle-3", 
+      "command": "/server battle_3"
+    },
+    "battlegermany": {
+      "name": "Battle-Germany" 
+    },
+    "battleexperimental": {
+      "name": "Battle-Experimental", 
+      "command": "/server battle_experimental"
+    }
+  },
+  "discord": {
+    "server_id": 860805393441357834,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#0F1011",
+     "background": "#000000",
+     "text": "#FFFFFF"
+  }
+}
