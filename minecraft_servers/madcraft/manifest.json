@@ -36,10 +36,6 @@
       "name": "KitPVP",
       "command": "/kitpvp"
     },
-	  "Arcade":{
-      "name": "Arcade",
-      "command": "/arcade"
-	  }
   },
   "brand": {
     "primary": "#d9ae21",
