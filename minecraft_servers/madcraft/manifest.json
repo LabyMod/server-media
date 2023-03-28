@@ -35,7 +35,7 @@
     "kitpvp":{
       "name": "KitPVP",
       "command": "/kitpvp"
-    },
+    }
   },
   "brand": {
     "primary": "#d9ae21",
