@@ -1,6 +1,6 @@
 {
   "server_name": "madcraft",
-  "nice_name": "MadCraft",
+  "nice_name": "MadCraft Network",
   "direct_ip": "play.madcraft.ir",
   "server_wildcards": [
     "%.madcraft.ir"
@@ -10,7 +10,36 @@
   ],
   "social": {
     "discord": "https://discord.gg/hRjhTkVPq9",
-    "web": "https://mc.madgames.ir"
+    "web": "https://madcraft.ir",
+    "web_shop": "https://mc.madgames.ir",
+    "teamspeak": "ts69.ir",
+    "instagram": "madcraft.ir",
+  },
+  "gamemodes": {
+    "skyblock": {
+      "name": "SkyBlock",
+      "command": "/skyblock"
+    },
+    "bedwars":{
+      "name": "BedWars",
+      "command": "/bedwars"
+    },
+    "survival":{
+      "name": "Survival",
+      "command": "/survival"
+    },
+    "oneblock":{
+      "name": "OneBlock",
+      "command": "/oneblock"
+    },
+    "kitpvp":{
+      "name": "KitPVP",
+      "command": "/kitpvp"
+    },
+	  "Arcade":{
+      "name": "Arcade",
+      "command": "/arcade"
+	  }
   },
   "brand": {
     "primary": "#d9ae21",
