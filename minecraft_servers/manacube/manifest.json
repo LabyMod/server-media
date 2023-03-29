@@ -43,10 +43,10 @@
       "command": "/survival",
       "versions": "1.19<*"
     },
-    "parcour": {
-      "name": "Parcour",
+    "parkour": {
+      "name": "Parkour",
       "color": "#c4a525",
-      "command": "/parcour",
+      "command": "/parkour",
       "versions": "1.8<*"
     },
     "islands": {
