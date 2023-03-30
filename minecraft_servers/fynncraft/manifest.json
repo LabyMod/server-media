@@ -3,9 +3,11 @@
   "nice_name": "FynnCraft.de",
   "direct_ip": "fynncraft.de",
   "server_wildcards": [
-    "%.fynncraft.de",
-    "%.fynncraft.eu",
-    "%.fynncraft.xyz"
+    "fynncraft.de",
+    "fynncraft.eu",
+    "fynncraft.xyz",
+    "mc.fynn-int.de",
+    "mc.shield.fynn-int.de"
   ],
   "social": {
     "web": "https://fynncraft.de",
