@@ -12,7 +12,7 @@
     "web": "https://sulentia.net",
     "web_support": "https://forum.sulentia.net",
     "twitter": "NetzwerkSul",
-    "tiktok": "mcsulentia",
+    "tiktok": "sulentiamc",
     "instagram": "sulentia_netzwerk",
     "discord": "https://discord.gg/x9XS7X8ggJ",
     "youtube": "https://www.youtube.com/channel/UCeAYM9xJTEZLj8zm0IQdOnw",
@@ -21,5 +21,10 @@
   "discord": {
     "server_id": 841711753876078622,
     "rename_to_minecraft_name": false
+  },
+  "location": {
+    "city": "Frankfurt",
+    "country": "Germany",
+    "country_code": "DE"
   }
 }

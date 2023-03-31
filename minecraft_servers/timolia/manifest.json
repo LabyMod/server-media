@@ -21,17 +21,47 @@
     "youtube": "https://www.youtube.com/Timolia"
   },
   "gamemodes": {
+    "jumpworld16": {
+      "name": "JumpWorld",
+      "command": "/quickjoin jumpworld16",
+      "url": "https://www.timolia.de/games#jumpworld",
+      "color": "#0095B0",
+      "versions": "1.16.5<*"
+    },
     "jumpworld": {
-      "name": "JumpWorld [1.8/1.16]",
+      "name": "JumpWorld",
       "command": "/quickjoin jumpworld",
       "url": "https://www.timolia.de/games#jumpworld",
-      "color": "#0095B0"
+      "color": "#0095B0",
+      "versions": "1.8<1.16.4"
+    },
+    "pvp16": {
+      "name": "1vs1",
+      "command": "/quickjoin pvp16",
+      "url": "https://www.timolia.de/games#pvp",
+      "color": "#0095B0",
+      "versions": "1.16.5<*"
     },
     "pvp": {
-      "name": "1vs1 [1.8/1.16]",
-      "command": "/quickjoin 1vs1",
+      "name": "1vs1",
+      "command": "/quickjoin pvp",
       "url": "https://www.timolia.de/games#pvp",
-      "color": "#0095B0"
+      "color": "#0095B0",
+      "versions": "1.8<1.16.4"
+    },
+    "4rena16": {
+      "name": "4rena",
+      "command": "/quickjoin 4rena16",
+      "url": "https://www.timolia.de/games#4rena",
+      "color": "#0095B0",
+      "versions": "1.16.5<*"
+    },
+    "4rena": {
+      "name": "4rena",
+      "command": "/quickjoin 4rena",
+      "url": "https://www.timolia.de/games#4rena",
+      "color": "#0095B0",
+      "versions": "1.8<1.16.4"
     },
     "castles": {
       "name": "Castles",
@@ -42,8 +72,7 @@
     "uhc": {
       "name": "UHC",
       "color": "#0095B0",
-      "url": "https://www.timolia.de/games#uhc",
-      "command": "/joinuhc <name> [password]"
+      "url": "https://www.timolia.de/games#uhc"
     },
     "arcade": {
       "name": "Arcade",
@@ -55,12 +84,6 @@
       "name": "SurvivalQuest",
       "command": "/quickjoin survivalquest",
       "url": "https://www.timolia.de/games#survivalquest",
-      "color": "#0095B0"
-    },
-    "4rena": {
-      "name": "4rena",
-      "command": "/quickjoin 4rena",
-      "url": "https://www.timolia.de/games#4rena",
       "color": "#0095B0"
     },
     "splun": {
@@ -83,6 +106,11 @@
     "city": "Nürnberg",
     "country": "Germany",
     "country_code": "DE"
+  },
+  "chat": {
+    "message_formats": [
+      "^§[a-f0-9](?<level>\\d+)( \\||§8 \\|) §[a-f0-9](?<sender>[a-zA-Z0-9_]{2,16})§r§7: §f(?<message>.*)$"
+    ]
   },
   "yt_trailer": "vNF-ztQGnUo",
   "user_stats": "https://www.timolia.de/stats/{userName}"

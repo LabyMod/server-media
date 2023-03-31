@@ -1,0 +1,65 @@
+{
+  "server_name": "dyhntastic",
+  "nice_name": "Dyhntastic.net",
+  "direct_ip": "dyhntastic.net",
+  "server_wildcards": [
+    "%.dyhntastic.net",
+	"%.dyhntastic.com",
+    "%.dyhntastic.de",
+	"%.dyhntastic.eu"
+  ],
+  "supported_languages": [
+    "de",
+    "en"
+  ],
+  "social": {
+    "web": "https://dyhntastic.net",
+    "twitter": "Dyhntastic",
+    "tiktok": "Dyhntastic",
+    "instagram": "dyhntastic",
+	"tiktok": "dyhntastic",
+    "discord": "https://discord.com/invite/xaN9DV9jAm",
+    "teamspeak": "Dyhntastic.net"
+  },
+  "gamemodes": {
+    "bedwars": {
+      "name": "Bedwars",
+	  "color": "#FF5555",
+      "command": "/gamejoin bedwars"
+    },
+    "mlgrush": {
+      "name": "MLGRush",
+	  "color": "FFAA00",
+      "command": "/gamejoin mlgrush"
+    },
+    "knockit": {
+      "name": "KnockIt",
+	  "color": "5555FF",
+      "command": "/gamejoin knockit"
+    },
+    "soccer": {
+      "name": "Soccer",
+	  "color": "0000AA",
+      "command": "/gamejoin Soccer"
+    },
+    "citybuild": {
+      "name": "CityBuild",
+	  "color": "00AA00",
+      "command": "/gamejoin citybuild"
+    },
+    "oneblock": {
+      "name": "OneBlock",
+	  "color": "00AA00",
+      "command": "/gamejoin oneblock"
+    }
+  },
+  "discord": {
+    "server_id": 634508354416279554,
+    "rename_to_minecraft_name": true
+  },
+  "location": {
+    "city": "Frankfurt",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}

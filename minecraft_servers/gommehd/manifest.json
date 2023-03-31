@@ -7,14 +7,106 @@
     "%.gommehd.de"
   ],
   "social": {
-    "web": "https://gommehd.net/",
-    "web_shop": "https://shop.gommehd.net/",
-    "web_support": "https://gommehdnet.zendesk.com/",
+    "web": "https://gommehd.net",
+    "web_shop": "https://shop.gommehd.net",
+    "web_support": "https://gommehdnet.zendesk.com",
     "twitter": "GommeHDnet",
     "tiktok": "gommehdnetwork",
     "youtube": "https://www.youtube.com/GommeHDnet",
     "discord": "https://discord.com/invite/Y9qVwk4",
     "teamspeak": "GommeHD.net"
+  },
+  "gamemodes": {
+    "bingo": {
+      "name": "Bingo",
+      "command": "/gameteleport bingo",
+      "versions": "1.19.1<*"
+    },
+    "bedwars": {
+      "name": "BedWars",
+      "command": "/gameteleport bw"
+    },
+    "skywars": {
+      "name": "SkyWars",
+      "command": "/gameteleport skywars"
+    },
+    "citybuild": {
+      "name": "CityBuild",
+      "command": "/gameteleport citybuild",
+      "versions": "1.19.1<*"
+    },
+    "gommunity": {
+      "name": "Gommunity",
+      "command": "/gameteleport gommunity"
+    },
+    "moneymaker": {
+      "name": "MoneyMaker",
+      "command": "/gameteleport idlemine"
+    },
+    "jumpleague": {
+      "name": "JumpLeague",
+      "command": "/gameteleport jl"
+    },
+    "hideandseek": {
+      "name": "Hide'n'Seek",
+      "command": "/gameteleport hns",
+      "versions": "1.19.1<*"
+    },
+    "ttt": {
+      "name": "TTT",
+      "command": "/gameteleport ttt",
+      "versions": "1.19.1<*"
+    },
+    "partygames": {
+      "name": "PartyGames",
+      "command": "/gameteleport pg",
+      "versions": "1.19.1<*"
+    },
+    "gungame": {
+      "name": "GunGame",
+      "command": "/gameteleport ffagungame"
+    },
+    "cookies": {
+      "name": "Cookies",
+      "command": "/gameteleport cookies"
+    },
+    "game1vs1": {
+      "name": "Game1vs1",
+      "command": "/gameteleport game1vs1"
+    },
+    "kit1vs1": {
+      "name": "Kit1vs1",
+      "command": "/gameteleport 1vs1"
+    },
+    "ffa": {
+      "name": "FFA",
+      "command": "/gameteleport hardcore"
+    },
+    "ragemode": {
+      "name": "RageMode",
+      "command": "/gameteleport ragemode"
+    },
+    "endergames": {
+      "name": "EnderGames",
+      "command": "/gameteleport eg"
+    },
+    "speeduhc": {
+      "name": "SpeedUHC",
+      "command": "/gameteleport speeduhc"
+    },
+    "masterbuilders": {
+      "name": "MasterBuilders",
+      "command": "/gameteleport mb",
+      "versions": "1.19.1<*"
+    },
+    "survivalgames": {
+      "name": "SurvivalGames",
+      "command": "/gameteleport sg24"
+    },
+    "cores": {
+      "name": "Cores",
+      "command": "/gameteleport cores"
+    }
   },
   "discord": {
     "server_id": 433699842389180417,

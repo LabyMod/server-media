@@ -1,55 +1,55 @@
 {
-    "server_name": "nitrox",
-    "nice_name": "NitroX",
-    "direct_ip": "play-nitrox.net",
-    "social": {
-      "tiktok": "nitroxnet",
-      "instagram": "nitroxnet",
-      "teamspeak": "ts.nitroxnetwork.eu",
-      "discord": "https://discord.gg/nitroxnet"
+  "server_name": "nitrox",
+  "nice_name": "NitroX",
+  "direct_ip": "nitrox.gg",
+  "social": {
+    "tiktok": "nitroxnet",
+    "instagram": "nitroxnet",
+    "teamspeak": "ts.nitrox.gg",
+    "discord": "https://discord.gg/nitroxnet"
+  },
+  "discord": {
+    "server_id": 966020442571808848,
+    "rename_to_minecraft_name": false
+  },
+  "gamemodes": {
+    "citybuild": {
+      "name": "Citybuild",
+      "color": "#00ff48"
     },
-    "discord": {
-      "server_id": 966020442571808848,
-      "rename_to_minecraft_name": false
+    "bedwars": {
+      "name": "Bedwars",
+      "color": "#ff0040"
     },
-    "gamemodes": [
-      {
-          "name": "Citybuild",
-          "color": "#00ff48"
-      },
-      {
-          "name": "Bedwars",
-          "color": "#ff0040"
-      },
-      {
-          "name": "KnockIt",
-          "color": "#ffcc00"
-      },
-      {
-          "name": "OneInTheChamber",
-          "color": "#a8034e"
-      },
-      {
-          "name": "Eisbär",
-          "color": "#05d7f7"
-      },
-      {
-          "name": "TNTRun",
-          "color": "#f70535"
-      },
-      {
-          "name": "Goldjäger",
-          "color": "#f79605"
-      }
-  ],
-    "brand": {
-       "primary": "#ff0000",
-       "background": "#ff0000",
-       "text": "#d6d6d6"
+    "knock_it": {
+      "name": "KnockIt",
+      "color": "#ffcc00"
     },
-    "location": {
-       "city": "Frankfurt",
-       "country": "Germany",
-       "country_code": "DE"
-     }  
+    "one_in_the_chamber": {
+      "name": "OneInTheChamber",
+      "color": "#a8034e"
+    },
+    "eisbaer": {
+      "name": "Eisbär",
+      "color": "#05d7f7"
+    },
+    "tntrun": {
+      "name": "TNTRun",
+      "color": "#f70535"
+    },
+    "goldjaeger": {
+      "name": "PVP",
+      "color": "#f79605"
+    }
+  },
+  "brand": {
+    "primary": "#ff0000",
+    "background": "#ff0000",
+    "text": "#d6d6d6"
+  },
+  "location": {
+    "city": "Frankfurt",
+    "country": "Germany",
+    "country_code": "DE"
   }
+}

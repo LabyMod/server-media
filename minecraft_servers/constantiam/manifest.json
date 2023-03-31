@@ -1,0 +1,15 @@
+{
+    "server_name": "constantiam",
+    "nice_name": "Constantiam",
+    "direct_ip": "constantiam.net",
+    "server_wildcards": [
+        "%.constantiam.net"
+    ],
+    "social": {
+        "web": "https://constantiam.net",
+        "web_shop": "https://constantiam.net/#t5"
+    },
+    "brand": {
+        "primary": "#30333c"
+    }
+}

@@ -6,15 +6,37 @@
     "%.hypixel.net"
   ],
   "social": {
-    "web": "https://hypixel.net/",
-    "web_shop": "https://store.hypixel.net/",
-    "web_support": "https://support.hypixel.net/",
+    "web": "https://hypixel.net",
+    "web_shop": "https://store.hypixel.net",
+    "web_support": "https://support.hypixel.net",
     "twitter": "HypixelNetwork",
     "facebook": "Hypixel",
     "instagram": "hypixelofficial",
     "youtube": "https://www.youtube.com/channel/UCHoVdy7-tYfrZtfhnSDK3JA",
     "discord": "https://discord.com/invite/hypixel",
     "teamspeak": "ts.hypixel.net"
+  },
+  "gamemodes": {
+    "skyblock": {
+      "name": "SkyBlock",
+      "command": "/play sb"
+    },
+    "bedwards":{
+      "name": "BedWars Solo",
+      "command": "/play bedwars_eight_one"
+    },
+    "skywars": {
+      "name": "SkyWars Solo",
+      "command": "/play solo_normal"
+    },
+    "murder_mystery":{
+      "name": "Murder Mystery Classic",
+      "command": "/play murder_classic"
+    },
+    "dropper":{
+      "name": "Dropper",
+      "command": "/play prototype_dropper"
+    }
   },
   "discord": {
     "server_id": 489529070913060867,
