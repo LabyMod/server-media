@@ -17,7 +17,7 @@
   },
   "gamemodes": {
     "oneblock": {
-      "name": "OneBlock [1.17 - 1.19]",
+      "name": "OneBlock [1.18 - 1.19]",
       "command": "/oneblock",
       "color": "#00aa00"
     },
