@@ -13,7 +13,7 @@
     "twitter": "Anturnia",
     "discord": "https://discord.gg/gYsf49MzwH",
     "tiktok": "anturnia",
-    "youtube": "https://www.youtube.com/channel/UCC7T5dkkUHB7MGliA1YRohQ"
+    "youtube": "https://www.youtube.com/@anturnia"
   },
   "gamemodes": {
     "oneblock": {
@@ -25,7 +25,17 @@
       "name": "KitPVP [1.8 - 1.19]",
       "command": "/kitpvp",
       "color": "#00aa00"
-    }
+    },
+    "bedwars": {
+      "name": "BedWars [1.16 - 1.19]",
+      "command": "/bedwars",
+      "color": "#00aa00"
+    },
+    "fallingfalling": {
+        "name": "FallingFalling [1.16 - 1.19]",
+        "command": "/fallingfalling",
+        "color": "#00aa00"
+      }
   },
   "discord": {
     "server_id": 870227603615805441,
