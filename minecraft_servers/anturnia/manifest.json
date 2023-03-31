@@ -21,11 +21,6 @@
       "command": "/oneblock",
       "color": "#00aa00"
     },
-    "kitpvp": {
-      "name": "KitPVP [1.8 - 1.19]",
-      "command": "/kitpvp",
-      "color": "#00aa00"
-    },
     "bedwars": {
       "name": "BedWars [1.16 - 1.19]",
       "command": "/bedwars",
@@ -35,7 +30,12 @@
         "name": "FallingFalling [1.16 - 1.19]",
         "command": "/fallingfalling",
         "color": "#00aa00"
-      }
+    },
+    "kitpvp": {
+      "name": "KitPVP [1.8 - 1.19]",
+      "command": "/kitpvp",
+      "color": "#00aa00"
+    }
   },
   "discord": {
     "server_id": 870227603615805441,
