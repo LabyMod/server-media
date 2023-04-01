@@ -1,12 +1,11 @@
 {
   "server_name": "zelicraft",
   "nice_name": "Zelicraft Network",
-  "direct_ip": "zelicraft.com",
+  "direct_ip": "play.zelicraft.com",
   "server_wildcards": [
     "dev.zelicraft.com",
     "mc.zelicraft.com",
-    "followersland.me",
-    "play.zelicraft.com"
+    "followersland.me"
   ],
   "supported_languages": [
      "es",
