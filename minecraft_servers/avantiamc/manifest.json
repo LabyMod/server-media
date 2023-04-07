@@ -1,0 +1,25 @@
+{
+  "server_name": "avantiamc",
+  "nice_name": "AvantiaMC.de Netzwerk",
+  "direct_ip": "avantiamc.de",
+  "server_wildcards": [],
+  "social": {
+    "web": "https://avantiamc.de",
+    "web_shop": "https://shop.avantiamc.de",
+    "discord": "https://discord.gg/6uDnejta93"
+  },
+  "gamemodes": {
+    "agario": {
+      "name": "Agar.IO",
+      "command": "/play agario"
+    },
+    "wirtschaft":{
+      "name": "Wirtschaft",
+      "command": "/play wirtschaft"
+    }
+  },
+  "discord": {
+    "server_id": 1035943355340828702,
+    "rename_to_minecraft_name": true
+  }
+}
