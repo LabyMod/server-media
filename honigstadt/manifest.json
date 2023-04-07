@@ -1,0 +1,49 @@
+{
+  "server_name": "honigstadt",
+  "nice_name": "Honigstadt",
+  "direct_ip": "mc.honigstadt.de",
+  "server_wildcards": [
+    "%.honigstadt.de"
+  ],
+  "supported_languages": [
+     "de"
+  ],
+  "social": {
+    "web": "https://www.honigstadt.de",
+    "discord": "https://discord.gg/DMEKpDg28A"
+  },
+  "gamemodes": {
+    "hauptserver": {
+      "name": "Hauptserver", 
+      "color": "#FFAA00",
+      "command": "/server haupt",
+      "versions": "1.9<*"
+    },
+    "testserver": {
+      "name": "Testserver",
+      "color": "#FF5555",
+      "command": "/server test",
+      "versions": "1.9<*"
+    },
+    "bauserver": {
+      "name": "Bauserver", 
+      "color": "#00AAAA",
+      "command": "/server build",
+      "versions": "1.9<*"
+    }
+  },
+  "discord": {
+    "server_id": 831574477044580463,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#B57A2D",
+     "background": "#B57A2D",
+     "text": "#FFFFFF"
+  }, 
+  "location": {
+     "country": "Germany",
+     "country_code": "DE"
+  },
+  "command_delay": 5000
+}
