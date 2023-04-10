@@ -86,5 +86,6 @@
       "country":"Germany"
    },
    "yt_trailer":"dERYAYRWh7w",
+   "user_stats": "https://terramc.net/player/?name={userName}",
    "command_delay": 4000
 }
