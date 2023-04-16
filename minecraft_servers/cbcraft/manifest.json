@@ -1,0 +1,21 @@
+{
+    "server_name": "cbcraft",
+    "nice_name": "CBCraft",
+    "direct_ip": "cbcraft.de",
+    "server_wildcards": [
+      "%.cbcraft.de"
+    ],
+    "supported_languages": [
+       "de"
+    ],
+    "brand": {
+       "primary": "#FF7C00",
+       "background": "#551032",
+       "text": "#ffffff"
+    }, 
+    "location": {
+       "city": "Berlin",
+       "country": "Germany",
+       "country_code": "DE"
+    }
+  }
