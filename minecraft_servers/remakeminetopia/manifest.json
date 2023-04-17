@@ -1,0 +1,19 @@
+{
+    "server_name": "remakeminetopia",
+    "nice_name": "RemakeMinetopia",
+    "direct_ip": "play.remakeminetopia.nl",
+    "supported_languages": [
+        "nl"
+    ],
+    "social": {
+        "discord": "https://discord.gg/remakemt",
+        "web_shop": "https://shop.remakeminetopia.nl/",
+        "tiktok": "https://www.tiktok.com/@remakeminetopia/"
+    },
+    "discord": {
+        "server_id": 946155224765173770
+    },
+    "gamemodes": {
+        "name": "Minetopia"
+    }
+}
