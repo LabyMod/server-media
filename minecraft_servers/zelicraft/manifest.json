@@ -43,7 +43,7 @@
       "name": "ffa",
       "color": "#DEAA02",
       "versions": "1.8<*",
-      "command": "/queue ffagame-1
+      "command": "/queue ffagame-1"
     }
   },
   "discord": {
