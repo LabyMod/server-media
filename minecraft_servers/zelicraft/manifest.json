@@ -1,7 +1,7 @@
 {
   "server_name": "zelicraft",
   "nice_name": "Zelicraft Network",
-  "direct_ip": "`play.zelicraft.com",
+  "direct_ip": "play.zelicraft.com",
   "server_wildcards": [
     "dev.zelicraft.com",
     "mc.zelicraft.com",
