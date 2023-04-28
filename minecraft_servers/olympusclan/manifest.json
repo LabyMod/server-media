@@ -1,0 +1,37 @@
+{
+  "server_name": "olympus",
+  "nice_name": "OlympusClan",
+  "direct_ip": "play.olympusclan.net",
+  "server_wildcards": [
+    "%.olympusclan.net"
+  ],
+  "supported_languages": [
+     "en"
+  ],
+  "social": {
+    "twitter": "OlympusClan",
+    "discord": "https://discord.gg/olympusclan",
+    "tiktok": "olympusclan"
+  },
+  "gamemodes": {
+    "oneblock": {
+      "name": "Survival [1.19.3]",
+      "command": "/survival",
+      "color": "#77f255"
+    },
+    "kitpvp": {
+      "name": "FFA [1.9 - 1.19]",
+      "command": "/ffa",
+      "color": "#ff4747"
+    }
+  },
+  "discord": {
+    "server_id": 1074344948444450907,
+    "rename_to_minecraft_name": false
+  },
+  "location": {
+    "city": "London",
+    "country": "United Kingdom",
+    "country_code": "GB"
+  }
+}
