@@ -1,7 +1,7 @@
 {
   "server_name": "olympusclan",
   "nice_name": "OlympusClan",
-  "direct_ip": "play.olympusclan.net",
+  "direct_ip": "olympusclan.net",
   "server_wildcards": [
     "%.olympusclan.net"
   ],
