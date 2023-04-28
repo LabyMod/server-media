@@ -1,0 +1,26 @@
+{
+  "server_name": "darkgaming",
+  "nice_name": "DarkGaming",
+  "direct_ip": "darkgaming.de",
+  "supported_languages": [
+     "de"
+  ],
+  "social": {
+    "twitter": "DarkLordOfDead",
+    "tiktok": "DarkLordOfDead",
+    "instagram": "DarkLordOfDead",
+    "discord": "https://discord.com/invite/qMXC8PmFVt",
+    "youtube": "https://www.youtube.com/channel/UC__MdYzBr-zsll1bXzYk4pA",
+    "teamspeak": "DarkGaming.de"
+  },
+  "brand": {
+     "primary": "#AA0000",
+     "background": "#555555",
+     "text": "#FFFFFF"
+  }, 
+  "location": {
+     "city": "Frankfurt",
+     "country": "Germany",
+     "country_code": "DE"
+  }
+}
