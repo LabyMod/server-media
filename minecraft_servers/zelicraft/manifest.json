@@ -1,12 +1,11 @@
 {
   "server_name": "zelicraft",
   "nice_name": "Zelicraft Network",
-  "direct_ip": "zelicraft.com",
+  "direct_ip": "play.zelicraft.com",
   "server_wildcards": [
     "dev.zelicraft.com",
     "mc.zelicraft.com",
-    "followersland.me",
-    "play.zelicraft.com"
+    "bedrock.zelicraft.com"
   ],
   "supported_languages": [
      "es",
@@ -38,13 +37,13 @@
       "name": "SkyWars",
       "color": "#DEAA02",
       "versions": "1.8<*",
-      "command": "/queue swlobby1"
+      "command": "/queue SkyWars-1"
     },
-    "squidgames": {
-      "name": "SquidGames",
+    "ffa": {
+      "name": "ffa",
       "color": "#DEAA02",
       "versions": "1.8<*",
-      "command": "/queue squidgames"
+      "command": "/queue ffagame-1"
     }
   },
   "discord": {
