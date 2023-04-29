@@ -5,14 +5,13 @@
   "social": {
     "web": "https://maybemc.net",
     "web_shop": "https://shop.maybemc.net",
-    "web_support": "https://maybemc.net/forum",
     "twitter": "maybemcnet",
     "youtube": "https://www.youtube.com/@maybemcnetzwerk2759",
     "instagram": "maybemcnet"
   },
   "discord": {
     "server_id": 894672794774827061,
-    "rename_to_minecraft_name": true
+    "rename_to_minecraft_name": false
   },
   "location": {
     "city": "Frankfurt",
