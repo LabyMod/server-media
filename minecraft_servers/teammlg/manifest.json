@@ -1,0 +1,70 @@
+{
+  "server_name": "teammlg",
+  "nice_name": "TeamMLG",
+  "direct_ip": "teammlg.net",
+  "server_wildcards": [
+    "%.teammlg.net"
+  ],
+  "supported_languages": [
+    "de",
+    "en"
+  ],
+  "social": {
+    "web": "https://teammlg.net/",
+    "web_shop": "https://store.teammlg.net",
+    "web_support": "https://teammlg.net/forum",
+    "discord": "https://discord.gg/NCgXcGRJu5",
+    "teamspeak": "teammlg.net",
+  },
+  "gamemodes": {
+    "bedwars": {
+      "name": "BedWars",
+      "color": "#E61515",
+      "versions": "1.8.8<*"
+    },
+    "mlgrush": {
+      "name": "MLG-Rush",
+      "color": "#De9a23",
+      "versions": "1.8.8<*"
+    },
+    "buildffa": {
+      "name": "BuildFFA",
+      "color": "#Ded423",
+      "versions": "1.8.8<*"
+    },
+    "clutches": {
+      "name": "Clutches",
+      "color": "#7d00ff",
+      "versions": "1.8.8<*"
+    },
+    "nodamageffa": {
+      "name": "NoDamageFFA",
+      "color": "#Ff0000",
+      "versions": "1.8.8<*"
+    },
+    "Bridge": {
+      "name": "Bridge",
+      "color": "#23de99",
+      "versions": "1.8.8<*"
+    },
+    "cwbwtraining": {
+      "name": "CwBwTraining",
+      "color": "#23bade",
+      "versions": "1.8.8<*"
+    }
+  },
+  "discord": {
+    "server_id": 935962104475820083,
+    "rename_to_minecraft_name": true
+  },
+  "location": {
+    "city": "Hunenberg",
+    "country": "Switzerland",
+    "country_code": "CH"
+  },
+  "brand": {
+    "primary": "#487e90",
+    "background": "#487e90",
+    "text": "#ffffff"
+  }
+}
