@@ -4,14 +4,14 @@
   "direct_ip": "dyhntastic.net",
   "server_wildcards": [
     "%.dyhntastic.net",
-	"%.dyhntastic.com",
+    "%.dyhntastic.com",
     "%.dyhntastic.de",
-	"%.dyhntastic.eu",
-	"%.dyhntastic.org",
-	"%.dyhntastic.us",
-	"%.dyhntastic.uk",
-	"%.dyhntastic.at",
-	"%.dyhntastic.ch"
+    "%.dyhntastic.eu",
+    "%.dyhntastic.org",
+    "%.dyhntastic.us",
+    "%.dyhntastic.uk",
+    "%.dyhntastic.at",
+    "%.dyhntastic.ch"
   ],
   "supported_languages": [
     "de",
@@ -19,7 +19,7 @@
   ],
   "social": {
     "web": "https://dyhntastic.net",
-	"web_support": "https://helpdesk.dyhnunity.network",
+    "web_support": "https://helpdesk.dyhnunity.network",
     "twitter": "Dyhntastic",
     "tiktok": "Dyhntastic",
     "instagram": "dyhntastic",
@@ -29,37 +29,37 @@
   "gamemodes": {
     "mlgrush": {
       "name": "MLGRush",
-	  "color": "#FFAA00",
+      "color": "#FFAA00",
       "command": "/gamejoin mlgrush"
     },
     "knockit": {
       "name": "KnockIt",
-	  "color": "#5555FF",
+      "color": "#5555FF",
       "command": "/gamejoin knockit"
     },
-	"ffa": {
+    "ffa": {
       "name": "FFA",
-	  "color": "#A80000",
+      "color": "#A80000",
       "command": "/gamejoin ffa"
     },
     "citybuild": {
       "name": "CityBuild",
-	  "color": "#00AA00",
+      "color": "#00AA00",
       "command": "/gamejoin citybuild"
     },
     "oneblock": {
       "name": "OneBlock",
-	  "color": "#00AA00",
+      "color": "#00AA00",
       "command": "/gamejoin oneblock"
     },
-	"bedwars": {
+    "bedwars": {
       "name": "Bedwars",
-	  "color": "#FF5555",
+      "color": "#FF5555",
       "command": "/gamejoin bedwars"
     },
     "soccer": {
       "name": "Soccer",
-	  "color": "#0000AA",
+      "color": "#0000AA",
       "command": "/gamejoin Soccer"
     }
   },
