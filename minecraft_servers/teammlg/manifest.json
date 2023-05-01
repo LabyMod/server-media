@@ -54,8 +54,7 @@
 		}
 	},
 	"discord": {
-		"server_id": 935962104475820083,
-		"rename_to_minecraft_name": true
+		"server_id": 935962104475820083
 	},
 	"location": {
 		"city": "Hunenberg",
