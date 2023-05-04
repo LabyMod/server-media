@@ -22,6 +22,12 @@
       "color": "#00aa00",
       "versions": "1.18<*"
     },
+    "blocksumo": {
+      "name": "BlockSumo",
+      "command": "/blocksumo",
+      "color": "#00aa00",
+      "versions": "1.16<*"
+    },
     "bedwars": {
       "name": "BedWars",
       "command": "/bedwars",
