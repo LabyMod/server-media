@@ -32,7 +32,7 @@
       "name": "BedWars",
       "command": "/bedwars",
       "color": "#00aa00",
-      "versions": "1.12<*"
+      "versions": "1.16<*"
     },
     "fallingfalling": {
         "name": "FallingFalling",
