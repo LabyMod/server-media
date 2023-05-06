@@ -37,9 +37,9 @@
     "server_id": 1005863650243924049
   },
   "brand": {
-    "primary": "#",
-    "background": "#",
-    "text": "#"
+    "primary": "#17A6E8",
+    "background": "#09425C",
+    "text": "#FEFEFE"
   },
   "location": {
     "city": "Hamburg",
