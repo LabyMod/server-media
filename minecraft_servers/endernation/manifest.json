@@ -2,9 +2,6 @@
   "server_name": "endernation",
   "nice_name": "EnderNation",
   "direct_ip": "EnderNation.net",
-  "server_wildcards": [
-    "apfelnetzwerk.de"
-  ],
   "supported_languages": [
     "de"
   ],
@@ -14,7 +11,7 @@
     "twitter": "EnderNation",
     "instagram": "EnderNation",
     "discord": "https://discord.gg/endernation",
-    "teamspeak": "ts.endernation.eu"
+    "teamspeak": "ts.endernation.net"
   },
   "gamemodes": {
     "BedWars": {
