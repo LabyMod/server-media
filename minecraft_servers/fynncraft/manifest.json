@@ -19,24 +19,32 @@
   "gamemodes": {
     "allegegeneinen": {
       "name": "AlleGegenEinen",
-      "command": "/gameteleport AlleGegenEinen",
-      "versions": "1.19.1<*"
+      "color": "#29AFFB",
+      "command": "/gameteleport AlleGegenEinen"
     },
     "events": {
       "name": "Events",
+      "color": "#29AFFB",
       "command": "/gameteleport Events"
     },
     "skywarsffa": {
       "name": "SkyWarsFFA",
+      "color": "#29AFFB",
       "command": "/gameteleport SkyWarsFFA"
     },
     "survival": {
       "name": "Survival",
+      "color": "#29AFFB",
       "command": "/gameteleport Survival"
     }
   },
   "discord": {
     "server_id": 789165233540956180,
     "rename_to_minecraft_name": false
+  },
+  "location": {
+    "city": "Frankfurt am Main",
+    "country": "Germany",
+    "country_code": "DE"
   }
 }
