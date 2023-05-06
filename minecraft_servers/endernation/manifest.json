@@ -1,0 +1,49 @@
+{
+  "server_name": "endernation",
+  "nice_name": "EnderNation",
+  "direct_ip": "EnderNation.net",
+  "server_wildcards": [
+    "apfelnetzwerk.de"
+  ],
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "web": "https://endernation.net",
+    "web_shop": "https://endernationeu.tebex.io/",
+    "twitter": "EnderNation",
+    "instagram": "EnderNation",
+    "discord": "https://discord.gg/endernation",
+    "teamspeak": "ts.endernation.eu"
+  },
+  "gamemodes": {
+    "BedWars": {
+      "name": "BedWars",
+      "color": "#d51212",
+      "url": "https://endernation.net/BedWars"
+    },
+    "EnderGuns": {
+      "name": "EnderGuns",
+      "color": "#d51212",
+      "url": "https://endernation.net/EnderGuns"
+    },
+    "EndOfLife": {
+      "name": "EndOfLife",
+      "color": "#00e9fc",
+      "url": "https://endernation.net/EndOfLife"
+    }
+  },
+  "discord": {
+    "server_id": 1005863650243924049
+  },
+  "brand": {
+    "primary": "#", //Hauptfarbe
+    "background": "#", //Sekondärfarbe
+    "text": "#"  //Textfarbe
+  },
+  "location": {
+    "city": "Hamburg",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}
