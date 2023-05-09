@@ -3,9 +3,11 @@
     "nice_name": "Skydinse",
     "direct_ip": "skydinse.de",
     "server_wildcards": [
-      "%.skydinse.net",
-      "%.skydinse.de",
-      "%.skydinse.tk"
+      "skydinse.net",
+      "skydinse.de",
+      "skydinse.tk",
+      "dev.skydinse.net",
+      "dev.skydinse.de"
     ],
     "supported_languages": [
       "de",
