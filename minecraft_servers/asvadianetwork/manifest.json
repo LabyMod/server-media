@@ -6,8 +6,6 @@
     "%.asvadia.eu"
   ],
   "social": {
-    "web": "https://asvadia.eu",
-    "web_shop": "https://boutique.asvadia.eu",
     "web_support": "https://help.asvadia.eu",
     "twitter": "ASVADIA_NETWORK",
     "instagram": "asvadia_network",
@@ -25,6 +23,5 @@
     "server_id": 773787052860768257,
     "rename_to_minecraft_name": false
   },
-  "yt_trailer": "OrrrBO7TtGs",
-  "user_stats": "https://asvadia.eu/stats/?category=joueur&player=@{userName}"
+  "yt_trailer": "OrrrBO7TtGs"
 }
