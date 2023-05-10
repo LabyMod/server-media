@@ -26,5 +26,5 @@
     "rename_to_minecraft_name": false
   },
   "yt_trailer": "OrrrBO7TtGs",
-  "user_stats": "https://asvadia.eu.stats/?category=joueur&player=@{userName}"
+  "user_stats": "https://asvadia.eu/stats/?category=joueur&player=@{userName}"
 }
