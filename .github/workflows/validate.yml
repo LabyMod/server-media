@@ -12,7 +12,7 @@ jobs:
         with:
           ref: refs/pull/${{ github.event.number }}/merge
       - name: Validate images
-        uses: LabyMod/server-media/.github/actions/validate@master
+        uses: LabyMod/server-media/.github/actions/validate@jakobbruening/workflow-required-files
   validate_manifest:
     name: Manifest
     runs-on: ubuntu-latest
