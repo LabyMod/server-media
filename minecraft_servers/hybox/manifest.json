@@ -1,0 +1,46 @@
+{
+  "server_name": "hybox",
+  "nice_name": "Hybox Network",
+  "direct_ip": "hybox.gg",
+  "supported_languages": [
+     "es"
+  ],
+  "social": {
+    "web": "https://hybox.gg",
+    "web_shop": "https://tienda.hybox.gg",
+    "twitter": "HyboxNetwork",
+    "discord": "https://discord.gg/hybox-network-347119118664728577"
+  },
+  "gamemodes": {
+    "survival": {
+      "name": "Survival", 
+      "color": "#ffa548"
+    },
+    "kbffa": {
+      "name": "KBFFA",
+      "color": "#ffa548"
+    },
+    "skywars": {
+      "name": "Skywars",
+      "color": "#ffa548"
+    },
+    "bedwars": {
+      "name": "Bedwars",
+      "color": "#ffa548"
+    }
+  },
+  "discord": {
+    "server_id": 347119118664728577,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#ffa548",
+     "background": "#a74224",
+     "text": "#00c3ff"
+  }, 
+  "location": {
+     "city": "Washington",
+     "country": "United States",
+     "country_code": "US"
+   }
+}
