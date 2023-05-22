@@ -1,7 +1,7 @@
 {
   "server_name": "meloncity",
   "nice_name": "MelonCity",
-  "direct_ip": "meloncity.de",
+  "direct_ip": "proxy01.meloncity.de",
   "supported_languages": [
      "de"
   ],
