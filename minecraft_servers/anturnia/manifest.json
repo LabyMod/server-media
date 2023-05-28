@@ -3,7 +3,8 @@
   "nice_name": "Anturnia",
   "direct_ip": "play.anturnia.net",
   "server_wildcards": [
-    "%.anturnia.net"
+    "%.anturnia.net",
+    "%.anturnia.tk"
   ],
   "supported_languages": [
     "de",
@@ -23,8 +24,8 @@
       "versions": "1.18<*"
     },
     "blocksumo": {
-      "name": "BlockSumo",
-      "command": "/blocksumo",
+      "name": "Duels",
+      "command": "/duel",
       "color": "#00aa00",
       "versions": "1.16<*"
     },
@@ -33,6 +34,12 @@
       "command": "/bedwars",
       "color": "#00aa00",
       "versions": "1.16<*"
+    },
+    "creative": {
+      "name": "Creative",
+      "command": "/creative",
+      "color": "#00aa00",
+      "versions": "1.19<*"
     },
     "fallingfalling": {
         "name": "FallingFalling",
