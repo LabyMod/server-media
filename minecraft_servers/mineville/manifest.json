@@ -1,9 +1,9 @@
 {
   "server_name": "mineville",
   "nice_name": "MineVille",
-  "direct_ip": "mc.mineville.nl",
+  "direct_ip": "play.minevillemc.net",
   "server_wildcards": [
-    "%.mineville.nl"
+    "%.minevillemc.net"
   ],
   "brand": {
      "primary": "#FE5A1D",
@@ -11,6 +11,6 @@
      "text": "#FFFFFF"
   },
   "supported_languages": [
-    "nl"
+    "en"
   ]
 }
