@@ -1,0 +1,38 @@
+{
+  "server_name": "lowsucht",
+  "nice_name": "LowSucht",
+  "direct_ip": "lowsucht.de",
+  "server_wildcards": [
+    "%.LowSucht.de"
+  ],
+  "supported_languages": [
+     "de"
+  ],
+  "social": {
+    "twitter": "lowsucht_de",
+    "tiktok": "lowsucht.de",
+    "youtube": "https://www.youtube.com/@lowsucht",
+    "discord": "https://discord.com/invite/JQsQXU4Bz5",
+    "teamspeak": "lowsucht.teamspeak.me"
+  },
+  "gamemodes": {
+    "citybuild": {
+      "name": "CityBuild",
+      "color": "#0095B0"
+    }
+  },
+  "discord": {
+    "server_id": 1015691786850672660,
+    "rename_to_minecraft_name": true
+  },
+  "brand": {
+    "primary": "#1c003b",
+    "background": "#540064",
+    "text": "#ffffff"
+  },
+  "location": {
+     "city": "Köln",
+     "country": "Germany",
+     "country_code": "DE"
+   }
+}
