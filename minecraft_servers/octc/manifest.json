@@ -1,0 +1,38 @@
+{
+    "server_name": "octc",
+    "nice_name": "Overcast Community",
+    "direct_ip": "play.oc.tc",
+    "server_wildcards": [
+      "%.oc.tc"
+    ],
+    "supported_languages": [
+       "en"
+    ],
+    "social": {
+        "web": "https://oc.tc",
+        "web_shop": "https://oc.tc/donate",
+        "twitter": "OvercastPGM",
+        "discord": "https://discord.gg/octc",
+        "youtube": "https://www.youtube.com/@OvercastNetwork"
+    },
+    "gamemodes": {
+        "minigames": {
+            "name": "Minigames", 
+            "color": "#FFFFFF"
+        }
+    },
+    "discord": {
+        "server_id": 86514356862320640,
+        "rename_to_minecraft_name": false
+    },
+    "brand": {
+        "primary": "#D7D2BF",
+        "background": "#4C0704",
+        "text": "#FFFFFF"
+    },
+    "location": {
+        "city": "Toronto",
+        "country": "Canada",
+        "country_code": "CA"
+    }
+}
