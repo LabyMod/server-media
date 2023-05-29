@@ -1,0 +1,32 @@
+{
+  "server_name": "minetaria",
+  "nice_name": "Minetaria",
+  "direct_ip": "minetaria.net",
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "youtube": "https://www.youtube.com/@minetarianet",
+    "discord": "https://discord.gg/dbvvspX5gj"
+  },
+  "gamemodes": {
+    "citybuild-1": {
+      "name": "CityBuild",
+      "color": "#FFFFFF"
+    }
+  },
+  "discord": {
+    "server_id": 1048183111936135168,
+    "rename_to_minecraft_name": true
+  },
+  "brand": {
+    "primary": "#ffffff",
+    "background": "#ffffff",
+    "text": "#ffffff"
+  },
+  "location": {
+    "city": "Frankfurt",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}
