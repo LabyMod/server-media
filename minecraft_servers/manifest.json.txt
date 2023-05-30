@@ -1,0 +1,31 @@
+{
+  "server_name": "morland",
+  "nice_name": "MorLand.cz",
+  "direct_ip": "play.morland.cz",
+  "server_wildcards": [
+    "%.morland.cz"
+  ],
+  "supported_languages": [
+    "cs",
+    "sk",
+    "en"
+  ],
+  "social": {
+    "web": "https://morland.cz/",
+    "tiktok": "MorLand.cz",
+    "instagram": "morland.official",
+    "discord": "https://discord.gg/morland",
+    "teamspeak": "ts3.morland.cz"
+  },
+  "discord": {
+    "server_id": "999888713851089006"
+  },
+  "brand": {
+    "primary": "#A7C7E7"
+  },
+  "location": {
+    "city": "Prague",
+    "country": "Czech Republic",
+    "country_code": "CZ"
+  }
+}
