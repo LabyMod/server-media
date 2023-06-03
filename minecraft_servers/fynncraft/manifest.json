@@ -20,7 +20,7 @@
     "allegegeneinen": {
       "name": "AlleGegenEinen",
       "color": "#29AFFB",
-      "command": "/gameteleport AlleGegenEinen",
+      "command": "/gameteleport AlleGegenEinen"
     },
     "events": {
       "name": "Events",
