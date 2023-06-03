@@ -31,10 +31,10 @@
       "name": "OneBlock",
       "versions": "1.16.5<*"
     },
-	"smp": {
+    "smp": {
       "name": "Public SMP",
       "versions": "1.16.5<*"
-    },
+    }
   },
   "discord": {
     "server_id": 252826895542910976,
