@@ -132,9 +132,16 @@ while read image; do
     ((IMAGES++))
 done <<< $(find minecraft_servers -type f)
 
-if [[ ! "${given_names[@]}" =~ "icon.png" || ! "${given_names[@]}" =~ "icon@2x.png" ]]; then
-  error "At least one of the required files is not given (icon.png or icon@2x.png)"
-fi
+# Check all directories for required files
+file_names=("icon.png" "icon@2x.png")
+for dir in "minecraft_servers"/*/; do
+  for file in "${file_names[@]}"; do
+    if [ ! -e "${dir}${file}" ]; then
+      nice_dir=$(echo "$dir" | sed 's/minecraft_servers\///' | sed 's/\/$//')
+      error "$nice_dir: $file is not given, but it is required."
+    fi
+  done
+done
 
 echo ""
 echo "Total of ${IMAGES} images checked, found ${ERRORS} issues."
