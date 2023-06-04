@@ -18,36 +18,37 @@
     "discord": "https://discord.gg/Q55FujN",
     "teamspeak": "ts.timolia.de",
     "tiktok": "timolianetwork",
-    "youtube": "https://www.youtube.com/Timolia"
+    "youtube": "https://www.youtube.com/Timolia",
+    "instagram": "timolianetwork"
   },
   "gamemodes": {
-    "jumpworld16": {
-      "name": "JumpWorld",
-      "command": "/quickjoin jumpworld16",
-      "url": "https://www.timolia.de/games#jumpworld",
-      "color": "#0095B0",
-      "versions": "1.16.5<*"
-    },
     "jumpworld": {
       "name": "JumpWorld",
       "command": "/quickjoin jumpworld",
       "url": "https://www.timolia.de/games#jumpworld",
       "color": "#0095B0",
-      "versions": "1.8<1.16.4"
+      "versions": "1.19<*"
+    },
+    "jumpworld-legacy": {
+      "name": "JumpWorld",
+      "command": "/quickjoin jw-legacy",
+      "url": "https://www.timolia.de/games#jumpworld",
+      "color": "#0095B0",
+      "versions": "1.8<1.18.2"
     },
     "pvp16": {
       "name": "1vs1",
-      "command": "/quickjoin pvp16",
+      "command": "/quickjoin pvp19",
       "url": "https://www.timolia.de/games#pvp",
       "color": "#0095B0",
-      "versions": "1.16.5<*"
+      "versions": "1.19<*"
     },
     "pvp": {
       "name": "1vs1",
       "command": "/quickjoin pvp",
       "url": "https://www.timolia.de/games#pvp",
       "color": "#0095B0",
-      "versions": "1.8<1.16.4"
+      "versions": "1.8<1.18.2"
     },
     "4rena16": {
       "name": "4rena",
