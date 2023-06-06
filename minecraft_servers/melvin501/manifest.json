@@ -1,7 +1,7 @@
 {
   "server_name": "melvin501",
   "nice_name": "Melvin501",
-  "direct_ip": "melvin501.de",
+  "direct_ip": "play.melvin501.de",
   "social": {
     "web": "https://melvin501.de",
     "youtube": "https://www.youtube.com/@melvin501de",
@@ -9,6 +9,7 @@
     "tiktok": "melvin501.tiktok"
   },
   "server_wildcards": [
+    "melvin501.de",
     "mc.melvin501.de",
     "501Media.de"
   ],
