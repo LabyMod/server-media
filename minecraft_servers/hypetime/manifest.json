@@ -7,10 +7,9 @@
   ],
   "social": {
     "web": "https://www.hypetime.eu",
-    "web_support": "https://www.hypetime.eu/support/tickets",
+    "web_support": "https://www.hypetime.eu/go/support",
     "twitter": "HypeTimeEU",
-    "discord": "https://discord.com/invite/TTaMD4u",
-    "teamspeak": "ts.hypetime.eu"
+    "discord": "https://www.hypetime.eu/go/discord",
   },
   "discord": {
     "server_id": 693086914491842570,
