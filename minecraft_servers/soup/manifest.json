@@ -1,0 +1,50 @@
+{
+  "server_name": "SoupGG",
+  "nice_name": "Soup",
+  "direct_ip": "soup.gg",
+  
+  "server_wildcards": [
+    "%.soup.gg", "play.soup.gg"
+
+  ],
+  "supported_languages": [
+    "en"
+  ],
+  "social": {
+    "web": "https://soup.gg",
+    "web_shop": "https://store.soup.gg",
+    "twitter": "PlaySoupGG",
+    "discord": "https://discord.soup.gg/"
+  },
+  "gamemodes": {
+    "SoupPvP": {
+      "name": "SoupPvP",
+      "color": "#00ffb0",
+      "url": "https://soup.gg/soup"
+    },
+    "Dojo": {
+      "name": "Dojo",
+      "color": "#67074E",
+      "url": "https://soup.gg/dojo"
+    }
+  },
+  "discord": {
+    "server_id": 1099779603716903017,
+    "rename_to_minecraft_name": true
+
+  },
+  "brand": {
+    "primary": "#00FFB0",
+    "background": "#3A3A3A",
+    "text": "#FEFEFE"
+  },
+  "location": {
+    "city": "Montréal",
+    "country": "Canada",
+    "country_code": "CA"
+  },
+  "user_stats": "https://soup.gg/player/@{userName}",
+  "command_delay": 5
+
+
+}
