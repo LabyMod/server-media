@@ -1,39 +1,39 @@
 {
-  "server_name": "uroria",
-  "nice_name": "Uroria Network",
-  "direct_ip": "play.uroria.com",
-  "server_wildcards": [
+  "server_name":"uroria",
+  "nice_name":"Uroria Network",
+  "direct_ip":"play.uroria.com",
+  "server_wildcards":[
     "%.uroria.com",
-	"%.uroria.de",
-	"%.uroria.net"
+    "%.uroria.de",
+    "%.uroria.net"
   ],
-  "supported_languages": [
+  "supported_languages":[
     "de",
-	"lt",
-	"en",
-	"fr",
-	"la"
+    "lt",
+    "en",
+    "fr",
+    "la"
   ],
-  "social": {
-    "web": "https://uroria.com",
-    "instagram": "https://ig.uroria.com",
-    "discord": "https://discord.com/invite/RGX8rPshFG",
-	"twitter": "https://twitter.uroria.com",
-    "youtube": "https://yt.uroria.com"
+  "social":{
+    "web":"https://uroria.com",
+    "instagram":"https://ig.uroria.com",
+    "discord":"https://discord.com/invite/RGX8rPshFG",
+    "twitter":"https://twitter.uroria.com",
+    "youtube":"https://yt.uroria.com"
   },
-  "discord": {
-	"server_id": 1031228611941896345,
-	"rename_to_minecraft_name": false
+  "discord":{
+    "server_id":1031228611941896345,
+    "rename_to_minecraft_name":false
   },
-  "location": {
-	"country": "Germany",
-	"county_code": "DE"
+  "location":{
+    "country":"Germany",
+    "county_code":"DE"
   },
-  "brand": {
-	"primary": "#00B6FF",
-	"text": "#A1A7B5",
-	"background": "#60D1FF"
+  "brand":{
+    "primary":"#00B6FF",
+    "text":"#A1A7B5",
+    "background":"#60D1FF"
   },
-  "command_delay": 4000,
-  "yt_trailer": "-rhB3RFR1Ko"
+  "command_delay":4000,
+  "yt_trailer":"-rhB3RFR1Ko"
 }
