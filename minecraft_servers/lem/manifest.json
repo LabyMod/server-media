@@ -1,7 +1,7 @@
 {
   "server_name": "lem",
   "nice_name": "Legacy Edition: Minigames",
-  "direct_ip": "minigames.derpbox.xyz",
+  "direct_ip": "lem.derpbox.xyz",
   "server_wildcards": [
     "%.derpbox.xyz"
   ],
@@ -14,17 +14,6 @@
     "battle1": {
       "name": "Battle-1", 
       "command": "/server battle_1"
-    },
-    "battle2": {
-      "name": "Battle-2", 
-      "command": "/server battle_2"
-    },
-    "battle3": {
-      "name": "Battle-3", 
-      "command": "/server battle_3"
-    },
-    "battlegermany": {
-      "name": "Battle-Germany" 
     },
     "battleexperimental": {
       "name": "Battle-Experimental", 
