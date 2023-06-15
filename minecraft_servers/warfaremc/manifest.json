@@ -11,11 +11,11 @@
   ],
   "social": {
     "web": "https://warfaremc.eu",
-    "web_shop": "https://shop.warfaremc.eu",
+    "web_shop": "https://store.warfaremc.eu",
     "twitter": "warfaremceu",
     "discord": "https://discord.gg/C3Vn4aY",
     "tiktok": "warfaremc",
-	"instagram": "warfaremceu",
+    "instagram": "warfaremceu",
     "youtube": "https://www.youtube.com/@warfaremc1842"
   },
   "gamemodes": {
@@ -38,7 +38,7 @@
   },
   "discord": {
     "server_id": 252826895542910976,
-    "rename_to_minecraft_name": true
+    "rename_to_minecraft_name": false
   },
   "brand": {
     "primary": "#7F6CC2",
