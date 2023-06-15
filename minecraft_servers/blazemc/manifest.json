@@ -1,0 +1,33 @@
+{
+  "server_name": "blazemc",
+  "nice_name": "BlazeMC",
+  "direct_ip": "blazemc.net",
+  "server_wildcards": [
+    "%.blazemc.net"
+  ],
+  "supported_languages": [
+     "de"
+  ],
+  "social": {
+    "web": "https://blazemc.net",
+    "web_support": "https://forum.blazemc.net",
+    "twitter": "BlazeMCnet",
+    "discord": "https://discord.gg/brTzPjZyns",
+    "youtube": "https://www.youtube.com/channel/UCGrZ8QakJMkSMsMgOz0j5Bw",
+    "teamspeak": "ts.blazemc.net"
+  },
+  "discord": {
+    "server_id": 830074913460846612,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#008FE8",
+     "background": "#0A56A5",
+     "text": "#FFFFFF"
+  }, 
+  "location": {
+     "city": "Frankfurt",
+     "country": "Germany",
+     "country_code": "DE"
+  }
+}
