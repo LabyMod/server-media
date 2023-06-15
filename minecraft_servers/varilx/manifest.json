@@ -9,7 +9,7 @@
      "de"
   ],
   "social": {
-    "twitter": "varilx.de",
+    "twitter": "VarilxDE",
     "web": "https://forum.varilx.de",
     "discord": "https://discord.gg/yX2eUY3Naf",
     "youtube": "https://www.youtube.com/@ayont"
@@ -21,6 +21,7 @@
     "survival": {
       "name": "Survival", 
       "color": "#8995FF",
+      "command": "/spawn",
       "versions": "1.12<1.19.4"
     }
   },
