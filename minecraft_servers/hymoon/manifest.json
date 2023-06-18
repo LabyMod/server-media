@@ -1,0 +1,49 @@
+{
+    "server_name": "hymoon",
+    "nice_name": "HyMoon Netowrk",
+    "direct_ip": "play.hymoon.tk",
+    "supported_languages": [
+      "es",
+      "en"
+    ],
+    "social": {
+      "web": "https://zeng.hymoon.tk",
+      "web_shop": "https://hymoon-tienda.tebex.io",
+      "twitter": "HyMoonES",
+      "discord": "https://discord.gg/zonecraft",
+      "youtube": "https://www.youtube.com/c/ZoneCraftNetwork",
+      "instagram": "zonecraftes",
+      "tiktok": "zonecraftes"
+    },
+    "gamemodes": {
+      "knockbackffa": {
+        "name": "KnockbackFFA",
+        "color": "#FFF",
+        "command": "/play kbffa"
+      },
+      "skywars": {
+        "name": "SkyWars",
+        "color": "#FFF",
+        "command": "/play sw"
+      },
+      "arenapvp": {
+        "name": "ArenaPvP",
+        "color": "#FFF",
+        "command": "/play apvp"
+      }
+    },
+    "brand": {
+       "primary": "#77d5eb",
+       "background": "#00000",
+       "text": "#FFFFFF"
+    },
+    "location": {
+      "city": "St. Louis",
+      "country": "United States",
+      "country_code": "EE. UU."
+    },
+    "discord": {
+      "server_id": 724357358851194961,
+      "rename_to_minecraft_name": false
+    }
+}
