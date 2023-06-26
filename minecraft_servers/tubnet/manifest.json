@@ -28,6 +28,9 @@
     },
     "battleroyale": {
       "name": "Battle Royale"
+    },
+    "knockout": {
+      "name": "Knockout"
     }
   },
   "discord": {
