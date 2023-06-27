@@ -1,0 +1,55 @@
+{
+  "server_name": "potionmc",
+  "nice_name": "PotionMC",
+  "direct_ip": "potionmc.net",
+  "supported_languages": [
+    "de",
+    "en"
+  ],
+  "social": {
+    "website": "https://potionmc.net/",
+    "twitter": "https://twitter.com/thepotionmc",
+    "discord": "https://discord.com/invite/83V2chUqfa",
+    "twitch": "https://www.twitch.tv/thepotionmc"
+  },
+  "gamemodes": {
+    "skywars": {
+      "name": "SkyWars",
+      "color": "#55FF55"
+    },
+    "bedwars": {
+      "name": "Bedwars",
+      "color": "#AA0000"
+    },
+    "deathsg": {
+      "name": "Duels",
+      "color": "#FF5555"
+    },
+    "jumpduels": {
+      "name": "GunGame",
+      "color": "#FFAA00"
+    },
+    "stickwars": {
+      "name": "Bedwars",
+      "color": "#AA0000"
+    },
+    "buildffa": {
+      "name": "Bedwars",
+      "color": "#AA0000"
+    }
+  },
+  "discord": {
+    "server_id": 1025694779377471509,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#54fb54",
+    "background": "#00a800",
+    "text": "#FFFFFF"
+  },
+  "location": {
+    "city": "Nordrhein-Westfalen",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}
