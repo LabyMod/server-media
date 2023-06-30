@@ -1,0 +1,18 @@
+{
+    "server_name": "pvplegacy",
+    "nice_name": "PvP Legacy",
+    "direct_ip": "play.pvplegacy.net",
+    "server_wildcards": [
+        "%.pvplegacy.net"
+    ],
+    "social": {
+        "web": "https://pvplegacy.net",
+        "web_shop": "https://store.pvplegacy.net",
+        "twitter": "PvPLegacyNet",
+        "discord": "https://discord.gg/pvplegacy"
+    },
+    "brand": {
+        "primary": "#131313",
+        "background": "#217dba"
+    }
+}

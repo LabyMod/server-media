@@ -1,0 +1,31 @@
+{
+  "server_name": "originrealms",
+  "nice_name": "Origin Realms",
+  "direct_ip": "play.originrealms.com",
+  "server_wildcards": [
+    "%.originrealms.com"
+  ],
+  "social": {
+    "web": "https://originrealms.com",
+    "web_shop": "https://store.originrealms.com",
+    "web_support": "https://originrealms.com/guides",
+    "twitter": "OriginRealms",
+    "instagram": "originrealms",
+    "discord": "https://discord.gg/originrealms",
+    "youtube": "https://www.youtube.com/channel/UCNh6mNB2NNzzlF2S3dn9Nxg"
+  },
+  "discord": {
+    "server_id": 634540727606575115,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#f68327",
+     "background": "#eaa21a",
+     "text": "#FFFFFF"
+  }, 
+  "location": {
+     "city": "Quebec",
+     "country": "Canada",
+     "country_code": "CA"
+  }
+}

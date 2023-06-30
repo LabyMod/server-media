@@ -7,12 +7,7 @@
       "%.zonecn.es",
       "%.hypixel.es",
       "%.amamarla.com",
-      "%.banananetwork.es",
-      "%.darktimes.es",
-      "%.bedwars.es",
-      "%.zonehosting.net",
-      "%.skywars.es",
-      "%.pickaxe.es"
+      "%.zonehosting.net"
     ],
     "supported_languages": [
       "es",
@@ -30,31 +25,43 @@
     "gamemodes": {
       "bedwars": {
         "name": "BedWars",
-        "color": "#FFF"
+        "color": "#FFF",
+        "command": "/l bedwars"
       },
       "skywars": {
         "name": "SkyWars",
-        "color": "#FFF"
+        "color": "#FFF",
+        "command": "/l skywars"
       },
       "arenapvp": {
         "name": "ArenaPvP",
-        "color": "#FFF"
+        "color": "#FFF",
+        "command": "/l arenapvp"
       },
       "breezily": {
         "name": "Breezily",
-        "color": "#FFF"
+        "color": "#FFF",
+        "command": "/l breezily"
       },
       "knockback_ffa": {
         "name": "Knockback FFA",
-        "color": "#FFF"
-      },
-      "bedwars_practice": {
-        "name": "BedWars Practice",
-        "color": "#FFF"
+        "color": "#FFF",
+        "command": "/l kbffa"
       },
       "skypvp": {
         "name": "SkyPvP",
-        "color": "#FFF"
+        "color": "#FFF",
+        "command": "/l skypvp"
+      },
+      "arena_ffa": {
+        "name": "ArenaPvP FFA",
+        "color": "#FFF",
+        "command": "/l arena_ffa"
+      },
+      "bedwars_practice": {
+        "name": "BedWars Practice",
+        "color": "#FFF",
+        "command": "/l bw_practice"
       }
     },
     "brand": {

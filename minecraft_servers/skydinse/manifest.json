@@ -1,0 +1,59 @@
+{
+    "server_name": "skydinse",
+    "nice_name": "Skydinse",
+    "direct_ip": "skydinse.de",
+    "server_wildcards": [
+      "skydinse.net",
+      "skydinse.de",
+      "skydinse.tk",
+      "dev.skydinse.net",
+      "dev.skydinse.de"
+    ],
+    "supported_languages": [
+      "de",
+      "en"
+    ],
+    "social": {
+        "web": "https://skydinse.de",
+        "twitter": "mc_skydinse",
+        "tiktok": "skydinse_de",
+        "discord": "https://discord.gg/5VQhvzWF",
+        "youtube": "https://www.youtube.com/@skydinse"
+    },
+    "gamemodes": {
+      "lavarises": {
+        "name": "LavaRises",
+        "command": "/game lavarises",
+        "versions": "1.19.4<*"
+      },
+      "blockparty": {
+        "name": "BlockParty",
+        "command": "/game blockparty",
+        "versions": "1.17<*"
+      },
+      "duels": {
+        "name": "Duels",
+        "command": "/game duels",
+        "versions": "1.17<*"
+      },
+      "murdermystery": {
+        "name": "Murder Mystery",
+        "command": "/game murdermystery",
+        "versions": "1.17<*"
+      },
+      "maze": {
+        "name": "Maze",
+        "command": "/game maze",
+        "versions": "1.17<*"
+      }
+    },
+    "discord": {
+      "server_id": 736684536741625988,
+      "rename_to_minecraft_name": false
+    },
+    "location": {
+      "city": "Frankfurt am Main",
+      "country": "Germany",
+      "country_code": "DE"
+    }
+  }
