@@ -1,23 +1,23 @@
 {
-  "server_name": "hypetime",
-  "nice_name": "HypeTime",
-  "direct_ip": "hypetime.eu",
-  "server_wildcards": [
-    "%.hypetime.eu"
-  ],
-  "social": {
-    "web": "https://www.hypetime.eu",
-    "web_support": "https://www.hypetime.eu/go/support",
-    "twitter": "HypeTimeEU",
-    "discord": "https://www.hypetime.eu/go/discord",
-  },
-  "discord": {
-    "server_id": 693086914491842570,
-    "rename_to_minecraft_name": true
-  },
-  "brand": {
-    "primary": "#497cb1",
-    "background": "#497cb1",
-    "text": "#ffffff"
-  }
+	"server_name": "hypetime",
+	"nice_name": "HypeTime",
+	"direct_ip": "hypetime.eu",
+	"server_wildcards": [
+		"%.hypetime.eu"
+	],
+	"social": {
+		"web": "https://www.hypetime.eu",
+		"web_support": "https://www.hypetime.eu/go/support",
+		"twitter": "HypeTimeEU",
+		"discord": "https://www.hypetime.eu/go/discord"
+	},
+	"discord": {
+		"server_id": 693086914491842570,
+		"rename_to_minecraft_name": true
+	},
+	"brand": {
+		"primary": "#497cb1",
+		"background": "#497cb1",
+		"text": "#ffffff"
+	}
 }
