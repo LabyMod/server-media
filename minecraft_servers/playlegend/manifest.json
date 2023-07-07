@@ -2,6 +2,9 @@
   "server_name": "playlegend",
   "nice_name": "PlayLegend",
   "direct_ip": "playlegend.net",
+  "server_wildcards": [
+    "beta.playlegend.net"
+  ],
   "social": {
     "web": "https://playlegend.net",
     "web_shop": "https://shop.playlegend.net",
