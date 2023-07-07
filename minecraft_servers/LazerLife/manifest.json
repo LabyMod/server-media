@@ -6,8 +6,8 @@
       "%.lazerlife.de"
     ],
     "social": {
-      "web_shop": "https://lazerlife.tebex.io",
       "web": "https://lazerlife.de",
+      "web_shop": "https://lazerlife.tebex.io",
       "discord": "https://discord.gg/3CWP89Q7CB"
     },
     "brand": {
@@ -16,7 +16,7 @@
     },
     "location": {
       "city": "Hamburg",
-      "country": "Deutschland",
-      "country_code": "De"
+      "country": "GERMANY",
+      "country_code": "DE"
     }
   }
