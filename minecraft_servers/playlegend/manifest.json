@@ -1,0 +1,45 @@
+{
+  "server_name": "playlegend",
+  "nice_name": "PlayLegend",
+  "direct_ip": "playlegend.net",
+  "social": {
+    "web": "https://playlegend.net",
+    "web_shop": "https://shop.playlegend.net",
+    "discord": "https://discord.com/invite/SKKeJc33jW",
+    "youtube": "https://www.youtube.com/@PlaylegendServer",
+    "twitter": "playlegendnet",
+    "instagram": "playlegendnet"
+  },
+  "gamemodes": {
+    "bedwars": {
+      "name": "BedWars",
+      "color": "#113F3C"
+    },
+    "hideandseek": {
+      "name": "HideandSeek",
+      "color": "#113F3C"
+    },
+    "getdown": {
+      "name": "GetDown",
+      "color": "#113F3C"
+    },
+    "cactusclicker": {
+      "name": "CactusClicker ",
+      "color": "#113F3C"
+    },
+    "skyzone": {
+      "name": "Skyzone ",
+      "color": "#113F3C"
+    }
+  },
+  "discord": {
+    "server_id": 691942943111512075,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#E10736",
+    "background": "#113F3C",
+    "text": "#FFFFFF"
+  },
+  "yt_trailer": "ZWQMZggI_i4"
+}
