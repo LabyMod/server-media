@@ -46,6 +46,12 @@
       "color": "#A800A8",
       "command": "/minigames",
       "versions": "1.18<*"
+    },
+    "themepark": {
+      "name": "Freizeitpark", 
+      "color": "#F958FF",
+      "command": "/themepark",
+      "versions": "1.18<*"
     }
   },
   "discord": {
