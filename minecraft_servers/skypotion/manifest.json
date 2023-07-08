@@ -1,0 +1,23 @@
+{
+    "server_name": "skypotion",
+    "nice_name": "SkyPotionEU",
+    "direct_ip": "skypotion.eu",
+    "social": {
+      "web": "http://skypotion.eu",
+      "discord": "http://discord.skypotion.eu"
+    },
+    "discord": {
+      "server_id": 1121483830847602719,
+      "rename_to_minecraft_name": true
+    },
+    "brand": {
+      "primary": "#a64dff",
+      "background": "#e6ccff",
+      "text": "#ffffff"
+    },
+    "location": {
+      "city": "Frankfurt",
+      "country": "Germany",
+      "country_code": "DE"
+    }
+  }
