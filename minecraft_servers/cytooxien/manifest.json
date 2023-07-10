@@ -97,7 +97,13 @@
       "color": "#ffc300",
       "url": "https://wiki.cytooxien.de/games/creative",
       "versions": "1.19<*"
-    }
+    },
+    "onlyup": {
+      "name": "Only Up",
+      "command": "/server onlyup",
+      "color": "#ffc300",
+      "versions": "1.19<*"
+      }
   },
   "brand": {
     "primary": "#ffc300",
