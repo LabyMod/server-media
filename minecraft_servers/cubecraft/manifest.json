@@ -18,21 +18,27 @@
   "gamemodes": {
     "eggwars": {
       "name": "EggWars"
+      "versions": "1.19.4<*"
     },
     "luckyislands": {
       "name": "Lucky Islands"
+      "versions": "1.19.4<*"
     },
     "skywars": {
       "name": "SkyWars"
+      "versions": "1.19.4<*"
     },
     "skyblock": {
       "name": "SkyBlock"
+      "versions": "1.19.4<*"
     },
     "ffa": {
       "name": "Free for All"
+      "versions": "1.19.4<*"
     },
     "parkour": {
       "name": "Parkour"
+      "versions": "1.19.4<*"
     }
   },
   "discord": {
