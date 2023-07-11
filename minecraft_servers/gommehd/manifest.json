@@ -68,7 +68,8 @@
     },
     "cookies": {
       "name": "Cookies",
-      "command": "/gameteleport cookies"
+      "command": "/gameteleport cookies",
+      "versions": "1.20<*"
     },
     "game1vs1": {
       "name": "Game1vs1",
