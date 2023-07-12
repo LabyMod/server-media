@@ -13,7 +13,8 @@
   },
   "gamemodes": {
     "parkour": {
-      "name": "Parkour"
+      "name": "Parkour",
+      "color": "#add8e6"
     }
   },
   "discord": {
