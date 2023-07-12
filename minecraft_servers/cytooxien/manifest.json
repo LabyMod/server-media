@@ -22,6 +22,12 @@
   },
   "user_stats": "https://stats.cytooxien.de/player/{userName}",
   "gamemodes": {
+    "onlyup": {
+      "name": "Only Up!",
+      "command": "/server onlyup",
+      "color": "#ffc300",
+      "versions": "1.19<*"
+    },
     "skyblock": {
       "name": "Skyblock",
       "command": "/server skyblockx",
