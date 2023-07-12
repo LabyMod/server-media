@@ -3,7 +3,8 @@
   "nice_name": "§6NextFight",
   "direct_ip": "nextfight.net",
   "server_wildcards": [
-    "%.nextfight.net"
+    "%.nextfight.net",
+    "%.nextfight.de"
   ],
   "supported_languages": [
      "en",
