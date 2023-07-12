@@ -13,7 +13,11 @@
   "gamemodes": {
     "battle1": {
       "name": "Battle-1", 
-      "command": "/server battle_1"
+      "command": "/server battle_main"
+    },
+    "battle2": {
+       "name": "Battle-2", 
+       "command": "/server battle_main_alternate"
     },
     "battleexperimental": {
       "name": "Battle-Experimental", 

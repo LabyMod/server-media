@@ -1,6 +1,6 @@
 {
   "server_name": "nextfight",
-  "nice_name": "NextFight",
+  "nice_name": "§6NextFight",
   "direct_ip": "nextfight.net",
   "server_wildcards": [
     "%.nextfight.net"
