@@ -162,11 +162,12 @@ def check_server_online_state(ip: str, wildcards: list):
 
     print(f"Checked server status successfully: {response['online']}")
 
-    offline_text = 'In general, we only accept '
-    f'pull requests from servers, **that are online**. Please change this, otherwise we '
-    f'cannot review your server correctly and have to deny the pull request.\n\n If your server is '
-    f'currently online, then our api returned a wrong status, we will have a look at it :)\n\n'
-    f'Reference: [API URL ({url})]({url})'
+    offline_text = '''In general, we only accept pull requests from servers, **that are online**.
+    Please change this, otherwise we cannot review your server correctly and have to deny the pull request.
+    
+    If your server is currently online, then our api returned a wrong status, we will have a look at it :)
+
+    Reference: [API URL ({url})]({url})'''.format({'url': url)
 
     if not response['online']:
         post_comment(f'*Just as an information*:\nYour server {ip} **could be offline**.\n {offline_text}', 'comments')
