@@ -1,0 +1,35 @@
+{
+  "server_name": "afelia",
+  "nice_name": "Afelia Network",
+  "direct_ip": "afelia.net",
+  "server_wildcards": [
+    "%.afelia.net"
+  ],
+  "supported_languages": [
+     "en",
+	 "de"
+  ],
+  "social": {
+    "discord": "https://discord.gg/pK3jcwZQes"
+  },
+  "discord": {
+    "server_id": 1123217131476107315
+  },
+  "gamemodes": {
+    "events": {
+      "name": "Events", 
+      "color": "#d8d8d8",
+      "versions": "1.19.2<*"
+    }
+  },
+  "brand": {
+     "primary": "#e9a3c9",
+     "background": "#d8d8d8",
+     "text": "#d8d8d8"
+  }, 
+  "location": {
+     "city": "Frankfurt am Main",
+     "country": "Germany",
+     "country_code": "DE"
+  }
+}
