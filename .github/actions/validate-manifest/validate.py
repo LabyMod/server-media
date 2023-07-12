@@ -167,7 +167,7 @@ def check_server_online_state(ip: str, wildcards: list):
     
     If your server is currently online, then our api returned a wrong status, we will have a look at it :)
 
-    Reference: [API URL ({url})]({url})'''.format({'url': url)
+    Reference: [API URL ({url})]({url})'''.format({'url': url})
 
     if not response['online']:
         post_comment(f'*Just as an information*:\nYour server {ip} **could be offline**.\n {offline_text}', 'comments')
