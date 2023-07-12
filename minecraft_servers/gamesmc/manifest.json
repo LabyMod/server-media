@@ -34,10 +34,6 @@
     "creative":{
       "name": "Creative",
       "command": "/warp creative"
-    },
-    "mob":{
-      "name": "Mobarena",
-      "command": "/warp mob"
     }
   }, 
   "location": {
