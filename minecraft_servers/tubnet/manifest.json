@@ -15,15 +15,15 @@
   },
   "gamemodes": {
     "crystalrush": {
-      "name": "Crystal Rush", 
+      "name": "Crystal Rush",
       "url": "https://forums.tubnet.gg/forums/crystal-rush.7/"
     },
     "lightstrike": {
-      "name": "Light Strike", 
+      "name": "Light Strike",
       "url": "https://forums.tubnet.gg/forums/light-strike.8/"
     },
     "spacebound": {
-      "name": "Spacebound", 
+      "name": "Spacebound",
       "url": "https://forums.tubnet.gg/forums/spacebound.9/"
     },
     "battleroyale": {
@@ -41,7 +41,7 @@
      "primary": "#ff9500",
      "background": "#23b5f6",
      "text": "#FFFFFF"
-  }, 
+  },
   "location": {
      "city": "Quebec",
      "country": "Canada",
