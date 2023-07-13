@@ -1,7 +1,7 @@
 {
   "server_name": "atirion",
   "nice_name": "Atirion",
-  "direct_ip": "play.atirion.nedet",
+  "direct_ip": "play.atirion.de",
   "server_wildcards": [
     "%.atirion.de"
   ],
