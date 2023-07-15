@@ -1,0 +1,76 @@
+{
+  "server_name": "abstract",
+  "nice_name": "Abstract",
+  "direct_ip": "abstractmc.fun",
+  "server_wildcards": [
+    "%.abstractmc.fun"
+  ],
+  "supported_languages": [
+     "en",
+     "es"
+  ],
+  "social": {
+    "web": "http://tienda.abstractmc.fun",
+    "web_shop": "http://tienda.abstractmc.fun",
+    "web_support": "http://discord.abstractmc.fun",
+    "twitter": "AbstractNetwor",
+    "tiktok": "Abstractnet",
+    "facebook": "",
+    "instagram": "",
+    "discord": "https://discord.gg/eywqn9hUqS",
+    "youtube": "https://www.youtube.com/@abstractmc",
+    "teamspeak": ""
+  },
+  "gamemodes": {
+    "survival": {
+      "name": "Survival", 
+      "color": "#00DE1F",
+      "url": "",
+      "command": "/survival",
+      "versions": "1.8<*"
+    },
+    "FFA": {
+      "name": "FFA",
+      "color": "#FF7676",
+      "url": "",
+      "command": "/ffa",
+      "versions": "1.8<*"
+    },
+    "boxpvp": {
+        "name": "BoxPvP",
+        "color": "#FFB400",
+        "url": "",
+        "command": "/boxpvp",
+        "versions": "1.8<*"
+      },
+    "arenapvp": {
+        "name": "ArenaPvP",
+        "color": "#F629FF",
+        "url": "",
+        "command": "/arenapvp",
+        "versions": "1.8<*"
+      }
+  },
+  "chat": {
+    "message_formats": [
+      ""
+    ]
+  },
+  "discord": {
+    "server_id": 912423645165539368,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#FFC300",
+     "background": "#FF9608",
+     "text": "#3C3C3C"
+  }, 
+  "location": {
+     "city": "Miami",
+     "country": "United States",
+     "country_code": "EU"
+  },
+  "yt_trailer": "Mqqs63XzOvk",
+  "user_stats": "https://laby.net/@{userName}",
+  "command_delay": 3000
+}
