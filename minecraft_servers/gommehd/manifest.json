@@ -50,16 +50,50 @@
       "url": "https://www.gommehd.net/game/BedWars",
       "command": "/gameteleport bw"
     },
-    "buildffa": {
-      "name": "BuildFFA",
-      "url": "https://www.gommehd.net/game/Build%20FFA",
-      "command": "/gameteleport ffabuild"
-    },
     "citybuild": {
       "name": "CityBuild",
       "url": "https://www.gommehd.net/game/CityBuild",
       "command": "/gameteleport citybuild",
       "versions": "1.19.1<*"
+    },
+    "gommunity": {
+      "name": "Gommunity",
+      "command": "/gameteleport gommunity"
+    },
+    "gungame": {
+      "name": "GunGame",
+      "url": "https://www.gommehd.net/game/GunGame",
+      "command": "/gameteleport ffagungame"
+    },
+    "kit1vs1": {
+      "name": "Kit1vs1",
+      "url": "https://www.gommehd.net/game/Kit%201vs1",
+      "command": "/gameteleport 1vs1"
+    },
+    "moneymaker": {
+      "name": "MoneyMaker",
+      "url": "https://www.gommehd.net/game/MoneyMaker",
+      "command": "/gameteleport idlemine"
+    },
+    "skywars": {
+      "name": "SkyWars",
+      "url": "https://www.gommehd.net/game/SkyWars",
+      "command": "/gameteleport skywars"
+    },
+    "jumpleague": {
+      "name": "JumpLeague",
+      "url": "https://www.gommehd.net/game/JumpLeague",
+      "command": "/gameteleport jl"
+    },
+    "game1vs1": {
+      "name": "Game1vs1",
+      "url": "https://www.gommehd.net/game/Game%201vs1",
+      "command": "/gameteleport game1vs1"
+    },
+    "buildffa": {
+      "name": "BuildFFA",
+      "url": "https://www.gommehd.net/game/Build%20FFA",
+      "command": "/gameteleport ffabuild"
     },
     "cores": {
       "name": "Cores",
@@ -82,20 +116,6 @@
       "url": "https://www.gommehd.net/game/FFA%20Classic",
       "command": "/gameteleport ffaclassic"
     },
-    "game1vs1": {
-      "name": "Game1vs1",
-      "url": "https://www.gommehd.net/game/Game%201vs1",
-      "command": "/gameteleport game1vs1"
-    },
-    "gommunity": {
-      "name": "Gommunity",
-      "command": "/gameteleport gommunity"
-    },
-    "gungame": {
-      "name": "GunGame",
-      "url": "https://www.gommehd.net/game/GunGame",
-      "command": "/gameteleport ffagungame"
-    },
     "hardcore": {
       "name": "Hardcore",
       "url": "https://www.gommehd.net/game/Hardcore",
@@ -107,26 +127,11 @@
       "command": "/gameteleport hns",
       "versions": "1.19.1<*"
     },
-    "jumpleague": {
-      "name": "JumpLeague",
-      "url": "https://www.gommehd.net/game/JumpLeague",
-      "command": "/gameteleport jl"
-    },
-    "kit1vs1": {
-      "name": "Kit1vs1",
-      "url": "https://www.gommehd.net/game/Kit%201vs1",
-      "command": "/gameteleport 1vs1"
-    },
     "masterbuilders": {
       "name": "MasterBuilders",
       "url": "https://www.gommehd.net/game/MasterBuilders",
       "command": "/gameteleport mb",
       "versions": "1.19.1<*"
-    },
-    "moneymaker": {
-      "name": "MoneyMaker",
-      "url": "https://www.gommehd.net/game/MoneyMaker",
-      "command": "/gameteleport idlemine"
     },
     "partygames": {
       "name": "PartyGames",
@@ -137,17 +142,13 @@
     "quicksurvivalgames": {
       "name": "QuickSurvivalGames",
       "url": "https://www.gommehd.net/game/QuickSurvivalGames",
-      "command": "/gameteleport qsg"
+      "command": "/gameteleport qsg",
+      "versions": "1.20<*"
     },
     "ragemode": {
       "name": "RageMode",
       "url": "https://www.gommehd.net/game/RageMode",
       "command": "/gameteleport ragemode"
-    },
-    "skywars": {
-      "name": "SkyWars",
-      "url": "https://www.gommehd.net/game/SkyWars",
-      "command": "/gameteleport skywars"
     },
     "speeduhc": {
       "name": "SpeedUHC",
@@ -157,7 +158,8 @@
     "survivalgames": {
       "name": "SurvivalGames",
       "url": "https://www.gommehd.net/game/SurvivalGames",
-      "command": "/gameteleport sg24"
+      "command": "/gameteleport sg24",
+      "versions": "1.20<*"
     },
     "ttt": {
       "name": "TTT",
