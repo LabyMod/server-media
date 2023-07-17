@@ -1,0 +1,37 @@
+{
+  "server_name": "grieferlegion",
+  "nice_name": "GrieferLegion",
+  "direct_ip": "play.grieferlegion.de",
+  "supported_languages": ["de"],
+  "social": {
+    "discord": "https://discord.gg/6t3DaaTV9C"
+  },
+  "gamemodes": {
+    "skyblock": {
+      "name": "SkyBlock",
+      "color": "#FFA500",
+      "url": "https://www.grieferlegion.de/games/skyblock",
+      "versions": "1.8<*"
+    },
+    "bedwars": {
+      "name": "BedWars",
+      "color": "#FF0000",
+      "url": "https://www.grieferlegion.de/games/bedwars",
+      "versions": "1.9<*"
+    }
+  },
+  "discord": {
+    "server_id": 1124744138898808963,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "",
+    "background": "",
+    "text": ""
+  },
+  "location": {
+    "city": "Vienna",
+    "country": "Austria",
+    "country_code": "AT"
+  }
+}
