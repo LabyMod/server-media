@@ -25,9 +25,9 @@
     "rename_to_minecraft_name": false
   },
   "brand": {
-    "primary": "",
-    "background": "",
-    "text": ""
+    "primary": "#e02f2f",
+    "background": "#0b53a1",
+    "text": "#1c570a"
   },
   "location": {
     "city": "Vienna",
