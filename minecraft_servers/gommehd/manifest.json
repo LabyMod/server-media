@@ -43,7 +43,7 @@
       "name": "Bingo",
       "url": "https://www.gommehd.net/game/Bingo",
       "command": "/gameteleport bingo",
-      "versions": "1.19.1<*"
+      "versions": "1.20<*"
     },
     "bedwars": {
       "name": "BedWars",
