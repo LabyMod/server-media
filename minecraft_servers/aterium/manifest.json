@@ -16,11 +16,11 @@
   "gamemodes": {
     "citybuild": {
       "name": "CityBuild",
-      "color": "#ff073a"
+      "color": "#87CEEB"
     },
     "challenges": {
       "name": "Challenges",
-      "color": "#ff073a"
+      "color": "#87CEEB"
     }
   },
   "discord": {
@@ -28,9 +28,9 @@
     "rename_to_minecraft_name": false
   },
   "brand": {
-    "primary": "#ffffff",
-    "background": "#ffffff",
-    "text": "#ffffff"
+    "primary": "#87CEEB",
+    "background": "#87CEEB",
+    "text": "#87CEEB"
   },
   "location": {
      "city": "Köln",
