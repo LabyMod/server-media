@@ -9,7 +9,7 @@
       "web": "https://www.dragonpvp.site",
       "web_shop": "https://www.dragonpvp.site/store",
       "web_support": "https://www.dragonpvp.site/forum",
-      "discord": "https://dsc.gg/dsdragonpvp"
+      "discord": "https://discord.com/invite/6kRMvCVYg8"
     },
     "gamemodes": {
       "KitPvP": {
@@ -31,7 +31,7 @@
     },
     "discord": {
       "server_id": 884523075503259709,
-      "rename_to_minecraft_name": true
+      "rename_to_minecraft_name": false
     },
     "brand": {
       "primary": "#a21616",
