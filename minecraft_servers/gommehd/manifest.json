@@ -54,7 +54,7 @@
       "name": "CityBuild",
       "url": "https://www.gommehd.net/game/CityBuild",
       "command": "/gameteleport citybuild",
-      "versions": "1.19.1<*"
+      "versions": "1.20<*"
     },
     "gommunity": {
       "name": "Gommunity",
@@ -125,19 +125,19 @@
       "name": "Hide'n'Seek",
       "url": "https://www.gommehd.net/game/Hide'n'Seek",
       "command": "/gameteleport hns",
-      "versions": "1.19.1<*"
+      "versions": "1.20<*"
     },
     "masterbuilders": {
       "name": "MasterBuilders",
       "url": "https://www.gommehd.net/game/MasterBuilders",
       "command": "/gameteleport mb",
-      "versions": "1.19.1<*"
+      "versions": "1.20<*"
     },
     "partygames": {
       "name": "PartyGames",
       "url": "https://www.gommehd.net/game/PartyGames",
       "command": "/gameteleport pg",
-      "versions": "1.19.1<*"
+      "versions": "1.20<*"
     },
     "quicksurvivalgames": {
       "name": "QuickSurvivalGames",
@@ -165,7 +165,7 @@
       "name": "TTT",
       "url": "https://www.gommehd.net/game/TTT",
       "command": "/gameteleport ttt",
-      "versions": "1.19.1<*"
+      "versions": "1.20<*"
     }
   },
   "discord": {
