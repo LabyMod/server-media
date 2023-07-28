@@ -8,7 +8,7 @@
   "social": {
     "web": "https://mccisland.net",
     "web_shop": "https://store.mccisland.net",
-    "web_support": "https://mccisland.net/forums",
+    "web_support": "https://support.mccisland.net",
     "twitter": "MCCisland_",
     "tiktok": "mccisland",
     "discord": "https://discord.gg/mcc",
@@ -16,20 +16,19 @@
   },
   "gamemodes": {
     "hitw": {
-      "name": "Hole in the Wall", 
-      "url": "https://mccisland.net/threads/mcc-island-hole-in-the-wall.1046/"
+      "name": "Hole in the Wall"
     },
     "skybattle": {
-      "name": "Sky Battle", 
-      "url": "https://mccisland.net/threads/mcc-island-sky-battle.1031/"
+      "name": "Sky Battle"
     },
     "battlebox": {
-      "name": "Battle Box", 
-      "url": "https://mccisland.net/threads/mcc-island-battle-box.1013/"
+      "name": "Battle Box"
     },
     "tgttos": {
-      "name": "To Get to the Other Side", 
-      "url": "https://mccisland.net/threads/mcc-island-tgttos.1086/"
+      "name": "To Get to the Other Side" 
+    },
+    "parkourwarrior": {
+      "name": "Parkour Warrior"
     }
   },
   "discord": {
