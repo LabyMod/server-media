@@ -1,0 +1,20 @@
+{
+  "server_name": "kingdomblocks",
+  "nice_name": "Kingdomblocks Network",
+  "direct_ip": "kingdomblocks.net",
+  "server_wildcards": [
+    "%.kingdomblocks.net"
+  ],
+  "social": {
+    "web": "https://kingdomblocks.net",
+    "web_shop": "https://shop.kingdomblocks.net",
+    "web_support": "https://kingdomblocks.net/forum",
+    "discord": "https://kingdomblocks.net/discord"
+  },
+  "gamemodes": {
+    "citybuild": {
+      "name": "Citybuild",
+      "command": "/server citybuild-01"
+    }
+  }
+}
