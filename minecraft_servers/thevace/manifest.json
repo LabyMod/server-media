@@ -50,8 +50,8 @@
     "rename_to_minecraft_name":true
   },
   "brand":{
-    "primary":"#04fbdd",
-    "background":"#04fbdd",
+    "primary":"#5ccdfd",
+    "background":"#5ccdfd",
     "text":"#ffffff"
   },
   "location":{
