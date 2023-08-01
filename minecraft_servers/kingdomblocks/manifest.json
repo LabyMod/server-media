@@ -5,11 +5,13 @@
   "server_wildcards": [
     "%.kingdomblocks.net"
   ],
+  "supported_languages": [
+     "de"
+  ],
   "social": {
     "web": "https://kingdomblocks.net",
-    "web_shop": "https://shop.kingdomblocks.net",
     "web_support": "https://kingdomblocks.net/forum",
-    "discord": "https://kingdomblocks.net/discord"
+    "discord": "https://discord.com/invite/cw8Rfeqdrn"
   },
   "gamemodes": {
     "citybuild": {
