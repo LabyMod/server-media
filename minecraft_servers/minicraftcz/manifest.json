@@ -1,5 +1,5 @@
 {
-    "server_name": "Minicraftcz",
+    "server_name": "minicraftcz",
     "nice_name": "MiniCraft",
     "direct_ip": "play.minicraft.cz",
     "server_wildcards": [
@@ -11,8 +11,8 @@
    ],
     "social": {
       "web": "https://minicraft.cz",
-      "web_shop": "https://store.minicraft.cz/",
-      "web_support": "https://www.minicraft.cz/kontakt/",
+      "web_shop": "https://store.minicraft.cz",
+      "web_support": "https://www.minicraft.cz/kontakt",
       "facebook": "czminicraft", 
       "instagram": "minicraft.cz",
       "tiktok": "minicraft.cz",
