@@ -1,20 +1,19 @@
 {
-    "server_name": "NinjaMC",
-    "nice_name": "NinjaMC Community",
-    "direct_ip": "NinjaMC.net",
-    "server_wildcards": [
-      "%.NinjaMC"
-    ],
-    "social": {
-      "discord": "https://discord.gg/ninjamc"
-    },
-    "brand": {
-      "background": "#FFAA00",
-      "text": "#0C0F12"
-    },
-    "location": {
-      "city": "Riyadh",
-      "country": "Saudi Arabia",
-      "country_code": "SA"
-    }
+  "server_name": "NinjaMC",
+  "nice_name": "NinjaMC.net",
+  "direct_ip": "NinjaMC.net",
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "Discord": "discord.gg/ninjamc"
+  },
+  "brand": {
+    "primary": "#c4c4c4"
+  },
+  "location": {
+    "city": "Quebec",
+    "country": "Canada",
+    "country_code": "CA"
   }
+}
