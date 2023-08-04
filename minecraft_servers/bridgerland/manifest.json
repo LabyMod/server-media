@@ -1,0 +1,41 @@
+{
+  "server_name": "bridgerland",
+  "nice_name": "Bridger Land",
+  "direct_ip": "bridger.land",
+  "server_wildcards": [
+    "play.bridger.land"
+  ],
+  "social": {
+    "web": "https://bridger.land",
+    "web_shop": "https://store.bridger.land",
+    "twitter": "Bridger_Land",
+    "youtube": "https://www.youtube.com/@pass",
+    "discord": "https://discord.com/bridge"
+  },
+  "gamemodes": {
+    "ffa": {
+      "name": "Free For All",
+      "command": "/join FFA"
+    },
+    "bedwars":{
+      "name": "BedWars",
+      "command": "/join BW"
+    },
+    "fb_straight": {
+      "name": "Fastbridge Straight",
+      "command": "/join fb1"
+    },
+    "fb_short": {
+      "name": "Fastbridge Short",
+      "command": "/join fb2"
+    },
+    "bwt":{
+      "name": "BW Training",
+      "command": "/join bwt"
+    }
+  },
+  "discord": {
+    "server_id": 837868492962922515,
+    "rename_to_minecraft_name": false
+  }
+}
