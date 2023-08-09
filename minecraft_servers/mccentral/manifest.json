@@ -9,10 +9,10 @@
      "en"
   ],
   "social": {
-    "web": "https://mccentral.org/",
-    "web_shop": "https://buy.mccentral.org/",
+    "web": "https://mccentral.org",
+    "web_shop": "https://buy.mccentral.org",
     "twitter": "_MCCentral",
-    "discord": "https://discord.com/invite/9jzwQDQ",
+    "discord": "https://discord.com/invite/9jzwQDQ"
   },
   "brand": {
      "primary": "#2d2d2d",
