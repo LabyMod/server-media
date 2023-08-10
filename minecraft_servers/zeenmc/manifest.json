@@ -8,7 +8,8 @@
       "%.strider.cc"
     ],
     "supported_languages": [
-      "es"
+      "es",
+      "en"
     ],
     "social": {
       "web": "https://zeenmc.es",
@@ -42,5 +43,5 @@
     "discord": {
       "server_id": 1026646611327205416,
       "rename_to_minecraft_name": false
-    },
+    }
 }
