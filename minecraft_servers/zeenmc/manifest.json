@@ -1,1 +1,46 @@
-
+{
+    "server_name": "zeenmc",
+    "nice_name": "ZeenMC Network",
+    "direct_ip": "play.zeenmc.es",
+    "server_wildcards": [
+      "%.zeenmc.com",
+      "%.insidemc.es",
+      "%.strider.cc"
+    ],
+    "supported_languages": [
+      "es"
+    ],
+    "social": {
+      "web": "https://zeenmc.es",
+      "web_shop": "https://tienda.zeenmc.es",
+      "twitter": "zeenmc_es",
+      "discord": "https://discord.zeenmc.es",
+      "tiktok": "zeenmc.es"
+    },
+    "gamemodes": {
+      "spacepvp": {
+        "name": "SpacePvP",
+        "color": "#FFF",
+        "command": "/spacepvp"
+      },
+      "lagransubida": {
+        "name": "La Gran Subida",
+        "color": "#FFF",
+        "command": "/lagransubida"
+      }
+    },
+    "brand": {
+       "primary": "#FF8D33",
+       "background": "#00000",
+       "text": "#FFFFFF"
+    },
+    "location": {
+      "city": "Dallas",
+      "country": "United States",
+      "country_code": "US"
+    },
+    "discord": {
+      "server_id": 1026646611327205416,
+      "rename_to_minecraft_name": false
+    },
+}
