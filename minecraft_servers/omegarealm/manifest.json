@@ -29,12 +29,12 @@
     "creativo": {
       "name": "Creativo",
       "command": "/changeserver creativo",
-      "color": "#FFF",
+      "color": "#FFF"
     },
     "skyblock": {
       "name": "SkyBlock",
       "command": "/changeserver skyblock",
-      "color": "#FFF",
+      "color": "#FFF"
     }
   },
   "discord": {
