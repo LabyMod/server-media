@@ -153,7 +153,8 @@
     "speeduhc": {
       "name": "SpeedUHC",
       "url": "https://www.gommehd.net/game/SpeedUHC",
-      "command": "/gameteleport speeduhc"
+      "command": "/gameteleport speeduhc",
+      "versions": "1.20<*"
     },
     "survivalgames": {
       "name": "SurvivalGames",
