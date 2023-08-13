@@ -1,0 +1,17 @@
+{
+    "server_name": "labyoase",
+    "nice_name": "play.labyoase.net",
+    "direct_ip": "play.labyoase.net",
+    "server_wildcards": [
+        "%.labyoase.net",
+    ],
+    "social": {
+        "twitter": "LabyOase",
+        "tiktok": "labyoasenet",
+        "discord": "https://discord.gg/labyoase",
+    },
+    "discord": {
+        "server_id": 1118943379649200199,
+        "rename_to_minecraft_name": false
+    }
+}
