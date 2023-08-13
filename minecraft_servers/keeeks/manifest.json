@@ -16,7 +16,7 @@
     "teamspeak": "ts.keeeks.de"
   },
   "gamemodes": {
-    "jumpworld": {
+    "civilizations": {
       "name": "Civilizations", 
       "color": "#5555FF",
       "versions": "1.19<*"
