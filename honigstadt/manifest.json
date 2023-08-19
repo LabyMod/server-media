@@ -14,21 +14,21 @@
   },
   "gamemodes": {
     "hauptserver": {
-      "name": "Hauptserver", 
-      "color": "#FFAA00",
-      "command": "/server haupt",
+      "name": "Honigstadt", 
+      "color": "#F18701",
+      "command": "/spawn",
       "versions": "1.9<*"
     },
     "testserver": {
-      "name": "Testserver",
-      "color": "#FF5555",
-      "command": "/server test",
+      "name": "Farmwelt",
+      "color": "#57886C",
+      "command": "/farmwelt",
       "versions": "1.9<*"
     },
     "bauserver": {
-      "name": "Bauserver", 
-      "color": "#00AAAA",
-      "command": "/server build",
+      "name": "Besucherwelt", 
+      "color": "#466060",
+      "command": "/besucherwelt",
       "versions": "1.9<*"
     }
   },
