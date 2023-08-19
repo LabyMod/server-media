@@ -1,0 +1,52 @@
+{
+  "server_name": "smashmc",
+  "nice_name": "smashmc",
+  "direct_ip": "smashmc.eu",
+  "server_wildcards": [
+    "%.smashmc.eu"
+  ],
+  "supported_languages": [
+     "en",
+     "de",
+     "ru"
+  ],
+  "social": {
+    "web": "https://smashmc.eu",
+    "web_shop": "https://smash.buycraft.net",
+    "web_support": "https://forum.smashmc.eu",
+    "twitter": "SmashMC_EU",
+    "tiktok": "smashmc.eu",
+    "instagram": "smashmc.eu",
+    "discord": "https://discord.gg/uz2y9bH",
+    "youtube": "https://www.youtube.com/channel/UCXCWMVDmilgSg4xdiVwEHxw",
+    "teamspeak": "smashmc.eu"
+  },
+  "gamemodes": {
+    "smash": {
+      "name": "Smash"
+    },
+    "molecraft": {
+      "name": "Molecraft"
+    },
+    "bedwars": {
+      "name": "BedWars"
+    },
+    "gungame": {
+      "name": "GunGame"
+    }
+  },
+  "discord": {
+    "server_id": 734927487880003666,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#4caf50",
+     "background": "#a160e2",
+     "text": "#FFFFFF"
+  }, 
+  "location": {
+     "city": "Hessen",
+     "country": "Germany",
+     "country_code": "DE"
+  }
+}

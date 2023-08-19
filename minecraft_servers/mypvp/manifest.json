@@ -5,15 +5,17 @@
   "server_wildcards": [
     "%.mypvp.me",
     "%.mypvp.eu",
-    "%.mypvp.us",
-    "%.mypvp.org",
-    "%.mypvp.net",
-    "%.mypvp.cloud",
-    "%.besterserver.de",
-    "%.minecraft.ms",
-    "%.minekube.eu",
-    "%.server.gratis",
-    "%.userserver.net"
+    "mypvp.net",
+    "mypvp.cloud",
+    "besterserver.de",
+    "minecraft.ms",
+    "minekube.eu",
+    "server.gratis",
+    "userserver.net"
+  ],
+  "supported_languages": [
+    "de", 
+    "en"
   ],
   "social": {
     "web": "https://mypvp.me",
@@ -22,6 +24,21 @@
     "twitter": "MyPvPme",
     "youtube": "https://www.youtube.com/channel/UCq2tbnNIT9ANK91uFExFC3g",
     "discord": "https://discord.com/invite/uPXmSs6",
-    "teamspeak": "mypvp.me"
-  }
+    "teamspeak": "mypvp.me",
+    "tiktok": "mypvp",
+    "instagram": "mypvpme"
+  },
+  "discord": {
+    "server_id": 633080118897803284
+  },
+  "brand": {
+    "background": "#FFDB4B",
+    "text": "#FFFFFF"
+  },
+  "location": {
+    "city": "Frankfurt",
+    "country": "Germany",
+    "country_code": "DE"
+  },
+  "yt_trailer": "qwtNAW8xMPw"
 }

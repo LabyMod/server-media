@@ -3,9 +3,11 @@
     "nice_name": "Skydinse",
     "direct_ip": "skydinse.de",
     "server_wildcards": [
-      "%.skydinse.net",
-      "%.skydinse.de",
-      "%.skydinse.tk"
+      "skydinse.net",
+      "skydinse.de",
+      "skydinse.tk",
+      "dev.skydinse.net",
+      "dev.skydinse.de"
     ],
     "supported_languages": [
       "de",
@@ -15,14 +17,14 @@
         "web": "https://skydinse.de",
         "twitter": "mc_skydinse",
         "tiktok": "skydinse_de",
-        "discord": "https://discord.gg/5VQhvzWF",
+        "discord": "https://discord.gg/cdWsMjfnea",
         "youtube": "https://www.youtube.com/@skydinse"
     },
     "gamemodes": {
-      "mineattack": {
-        "name": "MineAttack",
-        "command": "/game mineattack",
-        "versions": "1.19<*"
+      "lavarises": {
+        "name": "LavaRises",
+        "command": "/game lavarises",
+        "versions": "1.19.4<*"
       },
       "blockparty": {
         "name": "BlockParty",

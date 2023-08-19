@@ -42,5 +42,6 @@
     "server_id": 489529070913060867,
     "rename_to_minecraft_name": true
   },
-  "user_stats": "https://hypixel.net/player/{userName}"
+  "user_stats": "https://hypixel.net/player/{userName}",
+  "yt_trailer": "bkWHyz1MmaQ"
 }
