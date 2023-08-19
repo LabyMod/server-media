@@ -1,0 +1,17 @@
+{
+  "server_name": "noviamc",
+  "nice_name": "NoviaMC",
+  "direct_ip": "NoviaMC.de",
+  "server_wildcards": [
+    "%.noviamc.de"
+  ],
+  "social": {
+    "twitter": "noviamcde",
+    "discord": "https://discord.gg/h7ZzXycByV",
+    "youtube": "https://www.youtube.com/@noviamcde"
+  },
+  "discord": {
+    "server_id": 1013179880688603288,
+    "rename_to_minecraft_name": false
+  }
+}

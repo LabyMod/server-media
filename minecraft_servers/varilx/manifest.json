@@ -21,7 +21,8 @@
     "survival": {
       "name": "Survival", 
       "color": "#8995FF",
-      "versions": "1.12<1.19.4"
+      "versions": "1.12<1.19.4",
+      "command": "/spawn"
     }
   },
   "brand": {
