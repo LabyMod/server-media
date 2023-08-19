@@ -1,7 +1,7 @@
 {
     "server_name": "hymoon",
     "nice_name": "HyMoon Network",
-    "direct_ip": "play.hymoon.tk",
+    "direct_ip": "play.hymoon.es",
     "supported_languages": [
       "es",
       "en"
@@ -16,18 +16,28 @@
     "gamemodes": {
       "knockbackffa": {
         "name": "KnockbackFFA",
-        "color": "#FFF",
+        "color": "#ffff55",
         "command": "/play kbffa"
       },
       "skywars": {
         "name": "SkyWars",
-        "color": "#FFF",
+        "color": "#ff5555",
         "command": "/play sw"
       },
       "arenapvp": {
         "name": "ArenaPvP",
-        "color": "#FFF",
+        "color": "#aa00aa",
         "command": "/play apvp"
+      },
+      "tnttag": {
+        "name": "TnTTag",
+        "color": "#00aaaa",
+        "command": "/play tnttag"
+      },
+      "earth": {
+        "name": "Earth",
+        "color": "#55ff55",
+        "command": "/play earth"
       }
     },
     "brand": {
