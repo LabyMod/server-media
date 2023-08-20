@@ -83,7 +83,8 @@
     "jumpleague": {
       "name": "JumpLeague",
       "url": "https://www.gommehd.net/game/JumpLeague",
-      "command": "/gameteleport jl"
+      "command": "/gameteleport jl",
+      "versions": "1.20<*"
     },
     "game1vs1": {
       "name": "Game1vs1",
