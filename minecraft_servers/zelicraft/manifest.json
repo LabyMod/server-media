@@ -1,12 +1,10 @@
 {
   "server_name": "zelicraft",
   "nice_name": "Zelicraft Network",
-  "direct_ip": "zelicraft.com",
+  "direct_ip": "play.zelicraft.com",
   "server_wildcards": [
-    "dev.zelicraft.com",
     "mc.zelicraft.com",
-    "followersland.me",
-    "play.zelicraft.com"
+    "bedrock.zelicraft.com"
   ],
   "supported_languages": [
      "es",
@@ -20,32 +18,6 @@
     "instagram": "ZelikaFB",
     "discord": "https://discord.gg/zelicraft",
     "youtube": "https://www.youtube.com/c/ZelikaFB"
-  },
-  "gamemodes": {
-    "survival19": {
-      "name": "Survival 1.19.3", 
-      "color": "#009709",
-      "versions": "1.19.3",
-      "command": "/queue survival-19"
-    },
-    "vsurvival": {
-      "name": "Survival Vanilla",
-      "color": "#00B932",
-      "versions": "1.19.3",
-      "command": "/queue survival-vanilla"
-    },
-    "skywars": {
-      "name": "SkyWars",
-      "color": "#DEAA02",
-      "versions": "1.8<*",
-      "command": "/queue swlobby1"
-    },
-    "squidgames": {
-      "name": "SquidGames",
-      "color": "#DEAA02",
-      "versions": "1.8<*",
-      "command": "/queue squidgames"
-    }
   },
   "discord": {
     "server_id": 992594325617770657,
