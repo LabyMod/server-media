@@ -13,7 +13,7 @@
   "social": {
     "web": "https://omegarealm.net",
     "web_shop": "https://omegarealm.net/store",
-    "web_support": "https://omegarealm.net/forum",
+    "web_support": "https://omegarealm.net/contact",
     "twitter": "omegarealmnet",
     "discord": "https://discord.gg/e9mzMwHNSy",
     "tiktok": "omegarealmnet",
@@ -39,7 +39,7 @@
   },
   "discord": {
     "server_id": 1118625186867056731,
-    "rename_to_minecraft_name": true
+    "rename_to_minecraft_name": false
   },
   "brand": {
     "primary": "#ffaa00",
