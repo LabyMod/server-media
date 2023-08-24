@@ -10,7 +10,7 @@
     ],
     "social": {
         "web": "https://oc.tc",
-        "web_shop": "https://oc.tc/donate",
+        "web_shop": "https://oc.tc/store",
         "twitter": "OvercastPGM",
         "discord": "https://discord.gg/octc",
         "youtube": "https://www.youtube.com/@OvercastNetwork"
@@ -48,11 +48,6 @@
         "primary": "#D7D2BF",
         "background": "#4C0704",
         "text": "#FFFFFF"
-    },
-    "location": {
-        "city": "Toronto",
-        "country": "Canada",
-        "country_code": "CA"
     },
     "yt_trailer": "-nZdZ5Dy2Io",
     "command_delay": 3000
