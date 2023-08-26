@@ -7,7 +7,6 @@
   ],
   "social": {
     "web": "https://gladmc.com",
-    "web_shop": "https://loja.gladmc.com",
     "twitter": "GladMC_",
     "facebook": "100083393225242",
     "instagram": "gladmc_",
@@ -27,10 +26,6 @@
       "name": "BedWars",
       "command": "/play bw"
     }
-  },
-  "discord": {
-    "server_id": 978540914970619934,
-    "rename_to_minecraft_name": true
   },
   "yt_trailer": "HNXUlA56wZQ"
 }
