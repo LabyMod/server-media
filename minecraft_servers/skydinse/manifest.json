@@ -10,8 +10,12 @@
       "dev.skydinse.de"
     ],
     "supported_languages": [
+      "en",
       "de",
-      "en"
+      "pt",
+      "fr",
+      "es",
+      "tr"
     ],
     "social": {
         "web": "https://skydinse.net",
