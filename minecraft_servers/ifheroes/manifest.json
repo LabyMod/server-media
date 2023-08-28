@@ -1,0 +1,45 @@
+{
+  "server_name": "Inifnityheroes",
+  "nice_name": "Inifnityheroes Network",
+  "direct_ip": "play.ifheroes.de",
+  "server_wildcards": [
+    "%.ifheroes.de",
+    "%.inifnityheroes.de"
+  ],
+  "social": {
+    "web": "https://inifnityheroes.de",
+    "web_support": "https://help.inifnityheroes.de",
+    "twitter": "ifheroesserver",
+    "twitch": "",
+    "instagram": "ifheroesserver",
+    "youtube": "https://www.youtube.com/channel/UCavLhm1ZWWMinOcsr6uC_aw",
+    "discord": "https://ifheroes.de/discord"
+  },
+  "gamemodes": {
+    "survival": {
+      "name": "Survival",
+      "command": "/server survival",
+      "versions": "1.19<*"
+    },
+    "sgduels":{
+      "name": "SGDuels",
+      "command": "/server sgduels",
+      "versions": "1.19<*"
+    }
+  },
+  "discord": {
+    "server_id": 355790224527327232,
+    "rename_to_minecraft_name": true
+  },
+  "location": {
+    "city": "Stuttgart",
+    "country": "Germany",
+    "country_code": "DE"
+  },
+  "brand": {
+    "primary": "#0f9fff",
+    "background": "#11bdfb",
+    "text": "#ffffff"
+  },
+  "yt_trailer": "HNzpC-j4KXc"
+}
