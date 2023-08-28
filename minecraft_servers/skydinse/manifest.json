@@ -1,7 +1,7 @@
 {
     "server_name": "skydinse",
     "nice_name": "Skydinse",
-    "direct_ip": "skydinse.de",
+    "direct_ip": "skydinse.net",
     "server_wildcards": [
       "skydinse.net",
       "skydinse.de",
@@ -14,13 +14,18 @@
       "en"
     ],
     "social": {
-        "web": "https://skydinse.de",
-        "twitter": "mc_skydinse",
+        "web": "https://skydinse.net",
+        "twitter": "skydinse",
         "tiktok": "skydinse_de",
         "discord": "https://discord.gg/cdWsMjfnea",
         "youtube": "https://www.youtube.com/@skydinse"
     },
     "gamemodes": {
+      "sdplace": {
+        "name": "SD/place",
+        "command": "/nav sdplace",
+        "versions": "1.17<*"
+      },
       "lavarises": {
         "name": "LavaRises",
         "command": "/game lavarises",
@@ -37,7 +42,7 @@
         "versions": "1.17<*"
       },
       "murdermystery": {
-        "name": "Murder Mystery",
+        "name": "Murder",
         "command": "/game murdermystery",
         "versions": "1.17<*"
       },
