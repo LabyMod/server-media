@@ -1,0 +1,25 @@
+{
+    "server_name": "lumiacraft",
+    "nice_name": "Lumiacraft",
+    "direct_ip": "mc.lumiacraft.net",
+    "server_wildcards": [
+      "%.lumiacraft.net"
+    ],
+    "supported_languages": [
+       "en"
+    ],
+    "social": {
+      "web": "https://lumiacraft.net",
+      "web_shop": "https://lumiacraft-creative.tebex.io",
+      "web_support": "https://lumiacraft.net",
+      "discord": "https://discord.gg/wEQcsm9"
+    },
+    "discord": {
+      "server_id": 519297601221427203,
+    },
+    "location": {
+       "city": "Frankfurt",
+       "country": "Germany",
+       "country_code": "DE"
+    }
+  }
