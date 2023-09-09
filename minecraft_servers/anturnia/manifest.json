@@ -3,7 +3,7 @@
   "nice_name": "Anturnia",
   "direct_ip": "play.anturnia.net",
   "server_wildcards": [
-    "%.anturnia.net",
+    "%.anturnia.net"
   ],
   "supported_languages": [
     "de",
