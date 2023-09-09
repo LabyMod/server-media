@@ -1,0 +1,52 @@
+{
+  "server_name": "honigstadt",
+  "nice_name": "Honigstadt",
+  "direct_ip": "honigstadt.de",
+  "server_wildcards": [
+    "%.honigstadt.de"
+  ],
+  "supported_languages": [
+     "de"
+  ],
+  "social": {
+    "web": "https://www.honigstadt.de",
+    "web_support": "https://www.honigstadt.de/kontakt",
+    "discord": "https://discord.gg/DMEKpDg28A",
+    "instagram": "honigstadt2021",
+    "youtube": "https://www.youtube.com/@honigstadt2021"
+  },
+  "gamemodes": {
+    "hauptserver": {
+      "name": "Honigstadt", 
+      "color": "#F18701",
+      "command": "/spawn",
+      "versions": "1.9<*"
+    },
+    "testserver": {
+      "name": "Farmwelt",
+      "color": "#57886C",
+      "command": "/farmwelt",
+      "versions": "1.9<*"
+    },
+    "bauserver": {
+      "name": "Besucherwelt", 
+      "color": "#466060",
+      "command": "/besucherwelt",
+      "versions": "1.9<*"
+    }
+  },
+  "discord": {
+    "server_id": 831574477044580463,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#B57A2D",
+     "background": "#B57A2D",
+     "text": "#FFFFFF"
+  }, 
+  "location": {
+     "country": "Germany",
+     "country_code": "DE"
+  },
+  "command_delay": 5000
+}

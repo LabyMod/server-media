@@ -1,0 +1,53 @@
+{
+  "server_name": "warfaremc",
+  "nice_name": "WarfareMC",
+  "direct_ip": "mc.warfaremc.eu",
+  "server_wildcards": [
+    "play.warfaremc.eu"
+  ],
+  "supported_languages": [
+    "cz",
+    "sk"
+  ],
+  "social": {
+    "web": "https://warfaremc.eu",
+    "web_shop": "https://store.warfaremc.eu",
+    "twitter": "warfaremceu",
+    "discord": "https://discord.gg/C3Vn4aY",
+    "tiktok": "warfaremc",
+    "instagram": "warfaremceu",
+    "youtube": "https://www.youtube.com/@warfaremc1842"
+  },
+  "gamemodes": {
+    "slimefun": {
+      "name": "Survival Slimefun",
+      "versions": "1.16.5<*"
+    },
+    "rpgsurvival": {
+      "name": "RPG Survival",
+      "versions": "1.16.5<*"
+    },
+    "oneblock": {
+      "name": "OneBlock",
+      "versions": "1.16.5<*"
+    },
+    "smp": {
+      "name": "Public SMP",
+      "versions": "1.16.5<*"
+    }
+  },
+  "discord": {
+    "server_id": 252826895542910976,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#7F6CC2",
+    "background": "#7F6CC2",
+    "text": "#ffffff"
+  },
+  "location": {
+    "city": "Prague",
+    "country": "Czech Republic",
+    "country_code": "CZ"
+  }
+}
