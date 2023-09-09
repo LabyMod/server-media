@@ -6,6 +6,10 @@
     "de",
     "en"
   ],
+  "server_wildcards": [
+    "%.mc-seaside.eu",
+    "37.114.56.122"
+  ],
   "social": {
     "web_shop": "https://seaside.craftingstore.net",
     "twitter": "SeaSide33692248",
