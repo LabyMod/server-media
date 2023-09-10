@@ -1,0 +1,30 @@
+{
+  "server_name": "kanmuru",
+  "nice_name": "Kanmuru",
+  "direct_ip": "kanmuru.net",
+  "server_wildcards": [
+    "kanmuru.net",
+    "%.kanmuru.net"
+  ],
+  "supported_languages": [
+    "de",
+    "en"
+  ],
+  "social": {
+    "web": "https://kanmuru.net",
+    "discord": "https://discord.gg/FVF95pXbYy",
+    "twitter": "KanmuruNET"
+  },
+  "discord": {
+    "server_id": 826000371407257616,
+    "rename_to_minecraft_name": true
+  },
+  "location": {
+     "city": "Klagenfurt",
+     "country": "Austria",
+     "country_code": "AT"
+   },
+  "chat": {
+    "message_formats": ["^§[a-f0-9](?<level>\\d+)(| §[a-f0-9](?<rank>\\S+)) §8┃ §[a-f0-9](?<sender>[a-zA-Z0-9_]{2,16})§7: §f(?<message>.*)$"]
+  }
+}
