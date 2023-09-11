@@ -58,7 +58,7 @@
     },
     "chat": {
       "message_formats": [
-        "^(?<rank>\\[.+?\\]\\s)?(?<sender>[a-zA-Z0-9_]{1,16})(\\s(?<tag>[a-zA-Z0-9_ ]+))?:(?<message>.*)$"
+        "^(?<rank>§[a-z0-9]\\[.+?\\]\\s)?(?<senderColor>§[a-z0-9])(?<senderColorOptional>(§[a-z0-9])+)?(?<sender>[a-zA-Z0-9_]{1,16})(?<tag>[§a-zA-Z0-9_ ]+)?:\\s(?<message>.*)$"
       ]
     },
     "discord":{
