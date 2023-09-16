@@ -3,11 +3,10 @@
     "nice_name": "Skydinse",
     "direct_ip": "skydinse.net",
     "server_wildcards": [
-      "skydinse.net",
-      "skydinse.de",
-      "skydinse.tk",
-      "dev.skydinse.net",
-      "dev.skydinse.de"
+      "%.skydinse.net",
+      "%.skydinse.de",
+      "%.skydinse.tk",
+      "cattack.de"
     ],
     "supported_languages": [
       "en",
@@ -19,12 +18,18 @@
     ],
     "social": {
         "web": "https://skydinse.net",
+        "web_support": "https://skydinse.net/contact",
         "twitter": "skydinse",
-        "tiktok": "skydinse_de",
+        "tiktok": "skydinse_net",
         "discord": "https://discord.gg/cdWsMjfnea",
         "youtube": "https://www.youtube.com/@skydinse"
     },
     "gamemodes": {
+      "mineattack": {
+        "name": "MINEATTACK IV",
+        "command": "/game mineattackiv",
+        "versions": "1.20<*"
+      },
       "sdplace": {
         "name": "SD/place",
         "command": "/nav sdplace",
@@ -35,14 +40,14 @@
         "command": "/game lavarises",
         "versions": "1.19.4<*"
       },
-      "blockparty": {
-        "name": "BlockParty",
-        "command": "/game blockparty",
-        "versions": "1.17<*"
-      },
       "duels": {
         "name": "Duels",
         "command": "/game duels",
+        "versions": "1.17<*"
+      },
+      "blockparty": {
+        "name": "BlockParty",
+        "command": "/game blockparty",
         "versions": "1.17<*"
       },
       "murdermystery": {
