@@ -1,7 +1,7 @@
 {
   "server_name": "honigstadt",
   "nice_name": "Honigstadt",
-  "direct_ip": "mc.honigstadt.de",
+  "direct_ip": "honigstadt.de",
   "server_wildcards": [
     "%.honigstadt.de"
   ],
@@ -10,7 +10,10 @@
   ],
   "social": {
     "web": "https://www.honigstadt.de",
-    "discord": "https://discord.gg/DMEKpDg28A"
+    "web_support": "https://www.honigstadt.de/kontakt",
+    "discord": "https://discord.gg/DMEKpDg28A",
+    "instagram": "honigstadt2021",
+    "youtube": "https://www.youtube.com/@honigstadt2021"
   },
   "gamemodes": {
     "hauptserver": {
