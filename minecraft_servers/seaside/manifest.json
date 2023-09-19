@@ -19,7 +19,7 @@
   },
   "discord": {
     "server_id": 704281126855901215,
-    "rename_to_minecraft_name": true
+    "rename_to_minecraft_name": false
   },
   "brand": {
     "background": "#FFDB4B",
