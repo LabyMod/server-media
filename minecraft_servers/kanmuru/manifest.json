@@ -17,7 +17,7 @@
   },
   "discord": {
     "server_id": 826000371407257616,
-    "rename_to_minecraft_name": true
+    "rename_to_minecraft_name": false
   },
   "location": {
      "city": "Klagenfurt",
