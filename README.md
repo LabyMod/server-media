@@ -16,7 +16,8 @@ like [LABY.net](https://laby.net).
 [LABY.net server page](https://laby.net/server/timolia) <br>
 [server-media directory](https://github.com/LabyMod/server-media/tree/master/minecraft_servers/timolia)
 
-<img src="https://user-images.githubusercontent.com/45363287/125622136-83dbeafd-6318-40f8-b10a-fc334c2b63d4.png">
+<img src="https://github.com/MaximFiedler/server-media/assets/114857048/31ee7036-0dd4-46c0-96a0-e4e59bd166ba">
+
 
 ## Publish information for contributors
 
