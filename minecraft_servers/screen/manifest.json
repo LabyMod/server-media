@@ -23,7 +23,7 @@
     "rename_to_minecraft_name": false
   },
   "brand": {
-     "primary": "##EF6C00",
+     "primary": "#EF6C00",
      "background": "#F9A825",
      "text": "#FFFFFF"
   },
