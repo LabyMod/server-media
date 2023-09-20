@@ -10,6 +10,12 @@
     "pt-BR",
     "pt-PT"
   ],
+  "gamemodes": {
+    "rankup": {
+      "name": "Rank UP", 
+      "color": "#FFFFFF"
+    }
+  },
   "social": {
     "twitter": "ServidorScreen",
     "discord": "https://discord.gg/pbe8jkzD4J",
