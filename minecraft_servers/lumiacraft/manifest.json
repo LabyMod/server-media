@@ -5,9 +5,7 @@
   "server_wildcards": ["%.lumiacraft.net"],
   "supported_languages": ["en"],
   "social": {
-    "web": "https://lumiacraft.net",
     "web_shop": "https://lumiacraft-creative.tebex.io",
-    "web_support": "https://lumiacraft.net",
     "discord": "https://discord.gg/wEQcsm9"
   },
   "discord": {
