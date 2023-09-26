@@ -26,12 +26,12 @@
     },
     "gamemodes": {
       "mineattack": {
-        "name": "MINEATTACK IV",
+        "name": "MineAttack IV",
         "command": "/game mineattackiv",
         "versions": "1.20<*"
       },
       "sdplace": {
-        "name": "SD/place",
+        "name": "Place",
         "command": "/nav sdplace",
         "versions": "1.17<*"
       },
