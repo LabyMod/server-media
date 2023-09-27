@@ -1,0 +1,40 @@
+{
+  "server_name": "stardix",
+  "nice_name": "StarDix",
+  "direct_ip": "jogar.stardix.com",
+  "server_wildcards": [
+    "%.stardix.com"
+  ],
+  "social": {
+    "web": "https://stardix.com",
+    "web_shop": "https://loja.stardix.com",
+    "twitter": "StardixSD",
+    "facebook": "stardixfc",
+    "instagram": "stardixoficial",
+    "youtube": "https://www.youtube.com/c/StarDixOficial",
+    "discord": "https://discord.com/invite/stardix"
+  },
+  "gamemodes": {
+    "kitpvp": {
+      "name": "KitPvP",
+      "command": "/play kp"
+    },
+    "fullpvp":{
+      "name": "FullPvP",
+      "command": "/play fp"
+    },
+    "bedwars": {
+      "name": "BedWars",
+      "command": "/play bw"
+    },
+    "murder":{
+      "name": "Murder",
+      "command": "/play md"
+    },
+    "survival":{
+      "name": "Survival",
+      "command": "/play sv"
+    }
+  },
+  "yt_trailer": "UlZpyGrCkTk"
+}
