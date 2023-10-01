@@ -1,0 +1,34 @@
+{
+    "server_name": "DownTownMC",
+    "nice_name": "DownTownMC",
+    "direct_ip": "DownTownMC.de",
+    "server_wildcards": [
+      "%.laby.net"
+    ],
+    "supported_languages": [
+       "de"
+    ],
+    "social": {
+      "web": "https://DownTownMC.de/",
+      "web_shop": "https://DownTownMC.de/",
+      "web_support": "https://discord.gg/jVgJWJRUY3",
+      "tiktok": "DownTownMC",
+      "discord": "https://discord.gg/jVgJWJRUY3",
+      "youtube": "https://www.youtube.com/channel/UCSamgE1KYvC7qZn56T0J2yg"
+    },
+    "discord": {
+      "server_id": 1100502976361140285,
+      "rename_to_minecraft_name": false
+    }, 
+    "location": {
+       "city": "Frankfurt am Main",
+       "country": "Germany",
+       "country_code": "DE"
+    },
+    "brand": {
+      "primary": "#FFFF55",
+      "background": "#FFAA00",
+      "text": "#FFFFFF"
+     },
+    "command_delay": "3000"
+  }
