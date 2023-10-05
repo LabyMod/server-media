@@ -52,7 +52,7 @@
     "islands": {
       "name": "Islands",
       "color": "#c4a525",
-      "command": "/island",
+      "command": "/islands",
       "versions": "1.16<*"
     },
     "anarchy": {
