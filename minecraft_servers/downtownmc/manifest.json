@@ -1,7 +1,7 @@
 {
     "server_name": "downtownmc",
     "nice_name": "DownTownMC",
-    "direct_ip": "DownTownMC.de",
+    "direct_ip": "downtownmc.de",
     "server_wildcards": [
       "%.laby.net"
     ],
