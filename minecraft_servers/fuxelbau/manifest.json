@@ -1,0 +1,22 @@
+{
+  "server_name": "fuxelbau",
+  "nice_name": "Fuxelbau",
+  "direct_ip": "fuxelbau.de",
+  "server_wildcards": [
+    "%.fuxelbau.de"
+  ],
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "twitter": "Fuxelbau",
+    "tiktok": "fuxelclips",
+    "youtube": "https://www.youtube.com/@Fuxel",
+    "instagram": "fuxelbau",
+    "twitch": "fuxelbau"
+  },
+  "discord": {
+    "server_id": 534055532781371403,
+    "rename_to_minecraft_name": false
+  }
+}

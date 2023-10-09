@@ -1,0 +1,40 @@
+{
+  "server_name": "screen",
+  "nice_name": "Screen Network",
+  "direct_ip": "redescreen.com",
+  "server_wildcards": [
+    "redereset.net",
+    "luper.redescreen.net"
+  ],
+  "supported_languages": [
+    "pt-BR",
+    "pt-PT"
+  ],
+  "gamemodes": {
+    "rankup": {
+      "name": "Rank UP", 
+      "color": "#FFFFFF"
+    }
+  },
+  "social": {
+    "twitter": "ServidorScreen",
+    "discord": "https://discord.gg/pbe8jkzD4J",
+    "web_shop": "https://loja.redescreen.com",
+    "tiktok": "servidorscreen",
+    "instagram": "servidorscreen",
+    "youtube": "https://www.youtube.com/@ScreenNetworkYT"
+  },
+  "discord": {
+    "server_id": 530907295677415425,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#EF6C00",
+     "background": "#F9A825",
+     "text": "#FFFFFF"
+  },
+  "location": {
+    "country": "Brazil",
+    "country_code": "BR"
+ }
+}
