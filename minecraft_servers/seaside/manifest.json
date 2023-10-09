@@ -7,8 +7,7 @@
     "en"
   ],
   "server_wildcards": [
-    "%.mc-seaside.eu",
-    "37.114.56.122"
+    "%.mc-seaside.eu"
   ],
   "social": {
     "web_shop": "https://seaside.craftingstore.net",
@@ -32,5 +31,5 @@
       "versions": "1.19.4<*"
     }
   },
-  "yt_trailer": "a12_e3ujesA"
+  "yt_trailer": "j61o7LLIFaU"
 }
