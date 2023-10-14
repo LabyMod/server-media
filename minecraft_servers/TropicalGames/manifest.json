@@ -1,0 +1,21 @@
+{
+  "server_name": "TropicalGames",
+  "nice_name": "TropicalGames",
+  "direct_ip": "TropicalGames.de",
+   "server_wildcards":[
+     "premium.TropicalGames.de",
+     "%.TropicalGames.de"
+  ],
+  "social": {
+    "web": "https://TropicalGames.de",
+    "web_shop": "https://TropicalGames.de/store",
+    "tiktok": "TropicalGames",
+    "instagram": "TropicalGames",
+    "discord": "https://discord.gg/TropicalGames",
+    "teamspeak": "ts.TropicalGames.host"
+  },
+  "brand": {
+     "primary": "#001414",
+     "background": "#008cd3"
+  }
+}
