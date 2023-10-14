@@ -33,7 +33,7 @@
     "web_support": "https://gommehdnet.zendesk.com",
     "twitter": "GommeHDnet",
     "instagram": "gommehdnetwork",
-    "tiktok": "gommehdnetwork",
+    "tiktok": "gommehdnet",
     "youtube": "https://www.youtube.com/GommeHDnet",
     "discord": "https://discord.com/invite/Y9qVwk4",
     "teamspeak": "GommeHD.net"
@@ -58,7 +58,8 @@
     },
     "gommunity": {
       "name": "Gommunity",
-      "command": "/gameteleport gommunity"
+      "command": "/gameteleport gommunity",
+      "versions": "1.20<*"
     },
     "gungame": {
       "name": "GunGame",
