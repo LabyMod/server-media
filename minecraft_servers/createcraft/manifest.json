@@ -1,0 +1,65 @@
+{
+  "server_name": "createcraft",
+  "nice_name": "CreateCraft.eu",
+  "direct_ip": "createcraft.eu",
+  "server_wildcards": [
+    "%.createcraft.eu"
+  ],
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "web": "https://www.createcraft.eu",
+    "web_shop": "https://www.createcraft.eu/store",
+    "tiktok": "createcrafteu",
+    "instagram": "createcraft.eu",
+    "discord": "https://discord.gg/RZTtybbH4R"
+  },
+  "gamemodes": {
+    "citybuild": {
+      "name": "CityBuild",
+      "color": "#E0A400",
+      "command": "/citybuild",
+      "versions": "1.19<*"
+    },
+    "skyblock": {
+      "name": "SkyBlock",
+      "color": "#0BA3BA",
+      "command": "/skyblock",
+      "versions": "1.19<*"
+    },
+    "stoneblock": {
+      "name": "StoneBlock",
+      "color": "#F5683D",
+      "command": "/stoneblock",
+      "versions": "1.19<*"
+    },
+    "minigames": {
+      "name": "Minigames",
+      "color": "#B34B62",
+      "command": "/minigames",
+      "versions": "1.19<*"
+    },
+    "survival": {
+      "name": "Survival",
+      "color": "#126E0A",
+      "command": "/survival",
+      "versions": "1.19<*"
+    }
+  },
+  "discord": {
+    "server_id": 976397368163438632,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#6DA5C0",
+    "background": "#343a40",
+    "text": "#f8f9fa"
+  },
+  "location": {
+    "city": "Falkenstein",
+    "country": "Germany",
+    "country_code": "DE"
+  },
+  "yt_trailer": "8asFIRe2HSw"
+}
