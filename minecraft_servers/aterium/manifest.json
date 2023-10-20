@@ -16,11 +16,11 @@
   "gamemodes": {
     "citybuild": {
       "name": "CityBuild",
-      "color": "#ff073a"
+      "color": "#329fcf"
     },
     "challenges": {
       "name": "Challenges",
-      "color": "#ff073a"
+      "color": "#329fcf"
     }
   },
   "discord": {
@@ -28,8 +28,8 @@
     "rename_to_minecraft_name": false
   },
   "brand": {
-    "primary": "#ffffff",
-    "background": "#ffffff",
+    "primary": "##329fcf",
+    "background": "#329fcf",
     "text": "#ffffff"
   },
   "location": {
