@@ -24,10 +24,14 @@
       "name": "CityBuild Diamond",
       "color": "#0095B0"
     },
+    "crystalrun": {
+      "name": "Crystalrun",
+      "color": "#0095B0"
+    }
   },
   "discord": {
     "server_id": 1015691786850672660,
-    "rename_to_minecraft_name": true
+    "rename_to_minecraft_name": false
   },
   "brand": {
     "primary": "#ffffff",
