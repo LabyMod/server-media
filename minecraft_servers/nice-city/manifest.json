@@ -1,39 +1,40 @@
 {
-    "server_name": "nice-city",
-    "nice_name": "Nice-City",
+    "server_name": "nicecity",
+    "nice_name": "nicecity",
     "direct_ip": "nice-city.de",
     "server_wildcards": [
-      "%.nice-city.de"
+        "%.nice-city.de",
+        "nice-city.de"
     ],
     "supported_languages": [
-       "de"
+        "de"
     ],
     "social": {
-      "youtube": "https://www.youtube.com/channel/UCWvoJNBF5_JScis0VHiLJUg",
-      "discord": "https://discord.gg/ErFEdV6kaf"
+        "tiktok": "nicecityde",
+        "instagram": "nicecity_official",
+        "discord": "https://discord.gg/djsUTH7Y",
+        "youtube": "https://www.youtube.com/channel/UCWvoJNBF5_JScis0VHiLJUg"
     },
     "gamemodes": {
-      "citybuild": {
-        "name": "CityBuild",
-        "color": "#0095B0"
-      },
-      "citybuildnice": {
-        "name": "CityBuild Nice",
-        "color": "#0095B0"
+        "Citybuild": {
+            "name": "Citybuild",
+            "color": "#FFA500",
+            "command": "/server citybuild",
+            "versions": "1.20.1<*"
+        }
     },
     "discord": {
-      "server_id": 1155152906350231684,
-      "rename_to_minecraft_name": true
+        "server_id": 260471731809026050,
+        "rename_to_minecraft_name": false
     },
     "brand": {
-      "primary": "#ffffff",
-      "background": "#ffffff",
-      "text": "#ffffff"
+        "primary": "#008FE8",
+        "background": "#0A56A5",
+        "text": "#FFFFFF"
     },
     "location": {
-       "city": "Frankfurt",
-       "country": "Germany",
-       "country_code": "DE"
-     }
-  }
+        "city": "Frankfurt",
+        "country": "Germany",
+        "country_code": "DE"
+    }
 }
