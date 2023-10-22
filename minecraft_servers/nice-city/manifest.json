@@ -1,6 +1,6 @@
 {
-    "server_name": "nicecity",
-    "nice_name": "nicecity",
+    "server_name": "nice-city",
+    "nice_name": "nice-city",
     "direct_ip": "nice-city.de",
     "server_wildcards": [
         "%.nice-city.de",
