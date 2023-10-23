@@ -1,0 +1,24 @@
+{
+    "server_name": "BlockLeben",
+    "nice_name": "BlockLeben.de",
+    "direct_ip": "blockleben.de",
+    "supported_languages": [
+      "de",
+      "en"
+    ],
+    "social": {
+      "web": "https://blockleben.de/",
+      "discord": "https://discord.gg/2dveXu4eaf",
+    },
+    "discord": {
+      "server_id": "1104758781004488776"
+    },
+    "brand": {
+      "primary": "#FF5900"
+    },
+    "location": {
+      "city": "Frankfurt",
+      "country": "Germany",
+      "country_code": "DE"
+    }
+  }
