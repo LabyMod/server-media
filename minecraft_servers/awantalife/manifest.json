@@ -1,0 +1,13 @@
+{
+    "server_name": "awantalife",
+    "nice_name": "AwantaLife.de Reallife Netzwerk",
+    "direct_ip": "awantalife.de",
+    "server_wildcards": [
+      "%.awantalife.de"
+    ],
+    "social": {
+      "web": "https://awantalife.de",
+      "youtube": "https://www.youtube.com/channel/UCyxtThyu85f_7KqC2fVJV6A",
+      "instagram": "AwantaLife"
+    }
+  }
