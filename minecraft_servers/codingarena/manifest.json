@@ -12,7 +12,7 @@
     "skypvp": {
       "name": "SkyPvP", 
       "color": "#FFA500",
-      "command": "/quickjoin jumpworld16",
+      "command": "/quickjoin skypvp",
       "versions": "1.19>*"
     },
   },
