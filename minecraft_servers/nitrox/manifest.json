@@ -5,8 +5,7 @@
   "social": {
     "tiktok": "nitroxnet",
     "instagram": "nitroxnet",
-    "teamspeak": "ts.nitrox.gg",
-    "discord": "https://discord.gg/nitroxnet"
+    "discord": "https://discord.gg/MU8kM7vYpJ"
   },
   "discord": {
     "server_id": 966020442571808848,
@@ -15,31 +14,38 @@
   "gamemodes": {
     "citybuild": {
       "name": "Citybuild",
-      "color": "#00ff48"
+      "color": "#00ff48",
+      "command": "/quickjoin Citybuild1"
     },
     "bedwars": {
       "name": "Bedwars",
-      "color": "#ff0040"
+      "color": "#ff0040",
+      "command": "/quickjoin Bedwars"
     },
     "knock_it": {
       "name": "KnockIt",
-      "color": "#ffcc00"
+      "color": "#ffcc00",
+      "command": "/quickjoin KnockIT"
     },
     "one_in_the_chamber": {
       "name": "OneInTheChamber",
-      "color": "#a8034e"
+      "color": "#a8034e",
+      "command": "/quickjoin OITC"
     },
     "eisbaer": {
       "name": "Eisbär",
-      "color": "#05d7f7"
+      "color": "#05d7f7",
+      "command": "/quickjoin Eisbär"
     },
     "tntrun": {
       "name": "TNTRun",
-      "color": "#f70535"
+      "color": "#f70535",
+      "command": "/quickjoin TNTRun"
     },
-    "goldjaeger": {
+    "pvp": {
       "name": "PVP",
-      "color": "#f79605"
+      "color": "#f79605",
+      "command": "/quickjoin PVP"
     }
   },
   "brand": {

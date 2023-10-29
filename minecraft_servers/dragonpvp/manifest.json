@@ -16,12 +16,13 @@
         "name": "KitPvP",
         "command": "/queue kitpvp",
         "color": "#0095B0",
-        "versions": "1.8<1.20.1"
+        "versions": "1.7<1.20.1"
       },
-      "Bedwars": {
-        "name": "Bedwars",
-        "command": "/queue bedwars",
-        "color": "#ffffff"
+      "Kaboom": {
+        "name": "Kaboom",
+        "command": "/queue kaboom",
+        "color": "#FB9902",
+        "versions": "1.7<1.20.1"
       },
       "uhc": {
         "name": "UHC",
