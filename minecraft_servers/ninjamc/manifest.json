@@ -1,0 +1,19 @@
+{
+  "server_name": "ninjamc",
+  "nice_name": "ninjamc",
+  "direct_ip": "ninjamc.net",
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "discord": "https://discord.gg/u9f8VJK4EJ"
+  },
+  "brand": {
+    "primary": "#c4c4c4"
+  },
+  "location": {
+    "city": "Quebec",
+    "country": "Canada",
+    "country_code": "CA"
+  }
+}
