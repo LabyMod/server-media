@@ -5,6 +5,9 @@
   "supported_languages": [
     "de"
   ],
+  "social": {
+    "discord": "social.discord.gg/ninjamc"
+  },
   "brand": {
     "primary": "#c4c4c4"
   },
