@@ -9,12 +9,11 @@
        "pt"
     ],
     "social": {
-      "web": "https://ecbr.me/site",
-      "web_shop": "https://ecbr.me/site",
-      "web_support": "https://ecbr.me/disc",
+      "web": "https://loja.endercraft.com.br",
+      "web_shop": "https://loja.endercraft.com.br/shop",
       "tiktok": "EnderCrafBR",
       "instagram": "EnderCraftBR",
-      "discord": "https://ecbr.me/disc",
+      "discord": "https://discord.gg/endercraftbr",
       "youtube": "https://www.youtube.com/@endercraft_br"
     },
     "gamemodes": {
@@ -24,7 +23,7 @@
         "command": "/jogar survival"
       },
       "skyblock": {
-        "name": "Skyblocck", 
+        "name": "Skyblock", 
         "color": "#09b4e8",
         "command": "/jogar skyblock"
       }
