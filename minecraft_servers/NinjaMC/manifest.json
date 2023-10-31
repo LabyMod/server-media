@@ -1,7 +1,7 @@
 {
-  "server_name": "NinjaMC",
-  "nice_name": "NinjaMC.net",
-  "direct_ip": "NinjaMC.net",
+  "server_name": "ninjamc",
+  "nice_name": "ninjamc.net",
+  "direct_ip": "ninjamc.net",
   "supported_languages": [
     "de"
   ],
