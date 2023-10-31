@@ -11,7 +11,6 @@
     "en"
   ],
   "social": {
-    "web": "https://swacrew.net",
     "web_shop": "https://shop.swacrew.net",
     "twitter": "SwacrewNET",
     "tiktok": "swacrew",
@@ -22,47 +21,39 @@
   "gamemodes": {
     "eventserver": {
       "name": "Eventserver",
-      "url": "https://www.swacrew.net",
       "command": "/gameteleport eventserver"
     },
     "bedwars": {
       "name": "BedWars",
-      "url": "https://www.swacrew.net",
       "command": "/gameteleport bw"
     },
     "training": {
       "name": "Training",
-      "url": "https://www.swacrew.net",
       "command": "/gameteleport training"
     },
     "swacrewgames": {
       "name": "SwacrewGames",
-      "url": "https://www.swacrew.net",
       "command": "/gameteleport swacrewgames"
     },
     "target": {
       "name": "Target",
-      "url": "https://www.swacrew.net",
       "command": "/gameteleport target"
     },
     "buildffa": {
       "name": "BuildFFA",
-      "url": "https://www.swacrew.net",
       "command": "/gameteleport buildffa"
     },
     "minelife": {
       "name": "Minelife",
-      "url": "https://www.swacrew.net",
       "command": "/gameteleport minelife"
     },
     "vorbau": {
       "name": "Vorbau",
-      "url": "https://www.swacrew.net",
       "command": "/gameteleport vorbau"
     }
   },
   "discord": {
     "server_id": 746838764914999431,
-    "rename_to_minecraft_name": true
+    "rename_to_minecraft_name": false
   }
 }
