@@ -2,9 +2,6 @@
   "server_name": "ninjamc",
   "nice_name": "NinjaMC",
   "direct_ip": "ninjamc.net",
-  "server_wildcards": [
-    "%.ninjamc.net"
-  ],
   "supported_languages": [
     "de"
   ],
