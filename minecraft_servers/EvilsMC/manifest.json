@@ -1,7 +1,7 @@
 {
-    "server_name": "EvilsMC",
+    "server_name": "evilsmc",
     "nice_name": "EvilsMC Community",
-    "direct_ip": "EvilsMC.com",
+    "direct_ip": "evilsmc.com",
     "server_wildcards": [
       "%.evilsmc.com"
     ],

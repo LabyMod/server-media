@@ -1,7 +1,7 @@
 {
-    "server_name": "VeinMC",
+    "server_name": "veinmc",
     "nice_name": "VeinMC Community",
-    "direct_ip": "VeinMC.com",
+    "direct_ip": "veinmc.com",
     "server_wildcards": [
       "%.veinmc.com"
     ],
