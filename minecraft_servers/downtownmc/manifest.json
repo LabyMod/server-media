@@ -2,14 +2,10 @@
     "server_name": "downtownmc",
     "nice_name": "DownTownMC",
     "direct_ip": "downtownmc.de",
-    "server_wildcards": [
-      "%.laby.net"
-    ],
     "supported_languages": [
        "de"
     ],
     "social": {
-      "web_support": "https://discord.gg/jVgJWJRUY3",
       "tiktok": "DownTownMC",
       "discord": "https://discord.gg/jVgJWJRUY3",
       "youtube": "https://www.youtube.com/channel/UCSamgE1KYvC7qZn56T0J2yg"
