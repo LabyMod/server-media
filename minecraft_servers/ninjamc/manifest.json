@@ -1,6 +1,6 @@
 {
   "server_name": "ninjamc",
-  "nice_name": "ninjamc",
+  "nice_name": "NinjaMC",
   "direct_ip": "ninjamc.net",
   "server_wildcards": [
     "%.ninjamc.net"
@@ -23,7 +23,7 @@
       "name": "BattleRoyal",
       "color": "#ADD8E6",
       "command": "/server br-1",
-    }
+    },
     "partygames": {
       "name": "PartyGames",
       "color": "#ADD8E6",
@@ -38,7 +38,7 @@
      "primary": "#008FE8",
      "background": "#a69d7e",
      "text": "#e1af03"
-  }, 
+  },
   "location": {
      "city": "Walldorf",
      "country": "Germany",
