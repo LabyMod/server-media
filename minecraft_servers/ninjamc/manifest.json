@@ -6,8 +6,25 @@
     "de"
   ],
   "social": {
-    "discord": "https://discord.gg/u9f8VJK4EJ"
+    "discord": "https://	discord.gg/u9f8VJK4EJ"
   },
+  "gamemodes": {
+      "CityBuild": {
+       "name": "CityBuild", 
+       "color": "#10e040",
+       "command": "/server CB-1"
+      },
+      "BattleRoyal": {
+       "name": "BattleRoyal", 
+       "color": "#ed0ca6",
+       "command": "/server BR-1"
+      },
+      "BedWars": {
+       "name": "BedWars", 
+       "color": "#f7ff0d",
+       "command": "/server BW-1"
+      },
+    },
   "brand": {
     "primary": "#c4c4c4"
   },
