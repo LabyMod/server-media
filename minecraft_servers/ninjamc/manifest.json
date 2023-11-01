@@ -31,9 +31,7 @@
 		}
   },
   "brand": {
-     "primary": "#008FE8",
-     "background": "#a69d7e",
-     "text": "#e1af03"
+     "primary": "#c4c4c4",
   },
   "location": {
      "city": "Walldorf",
