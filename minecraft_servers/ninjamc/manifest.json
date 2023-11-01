@@ -28,9 +28,9 @@
 	"brand": {
 		"primary": "#c4c4c4"
 	},
-	"location": {
-		"city": "Quebec",
-		"country": "Canada",
-		"country_code": "CA"
-	},
+  "location": {
+     "city": "Walldorf",
+     "country": "Germany",
+     "country_code": "DE"
+  },
 }
