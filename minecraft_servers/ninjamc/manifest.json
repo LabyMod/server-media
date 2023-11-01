@@ -8,23 +8,23 @@
   "social": {
     "discord": "https://discord.gg/u9f8VJK4EJ"
   },
-    "gamemodes": {
-      "CityBuild": {
-       "name": "CityBuild", 
-       "color": "#10e040",
-       "command": "/server CB-1"
+    "gamemodes":{
+      "CityBuild":{
+        "name":"CityBuild",
+        "color":"#FFAA00",
+        "command":"/server CB-1"
       },
-      "BattleRoyal": {
-       "name": "BattleRoyal", 
-       "color": "#ed0ca6",
-       "command": "/server BR-1"
+      "BattleRoyal":{
+        "name":"BattleRoyal",
+        "color":"#E910E4",
+        "command":"/server BR-1"
       },
-      "Party-Games": {
-       "name": "Party-Games", 
-       "color": "#f7ff0d",
-       "command": "/server MP-1"
-      },
-    }
+      "PartyGames":{
+        "name":"PartyGames",
+        "color":"#E910E4",
+        "command":"/server MP-1"
+      }
+    },
   "brand": {
     "primary": "#c4c4c4"
   },
