@@ -18,7 +18,7 @@
       "name": "CityBuild", 
       "color": "#FFA500",
       "command": "/server cb-1",
-    }
+    },
     "battleroyal": {
       "name": "BattleRoyal",
       "color": "#ADD8E6",
