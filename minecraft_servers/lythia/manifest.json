@@ -39,6 +39,5 @@
        "country": "Schweiz",
        "country_code": "CH"
     },
-    "user_stats": "https://laby.net/@{userName}",
     "command_delay": 3000
   }
