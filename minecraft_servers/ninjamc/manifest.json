@@ -6,7 +6,7 @@
     "de"
   ],
   "social": {
-    "discord": "https://	discord.gg/u9f8VJK4EJ"
+    "discord": "https://discord.gg/u9f8VJK4EJ"
   },
   "gamemodes": {
       "CityBuild": {
@@ -19,10 +19,10 @@
        "color": "#ed0ca6",
        "command": "/server BR-1"
       },
-      "BedWars": {
-       "name": "BedWars", 
+      "Party-Games": {
+       "name": "Party-Games", 
        "color": "#f7ff0d",
-       "command": "/server BW-1"
+       "command": "/server MP-1"
       },
     },
   "brand": {
