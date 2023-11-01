@@ -16,6 +16,10 @@
     "landbox": {
       "name": "LandBox",
       "color": "#0CF7F0"
+    },
+    "pokebox": {
+      "name": "PokeBox",
+      "color": "#F70C0C"
     }
   },
   "social": {
