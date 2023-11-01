@@ -3,8 +3,6 @@
     "nice_name": "Nektax Network",
     "direct_ip": "nektax.net",
     "server_wildcards": [
-        "play.nektax.net",
-        "premium.nektax.net",
         "%.nektax.net"
     ],
     "supported_languages": [
