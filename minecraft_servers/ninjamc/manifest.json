@@ -28,7 +28,7 @@
       "name": "PartyGames",
       "color": "#ADD8E6",
       "command": "/server mp-1",
-    }
+    },
   },
   "discord": {
     "server_id": 1083998012554084412,
