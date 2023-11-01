@@ -18,17 +18,17 @@
       "name": "CityBuild", 
       "color": "#FFA500",
       "command": "/server cb-1",
-    },
+    }
     "battleroyal": {
       "name": "BattleRoyal",
       "color": "#ADD8E6",
       "command": "/server br-1",
-    },
+    }
     "partygames": {
       "name": "PartyGames",
       "color": "#ADD8E6",
       "command": "/server mp-1",
-    },
+    }
   },
   "brand": {
      "primary": "#008FE8",
