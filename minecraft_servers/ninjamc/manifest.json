@@ -9,17 +9,17 @@
     "discord": "https://discord.gg/u9f8VJK4EJ"
   },
     "gamemodes":{
-      "CityBuild":{
+      "citybuild":{
         "name":"CityBuild",
         "color":"#FFAA00",
         "command":"/server CB-1"
       },
-      "BattleRoyal":{
+      "battleroyal":{
         "name":"BattleRoyal",
         "color":"#E910E4",
         "command":"/server BR-1"
       },
-      "PartyGames":{
+      "partygames":{
         "name":"PartyGames",
         "color":"#E910E4",
         "command":"/server MP-1"
