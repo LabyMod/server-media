@@ -1,41 +1,28 @@
 {
   "server_name": "ninjamc",
-  "nice_name": "ninjamc",
+  "nice_name": "NinjaMC",
   "direct_ip": "ninjamc.net",
-  "server_wildcards": [
-    "%.ninjamc.net"
-  ],
-  "supported_languages": [
-     "de"
-  ],
   "social": {
-		"tiktok": "NinjaMC",
-		"discord": "https://discord.gg/uhPfMuSHMp",
-		"teamspeak": "ts.ninjamc.net"
+    "tiktok": "ninjamc",
+    "discord": "https://discord.gg/uhPfMuSHMp",
+    "teamspeak": "ts.ninjamc.net"
   },
   "gamemodes": {
-	"citybuild": {
-	 "name": "CityBuild", 
-	 "color": "#FFA500",
-	 "command": "/server cb-1"
-	},
-	 "battleroyal": {
-	 "name": "BattleRoyal",
-	 "color": "#ADD8E6",
-	 "command": "/server br-1"
-	},
-	 "partygames": {
-	 "name": "PartyGames",
-	 "color": "#ADD8E6",
-	 "command": "/server mp-1"
-	}
+    "citybuild": {
+      "name": "CityBuild",
+      "command": "/server cb-1"
+    },
+    "battleroyal":{
+      "name": "BattleRoyal",
+      "command": "/server br-1"
+    },
+    "partygames": {
+      "name": "PartyGames",
+      "command": "/server mp-1"
+    }
   },
-  "brand": {
-		  "primary": "#c4c4c4"
+  "discord": {
+    "server_id": 1083998012554084412,
+    "rename_to_minecraft_name": false
   },
-  "location": {
-     "city": "Walldorf",
-     "country": "Germany",
-     "country_code": "DE"
-  }
 }
