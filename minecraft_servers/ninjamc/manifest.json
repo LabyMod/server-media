@@ -1,6 +1,6 @@
 {
   "server_name": "ninjamc",
-  "nice_name": "ninjamc",
+  "nice_name": "NinjaMC",
   "direct_ip": "ninjamc.net",
   "server_wildcards": [
     "%.ninjamc.net"
@@ -17,17 +17,17 @@
     "citybuild": {
       "name": "CityBuild", 
       "color": "#FFA500",
-      "command": "/server cb-1",
+      "command": "/server cb-1"
     },
     "battleroyal": {
       "name": "BattleRoyal",
       "color": "#ADD8E6",
-      "command": "/server br-1",
-    }
+      "command": "/server br-1"
+    },
     "partygames": {
       "name": "PartyGames",
       "color": "#ADD8E6",
-      "command": "/server mp-1",
+      "command": "/server mp-1"
     }
   },
   "discord": {
@@ -38,11 +38,11 @@
      "primary": "#008FE8",
      "background": "#a69d7e",
      "text": "#e1af03"
-  }, 
+  },
   "location": {
      "city": "Walldorf",
      "country": "Germany",
      "country_code": "DE"
   },
-  "user_stats": "https://laby.net/@{userName}",
+  "user_stats": "https://laby.net/@{userName}"
 }
