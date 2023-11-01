@@ -30,10 +30,6 @@
       "command": "/server mp-1",
     },
   },
-  "discord": {
-    "server_id": 1083998012554084412,
-    "rename_to_minecraft_name": false
-  },
   "brand": {
      "primary": "#008FE8",
      "background": "#a69d7e",
