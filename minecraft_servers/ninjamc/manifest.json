@@ -8,7 +8,7 @@
   "social": {
     "discord": "https://discord.gg/u9f8VJK4EJ"
   },
-  "gamemodes": {
+    "gamemodes": {
       "CityBuild": {
        "name": "CityBuild", 
        "color": "#10e040",
