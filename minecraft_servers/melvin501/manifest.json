@@ -1,7 +1,7 @@
 {
   "server_name": "melvin501",
   "nice_name": "Melvin501",
-  "direct_ip": "play.melvin501.de",
+  "direct_ip": "melvin501.de",
   "social": {
     "web": "https://melvin501.de",
     "youtube": "https://www.youtube.com/@melvin501de",
@@ -12,6 +12,9 @@
     "melvin501.de",
     "mc.melvin501.de",
     "501Media.de"
+  ],
+    "supported_languages": [
+    "de"
   ],
   "discord": {
     "server_id": "729132516983701534",
@@ -29,46 +32,47 @@
      "privateserver": {
       "name": "Private-Server",
       "command": "/cs",
-      "color": "#FFFF55"
+      "color": "#2ca7f3"
     },
     "allegegenmelvin": {
       "name": "AlleGegenMelvin",
       "command": "/cs AlleGegenMelvin",
-      "color": "#FFFF55"
+      "color": "#2ca7f3"
     },
-    "allegegenalle": {
-      "name": "AlleGegenAlle",
-      "command": "/cs AlleGegenAlle",
-      "color": "#FFFF55"
+    "allegegenalle2": {
+      "name": "AlleGegenAlle 2.0",
+      "command": "/cs AlleGegenAlle2",
+      "color": "#2ca7f3"
+    },
+      "fangen": {
+      "name": "Fangen",
+      "command": "/cs Fangen",
+      "color": "#2ca7f3"
+    },
+      "getdown": {
+      "name": "GetDown",
+      "command": "/cs GetDown",
+      "color": "#2ca7f3"
     },
      "bodenistlava": {
       "name": "BodenIstLava",
-      "color": "#FFFF55"
-    },
-    "fangen": {
-      "name": "Fangen",
-      "command": "/cs Fangen",
-      "color": "#FFFF55"
-    },
-    "getdown": {
-      "name": "GetDown",
-      "color": "#FFFF55"
-    },
-      "hardcoresmp": {
-      "name": "HardcoreSMP",
-      "color": "#FFFF55"
+      "color": "#2ca7f3"
     },
      "onblockrace": {
       "name": "OneBlockRace",
-      "color": "#FFFF55"
+      "color": "#2ca7f3"
     },
      "uhc": {
       "name": "UHC",
-      "color": "#FFFF55"
+      "color": "#2ca7f3"
     },
      "speedrun": {
       "name": "Speedrun",
-      "color": "#FFFF55"
-    }
+      "color": "#2ca7f3"
+    },
+     "bomberman": {
+      "name": "Bomberman",
+      "color": "#2ca7f3"
+    }    
   }
 }
