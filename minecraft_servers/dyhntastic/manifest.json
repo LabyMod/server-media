@@ -34,7 +34,7 @@
     },
     "tntball": {
       "name": "TNTBall",
-	    "color": "#AA0000",
+      "color": "#AA0000",
       "command": "/gamejoin tntball"
     },
     "knockit": {
