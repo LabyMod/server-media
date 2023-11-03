@@ -1,10 +1,8 @@
 {
   "server_name": "crystopia",
   "nice_name": "Crystopia",
-  "direct_ip": "play.crystopia.net",
-  "server_wildcards": [
-    "mc.crystopia.net"
-  ],
+  "direct_ip": "crystopia.net",
+  "server_wildcards": ["mc.crystopia.net"],
   "social": {
     "web": "https://crystopia.net",
     "web_shop": "none",
@@ -14,12 +12,7 @@
     "discord": "https://dc.crystopia.net",
     "teamspeak": "ts.crystopia.net"
   },
-  "gamemodes": {
-    "smp": {
-      "name": "SMP",
-      "command": "/play"
-    },
-  },
+
   "discord": {
     "server_id": 1084507325450162247,
     "rename_to_minecraft_name": false
