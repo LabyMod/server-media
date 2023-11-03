@@ -13,9 +13,9 @@
     "mc.melvin501.de",
     "501Media.de"
   ],
-    "supported_languages": [
-    "de"
-  ],
+   "supported_languages":[
+      "de"
+   ],
   "discord": {
     "server_id": "729132516983701534",
     "rename_to_minecraft_name": false
