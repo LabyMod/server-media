@@ -5,12 +5,11 @@
   "server_wildcards": ["mc.crystopia.net"],
   "social": {
     "web": "https://crystopia.net",
-    "web_shop": "none",
-    "web_support": "https://crystopia.net/support",
+    "web_shop": "https://shop.crystopia.net",
+    "web_support": "https://crystopia.net/wiki",
     "twitter": "CrystopiaNet",
-    "youtube": "https://www.youtube.com/@",
-    "discord": "https://dc.crystopia.net",
-    "teamspeak": "ts.crystopia.net"
+    "instagram": "crystopianetwork",
+    "discord": "https://discord.gg/z92a4YzANd"
   },
 
   "discord": {
