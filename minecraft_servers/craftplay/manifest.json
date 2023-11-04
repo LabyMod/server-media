@@ -27,6 +27,13 @@
       "command": "/citybuild",
       "versions": "1.18<*"
     },
+    "Plotserver": {
+      "name": "Plotserver",
+      "color": "#55FFFF",
+      "url": "https://www.craftplay.de/wiki/plotserver",
+      "command": "/plotserver",
+      "versions": "1.18<*"
+    },
     "skygames": {
       "name": "SkyGames",
       "color": "#54FC54",
