@@ -17,5 +17,5 @@
      "background": "#FFFFFF",
      "text": "#FFFFFF"
   }, 
-  "user_stats": "https://laby.net/@{userName}",
+  "user_stats": "https://laby.net/@{userName}"
 }
