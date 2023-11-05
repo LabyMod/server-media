@@ -1,0 +1,21 @@
+{
+  "server_name": "elyrion",
+  "nice_name": "Elyrion",
+  "direct_ip": "elyrion.fr",
+  "server_wildcards": [
+    "%.elyrion.fr"
+  ],
+  "supported_languages": [
+     "fr"
+  ],
+  "discord": {
+    "server_id": 1128686534644736050,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#00981E",
+     "background": "#FFFFFF",
+     "text": "#FFFFFF"
+  }, 
+  "user_stats": "https://laby.net/@{userName}",
+}
