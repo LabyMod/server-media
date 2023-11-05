@@ -30,11 +30,17 @@
       "color": "#55FFFF",
       "versions": "1.8<*"
     },
-    "jumpworld": {
+    "pserver": {
       "name": "PServer",
       "command": "/panel",
       "color": "#5555FF",
       "versions": "1.16.5<*"
+    },
+     "skyblock": {
+      "name": "SkyBlock",
+      "command": "/skyblock",
+      "color": "#5555FF",
+      "versions": "1.20.1<*"
     }
   },
   "brand": {

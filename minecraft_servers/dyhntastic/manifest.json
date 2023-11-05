@@ -32,6 +32,11 @@
       "color": "#FFAA00",
       "command": "/gamejoin mlgrush"
     },
+    "tntball": {
+      "name": "TNTBall",
+      "color": "#AA0000",
+      "command": "/gamejoin tntball"
+    },
     "knockit": {
       "name": "KnockIt",
       "color": "#5555FF",
