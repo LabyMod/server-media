@@ -1,0 +1,40 @@
+{
+  "server_name": "minefun",
+  "nice_name": "MineFun Network",
+  "direct_ip": "minefun.net",
+  "server_wildcards": [
+    "%.minefun.net"
+  ],
+  "supported_languages": [
+    "es"
+  ],
+  "gamemodes": {
+    "farmbox": {
+      "name": "FarmBox",
+      "color": "#6CF70C"
+    },
+    "landbox": {
+      "name": "LandBox",
+      "color": "#0CF7F0"
+    },
+    "pokebox": {
+      "name": "PokeBox",
+      "color": "#F70C0C"
+    }
+  },
+  "social": {
+    "web_shop": "https://tienda.minefun.net",
+    "twitter": "ntminefun",
+    "discord": "https://discord.gg/minefun",
+    "instagram": "minefun"
+  },
+  "discord": {
+    "server_id": 1105309337334845521,
+    "rename_to_minecraft_name": false
+  },
+  "location": {
+    "city": "Canarias",
+    "country": "Spain",
+    "country_code": "ES"
+  }
+}

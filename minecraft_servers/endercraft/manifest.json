@@ -1,0 +1,45 @@
+{
+    "server_name": "endercraft",
+    "nice_name": "EnderCraft",
+    "direct_ip": "endercraft.com.br",
+    "server_wildcards": [
+      "%.endercraft.com.br"
+    ],
+    "supported_languages": [
+       "pt"
+    ],
+    "social": {
+      "web": "https://loja.endercraft.com.br",
+      "web_shop": "https://loja.endercraft.com.br/shop",
+      "tiktok": "EnderCrafBR",
+      "instagram": "EnderCraftBR",
+      "discord": "https://discord.gg/endercraftbr",
+      "youtube": "https://www.youtube.com/@endercraft_br"
+    },
+    "gamemodes": {
+      "survival": {
+        "name": "Survival", 
+        "color": "#32f011",
+        "command": "/jogar survival"
+      },
+      "skyblock": {
+        "name": "Skyblock", 
+        "color": "#09b4e8",
+        "command": "/jogar skyblock"
+      }
+    },
+    "discord": {
+      "server_id": 873654816491044864,
+      "rename_to_minecraft_name": false
+    },
+    "brand": {
+       "primary": "#a509e8",
+       "background": "#0A56A5",
+       "text": "#FFFFFF"
+    }, 
+    "location": {
+       "country": "Brazil",
+       "country_code": "BR"
+    },
+    "command_delay": 3000
+  }

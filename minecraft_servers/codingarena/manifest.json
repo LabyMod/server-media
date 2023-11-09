@@ -1,0 +1,26 @@
+{
+  "server_name": "codingarena",
+  "nice_name": "Coding-Arena",
+  "direct_ip": "coding-arena.de",
+  "supported_languages": [
+     "de"
+  ],
+  "social": {
+    "tiktok": "codingarena",
+    "twitter": "CodingArenaDE",
+    "instagram": "codingarenade",
+    "discord": "https://discord.gg/xyGDuzeWDd"
+  },
+  "gamemodes": {
+    "skypvp": {
+      "name": "SkyPvP", 
+      "color": "#FFA500",
+      "command": "/quickjoin skypvp",
+      "versions": "1.19>*"
+    }
+  },
+  "discord": {
+    "server_id": 1159053300050702437,
+    "rename_to_minecraft_name": false
+  }
+}

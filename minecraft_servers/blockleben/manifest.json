@@ -1,0 +1,45 @@
+{
+  "server_name": "blockleben",
+  "nice_name": "BlockLeben",
+  "direct_ip": "blockleben.de",
+  "server_wildcards": [
+    "blockleben.de"
+  ],
+  "supported_languages": [
+      "de"
+  ],
+  "social": {
+    "discord": "https://discord.gg/2dveXu4eaf"
+  },
+  "gamemodes": {
+    "skypvp": {
+      "name": "SkyPvP",
+      "color": "#FF5900",
+      "versions": "1.16.5"
+    },
+    "citybuild": {
+      "name": "CityBuild",
+      "color": "#FF5900",
+      "versions": "1.16.5"
+    },
+    "chat": {
+      "message_formats": [
+        "^§[a-f0-9](?<level>\\d+)( \\||§8 \\|) §[a-f0-9](?<sender>[a-zA-Z0-9_]{2,16})§r§7: §f(?<message>.*)$"
+      ]
+    },
+    "discord": {
+      "server_id": 1104758781004488776,
+      "rename_to_minecraft_name": false
+    },
+    "brand": {
+      "primary": "#FF5900",
+      "background": "#FF5900",
+      "text": "#FF5900"
+    },
+    "location": {
+      "city": "Frankfurt",
+      "country": "Germany",
+      "country_code": "DE"
+    }
+  }
+}
