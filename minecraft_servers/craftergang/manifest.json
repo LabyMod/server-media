@@ -1,0 +1,76 @@
+{
+  "server_name": "craftergang",
+  "nice_name": "Craftergang",
+  "direct_ip": "craftergang.de",
+  "server_wildcards": [
+    "citybuild.craftergang.de"
+  ],
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "discord": "https://discord.gg/Q55FujN",
+    "teamspeak": "craftergang.de",
+    "tiktok": "craftergang",
+    "youtube": "https://www.youtube.com/@craftergang",
+    "instagram": "craftergang"
+  },
+  "gamemodes": {
+    "citybuild": {
+      "name": "CityBuild",
+      "color": "#0d6914",
+      "versions": "1.8<1.14.4"
+    },
+    "ffa": {
+      "name": "FFA",
+      "color": "#ed0c26",
+      "versions": "1.8<1.14.4"
+    },
+    "build": {
+      "name": "BuildFFA",
+      "color": "#e8a507",
+      "versions": "1.8<1.14.4"
+    },
+    "bedwars2x1": {
+      "name": "BedWars2x1",
+      "color": "#e3bcc1",
+      "versions": "1.8<1.14.4"
+    },
+    "bedwars2x2": {
+      "name": "BedWars2x1",
+      "color": "#e3bcc1",
+      "versions": "1.8<1.14.4"
+    },
+    "mlgrush": {
+      "name": "MLGRush",
+      "color": "#de0b39",
+      "versions": "1.8<1.14.4"
+    },
+    "welt-untergang": {
+      "name": "Welt-Untergang",
+      "color": "#0bde19",
+      "versions": "1.8<1.14.4"
+    },
+    "onehit": {
+      "name": "OneHit",
+      "color": "#f705ab",
+      "versions": "1.8<1.14.4"
+    },
+    "skypvp": {
+      "name": "Old-SkyPvP",
+      "color": "#f7df05",
+      "versions": "1.8<1.14.4"
+    }
+  },
+  "brand": {
+    "primary": "#497cb1",
+    "background": "#245587",
+    "text": "#ffffff"
+  },
+  "location": {
+    "city": "Frankwurt",
+    "country": "Germany",
+    "country_code": "DE"
+  },
+  "yt_trailer": "7O9dxRuZ4BQ"
+}
