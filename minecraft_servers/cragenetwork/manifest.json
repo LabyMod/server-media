@@ -1,11 +1,10 @@
 {
   "server_name": "cragenetwork",
   "nice_name": "Crage Network",
-  "direct_ip": "laby.cragenetwork.com",
+  "direct_ip": "play.cragenetwork.com",
   "social": {
     "web": "https://cragenetwork.com",
     "web_shop": "https://cragenetwork.com/store",
-    "web_support": "https://cragenetwork.com/support",
     "instagram": "cragenetworkcom",
     "discord": "https://discord.com/invite/crage"
   },
