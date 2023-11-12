@@ -3,6 +3,7 @@
   "nice_name": "Craftergang",
   "direct_ip": "craftergang.de",
   "server_wildcards": [
+    "craftergang.net",
     "citybuild.craftergang.de"
   ],
   "supported_languages": [
@@ -11,6 +12,7 @@
   "social": {
     "discord": "https://discord.gg/ThCt8Pq",
     "teamspeak": "craftergang.de",
+    "web": "https://sites.google.com/view/craftergang",
     "tiktok": "craftergang",
     "youtube": "https://www.youtube.com/@craftergang",
     "instagram": "craftergang"
