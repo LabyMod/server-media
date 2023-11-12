@@ -9,8 +9,11 @@
       "de"
   ],
   "social": {
+    "web": "https://www.lythia.de/",
+    "web_support": "https://wiki.lythia.de/",
     "discord": "https://discord.gg/3R8vbCPQcd",
     "youtube": "https://www.youtube.com/channel/UCWTEMNNPnZeAWPemS89Nctw"
+    "instagram": "Lythia.de",
   },
   "gamemodes": {
     "survival": {
@@ -40,4 +43,5 @@
       "country_code": "CH"
   },
   "command_delay": 3000
+  "yt_trailer": "YDKuTO8WRug"
 }
