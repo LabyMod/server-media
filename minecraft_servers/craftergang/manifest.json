@@ -3,12 +3,14 @@
   "nice_name": "Craftergang",
   "direct_ip": "craftergang.de",
   "server_wildcards": [
+    "craftergang.net",
     "citybuild.craftergang.de"
   ],
   "supported_languages": [
     "de"
   ],
   "social": {
+    "web": "https://sites.google.com/view/craftergang",
     "discord": "https://discord.gg/ThCt8Pq",
     "teamspeak": "craftergang.de",
     "tiktok": "craftergang",
@@ -61,14 +63,19 @@
       "color": "#f7df05",
       "versions": "1.8<1.14.4"
     }
+    "survival": {
+      "name": "Survival",
+      "color": "#0d6914",
+      "versions": "1.12<1.14.4"
+    },
   },
   "brand": {
     "primary": "#497cb1",
     "background": "#245587",
-    "text": "#ffffff"
+    "text": "#4646cf"
   },
   "location": {
-    "city": "Frankwurt",
+    "city": "Frankfurt",
     "country": "Germany",
     "country_code": "DE"
   },
