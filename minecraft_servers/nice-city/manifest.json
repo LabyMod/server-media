@@ -3,7 +3,6 @@
     "nice_name": "nice-city",
     "direct_ip": "nice-city.de",
     "server_wildcards": [
-        "%.nice-city.de",
         "nice-city.de"
     ],
     "supported_languages": [
@@ -14,14 +13,6 @@
         "instagram": "nicecity_official",
         "discord": "https://discord.gg/djsUTH7Y",
         "youtube": "https://www.youtube.com/channel/UCWvoJNBF5_JScis0VHiLJUg"
-    },
-    "gamemodes": {
-        "Citybuild": {
-            "name": "Citybuild",
-            "color": "#FFA500",
-            "command": "/server citybuild",
-            "versions": "1.20.1<*"
-        }
     },
     "discord": {
         "server_id": 260471731809026050,
