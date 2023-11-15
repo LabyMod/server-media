@@ -35,14 +35,8 @@
       "command": "/gametp bffa",
       "versions": "1.8<1.14.4"
     },
-    "bedwars2x1": {
-      "name": "BedWars2x1",
-      "color": "#e3bcc1",
-      "command": "/gametp bw",
-      "versions": "1.8<1.14.4"
-    },
-    "bedwars2x2": {
-      "name": "BedWars2x2",
+    "bedwars": {
+      "name": "BedWars",
       "color": "#e3bcc1",
       "command": "/gametp bw",
       "versions": "1.8<1.14.4"
