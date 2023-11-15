@@ -74,7 +74,6 @@
     "survival": {
       "name": "Survival",
       "color": "#0d6914",
-      "command": "/gametp survive",
       "versions": "1.12<1.14.4"
     }
   },
