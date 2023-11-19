@@ -1,0 +1,14 @@
+{
+  "server_name": "sheduxdev",
+  "nice_name": "sheduxdev's garage",
+  "direct_ip": "garage.sheduxdev.tech",
+  "social": {
+    "web": "https://sheduxdev.tech",
+    "instagram": "sheduxdev",
+    "discord": "https://discord.gg/rVWbHgp8ef"
+  },
+  "discord": {
+    "server_id": 1174078003899277433,
+    "rename_to_minecraft_name": false
+  }
+}
