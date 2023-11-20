@@ -3,7 +3,8 @@
   "nice_name": "Craftergang",
   "direct_ip": "craftergang.de",
   "server_wildcards": [
-    "craftergang.net"
+    "craftergang.net",
+    "citybuild.craftergang.de"
   ],
   "supported_languages": [
     "de"
@@ -59,7 +60,7 @@
       "versions": "1.8<1.14.4"
     },
     "skypvp": {
-      "name": "Old-SkyPvP",
+      "name": "SkyPvP",
       "color": "#f7df05",
       "command": "/gametp spvp",
       "versions": "1.8<1.14.4"
