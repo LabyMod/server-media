@@ -3,7 +3,7 @@
   "nice_name": "BlockLeben",
   "direct_ip": "blockleben.de",
   "server_wildcards": [
-    "blockleben.net"
+    "blockleben.de"
   ],
   "supported_languages": [
       "de"

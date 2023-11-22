@@ -14,28 +14,6 @@
   "discord": {
     "server_id": 1003769422814642278
   },
-  "gamemodes": {
-    "cbrot": {
-      "name": "Citybuild Rot",
-      "command": "/quick Citybuild-Rot",
-      "color": "#0e99c9"
-    },
-    "cbgelb": {
-      "name": "Citybuild Gelb",
-      "command": "/quick Citybuild-Gelb",
-      "color": "#0e99c9"
-    },
-    "cbblau": {
-      "name": "Citybuild Blau",
-      "command": "/quick Citybuild-Blau",
-      "color": "#0e99c9"
-    },
-    "buildffa": {
-      "name": "BuildFFA",
-      "command": "/quick BuildFFA",
-      "color": "#0e99c9"
-    }
-  },
   "yt_trailer": "IKbrVax4Q_Q",
   "brand": {
     "primary": "#0e99c9",
