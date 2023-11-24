@@ -30,5 +30,10 @@
   },
   "discord": {
     "server_id": 869639233881657404
+  },
+  "location": {
+    "city": "Frankfurt",
+    "country": "Germany",
+    "country_code": "DE"
   }
 }
