@@ -1,0 +1,95 @@
+{
+  "server_name": "mush",
+  "nice_name": "Mush",
+  "direct_ip": "jogar.mush.com.br",
+  "server_wildcards": [
+    "%.mush.com.br",
+    "%.mushmc.com"
+  ],
+  "supported_languages": [
+    "pt"
+  ],
+  "social": {
+    "web": "https://mush.com.br",
+    "web_shop": "https://mush.com.br/loja",
+    "web_support": "https://mush.com.br/r/ajuda",
+    "twitter": "MushMC_",
+    "tiktok": "MushMC_",
+    "facebook": "MushMCNetwork",
+    "instagram": "mush.games",
+    "discord": "https://discord.gg/mush",
+    "youtube": "https://www.youtube.com/@MushNetwork",
+    "teamspeak": "ts.mush.com.br"
+  },
+  "gamemodes": {
+    "bedwars": {
+      "name": "Bed Wars",
+      "color": "#FF0055",
+      "url": "https://mush.com.br/r/bedwars",
+      "command": "/play bedwars"
+    },
+    "skywars": {
+      "name": "Sky Wars",
+      "color": "#77FF00",
+      "url": "https://mush.com.br/r/skywars",
+      "command": "/play skywars"
+    },
+    "duels": {
+      "name": "Duels",
+      "color": "#FFEA00",
+      "url": "https://mush.com.br/r/duels",
+      "command": "/play duels"
+    },
+    "quickbuilders": {
+      "name": "Quick Builders",
+      "color": "#00C3FF",
+      "url": "https://mush.com.br/r/quickbuilders",
+      "command": "/play quickbuilders"
+    },
+    "murder": {
+      "name": "Murder",
+      "color": "#FF8800",
+      "url": "https://mush.com.br/r/murder",
+      "command": "/play murder"
+    },
+    "party": {
+      "name": "Party",
+      "color": "#A600FF",
+      "url": "https://mush.com.br/r/party",
+      "command": "/play party"
+    },
+    "ctf": {
+      "name": "CTF",
+      "color": "#000CFF",
+      "url": "https://mush.com.br/r/ctf",
+      "command": "/play ctf"
+    },
+    "hg": {
+      "name": "HG",
+      "color": "#00FF94",
+      "url": "https://mush.com.br/r/hg",
+      "command": "/play hg"
+    },
+    "pvp": {
+      "name": "PvP",
+      "color": "#ED00FF",
+      "url": "https://mush.com.br/r/pvp",
+      "command": "/play pvp"
+    }
+  },
+  "discord": {
+    "server_id": 356472653906968576,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#E8006C",
+    "background": "#A6004D",
+    "text": "#FFFFFF"
+  },
+  "location": {
+    "city": "São Paulo",
+    "country": "Brasil",
+    "country_code": "BR"
+  },
+  "user_stats": "https://mush.com.br/player/{userName}"
+}

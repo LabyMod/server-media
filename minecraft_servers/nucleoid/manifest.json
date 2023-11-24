@@ -1,0 +1,26 @@
+{
+  "server_name": "nucleoid",
+  "nice_name": "Nucleoid",
+  "direct_ip": "nucleoid.xyz",
+  "server_wildcards": [
+    "%.nucleoid.xyz"
+  ],
+  "supported_languages": [
+     "en"
+  ],
+  "social": {
+    "web": "https://nucleoid.xyz",
+    "twitter": "NucleoidMC",
+    "discord": "https://discord.com/invite/MVsm5Pu"
+  },
+  "discord": {
+    "server_id": 733462796582387753,
+    "rename_to_minecraft_name": "false"
+  },
+  "location": {
+     "city": "Falkenstein",
+     "country": "Germany",
+     "country_code": "DE"
+  },
+  "user_stats": "https://stats.nucleoid.xyz/players/{uuid}"
+}

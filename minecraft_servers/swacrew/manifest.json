@@ -1,0 +1,59 @@
+{
+  "server_name": "swacrew",
+  "nice_name": "Swacrew.net",
+  "direct_ip": "swacrew.net",
+  "server_wildcards": [
+    "%.swacrew.net",
+    "%.swacrew.de"
+  ],
+  "supported_languages": [
+    "de",
+    "en"
+  ],
+  "social": {
+    "web_shop": "https://shop.swacrew.net",
+    "twitter": "SwacrewNET",
+    "tiktok": "swacrew",
+    "youtube": "https://www.youtube.com/swacrewnet",
+    "discord": "https://discord.gg/JgFFcVRKed",
+    "teamspeak": "Swacrew.net"
+  },
+  "gamemodes": {
+    "eventserver": {
+      "name": "Eventserver",
+      "command": "/gameteleport eventserver"
+    },
+    "bedwars": {
+      "name": "BedWars",
+      "command": "/gameteleport bw"
+    },
+    "training": {
+      "name": "Training",
+      "command": "/gameteleport training"
+    },
+    "swacrewgames": {
+      "name": "SwacrewGames",
+      "command": "/gameteleport swacrewgames"
+    },
+    "target": {
+      "name": "Target",
+      "command": "/gameteleport target"
+    },
+    "buildffa": {
+      "name": "BuildFFA",
+      "command": "/gameteleport buildffa"
+    },
+    "minelife": {
+      "name": "Minelife",
+      "command": "/gameteleport minelife"
+    },
+    "vorbau": {
+      "name": "Vorbau",
+      "command": "/gameteleport vorbau"
+    }
+  },
+  "discord": {
+    "server_id": 746838764914999431,
+    "rename_to_minecraft_name": false
+  }
+}

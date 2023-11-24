@@ -1,0 +1,21 @@
+{
+  "server_name": "mccentral",
+  "nice_name": "MCCentral",
+  "direct_ip": "mccentral.org",
+  "server_wildcards": [
+    "%.mccentral.org"
+  ],
+  "supported_languages": [
+     "en"
+  ],
+  "social": {
+    "web": "https://mccentral.org",
+    "web_shop": "https://buy.mccentral.org",
+    "twitter": "_MCCentral",
+    "discord": "https://discord.com/invite/9jzwQDQ"
+  },
+  "brand": {
+     "primary": "#2d2d2d",
+     "background": "#2c9a53"
+  }
+}
