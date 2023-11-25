@@ -44,16 +44,6 @@
         "name": "LegacyGames",
         "command": "/game legacygames",
         "versions": "1.20<*"
-      },
-      "blockparty": {
-        "name": "Block Party",
-        "command": "/game blockparty",
-        "versions": "1.20<*"
-      },
-      "freebuild": {
-        "name": "Freebuild",
-        "command": "/game freebuild",
-        "versions": "1.20<*"
       }
     },
     "discord": {
