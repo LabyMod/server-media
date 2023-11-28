@@ -4,8 +4,5 @@
     "direct_ip": "snow.ennio.codes",
     "supported_languages": [
         "de"
-    ],
-    "server_wildcards": [
-        "%.ennio.codes"
     ]
 }
