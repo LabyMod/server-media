@@ -39,11 +39,6 @@
       "name": "FFA",
       "color": "#0095B0",
        "versions": "1.8<*"
-    },
-     "amongus": {
-      "name": "7vsMc",
-      "color": "#0095B0",
-      "versions": "1.17.1<1.19.3"
     }
   },
   "discord": {
