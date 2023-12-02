@@ -16,6 +16,10 @@
       "name": "Aura+",
       "color": "#134095"
     },
+    "varo": {
+      "name": "Varo",
+      "color": "#db212d"
+    },
     "conquest": {
       "name": "Conquest",
       "color": "#134095"
@@ -38,10 +42,6 @@
     },
     "knockout": {
       "name": "Knockout",
-      "color": "#134095"
-    },
-    "plots": {
-      "name": "Plots",
       "color": "#134095"
     }
   },
