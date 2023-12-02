@@ -23,6 +23,14 @@
     "buildffa":{
       "name": "BuildFFA",
       "command": "/bffa"
+    },
+    "thebridge":{
+      "name": "thebridge",
+      "command": "/tb"
+    },
+    "bridging":{
+      "name": "Bridging",
+      "command": "/b"
     }
   },
   "discord": {
