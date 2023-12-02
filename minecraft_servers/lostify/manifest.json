@@ -23,12 +23,12 @@
     "citybuildfuture": {
       "name": "CityBuild Future",
       "color": "#0095B0",
-      "versions": "1.17.1<1.19.3"
+      "versions": "1.17.1<1.20.2"
     },
     "mcdurchspielen": {
       "name": "MCDurchspielen",
       "color": "#0095B0",
-      "versions": "1.17.1<1.19.3"
+      "versions": "1.17.1<1.20.2"
     },
     "minigames": {
       "name": "Minigames",
