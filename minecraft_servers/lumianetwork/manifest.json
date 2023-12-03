@@ -5,10 +5,23 @@
   "server_wildcards": [
     "%.lumia.lol"
   ],
+  "supported_languages": [
+     "en"
+  ],
   "social": {
     "web": "https://lumia.lol",
     "web_shop": "https://store.lumia.lol",
-    "discord": "https://discord.com/invite/hypixel"
+    "discord": "https://discord.gg/3R44xaJWsh"
+  },
+  "brand": {
+     "primary": "#008FE8",
+     "background": "#0A56A5",
+     "text": "#FFFFFF"
+  },
+  "location": {
+     "city": "London",
+     "country": "United Kingdom",
+     "country_code": "UK"
   },
   "gamemodes": {
     "bedwards": {
