@@ -1,0 +1,27 @@
+{
+  "server_name": "lumianetwork",
+  "nice_name": "Lumia Network",
+  "direct_ip": "play.lumia.lol",
+  "server_wildcards": [
+    "%.lumia.lol"
+  ],
+  "social": {
+    "web": "https://lumia.lol",
+    "web_shop": "https://store.lumia.lol",
+    "discord": "https://discord.com/invite/hypixel"
+  },
+  "gamemodes": {
+    "bedwards": {
+      "name": "Bedwars",
+      "command": "/bedwars"
+    },
+    "pvp": {
+      "name": "PvP",
+      "command": "/pvp"
+    },
+    "survival": {
+      "name": "Survival",
+      "command": "/survival"
+    }
+  }
+}
