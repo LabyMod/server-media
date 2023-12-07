@@ -1,0 +1,17 @@
+{
+  "server_name": "Varies",
+  "nice_name": "Varies",
+  "direct_ip": "Play.Varies.Ae",
+  "server_wildcards":[
+     "%.Varies.ae"
+  ],
+  "social": {
+    "web": "https://Varies.ae",
+    "web_shop": "https://Varies.ae/store",
+    "discord": "https://Varies.ae/discord"
+  },
+  "brand": {
+     "primary": "#001414",
+     "background": "#008cd3"
+  }
+}
