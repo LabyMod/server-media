@@ -1,6 +1,6 @@
 {
   "server_name": "blockleben",
-  "nice_name": "BlockLeben",
+  "nice_name": "BlockLeben Netzwerk",
   "direct_ip": "blockleben.de",
   "server_wildcards": [
     "blockleben.net"
@@ -9,7 +9,9 @@
       "de"
   ],
   "social": {
-    "discord": "https://discord.gg/2dveXu4eaf"
+    "discord": "https://discord.gg/2dveXu4eaf",
+    "instagram": "https://www.instagram.com/blocklebende/",
+    "tiktok": "https://www.tiktok.com/@blockleben.de"
   },
   "gamemodes": {
     "skypvp": {
@@ -19,6 +21,26 @@
     },
     "citybuild": {
       "name": "CityBuild",
+      "color": "#FF5900",
+      "versions": "1.16.5"
+    },
+    "myworld": {
+      "name": "MyWorld",
+      "color": "#FF5900",
+      "versions": "1.16.5"
+    },
+    "buildffa": {
+      "name": "BuildFFA",
+      "color": "#FF5900",
+      "versions": "1.16.5"
+    },
+    "mlgrush": {
+      "name": "MLG-Rush",
+      "color": "#FF5900",
+      "versions": "1.16.5"
+    },
+    "bedwars": {
+      "name": "Bedwars",
       "color": "#FF5900",
       "versions": "1.16.5"
     },
