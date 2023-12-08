@@ -1,0 +1,41 @@
+{
+  "server_name": "minepulla",
+  "nice_name": "Minepulla",
+  "direct_ip": "minepulla.net",
+  "supported_languages": [
+    "de", "en"
+  ],
+  "social": {
+    "web": "https://www.minepulla.net",
+    "web_shop": "https://shop.minepulla.net",
+    "discord": "https://discord.minepulla.net",
+  },
+  "discord": {
+    "server_id": 1109917377283506361
+  },
+  "gamemodes": {
+    "earth": {
+      "name": "Earth",
+      "command": "/server earth",
+      "color": "#ffc300",
+      "versions": "1.19<*"
+    },
+    "minigames": {
+      "name": "Minigames",
+      "command": "/server minigames",
+      "color": "#ffc300",
+      "versions": "1.19<*"
+    },
+    "hidenseek": {
+      "name": "Hide & Seek",
+      "command": "/server hidenseek",
+      "color": "#ffc300",
+      "versions": "1.19<*"
+  },
+  "brand": {
+    "primary": "#ffc300",
+    "background": "#ffc300",
+    "text": "#ffffff"
+  }
+}
+}
