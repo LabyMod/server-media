@@ -3,15 +3,20 @@
   "nice_name": "Minepulla",
   "direct_ip": "minepulla.net",
   "supported_languages": [
-    "de", "en"
+    "de", 
+    "en"
   ],
   "social": {
     "web": "https://www.minepulla.net",
     "web_shop": "https://shop.minepulla.net",
     "discord": "https://discord.minepulla.net",
+    "tiktok": "minepulla_net",
+    "instagram": "minepulla_net",
+    "youtube": "https://www.youtube.com/channel/UCT9FTC_1syYiqif2E0uHknw"
   },
   "discord": {
-    "server_id": 1109917377283506361
+    "server_id": 1109917377283506361,
+    "rename_to_minecraft_name": false
   },
   "gamemodes": {
     "earth": {
