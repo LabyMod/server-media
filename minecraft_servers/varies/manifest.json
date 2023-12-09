@@ -5,11 +5,7 @@
   "server_wildcards":[
      "%.varies.ae"
   ],
-  "social": {
-    "web": "https://varies.ae",
-    "web_shop": "https://varies.ae/store",
-    "discord": "https://varies.ae/discord"
-  },
+
   "brand": {
      "primary": "#001414",
      "background": "#008cd3"
