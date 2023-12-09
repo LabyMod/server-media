@@ -9,6 +9,8 @@
      "de"
   ],
   "social": {
+    "twitter": "blocklebende",
+    "instagram": "blocklebende",
     "tiktok": "blockleben.de",
     "youtube": "https://www.youtube.com/channel/UCK566mjZ5QSmfIDUM22hNIA",
     "discord": "https://discord.gg/2dveXu4eaf"
@@ -40,9 +42,9 @@
     "rename_to_minecraft_name": false
   },
   "brand": {
-    "primary": "#ffa800",
-    "background": "#ffa800",
-    "text": "#ffa800"
+    "primary": "#ffffff",
+    "background": "#ffffff",
+    "text": "#ffffff"
   },
   "location": {
      "city": "Hessen",
