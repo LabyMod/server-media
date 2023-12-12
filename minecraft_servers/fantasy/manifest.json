@@ -1,5 +1,5 @@
 {
-  "server_name": "Fantasy",
+  "server_name": "fantasy",
   "nice_name": "Rede Fantasy",
   "direct_ip": "redefantasy.com",
   "server_wildcards": [
@@ -8,7 +8,7 @@
   "gamemodes": {
     "prison": {
       "name": "Prison Phoenix",
-      "color": "#FFFFFF",
+      "color": "#FFAA00",
       "command": "/serverconnector prison-phoenix"
     }
   },
