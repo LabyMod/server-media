@@ -17,11 +17,11 @@
   "gamemodes": {
     "citybuild": {
       "name": "CityBuild",
-      "command": "/server citybuild",
+      "command": "/server citybuild"
     },
     "coinchest": {
       "name": "Cointruhe",
-      "command": "/warp cointruhe",
+      "command": "/warp cointruhe"
     },
     "cookieclicker": {
       "name": "Cookie Clicker",
