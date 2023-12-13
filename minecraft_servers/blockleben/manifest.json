@@ -1,45 +1,54 @@
 {
   "server_name": "blockleben",
-  "nice_name": "BlockLeben",
+  "nice_name": "BlockLeben Netzwerk",
   "direct_ip": "blockleben.de",
   "server_wildcards": [
     "blockleben.de"
   ],
   "supported_languages": [
-      "de"
+     "de"
   ],
   "social": {
+    "twitter": "blocklebende",
+    "instagram": "blocklebende",
+    "tiktok": "blockleben.de",
+    "youtube": "https://www.youtube.com/channel/UCK566mjZ5QSmfIDUM22hNIA",
     "discord": "https://discord.gg/2dveXu4eaf"
   },
   "gamemodes": {
-    "skypvp": {
-      "name": "SkyPvP",
-      "color": "#FF5900",
-      "versions": "1.16.5"
-    },
     "citybuild": {
       "name": "CityBuild",
-      "color": "#FF5900",
-      "versions": "1.16.5"
+      "color": "#ffa800"
     },
-    "chat": {
-      "message_formats": [
-        "^§[a-f0-9](?<level>\\d+)( \\||§8 \\|) §[a-f0-9](?<sender>[a-zA-Z0-9_]{2,16})§r§7: §f(?<message>.*)$"
-      ]
+    "skypvp": {
+      "name": "SkyPvP",
+      "color": "#ffa800"
     },
-    "discord": {
-      "server_id": 1104758781004488776,
-      "rename_to_minecraft_name": false
+    "myworld": {
+      "name": "MyWorld",
+      "color": "#ffa800"
     },
-    "brand": {
-      "primary": "#FF5900",
-      "background": "#FF5900",
-      "text": "#FF5900"
+    "buildffa": {
+      "name": "BuildFFA",
+      "color": "#ffa800"
     },
-    "location": {
-      "city": "Frankfurt",
-      "country": "Germany",
-      "country_code": "DE"
+    "mlgrush": {
+      "name": "MLG-Rush",
+      "color": "#ffa800"
     }
-  }
+  },
+  "discord": {
+    "server_id": 1104758781004488776,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#ffffff",
+    "background": "#ffffff",
+    "text": "#ffffff"
+  },
+  "location": {
+     "city": "Hessen",
+     "country": "Germany",
+     "country_code": "DE"
+   }
 }
