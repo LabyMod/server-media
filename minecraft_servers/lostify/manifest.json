@@ -12,29 +12,22 @@
   "social": {
     "web": "https://lostify.net",
     "web_shop": "https://shop.lostify.net",
-    "web_support": "https://forum.lostify.net/forum/index.php?board/13-forum-support",
     "twitter": "LostifyNet",
     "instagram": "lostifynet",
     "tiktok": "lostifynet",
     "youtube": "https://www.youtube.com/channel/UCCUWTQ3p4mu8v5x-FVfEd3A",
-    "discord": "https://lostify.net/discord",
-    "teamspeak": "lostify.net"
+    "discord": "https://discord.com/invite/9z4Q7t2v3V"
   },
   "gamemodes": {
-    "citybuild": {
-      "name": "CityBuild",
-      "color": "#0095B0",
-      "versions": "1.8<*"
-    },
     "citybuildfuture": {
       "name": "CityBuild Future",
       "color": "#0095B0",
-      "versions": "1.17.1<1.19.3"
+      "versions": "1.17.1<1.20.2"
     },
     "mcdurchspielen": {
       "name": "MCDurchspielen",
       "color": "#0095B0",
-      "versions": "1.17.1<1.19.3"
+      "versions": "1.17.1<1.20.2"
     },
     "minigames": {
       "name": "Minigames",
@@ -45,16 +38,11 @@
       "name": "FFA",
       "color": "#0095B0",
        "versions": "1.8<*"
-    },
-     "amongus": {
-      "name": "7vsMc",
-      "color": "#0095B0",
-      "versions": "1.17.1<1.19.3"
     }
   },
   "discord": {
     "server_id": 667878015203540993,
-    "rename_to_minecraft_name": true
+    "rename_to_minecraft_name": false
   },
   "brand": {
     "primary": "#fc2d0f",
