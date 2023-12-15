@@ -1,0 +1,40 @@
+{
+  "server_name": "onthepixel",
+  "nice_name": "OnThePixel Network",
+  "direct_ip": "play.onthepixel.net",
+  "server_wildcards": [
+    "%.onthepixel.net"
+  ],
+  "social": {
+    "web": "https://onthepixel.net",
+    "instagram": "onthepixel_net",
+    "youtube": "https://www.youtube.com/@thebestminecraftserver",
+    "discord": "https://discord.gg/Dpx3eK9t3z"
+  },
+  "gamemodes": {
+    "kitpvp": {
+      "name": "KitPVP",
+      "command": "/kpvp"
+    },
+    "bedwards":{
+      "name": "BedWars",
+      "command": "/bw"
+    },
+    "buildffa":{
+      "name": "BuildFFA",
+      "command": "/bffa"
+    },
+    "thebridge":{
+      "name": "thebridge",
+      "command": "/tb"
+    },
+    "bridging":{
+      "name": "Bridging",
+      "command": "/b"
+    }
+  },
+  "discord": {
+    "server_id": 1051287687233015841,
+    "rename_to_minecraft_name": false
+  }
+}

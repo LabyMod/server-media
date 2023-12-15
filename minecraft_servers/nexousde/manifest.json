@@ -1,0 +1,38 @@
+{
+  "server_name": "nexousde",
+  "nice_name": "Nexous.DE",
+  "direct_ip": "nexous.de",
+  "supported_languages": [
+    "de",
+    "en"
+  ],
+  "social": {
+    "web_shop": "https://shop.nexous.de",
+    "instagram": "nexousnetzwerk",
+    "tiktok": "nexousnetzwerk",
+    "youtube": "https://www.youtube.com/@Nexousde.Netzwerk",
+    "discord": "https://discord.gg/r9C4vTkFPK"
+  },
+  "gamemodes": {
+    "citybuild": {
+      "name": "CityBuild",
+      "command": "/server citybuild"
+    },
+    "coinchest": {
+      "name": "Cointruhe",
+      "command": "/warp cointruhe"
+    },
+    "cookieclicker": {
+      "name": "Cookie Clicker",
+      "command": "/warp cookieclicker"
+    }
+  },
+  "discord": {
+    "server_id": 869639233881657404
+  },
+  "location": {
+    "city": "Frankfurt",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}

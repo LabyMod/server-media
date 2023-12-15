@@ -36,9 +36,9 @@
       "color": "#0095B0",
       "versions": "1.8<1.18.2"
     },
-    "pvp16": {
+    "pvp20": {
       "name": "1vs1",
-      "command": "/quickjoin pvp19",
+      "command": "/quickjoin pvp20",
       "url": "https://www.timolia.de/games#pvp",
       "color": "#0095B0",
       "versions": "1.19<*"
@@ -50,30 +50,24 @@
       "color": "#0095B0",
       "versions": "1.8<1.18.2"
     },
-    "4rena16": {
-      "name": "4rena",
-      "command": "/quickjoin 4rena16",
-      "url": "https://www.timolia.de/games#4rena",
+    "freebuild": {
+      "name": "Freebuild",
+      "command": "/quickjoin freebuild",
+      "url": "https://www.timolia.de/games#freebuild",
       "color": "#0095B0",
-      "versions": "1.16.5<*"
+      "versions": "1.20<*"
     },
     "4rena": {
       "name": "4rena",
       "command": "/quickjoin 4rena",
       "url": "https://www.timolia.de/games#4rena",
-      "color": "#0095B0",
-      "versions": "1.8<1.16.4"
+      "color": "#0095B0"
     },
     "castles": {
       "name": "Castles",
       "command": "/quickjoin castles",
       "url": "https://www.timolia.de/games#castles",
       "color": "#0095B0"
-    },
-    "uhc": {
-      "name": "UHC",
-      "color": "#0095B0",
-      "url": "https://www.timolia.de/games#uhc"
     },
     "arcade": {
       "name": "Arcade",
@@ -85,7 +79,8 @@
       "name": "SurvivalQuest",
       "command": "/quickjoin survivalquest",
       "url": "https://www.timolia.de/games#survivalquest",
-      "color": "#0095B0"
+      "color": "#0095B0",
+      "versions": "1.16.5<*"
     },
     "splun": {
       "name": "Splun",

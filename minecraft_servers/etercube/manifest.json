@@ -1,0 +1,22 @@
+{
+    "server_name": "etercube",
+    "nice_name": "EterCube",
+    "direct_ip": "mc.etercube.fr",
+    "server_wildcards": ["%.etercube.fr"],
+    "supported_languages": ["fr"],
+    "social": {
+      "web": "https://etercube.fr",
+      "twitter": "etercube",
+      "youtube": "https://www.youtube.com/@etercube",
+      "discord": "https://discord.gg/cAWNkX5Am5"
+    },
+    "discord": {
+      "server_id": 827824809941139486,
+      "rename_to_minecraft_name": false
+    },
+    "brand": {
+      "primary": "#008FE8",
+      "background": "#0A56A5",
+      "text": "#FFFFFF"
+     }
+  }

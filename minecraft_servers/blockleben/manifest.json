@@ -1,0 +1,54 @@
+{
+  "server_name": "blockleben",
+  "nice_name": "BlockLeben Netzwerk",
+  "direct_ip": "blockleben.de",
+  "server_wildcards": [
+    "blockleben.de"
+  ],
+  "supported_languages": [
+     "de"
+  ],
+  "social": {
+    "twitter": "blocklebende",
+    "instagram": "blocklebende",
+    "tiktok": "blockleben.de",
+    "youtube": "https://www.youtube.com/channel/UCK566mjZ5QSmfIDUM22hNIA",
+    "discord": "https://discord.gg/2dveXu4eaf"
+  },
+  "gamemodes": {
+    "citybuild": {
+      "name": "CityBuild",
+      "color": "#ffa800"
+    },
+    "skypvp": {
+      "name": "SkyPvP",
+      "color": "#ffa800"
+    },
+    "myworld": {
+      "name": "MyWorld",
+      "color": "#ffa800"
+    },
+    "buildffa": {
+      "name": "BuildFFA",
+      "color": "#ffa800"
+    },
+    "mlgrush": {
+      "name": "MLG-Rush",
+      "color": "#ffa800"
+    }
+  },
+  "discord": {
+    "server_id": 1104758781004488776,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#ffffff",
+    "background": "#ffffff",
+    "text": "#ffffff"
+  },
+  "location": {
+     "city": "Hessen",
+     "country": "Germany",
+     "country_code": "DE"
+   }
+}
