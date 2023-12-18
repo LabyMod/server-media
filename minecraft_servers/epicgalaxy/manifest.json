@@ -4,7 +4,7 @@
   "direct_ip": "epicgalaxy.net",
   "server_wildcards": [
     "%.epicgalaxy.net",
-	"%.epicgalaxy.de"
+    "%.epicgalaxy.de"
   ],
   "supported_languages": [
     "de"
@@ -12,7 +12,7 @@
   "social": {
     "web": "https://epicgalaxy.net",
     "twitter": "EpicGalaxyNET",
-    "discord": "https://discord.epicgalaxy.net"
+    "discord": "https://discord.com/invite/cFXDuDY"
   },
   "gamemodes": {
     "bedwars": {
@@ -34,7 +34,7 @@
   },
   "discord": {
     "server_id": 471698742857302038,
-    "rename_to_minecraft_name": true
+    "rename_to_minecraft_name": false
   },
   "brand": {
     "primary": "#FF55FF",
