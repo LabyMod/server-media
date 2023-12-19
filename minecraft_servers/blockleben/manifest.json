@@ -16,27 +16,32 @@
   "gamemodes": {
     "citybuild": {
       "name": "CityBuild",
+      "color": "#ffa800",
       "command": "/citybuild"
     },
     "skypvp":{
       "name": "SkyPvP",
+      "color": "#ffa800",
       "command": "/skypvp"
     },
     "buildffa": {
       "name": "BuildFFA",
+      "color": "#ffa800",
       "command": "/buildffa"
     },
     "mlgrush":{
       "name": "MLG-Rush",
+      "color": "#ffa800",
       "command": "/mlgrush"
     },
     "bedwars":{
       "name": "Bedwars 1x1",
+      "color": "#ffa800",
       "command": "/bedwars"
     }
   },
   "discord": {
     "server_id": 1104758781004488776,
-    "rename_to_minecraft_name": true
+    "rename_to_minecraft_name": false
   }
 }
