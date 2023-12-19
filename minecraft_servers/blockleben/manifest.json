@@ -5,54 +5,38 @@
   "server_wildcards": [
     "blockleben.de"
   ],
-  "supported_languages": [
-     "de"
-  ],
   "social": {
-<<<<<<< HEAD
-    "twitter": "blockleben.de",
-=======
-    "twitter": "blocklebende",
->>>>>>> fc9178e71700c471b2c84979e413fba0c04a477a
-    "instagram": "blocklebende",
+    "web": "https://blockleben.de",
     "tiktok": "blockleben.de",
+    "twitter": "blocklebende",
+    "instagram": "blocklebende",
     "youtube": "https://www.youtube.com/channel/UCK566mjZ5QSmfIDUM22hNIA",
     "discord": "https://discord.gg/2dveXu4eaf"
   },
   "gamemodes": {
     "citybuild": {
       "name": "CityBuild",
-      "color": "#ffa800"
+      "command": "/citybuild"
     },
-    "skypvp": {
-      "name": "SkyPvP",
-      "color": "#ffa800"
-    },
-    "myworld": {
-      "name": "MyWorld",
-      "color": "#ffa800"
-    },
-    "buildffa": {
+    "buildffa":{
       "name": "BuildFFA",
-      "color": "#ffa800"
+      "command": "/buildffa"
     },
     "mlgrush": {
-      "name": "MLG-Rush",
-      "color": "#ffa800"
+      "name": "MLGRush",
+      "command": "/mlgrush"
+    },
+    "skypvp":{
+      "name": "SkyPvP",
+      "command": "/skypvp"
+    },
+    "bedwars":{
+      "name": "Bedwars",
+      "command": "/bedwars"
     }
   },
   "discord": {
     "server_id": 1104758781004488776,
-    "rename_to_minecraft_name": false
-  },
-  "brand": {
-    "primary": "#ffffff",
-    "background": "#ffffff",
-    "text": "#ffffff"
-  },
-  "location": {
-     "city": "Hessen",
-     "country": "Germany",
-     "country_code": "DE"
-   }
+    "rename_to_minecraft_name": true
+  }
 }
