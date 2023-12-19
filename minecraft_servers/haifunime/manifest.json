@@ -1,0 +1,31 @@
+{
+  "server_name":"haifunime",
+  "nice_name":"Haifunime",
+  "direct_ip":"play.haifunime.fr",
+  "server_wildcards":[
+    "%.haifunime.fr"
+  ],
+  "supported_languages": [
+     "fr"
+  ],
+  "social":{
+    "web":"https://haifunime.fr",
+    "web_shop":"https://store.haifunime.fr",
+    "web_support":"https://docs.haifunime.fr",
+    "twitter":"haifunime",
+    "instagram":"haifunime",
+    "discord":"https://discord.gg/Xxxwgh3S2k",
+  },
+  "discord":{
+    "server_id":684142715377680467,
+    "rename_to_minecraft_name":false
+  },
+  "location":{
+    "city":"Paris",
+    "country":"France",
+    "country_code":"FR"
+  },
+  "brand":{
+    "primary":"#0aebfa"
+  }
+}
