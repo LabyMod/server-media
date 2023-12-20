@@ -7,9 +7,22 @@
   ],
   "social": {
     "web": "https://potterworldmc.com",
+    "web_shop": "https://store.potterworldmc.com",
+    "web_support": "https://potterworldmc.com/support",
     "twitter": "potterworldmc",
     "youtube": "https://www.youtube.com/potterworldmc",
     "instagram": "potterworldmc",
-    "discord": "https://discord.gg/sUy6cBT"
-  }
+    "tiktok": "potterworldmc",
+    "discord": "https://discord.gg/potterworldmc"
+  },
+  "brand": {
+    "background": "#923DB4",
+    "text": "#000000"
+  },
+  "discord": {
+    "server_id": 116659877614452736,
+    "rename_to_minecraft_name": false
+  },
+    "user_stats": "https://potterworldmc.com/player/{userName}",
+    "yt_trailer": "YxMw0XugJc"
 }
