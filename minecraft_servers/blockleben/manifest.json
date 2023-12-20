@@ -35,7 +35,7 @@
       "command": "/mlgrush"
     },
     "bedwars":{
-      "name": "Bedwars 1x1",
+      "name": "Bedwars",
       "color": "#ffa800",
       "command": "/bedwars"
     }
