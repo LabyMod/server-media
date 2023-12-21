@@ -1,0 +1,37 @@
+{
+  "server_name": "theflare",
+  "nice_name": "theFLARE",
+  "direct_ip": "trueflare.net",
+  ],
+  "supported_languages": [
+    "en"
+  ],
+  "social": {
+    "web": "https://trueflare.net",
+    "web_shop": "https://store.trueflare.net",
+    "discord": "https://discord.gg/WbQckwVyrt",
+  },
+  "gamemodes": {
+    "jumpworld": {
+      "name": "JumpWorld",
+      "command": "/quickjoin jumpworld",
+      "url": "https://www.timolia.de/games#jumpworld",
+      "color": "#0095B0",
+      "versions": "1.19<*"
+    },
+  },
+  "discord": {
+    "server_id": 1119215380745945098,
+    "rename_to_minecraft_name": true
+  },
+  "brand": {
+    "primary": "#e7b708",
+    "background": "#e7b708",
+    "text": "#ffffff"
+  },
+  "location": {
+    "city": "Frankfurt",
+    "country": "Germany",
+    "country_code": "DE"
+  },
+}
