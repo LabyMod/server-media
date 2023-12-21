@@ -8,15 +8,13 @@
   "social": {
     "web": "https://trueflare.net",
     "web_shop": "https://store.trueflare.net",
-    "discord": "https://discord.gg/WbQckwVyrt",
+    "discord": "https://discord.gg/WbQckwVyrt"
   },
   "gamemodes": {
-    "jumpworld": {
-      "name": "JumpWorld",
-      "command": "/quickjoin jumpworld",
-      "url": "https://www.timolia.de/games#jumpworld",
-      "color": "#0095B0",
-      "versions": "1.19<*"
+    "lifesteal": {
+      "name": "Lifesteal SMP",
+      "color": "#cf3e3e",
+      "versions": "1.20.1+"
     }
   },
   "discord": {
