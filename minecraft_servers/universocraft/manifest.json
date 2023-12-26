@@ -1,0 +1,13 @@
+{
+    "server_name": "universocraft",
+    "nice_name": "UniversoCraft",
+    "direct_ip": "mc.universocraft.com",
+    "server_wildcards": [
+      "%.universocraft.com"
+    ],
+    "supported_languages": [
+      "es"
+    ],
+    "user_stats": "https://stats.universocraft.com/stats.php?player={userName}"
+  }
+  

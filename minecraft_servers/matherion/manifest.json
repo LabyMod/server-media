@@ -5,12 +5,29 @@
   "server_wildcards": [
     "%.matherion.eu"
   ],
+  "supported_languages": [
+     "cs",
+     "sk"
+  ],
   "social": {
-    "web": "https://matherion.eu/",
-    "facebook": "https://facebook.com/matherioneu",
+    "web": "https://matherion.eu",
+    "web_shop": "https://matherion.craftingstore.net",
+    "facebook": "matherioneu",
     "discord": "https://discord.com/invite/mXTBfuS",
     "youtube": "https://youtube.com/channel/UCVc_cwolxuQ3assNDkMl40A",
-    "tiktok": "https://tiktok.com/@matherioneu",
-    "instagram": "https://instagram.com/matherioneu/"
-  }
+    "tiktok": "matherioneu",
+    "instagram": "matherioneu",
+    "twitter": "matherionmc"
+  },
+  "brand": {
+     "primary": "#4E54C8",
+     "background": "#4E54C8",
+     "text": "#FFFFFF"
+  },
+  "location": {
+     "city": "Prague",
+     "country": "Czech Republic",
+     "country_code": "CZ"
+   },
+  "yt_trailer": "zA9EZC3kN5g"
 }

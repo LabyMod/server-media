@@ -1,0 +1,66 @@
+{
+    "server_name": "cafestube",
+    "nice_name": "CafeStube",
+    "direct_ip": "cafestu.be",
+    "server_wildcards": [
+        "%.cafestu.be"
+    ],
+    "supported_languages": [
+        "en", "de", "no", "fr", "de-ch"
+    ],
+    "social": {
+        "web": "https://cafestu.be",
+        "web_support": "https://cafestu.be/forums/21",
+        "twitter": "CafeStube",
+        "tiktok": "cafestube",
+        "discord": "https://discord.com/invite/Pm9P5pa",
+        "youtube": "https://www.youtube.com/@cafestube",
+        "instagram": "cafestube"
+    },
+    "discord": {
+        "server_id": 694814874630488116,
+        "rename_to_minecraft_name": false
+    },
+    "gamemodes": {
+        "assembly": {
+            "name": "Assembly",
+            "color": "#FF5555",
+            "versions": "1.16<*"
+        },
+        "catch": {
+            "name": "Catch",
+            "color": "#55FF55",
+            "versions": "1.16<*"
+        },
+        "tumble": {
+            "name": "Tumble",
+            "color": "#5555FF",
+            "versions": "1.16<*"
+        },
+        "skirmish": {
+            "name": "Skirmish",
+            "color": "#00AA00",
+            "versions": "1.16<*"
+        },
+        "beebattle": {
+            "name": "BeeBattle",
+            "color": "#FFFF55",
+            "versions": "1.16<*"
+        },
+        "battlemix": {
+            "name": "BattleMix",
+            "color": "#55FFFF",
+            "versions": "1.16<*"
+        }
+    },
+    "brand": {
+        "primary": "#2296b3",
+        "background": "#2296b3",
+        "text": "#ffffff"
+    },
+    "location": {
+        "city": "Falkenstein",
+        "country": "Germany",
+        "country_code": "DE"
+    }
+}

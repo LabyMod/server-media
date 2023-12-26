@@ -1,0 +1,45 @@
+{
+	"server_name": "minehut",
+	"nice_name": "Minehut",
+	"direct_ip": "mc.minehut.com",
+	"server_wildcards":[
+	  "%.minehut.com",
+	  "%.minehut.gg"
+	],
+	"supported_languages":[
+	  "en"
+	],
+	"social":{
+	  "web": "https://app.minehut.com",
+	  "web_shop": "https://app.minehut.com/shop/credits",
+	  "web_support": "https://app.minehut.com/support/form",
+	  "twitter": "minehut",
+	  "tiktok": "minehut",
+	  "facebook": "MinehutServers",
+	  "instagram": "minehutmc",
+	  "discord": "https://discord.gg/minehut",
+	  "youtube": "https://www.youtube.com/minehut"
+	},
+	"gamemodes":{
+	  "playerservers":{
+		"name": "Player Servers",
+		"color": "#FFFFFF",
+		"url": "https://app.minehut.com/servers"
+	  }
+	},
+	"discord":{
+	  "server_id": 239599059415859200,
+	  "rename_to_minecraft_name": false
+	},
+	"brand":{
+	  "primary": "#19F4B9",
+	  "background": "#19F4B9",
+	  "text": "#00081A"
+	},
+	"location":{
+	  "city": "Toronto",
+	  "country": "Canada",
+	  "country_code": "CA"
+	},
+	"yt_trailer": "jzOIURoz1v4"
+}

@@ -1,0 +1,47 @@
+{
+  "server_name": "staymc",
+  "nice_name": "StayMC",
+  "direct_ip": "staymc.net",
+  "social": {
+    "web": "https://staymc.net",
+    "web_shop": "https://shop.staymc.net",
+    "twitter": "StayMCNET",
+    "discord": "https://discord.gg/K8xb5B9kuT",
+    "teamspeak": "staymc.net",
+    "tiktok": "staymcnet"
+  },
+  "discord": {
+    "server_id": "587207563066474556",
+    "rename_to_minecraft_name": false
+  },
+  "location": {
+    "city": "Offenbach am Main",
+    "country": "Germany",
+    "country_code": "DE"
+  },
+  "brand": {
+    "primary": "#2ca7f3"
+  },
+  "gamemodes": {
+    "survivalgames": {
+      "name": "1.16 SurvivalGames",
+      "color": "#FFFF55"
+    },
+    "spleef": {
+      "name": "Spleef",
+      "color": "#FFFF55"
+    },
+    "freebuild": {
+      "name": "Freebuild",
+      "color": "#FFFF55"
+    },
+    "ffa": {
+      "name": "FFA",
+      "color": "#FFFF55"
+    },
+    "jumpduel": {
+      "name": "JumpDuel",
+      "color": "#FFFF55"
+    }
+  }
+}
