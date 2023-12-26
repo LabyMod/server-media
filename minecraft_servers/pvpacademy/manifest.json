@@ -3,7 +3,7 @@
   "nice_name": "PvPAcademy",
   "direct_ip": "pvpacademy.net",
   "server_wildcards": [
-    "%.pvpacademy.net",
+    "%.pvpacademy.net"
   ],
   "social": {
     "web": "https://pvpacademy.net",
