@@ -1,0 +1,74 @@
+{
+   "server_name":"melvin501",
+   "nice_name":"Melvin501",
+   "direct_ip":"melvin501.de",
+   "social":{
+      "web":"https://melvin501.de",
+      "youtube":"https://www.youtube.com/@melvin501de",
+      "discord":"https://discord.com/invite/vwmMusV",
+      "tiktok":"melvin501.tiktok"
+   },
+   "server_wildcards":[
+      "play.melvin501.de",
+      "mc.melvin501.de",
+      "501Media.de"
+   ],
+   "supported_languages":[
+      "de"
+   ],
+   "discord":{
+      "server_id":"729132516983701534",
+      "rename_to_minecraft_name":false
+   },
+   "location":{
+      "city":"Frankfurt am Main",
+      "country":"Germany",
+      "country_code":"DE"
+   },
+   "brand":{
+      "primary":"#2ca7f3"
+   },
+   "gamemodes":{
+      "privateserver":{
+         "name":"Private-Server",
+         "command":"/cs",
+         "color":"#2ca7f3"
+      },
+      "allegegenmelvin":{
+         "name":"AlleGegenMelvin",
+         "command":"/cs AlleGegenMelvin",
+         "color":"#2ca7f3"
+      },
+      "allegegenalle2":{
+         "name":"AlleGegenAlle 2.0",
+         "command":"/cs AlleGegenAlle2",
+         "color":"#2ca7f3"
+      },
+      "fangen":{
+         "name":"Fangen",
+         "command":"/cs Fangen",
+         "color":"#2ca7f3"
+      },
+      "getdown":{
+         "name":"GetDown",
+         "command":"/cs GetDown",
+         "color":"#2ca7f3"
+      },
+      "bodenistlava":{
+         "name":"BodenIstLava",
+         "color":"#2ca7f3"
+      },
+      "onblockrace":{
+         "name":"OneBlockRace",
+         "color":"#2ca7f3"
+      },
+      "uhc":{
+         "name":"UHC",
+         "color":"#2ca7f3"
+      },
+      "speedrun":{
+         "name":"Speedrun",
+         "color":"#2ca7f3"
+      }
+   }
+}

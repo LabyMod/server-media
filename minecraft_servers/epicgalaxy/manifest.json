@@ -1,0 +1,49 @@
+{
+  "server_name": "epicgalaxy",
+  "nice_name": "EpicGalaxy",
+  "direct_ip": "epicgalaxy.net",
+  "server_wildcards": [
+    "%.epicgalaxy.net",
+    "%.epicgalaxy.de"
+  ],
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "web": "https://epicgalaxy.net",
+    "twitter": "EpicGalaxyNET",
+    "discord": "https://discord.com/invite/cFXDuDY"
+  },
+  "gamemodes": {
+    "bedwars": {
+      "name": "BedWars",
+      "color": "#FF5555"
+    },
+    "bingo": {
+      "name": "Bingo",
+      "color": "#5555FF"
+    },
+    "skywars": {
+      "name": "SkyWars",
+      "color": "#55FF55"
+    },
+    "uhcsg": {
+      "name": "UHCSG",
+      "color": "#FFAA00"
+    }
+  },
+  "discord": {
+    "server_id": 471698742857302038,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#FF55FF",
+    "background": "#FF55FF",
+    "text": "#FFFFFF"
+  },
+  "location": {
+    "city": "Frankfurt",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}

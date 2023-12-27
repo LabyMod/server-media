@@ -1,0 +1,91 @@
+{
+   "server_name":"terramc",
+   "nice_name":"TerraMC",
+   "direct_ip":"terramc.net",
+   "supported_languages":[
+      "de",
+      "en"
+   ],
+   "social":{
+      "web":"https://terramc.net",
+      "web_support":"https://terramc.net/core",
+      "twitter":"TerraMCnet",
+      "tiktok":"terramcnet",
+      "instagram":"terramcnet",
+      "discord":"https://discord.gg/tbNaSWN",
+      "youtube":"https://www.youtube.com/channel/UC76wAuVoucTxtJeZIjeOupw",
+      "teamspeak":"terramc.net"
+   },
+   "gamemodes": {
+      "build_ffa": {
+         "name": "BuildFFA",
+         "color": "#FFFF55",
+	     "command": "/joingame BuildFFA",
+	     "versions": "1.8<*"
+      },
+      "xp": {
+         "name": "XP",
+         "color": "#FFFF55",
+	     "command": "/joingame XP",
+	     "versions": "1.8<*"
+      },
+      "soup_trainer": {
+         "name": "SoupTrainer",
+         "color": "#55FFFF",
+	     "command": "/joingame ST",
+	     "versions": "1.8<*"
+      },
+      "the_lab": {
+         "name": "TheLab",
+         "color": "#55FFFF",
+	     "command": "/joingame TheLab",
+	     "versions": "1.8<*"
+      },
+	  "knockback_ffa": {
+         "name": "KnockBackFFA",
+         "color": "#FFAA00",
+	     "command": "/joingame KBFFA",
+	     "versions": "1.8<*"
+      },
+	  "ffa": {
+         "name": "FFA",
+         "color": "#FF5555",
+	     "command": "/joingame FFA",
+	     "versions": "1.8<*"
+      },
+	  "water_ffa": {
+         "name": "WaterFFA",
+         "color": "#5555FF",
+	     "command": "/joingame WaterFFA",
+	     "versions": "1.8<*"
+      },
+	  "citybuild": {
+         "name": "CityBuild",
+         "color": "#55FF55",
+	     "command": "/joingame CB",
+	     "versions": "1.16<*"
+      },
+	  "bedwars": {
+         "name": "BedWars",
+         "color": "#FF5555",
+	     "versions": "1.8<*"
+      },
+	  "tdm": {
+         "name": "TeamDeathMatch",
+         "color": "#AA0000",
+	     "versions": "1.8<*"
+      }
+   },
+   "brand":{
+      "primary":"#153F15",
+      "background":"#2A2A2A",
+      "text":"#FFFFFF"
+   },
+   "location":{
+      "city":"Frankfurt",
+      "country":"Germany"
+   },
+   "yt_trailer":"dERYAYRWh7w",
+   "user_stats": "https://terramc.net/player/{userName}",
+   "command_delay": 4000
+}

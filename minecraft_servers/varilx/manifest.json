@@ -1,0 +1,38 @@
+{
+  "server_name": "varilx",
+  "nice_name": "Varilx Network",
+  "direct_ip": "varilx.de",
+  "server_wildcards": [
+    "%.varilx.de"
+  ],
+  "supported_languages": [
+     "de"
+  ],
+  "social": {
+    "twitter": "VarilxDE",
+    "web": "https://forum.varilx.de",
+    "discord": "https://discord.gg/yX2eUY3Naf",
+    "youtube": "https://www.youtube.com/@ayont"
+  },
+  "discord": {
+    "server_id": 886262410489520168
+  },
+  "gamemodes": {
+    "survival": {
+      "name": "Survival", 
+      "color": "#8995FF",
+      "versions": "1.12<1.20.4",
+      "command": "/spawn"
+    }
+  },
+  "brand": {
+     "primary": "#19bd26",
+     "background": "#0bff13",
+     "text": "#D8D8D8"
+  }, 
+  "location": {
+     "city": "Frankfurt",
+     "country": "Germany",
+     "country_code": "DE"
+  }
+}

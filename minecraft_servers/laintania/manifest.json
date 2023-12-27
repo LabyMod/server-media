@@ -1,0 +1,20 @@
+{
+  "server_name": "laintania",
+  "nice_name": "LAINTANIA",
+  "direct_ip": "laintania.net",
+  "social": {
+    "web": "https://laintania.net",
+    "web_shop": "https://shop.laintania.net",
+    "discord": "https://discord.gg/H4DdTkvB3d",
+    "youtube": "https://www.youtube.com/channel/UCt3W7cjvyC2FCC6dtmOvR7g"
+  },
+  "discord": {
+    "server_id": 566176321802076171,
+    "rename_to_minecraft_name": false
+  },
+  "location": {
+    "city": "Frankfurt",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}

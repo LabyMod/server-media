@@ -1,0 +1,67 @@
+{
+    "server_name": "stratusnetwork",
+    "nice_name": "Stratus Network",
+    "direct_ip": "play.stratus.network",
+    "server_wildcards": [
+      "%.stratus.network"
+    ],
+    "supported_languages": [
+       "en"
+    ],
+    "social": {
+        "web": "https://stratus.network",
+        "web_shop": "https://stratus.network/shop",
+        "web_support": "https://stratus.network/contact",
+        "discord": "https://discord.gg/Aaf9hTr",
+        "twitter": "stratusmc",
+        "youtube": "https://www.youtube.com/@StratusNetworkmc",
+        "tiktok": "stratusnetwork"
+    },
+    "gamemodes": {
+        "ranked": {
+            "name": "Ranked",
+            "color": "#FFAA00",
+            "command": "/server ranked"
+        },
+        "mixed": {
+            "name": "Mixed",
+            "color": "#FFFFFF",
+            "command": "/server mixed"
+        },
+        "pvp": {
+            "name": "PvP",
+            "color": "#FFFFFF"
+        },
+        "minigames": {
+            "name": "Minigames",
+            "color": "#FFFFFF"
+        },
+        "duels": {
+            "name": "Duels",
+            "color": "#FFFFFF",
+            "command": "/server duels"
+        },
+        "tournaments": {
+            "name": "Tournaments",
+            "color": "#FFFFFF",
+            "url": "https://stratus.network/tm"
+        },
+        "mapmaker": {
+            "name": "Anax",
+            "color": "#678FE4",
+            "url": "https://stratus.network/anax"
+        }
+    },
+    "discord": {
+        "server_id": 218737910508158977,
+        "rename_to_minecraft_name": false
+    },
+    "brand": {
+        "primary": "#6389CB",
+        "background": "#3B78C8",
+        "text": "#E8E8f1"
+    },
+    "yt_trailer": "y_Ps4Tyijm0",
+    "user_stats": "https://stratus.network/@{userName}",
+    "command_delay": 3000
+}

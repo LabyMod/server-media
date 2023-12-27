@@ -1,0 +1,23 @@
+{
+  "server_name": "acewolf",
+  "nice_name": "AceWolf",
+  "direct_ip": "acewolf.eu",
+  "social": {
+    "web": "https://acewolf.eu",
+    "web_shop": "https://shop.acewolf.eu",
+    "web_support": "https://wiki.acewolf.eu",
+    "discord": "https://discord.gg/acewolf",
+    "youtube": "https://www.youtube.com/@AceNetAW",
+    "twitter": "AceWolf_eu",
+    "instagram": "acewolf.eu"
+  },
+  "discord": {
+    "server_id": 738156281356877834,
+    "rename_to_minecraft_name": false
+  },
+  "location": {
+    "city": "Frankfurt",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}

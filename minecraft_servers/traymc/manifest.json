@@ -4,8 +4,7 @@
   "direct_ip": "traymc.net",
   "server_wildcards": [
     "%.traymc.net",
-    "%.traymc.de",
-    "%.traymc.eu"
+    "%.traymc.de"
   ],
   "supported_languages": [
      "en",
@@ -21,29 +20,19 @@
     "teamspeak": "traymc.net"
   },
   "gamemodes": {
-    "knockdash": {
-      "name": "KnockDash",
-      "command": "/gamejoin knockdash",
+    "practise": {
+      "name": "Practise",
+      "command": "/queue join practise",
       "color": "#FF5555"
     },
-    "ttt": {
-      "name": "TTT",
-      "command": "/gamejoin ttt",
-      "color": "#AA0000"
-    },
-    "ghosthouse": {
-      "name": "GhostHouse",
-      "command": "/gamejoin ghosthouse",
-      "color": "#FFFFFF"
+    "bingo": {
+      "name": "Bingo",
+      "command": "/queue join bingo",
+      "color": "#00AA00"
     },
     "challenges": {
       "name": "Challenges",
-      "command": "/gamejoin challenges",
-      "color": "#00AA00"
-    },
-    "prebuild": {
-      "name": "PreBuild",
-      "command": "/gamejoin prebuild",
+      "command": "/queue join challenges",
       "color": "#00AA00"
     }
   },
@@ -52,7 +41,7 @@
     "rename_to_minecraft_name": false
   },
   "brand": {
-     "primary": "#008FE8",
+     "primary": "#00AA00",
      "background": "#0A56A5",
      "text": "#FFFFFF"
   }, 
