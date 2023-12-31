@@ -1,0 +1,38 @@
+{
+  "server_name": "starplanets",
+  "nice_name": "Starplanets",
+  "direct_ip": "starplanets.net",
+  "supported_languages": [
+     "en", 
+     "de"
+  ],
+  "social": {
+    "web": "https://starplanets.net",
+    "twitter": "StarPlanetsnet",
+    "instagram": "starplanetsnet",
+    "tiktok": "starplanetsnet",
+    "discord": "https://discord.gg/ZUcWVcwhMT",
+    "youtube": "https://www.youtube.com/channel/UCGJYXrNuCW4QBF6yDFgxqlg"
+  },
+  "brand": {
+     "primary": "#dc7e2d",
+     "background": "#ffe897",
+     "text": "#FFFFFF"
+  }, 
+  "gamemodes": {
+    "citybuild": {
+      "name": "Citybuild", 
+      "color": "#FFFFFF",
+      "versions": "1.20.4"
+    }
+  },
+  "discord": {
+    "server_id": 1050392349311782952,
+    "rename_to_minecraft_name": false
+  },
+  "location": {
+     "city": "Brandenburg",
+     "country": "Germany",
+     "country_code": "DE"
+   }
+}
