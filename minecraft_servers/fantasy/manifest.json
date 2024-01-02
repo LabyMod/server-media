@@ -1,0 +1,35 @@
+{
+  "server_name": "fantasy",
+  "nice_name": "Rede Fantasy",
+  "direct_ip": "redefantasy.com",
+  "server_wildcards": [
+    "%.redefantasy.com"
+  ],
+  "gamemodes": {
+    "prison": {
+      "name": "Prison Phoenix",
+      "color": "#FFAA00",
+      "command": "/serverconnector prison-phoenix"
+    }
+  },
+  "social": {
+    "discord": "https://discord.gg/J8EfkGCbyZ",
+    "web_shop": "https://loja.redefantasy.com",
+    "tiktok": "redefantasyoficial",
+    "instagram": "redefantasyoficial",
+    "youtube": "https://www.youtube.com/@redefantasy"
+  },
+  "discord": {
+    "server_id": 698700679832928337,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#f89900",
+    "background": "#f9cb25",
+    "text": "#FFFFFF"
+  },
+  "location": {
+    "country": "Brazil",
+    "country_code": "BR"
+  }
+}
