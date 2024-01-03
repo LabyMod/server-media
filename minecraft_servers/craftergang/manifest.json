@@ -41,6 +41,12 @@
       "command": "/gametp bw",
       "versions": "1.8<1.14.4"
     },
+    "gungame": {
+      "name": "GunGame",
+      "color": "#FBB300",
+      "command": "/gametp gungame",
+      "versions": "1.8<1.14.4"
+    },
     "mlgrush": {
       "name": "MLGRush",
       "color": "#de0b39",

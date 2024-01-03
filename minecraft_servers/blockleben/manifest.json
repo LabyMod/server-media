@@ -1,45 +1,47 @@
 {
   "server_name": "blockleben",
-  "nice_name": "BlockLeben",
+  "nice_name": "BlockLeben Netzwerk",
   "direct_ip": "blockleben.de",
   "server_wildcards": [
     "blockleben.de"
   ],
-  "supported_languages": [
-      "de"
-  ],
   "social": {
+    "web": "https://blockleben.de",
+    "tiktok": "blockleben.de",
+    "twitter": "blocklebende",
+    "instagram": "blocklebende",
+    "youtube": "https://www.youtube.com/channel/UCK566mjZ5QSmfIDUM22hNIA",
     "discord": "https://discord.gg/2dveXu4eaf"
   },
   "gamemodes": {
-    "skypvp": {
-      "name": "SkyPvP",
-      "color": "#FF5900",
-      "versions": "1.16.5"
-    },
     "citybuild": {
       "name": "CityBuild",
-      "color": "#FF5900",
-      "versions": "1.16.5"
+      "color": "#ffa800",
+      "command": "/citybuild"
     },
-    "chat": {
-      "message_formats": [
-        "^§[a-f0-9](?<level>\\d+)( \\||§8 \\|) §[a-f0-9](?<sender>[a-zA-Z0-9_]{2,16})§r§7: §f(?<message>.*)$"
-      ]
+    "skypvp":{
+      "name": "SkyPvP",
+      "color": "#ffa800",
+      "command": "/skypvp"
     },
-    "discord": {
-      "server_id": 1104758781004488776,
-      "rename_to_minecraft_name": false
+    "buildffa": {
+      "name": "BuildFFA",
+      "color": "#ffa800",
+      "command": "/buildffa"
     },
-    "brand": {
-      "primary": "#FF5900",
-      "background": "#FF5900",
-      "text": "#FF5900"
+    "mlgrush":{
+      "name": "MLG-Rush",
+      "color": "#ffa800",
+      "command": "/mlgrush"
     },
-    "location": {
-      "city": "Frankfurt",
-      "country": "Germany",
-      "country_code": "DE"
+    "bedwars":{
+      "name": "Bedwars",
+      "color": "#ffa800",
+      "command": "/bedwars"
     }
+  },
+  "discord": {
+    "server_id": 1104758781004488776,
+    "rename_to_minecraft_name": false
   }
 }
