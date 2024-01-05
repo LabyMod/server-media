@@ -2,6 +2,10 @@
   "server_name": "mellxy",
   "nice_name": "Mellxy",
   "direct_ip": "mellxy.de",
+   "server_wildcards": [
+    "%.mellxy.de",
+    "play.memesgottalent.de"
+  ],
   "supported_languages": [
     "de"
   ],
