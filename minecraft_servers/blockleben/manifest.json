@@ -38,6 +38,11 @@
       "name": "Bedwars",
       "color": "#ffa800",
       "command": "/bedwars"
+    },
+    "buildbattle":{
+      "name": "BuildBattle",
+      "color": "#ffa800",
+      "command": "/buildbattle"
     }
   },
   "discord": {
