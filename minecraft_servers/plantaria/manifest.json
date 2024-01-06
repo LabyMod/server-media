@@ -1,0 +1,27 @@
+{
+  "server_name": "plantaria",
+  "nice_name": "Plantaria",
+  "direct_ip": "plantaria.net",
+  "server_wildcards": [
+    "%.plantaria.net",
+    "%.plantaria.dev"
+  ],
+  "supported_languages": [
+     "de",
+     "en"
+  ],
+  "social": {
+    "twitter": "PlantariaNET",
+    "discord": "https://discord.gg/plantaria",
+    "tiktok": "plantarianet"
+  },
+  "discord": {
+    "server_id": 960218560716763176,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#57af13",
+     "background": "#d89d2b",
+     "text": "#FFFFFF"
+  }
+}
