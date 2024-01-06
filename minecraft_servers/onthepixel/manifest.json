@@ -5,11 +5,18 @@
   "server_wildcards": [
     "%.onthepixel.net"
   ],
+  "supported_languages": [
+    "de",
+    "en"
+  ],
   "social": {
     "web": "https://onthepixel.net",
     "instagram": "onthepixel_net",
     "youtube": "https://www.youtube.com/@thebestminecraftserver",
-    "discord": "https://discord.gg/Dpx3eK9t3z"
+    "tiktok": "onthepixel",
+    "discord": "https://discord.gg/Dpx3eK9t3z",
+    "twitter": "onthepixelnet",
+    "web_support": "https://onthepixel.net/support/tickets"
   },
   "gamemodes": {
     "kitpvp": {
@@ -20,13 +27,9 @@
       "name": "BedWars",
       "command": "/bw"
     },
-    "buildffa":{
-      "name": "BuildFFA",
-      "command": "/bffa"
-    },
-    "thebridge":{
-      "name": "thebridge",
-      "command": "/tb"
+    "tntrun":{
+      "name": "TNTRun",
+      "command": "/TNTRun"
     },
     "bridging":{
       "name": "Bridging",
@@ -36,5 +39,15 @@
   "discord": {
     "server_id": 1051287687233015841,
     "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#32a840",
+    "background": "#084f10",
+    "text": "#ffffff"
+  },
+  "location": {
+    "city": "Nürnberg",
+    "country": "Germany",
+    "country_code": "DE"
   }
 }
