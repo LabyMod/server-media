@@ -2,7 +2,6 @@
   "server_name": "eindino",
   "nice_name": "einDino",
   "direct_ip": "eindino.net",
-  "server_wildcards": [],
   "supported_languages": [
     "de"
   ],
