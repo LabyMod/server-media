@@ -1,0 +1,37 @@
+{
+  "server_name": "minebolt",
+  "nice_name": "MineBolt Network",
+  "direct_ip": "minebolt.es",
+  "server_wildcards": [
+    "%.minebolt.es",
+    "%.minebolt.net"
+  ],
+  "supported_languages": [
+    "es"
+  ],
+  "gamemodes": {
+    "survival": {
+      "name": "FNAFBox",
+      "color": "#EAF100"
+    },
+    "boxpvp": {
+      "name": "BoxPvP",
+      "color": "#A400F1"
+    }
+  },
+  "social": {
+    "web_shop": "https://tienda.minebolt.es",
+    "twitter": "mineboltnt",
+    "discord": "https://discord.gg/minebolt",
+    "instagram": "minebolt"
+  },
+  "discord": {
+    "server_id": 1170732856675401768,
+    "rename_to_minecraft_name": false
+  },
+  "location": {
+    "city": "Barcelona",
+    "country": "Spain",
+    "country_code": "ES"
+  }
+}
