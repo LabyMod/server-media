@@ -1,25 +1,28 @@
 {
   "server_name": "eindino",
-  "nice_name": "einDino",
+  "nice_name": "einDino Netzwerk",
   "direct_ip": "eindino.net",
-  "server_wildcards": [
-    "%.eindino.net"
+   "server_wildcards": [
+    "%.eindino.net",
   ],
-  "social": {
-    "web": "https://forum.eindino.net/index.php",
-    "instagram": "eindinonet",
-    "tiktok": "eindino_",
-    "youtube": "https://www.youtube.com/@eindino_",
-    "discord": "https://discord.gg/twUKhcMJHE"
+  "supported_languages": [
+    "de"
+  ],
+  "location": {
+    "city": "Frankfurt",
+    "country": "Germany",
+    "country_code": "DE"
   },
   "gamemodes": {
     "citybuild": {
       "name": "CityBuild",
+      "color": "#33ff00",
+      "versions": "1.16.5<*"
+    },
+    "dinowars": {
+      "name": "DinoWars",
+      "color": "#33ff00",
+      "versions": "1.16.5<*"
     }
-  },
-  "discord": {
-    "server_id": 887294676128890900,
-    "rename_to_minecraft_name": false
-  },
-  "yt_trailer": "XaBLztieTaw"
+  }
 }
