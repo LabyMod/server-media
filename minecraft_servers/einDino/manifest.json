@@ -2,8 +2,10 @@
   "server_name": "eindino",
   "nice_name": "einDino",
   "direct_ip": "eindino.net",
+  "server_wildcards": [
+  ],
   "supported_languages": [
-    "de"
+    "de",
   ],
   "social": {
     "web": "https://forum.eindino.net/index.php",
@@ -20,29 +22,29 @@
       "name": "SMP",
       "color": "#c9091a"
     },
-    "dinowars": {
+     "dinowars": {
       "name": "DinoWars",
       "color": "#c9091a"
     },
-    "knockit": {
+     "knockit": {
       "name": "KnockIT",
       "color": "#c9091a"
     },
-    "gungame": {
+     "gungame": {
       "name": "GunGame",
       "color": "#c9091a"
     },
-    "vorbauen": {
+     "vorbauen": {
       "name": "Vorbauen",
       "color": "#c9091a"
     },
-    "minefighter": {
+     "minefighter": {
       "name": "Minefighter",
       "color": "#c9091a"
-    }
+    },
   },
   "discord": {
-    "server_id": "887294676128890900",
+    "server_id": 887294676128890900,
     "rename_to_minecraft_name": true
   },
   "brand": {
@@ -51,8 +53,7 @@
     "text": "#ffffff"
   },
   "location": {
-    "city": "Frankfurt",
-    "country": "Germany",
-    "country_code": "DE"
-  }
-}
+     "city": "Frankfurt",
+     "country": "Germany",
+     "country_code": "DE"
+   },
