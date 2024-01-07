@@ -1,10 +1,7 @@
 {
-  "server_name": "eindino",
-  "nice_name": "einDino Netzwerk",
-  "direct_ip": "eindino.net",
-   "server_wildcards": [
-    "%.eindino.net",
-  ],
+  "server_name": "mellxy",
+  "nice_name": "Mellxy",
+  "direct_ip": "mellxy.de",
   "supported_languages": [
     "de"
   ],
@@ -14,14 +11,14 @@
     "country_code": "DE"
   },
   "gamemodes": {
-    "citybuild": {
-      "name": "CityBuild",
-      "color": "#33ff00",
+    "memesgottalent": {
+      "name": "Memesgottalent",
+      "color": "#f20ccc",
       "versions": "1.16.5<*"
     },
-    "dinowars": {
-      "name": "DinoWars",
-      "color": "#33ff00",
+    "rplace": {
+      "name": "Rplace",
+      "color": "#1f0cf2",
       "versions": "1.16.5<*"
     }
   }
