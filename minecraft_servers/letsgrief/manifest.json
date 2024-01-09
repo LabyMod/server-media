@@ -20,6 +20,11 @@
             "name": "Survival",
             "color": "#ADD8E6",
             "versions": "1.17<*"
+        },
+        "skyblock": {
+            "name": "SkyBlock",
+            "color": "#1B6800",
+            "versions": "1.17<*"
         }
     }
 }
