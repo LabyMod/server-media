@@ -1,0 +1,30 @@
+{
+    "server_name": "letsgrief",
+    "nice_name": "LetsGrief",
+    "direct_ip": "mc.letsgrief.net",
+    "supported_languages": [
+        "en",
+        "de"
+    ],
+    "social": {
+        "web": "https://web.letsgrief.net",
+        "discord": "https://discord.gg/teslaa"
+    },
+    "gamemodes": {
+        "citybuild": {
+            "name": "CityBuild",
+            "color": "#FFA500",
+            "versions": "1.17<*"
+        },
+        "survival": {
+            "name": "Survival",
+            "color": "#ADD8E6",
+            "versions": "1.17<*"
+        },
+        "skyblock": {
+            "name": "SkyBlock",
+            "color": "#1B6800",
+            "versions": "1.17<*"
+        }
+    }
+}
