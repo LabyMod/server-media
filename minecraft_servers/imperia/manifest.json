@@ -1,0 +1,16 @@
+{
+  "server_name": "imperia",
+  "nice_name": "Imperia",
+  "direct_ip": "imperia.phyroks.de",
+  "supported_languages": [
+    "de"
+  ],
+  "discord": {
+    "server_id": 289047350020669440
+  },
+  "location": {
+    "city": "Frankfurt",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}
