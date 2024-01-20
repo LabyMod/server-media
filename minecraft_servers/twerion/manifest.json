@@ -1,6 +1,6 @@
 {
 	"server_name": "twerion",
-	"nice_name": "Twerion Netwerk",
+	"nice_name": "Twerion Netzwerk",
     "direct_ip": "twerion.net",
     "server_wildcards": [
       "%.twerion.net",
