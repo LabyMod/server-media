@@ -3,8 +3,8 @@
   "nice_name": "Gazami",
   "direct_ip": "gazami.de",
   "server_wildcards": [
-    "gazami.de",
-    "gazami.eu"
+    "%.gazami.de",
+    "%.gazami.eu"
   ],
   "supported_languages": [
     "de"
