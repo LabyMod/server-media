@@ -7,7 +7,9 @@
         "%.twerion.de",
         "%.twerion.com",
         "%.twerion.eu",
-        "%.twerion.org"
+        "%.twerion.org",
+        "%.totking.de",
+        "%.totking.dev"
     ],
     "supported_languages": [
         "de",
@@ -33,12 +35,12 @@
         "citybuild": {
             "name": "CityBuild SMP",
             "color": "#00AAAA",
-            "versions": "1.8<1.20.4"
+            "versions": "1.8<*"
         },
         "oneblock": {
             "name": "OneBlock",
             "color": "#5555FF",
-            "versions": "1.8<1.20.4"
+            "versions": "1.8<*"
         },
         "oppvp": {
             "name": "OPPvP",
@@ -55,7 +57,7 @@
             "name": "FastBuilders",
             "color": "#FFFF55",
             "command": "/play fastbuilders",
-            "versions": "1.8<*4"
+            "versions": "1.8<*"
         },
         "buildffa": {
             "name": "BuildFFA",
@@ -82,7 +84,6 @@
     },
     "brand": {
         "primary": "#FFAA00",
-        "background": "#FFFF55",
         "text": "#FFFFFF"
     },
     "location": {
