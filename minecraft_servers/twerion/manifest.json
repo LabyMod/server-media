@@ -7,7 +7,9 @@
         "%.twerion.de",
         "%.twerion.com",
         "%.twerion.eu",
-        "%.twerion.org"
+        "%.twerion.org",
+        "%.totking.de",
+        "%.totking.dev"
     ],
     "supported_languages": [
         "de",
@@ -55,7 +57,7 @@
             "name": "FastBuilders",
             "color": "#FFFF55",
             "command": "/play fastbuilders",
-            "versions": "1.8<*4"
+            "versions": "1.8<*"
         },
         "buildffa": {
             "name": "BuildFFA",
@@ -82,7 +84,6 @@
     },
     "brand": {
         "primary": "#FFAA00",
-        "background": "#FFFF55",
         "text": "#FFFFFF"
     },
     "location": {
