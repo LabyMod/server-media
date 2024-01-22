@@ -9,7 +9,7 @@
      "de"
   ],
   "social": {
-		"tiktok": "NinjaMC",
+		"tiktok": "NinjaMC.net",
 		"discord": "https://discord.gg/uhPfMuSHMp",
 		"teamspeak": "ts.ninjamc.net"
   },
@@ -18,16 +18,6 @@
 	 "name": "CityBuild", 
 	 "color": "#FFA500",
 	 "command": "/server cb-1"
-	},
-	 "battleroyal": {
-	 "name": "BattleRoyal",
-	 "color": "#ADD8E6",
-	 "command": "/server br-1"
-	},
-	 "partygames": {
-	 "name": "PartyGames",
-	 "color": "#ADD8E6",
-	 "command": "/server mp-1"
 	}
   },
   "brand": {

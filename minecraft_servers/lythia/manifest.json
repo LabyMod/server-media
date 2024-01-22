@@ -9,15 +9,18 @@
       "de"
   ],
   "social": {
+    "web": "https://www.lythia.de",
+    "web_support": "https://wiki.lythia.de",
     "discord": "https://discord.gg/3R8vbCPQcd",
-    "youtube": "https://www.youtube.com/channel/UCWTEMNNPnZeAWPemS89Nctw"
+    "youtube": "https://www.youtube.com/channel/UCWTEMNNPnZeAWPemS89Nctw",
+    "instagram": "Lythia.de"
   },
   "gamemodes": {
     "survival": {
       "name": "Survival", 
       "color": "#0a6b14",
-      "command": "/quickjoin jumpworld16",
-      "versions": "1.20.2<*"
+      "command": "/survival survival",
+      "versions": "1.20.4<*"
     }
   },
   "chat": {
@@ -39,5 +42,6 @@
       "country": "Schweiz",
       "country_code": "CH"
   },
-  "command_delay": 3000
+  "command_delay": 3000,
+  "yt_trailer": "YDKuTO8WRug"
 }
