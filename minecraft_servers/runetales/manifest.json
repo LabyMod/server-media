@@ -9,18 +9,15 @@
      "en",
      "de"
   ],
-  "social": {
-    "web": "https://runetales.net"
-    },
   "gamemodes": {
-    "WorldOfMinecraft": {
+    "wom": {
       "name": "WorldOfMinecraft", 
       "color": "#008cff",
       "versions": "1.20.1-1.20.4*"
     },
   "discord": {
     "server_id": 974013720831361104,
-    "rename_to_minecraft_name": true
+    "rename_to_minecraft_name": false
   }
 }
 }
