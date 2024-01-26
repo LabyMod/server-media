@@ -10,9 +10,8 @@
      "de"
   ],
   "social": {
-    "web": "https://runetales.net",
-    "web_shop": "https://store.runetales.net/"
-  },
+    "web": "https://runetales.net"
+    },
   "gamemodes": {
     "WorldOfMinecraft": {
       "name": "WorldOfMinecraft", 
