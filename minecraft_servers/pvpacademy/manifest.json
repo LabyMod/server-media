@@ -1,0 +1,12 @@
+{
+  "server_name": "pvpacademy",
+  "nice_name": "PvPAcademy",
+  "direct_ip": "pvpacademy.net",
+  "server_wildcards": [
+    "%.pvpacademy.net"
+  ],
+  "social": {
+    "web": "https://pvpacademy.net",
+    "discord": "https://discord.com/invite/j74S3UYgrb"
+  }
+}

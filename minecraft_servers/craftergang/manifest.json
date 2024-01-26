@@ -30,7 +30,7 @@
       "versions": "1.8<1.20.4"
     },
     "build": {
-      "name": "BuildFFA",
+      "name": "BFFA",
       "color": "#e8a507",
       "command": "/gametp bffa",
       "versions": "1.8<1.20.4"
@@ -39,6 +39,12 @@
       "name": "BW",
       "color": "#e3bcc1",
       "command": "/gametp bw",
+      "versions": "1.8<1.20.4"
+    },
+    "gungame": {
+      "name": "GunGame",
+      "color": "#FBB300",
+      "command": "/gametp gungame",
       "versions": "1.8<1.20.4"
     },
     "mlgrush": {
