@@ -1,0 +1,27 @@
+{
+    "server_name": "ysserver",
+    "nice_name": "Youshou Fan Server",
+    "direct_ip": "mc.zorua.top",
+    "server_wildcards": [
+      "%.mc.zorua.top"
+    ],
+    "supported_languages": [
+       "zh"
+    ],
+    "social": {
+      "web": "https://help.zorua.top"
+    },
+    "gamemodes": {
+      "mainword": {
+        "name": "主世界",
+        "color": "#00FF00",
+        "command": "/quickjoin dna",
+        "versions": "1.20<*"
+      }
+    },
+    "location": {
+       "city": "Beijing",
+       "country": "China",
+       "country_code": "CH"
+    }
+  }
