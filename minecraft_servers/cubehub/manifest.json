@@ -2,11 +2,14 @@
   "server_name": "cubehub",
   "nice_name": "CubeHub",
   "direct_ip": "CubeHub.dk",
-  "supported_languages": [
+  "server_wildcards": [
+    "%.cubehub.dk"
+  ],  "supported_languages": [
     "dk"
   ],
   "social": {
     "web_shop": "https://butik.cubehub.dk",
+    "web_support": "https://forum.cubehub.dk",
     "discord": "https://discord.gg/jRQ3b7k6g5"
   },
   "discord": {
