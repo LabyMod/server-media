@@ -4,7 +4,8 @@
   "direct_ip": "CubeHub.dk",
   "server_wildcards": [
     "%.cubehub.dk"
-  ],  "supported_languages": [
+  ],
+  "supported_languages": [
     "dk"
   ],
   "social": {
