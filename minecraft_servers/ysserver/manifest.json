@@ -13,15 +13,14 @@
     },
     "gamemodes": {
       "mainword": {
-        "name": "主世界",
+        "name": "Mainworld",
         "color": "#00FF00",
-        "command": "/quickjoin dna",
         "versions": "1.20<*"
       }
     },
     "location": {
        "city": "Beijing",
        "country": "China",
-       "country_code": "CH"
+       "country_code": "CN"
     }
   }
