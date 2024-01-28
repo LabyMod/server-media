@@ -1,0 +1,21 @@
+{
+  "server_name": "pixelpulsecraft",
+  "nice_name": "PixelPulseCraft",
+  "direct_ip": "PixelPulseCraft.de",
+  "server_wildcards": [
+    "%.PixelPulseCraft.de"
+  ],
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "twitter": "PixelPulseCraft",
+    "tiktok": "pixelpulsecraft.de",
+    "youtube": "https://www.youtube.com/channel/UCdIaEvVXlF9PtOiabh2UjBA"
+
+  },
+  "discord": {
+    "server_id": 1092865877373898772,
+    "rename_to_minecraft_name": false
+  }
+}
