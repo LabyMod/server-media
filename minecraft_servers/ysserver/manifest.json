@@ -1,26 +1,17 @@
 {
-    "server_name": "ysserver",
+  "server_name": "ysserver",
     "nice_name": "Youshou Fan Server",
     "direct_ip": "mc.zorua.top",
     "server_wildcards": [
-      "%.mc.zorua.top"
+      "mc.zorua.top"
     ],
     "supported_languages": [
        "zh"
     ],
-    "social": {
-      "web": "https://help.zorua.top"
-    },
     "gamemodes": {
       "mainword": {
         "name": "Mainworld",
         "color": "#00FF00",
-        "versions": "1.20<*"
       }
-    },
-    "location": {
-       "city": "Beijing",
-       "country": "China",
-       "country_code": "CN"
     }
   }
