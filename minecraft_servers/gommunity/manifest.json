@@ -1,0 +1,22 @@
+{
+  "server_name": "gommunity",
+  "nice_name": "Gommunity.eu",
+  "direct_ip": "Gommunity.eu",
+  "server_wildcards": [
+    "%.gommunity.eu"
+  ],
+  "social": {
+    "web": "https://mc-host24.de/donate/taymetic",
+    "web_shop": "",
+    "web_support": "",
+    "twitter": "",
+    "tiktok": "gommunity.eu",
+    "youtube": "https://www.youtube.com/channel/UCVNXavnarR2hVokQ9H68xMQ",
+    "discord": "https://discord.gg/nachtclub-773290060397281289",
+    "teamspeak": ""
+  },
+  "discord": {
+    "server_id": 773290060397281289,
+    "rename_to_minecraft_name": false
+  }
+}
