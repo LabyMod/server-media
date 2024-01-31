@@ -18,33 +18,33 @@
   "gamemodes": {
     "citybuild": {
       "name": "CityBuild",
-      "color": "#6DA5C0",
+      "color": "#E0A400",
       "command": "/citybuild",
-      "versions": "1.20<*"
+      "versions": "1.19<*"
     },
     "skyblock": {
       "name": "SkyBlock",
-      "color": "#6DA5C0",
+      "color": "#0BA3BA",
       "command": "/skyblock",
-      "versions": "1.20<*"
+      "versions": "1.19<*"
     },
     "stoneblock": {
-      "name": "StoneBlock aka StoneAttack",
-      "color": "#6DA5C0",
+      "name": "StoneBlock",
+      "color": "#F5683D",
       "command": "/stoneblock",
-      "versions": "1.20<*"
+      "versions": "1.19<*"
     },
     "minigames": {
       "name": "Minigames",
-      "color": "#6DA5C0",
+      "color": "#B34B62",
       "command": "/minigames",
-      "versions": "1.20<*"
+      "versions": "1.19<*"
     },
     "survival": {
       "name": "Survival",
-      "color": "#6DA5C0",
+      "color": "#126E0A",
       "command": "/survival",
-      "versions": "1.20<*"
+      "versions": "1.19<*"
     }
   },
   "discord": {

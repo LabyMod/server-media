@@ -1,0 +1,23 @@
+{
+  "server_name": "runetales",
+  "nice_name": "RuneTales",
+  "direct_ip": "runetales.net",
+  "server_wildcards": [
+    "%.runetales.net"
+  ],
+  "supported_languages": [
+     "en",
+     "de"
+  ],
+  "gamemodes": {
+    "wom": {
+      "name": "WorldOfMinecraft", 
+      "color": "#008cff",
+      "versions": "1.20.1-1.20.4*"
+    },
+  "discord": {
+    "server_id": 974013720831361104,
+    "rename_to_minecraft_name": false
+  }
+}
+}

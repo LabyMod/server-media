@@ -1,0 +1,27 @@
+{
+    "server_name": "playlegend",
+    "nice_name": "PlayLegend",
+    "direct_ip": "playlegend.net",
+    "server_wildcards": [
+      "%.playlegend.net"
+    ],
+    "supported_languages": [
+       "en",
+       "de",
+       "fr"
+    ],
+    "social": {
+      "web": "https://playlegend.net",
+      "web_shop": "https://shop.playlegend.net",
+      "web_support": "https://chat.playlegend.net",
+      "twitter": "playlegendnet",
+      "tiktok": "PlaylegendNet",
+      "discord": "https://discord.gg/playlegend",
+      "youtube": "https://www.youtube.com/@PlaylegendServer"
+    },
+    "discord": {
+      "server_id": 691942943111512075,
+      "rename_to_minecraft_name": false
+    },
+    "yt_trailer": "su5tWLXeCf0"
+  }
