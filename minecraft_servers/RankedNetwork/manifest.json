@@ -8,8 +8,8 @@
   "social": {
     "web": "https://mc.rankedskywars.net",
     "web_shop": "https://mc.rankedskywars.net/store/",
-    "discord": "https://discord.gg/rsw",
-    "youtube": "https://www.youtube.com/@RankedNetwork",
+    "discord": "https://discord.gg/ScCZtRg2Ws",
+    "youtube": "https://www.youtube.com/@RankedNetwork"
   },
   "gamemodes": {
     "rsw": {
@@ -22,5 +22,5 @@
   "discord": {
     "server_id": 967879114503643146,
     "rename_to_minecraft_name": false
-  },
+  }
 }
