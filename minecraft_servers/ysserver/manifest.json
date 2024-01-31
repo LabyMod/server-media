@@ -2,9 +2,6 @@
   "server_name": "ysserver",
   "nice_name": "Youshou Fan Server",
   "direct_ip": "mc.zorua.top",
-  "server_wildcards": [
-    "%.mc.zorua.top"
-  ],
   "supported_languages": [
     "zh"
   ],
