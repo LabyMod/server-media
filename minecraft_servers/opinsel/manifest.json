@@ -19,25 +19,14 @@
       "country_code": "DE"
     },
     "gamemodes": {
-      "citybuild": {
-        "name": "MurderMystery", 
-        "color": "#52ff59",
-        "command": "/server murder"
-      },
-      "minigames": {
-        "name": "Minigames", 
-        "color": "#52ff59",
-        "command": "/server murder"
-      },
-      "farmwelt": {
-        "name": "Maps",
-        "color": "#52ff59",
-        "command": "/server maps"
-      },
       "lobby": {
         "name": "Lobby", 
         "color": "#52ff59",
-        "command": "/server lobby"
-      }
+        "command": "/warp Spawn"
+      },
+      "stats": {
+        "name": "Statistics",
+        "color": "#52ff59",
+        "command": "/warp stats"
     }
   }
