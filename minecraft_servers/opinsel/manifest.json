@@ -1,7 +1,7 @@
 {
     "server_name": "opinsel",
     "nice_name": "OpInsel",
-    "direct_ip": "opinsel.de",
+    "direct_ip": "mc.opinsel.de",
     "server_wildcards": [
       "%.opinsel.de"
     ],
