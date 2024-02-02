@@ -27,5 +27,6 @@
         "name": "Statistics",
         "color": "#52ff59",
         "command": "/warp stats"
+      }
     }
   }
