@@ -1,13 +1,12 @@
 {
-    "server_name": "OpInsel",
+    "server_name": "opinsel",
     "nice_name": "OpInsel",
     "direct_ip": "opinsel.de",
     "server_wildcards": [
       "%.opinsel.de"
     ],
     "supported_languages": [
-      "de",
-      "en"
+      "de"
     ],
     "social": {
       "web": "https://opinsel.de",
