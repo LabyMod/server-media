@@ -2,31 +2,17 @@
     "server_name": "opinsel",
     "nice_name": "OpInsel",
     "direct_ip": "mc.opinsel.de",
-    "server_wildcards": [
-      "%.opinsel.de"
-    ],
     "supported_languages": [
       "de"
     ],
     "social": {
       "web": "https://opinsel.de",
       "web_shop": "https://opinsel.de/shop",
-      "discord": "https://opinsel.de/discord"
+      "discord": "https://discord.gg/Mn9drhfaDQ"
     },
     "location": {
       "country": "Germany",
       "country_code": "DE"
     },
-    "gamemodes": {
-      "lobby": {
-        "name": "Lobby", 
-        "color": "#52ff59",
-        "command": "/warp Spawn"
-      },
-      "stats": {
-        "name": "Statistics",
-        "color": "#52ff59",
-        "command": "/warp stats"
-      }
     }
   }
