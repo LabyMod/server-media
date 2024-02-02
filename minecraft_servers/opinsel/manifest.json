@@ -1,16 +1,17 @@
 {
-    "server_name": "opinsel",
+    "server_name": "OpInsel",
     "nice_name": "OpInsel",
-    "direct_ip": "minevale.de",
+    "direct_ip": "opinsel.de",
     "server_wildcards": [
       "%.opinsel.de"
     ],
     "supported_languages": [
-      "de"
+      "de",
+      "en"
     ],
     "social": {
-      "web": "https://opinsel.de.de",
-      "web_shop": "https://shop.opinsel.de",
+      "web": "https://opinsel.de",
+      "web_shop": "https://opinsel.de/shop",
       "discord": "https://opinsel.de/discord"
     },
     "location": {
@@ -19,19 +20,19 @@
     },
     "gamemodes": {
       "citybuild": {
-        "name": "CityBuild", 
+        "name": "MurderMystery", 
         "color": "#52ff59",
-        "command": "/server citybuild"
+        "command": "/server murder"
       },
       "minigames": {
         "name": "Minigames", 
         "color": "#52ff59",
-        "command": "/server minigames"
+        "command": "/server murder"
       },
       "farmwelt": {
-        "name": "Farmwelt",
+        "name": "Maps",
         "color": "#52ff59",
-        "command": "/server farmwelt"
+        "command": "/server maps"
       },
       "lobby": {
         "name": "Lobby", 
