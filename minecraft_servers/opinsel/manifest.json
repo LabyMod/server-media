@@ -3,15 +3,15 @@
     "nice_name": "OpInsel",
     "direct_ip": "mc.opinsel.de",
     "supported_languages": [
-      "de"
+        "de"
     ],
     "social": {
-      "web": "https://opinsel.de",
-      "web_shop": "https://opinsel.de/shop",
-      "discord": "https://discord.gg/Mn9drhfaDQ"
+        "web": "https://opinsel.de",
+        "web_shop": "https://opinsel.de/shop",
+        "discord": "https://discord.gg/Mn9drhfaDQ"
     },
     "location": {
-      "country": "Germany",
-      "country_code": "DE"
+        "country": "Germany",
+        "country_code": "DE"
     }
-  
+}
