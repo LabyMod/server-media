@@ -14,16 +14,19 @@
         "citybuild": {
             "name": "CityBuild",
             "color": "#FFA500",
+            "command": "/join cb1",
             "versions": "1.20.4"
         },
         "survival": {
             "name": "Survival",
             "color": "#FFA500",
+            "command": "/join s1",
             "versions": "1.20.4"
         },
         "skyblock": {
             "name": "SkyBlock",
             "color": "#1B6800",
+            "command": "/join sb1",
             "versions": "1.20.4"
         }
     }
