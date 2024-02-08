@@ -26,13 +26,13 @@
   },
   "gamemodes": {
     "skyblock": {
-      "name": "SkyBlock",
+      "name": "Skyblock",
       "color": "#c4a525",
       "command": "/skyblock",
       "versions": "1.18<*"
     },
     "olympus_prison": {
-      "name": "Olympus Prison",
+      "name": "Prison",
       "color": "#c4a525",
       "command": "/olympus",
       "versions": "1.19<*"
@@ -68,13 +68,13 @@
       "versions": "1.19<*"
     },
     "earth_towny": {
-      "name": "Earth Towny",
+      "name": "Earth",
       "color": "#c4a525",
       "command": "/earth",
       "versions": "1.19<*"
     },
     "lifesteal_factions": {
-      "name": "Lifesteal Factions",
+      "name": "Lifesteal",
       "color": "#c4a525",
       "command": "/factions",
       "versions": "1.19<*"
