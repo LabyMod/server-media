@@ -1,0 +1,21 @@
+{
+    "server_name": "cubic",
+    "nice_name": "Cubic",
+    "direct_ip": "djhase.de",
+    "supported_languages": [
+      "de", "en"
+    ],
+    "social": {
+      "web": "https://djhase.de",
+      "discord": "https://dc.djhase.de"
+    },
+    "discord": {
+      "server_id": 443768116216987648
+    },
+    "brand": {
+      "primary": "#ffc300",
+      "background": "#ffc300",
+      "text": "#ffffff"
+    }
+  }
+  
