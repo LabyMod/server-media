@@ -1,0 +1,24 @@
+{
+    "server_name": "mcshowcase",
+    "nice_name": "MCShowcase.net",
+    "direct_ip": "mcshowcase.net",
+    "social": {
+      "web": "https://mcshowcase.net",
+      "web_support": "https://mcshowcase.net",
+      "discord": "https://discord.gg/mcshowcase"
+    },
+    "discord": {
+      "server_id": 1200435628840587325,
+      "rename_to_minecraft_name": false
+    },
+    "brand": {
+      "primary": "#90B8F8",
+      "background": "#5F85DB",
+      "text": "#ffffff"
+    },
+    "location": {
+      "city": "Nuremberg",
+      "country": "Germany",
+      "country_code": "DE"
+    }
+  }
