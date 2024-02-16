@@ -2,6 +2,9 @@
   "server_name": "fedustria",
   "nice_name": "FedustriaNET - by AN",
   "direct_ip": "fedustria.net",
+  "server_wildcards": [
+    "%.fedustria.net"
+  ],
   "supported_languages": [
      "en",
      "de"
