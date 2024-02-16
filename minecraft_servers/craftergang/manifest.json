@@ -21,55 +21,61 @@
       "name": "CityBuild",
       "color": "#0d6914",
       "command": "/gametp cb",
-      "versions": "1.8<1.14.4"
+      "versions": "1.8<1.20.4"
     },
     "ffa": {
       "name": "FFA",
       "color": "#ed0c26",
       "command": "/gametp ffa",
-      "versions": "1.8<1.14.4"
+      "versions": "1.8<1.20.4"
     },
     "build": {
-      "name": "BuildFFA",
+      "name": "BFFA",
       "color": "#e8a507",
       "command": "/gametp bffa",
-      "versions": "1.8<1.14.4"
+      "versions": "1.8<1.20.4"
     },
     "bedwars": {
-      "name": "BedWars",
+      "name": "BW",
       "color": "#e3bcc1",
       "command": "/gametp bw",
-      "versions": "1.8<1.14.4"
+      "versions": "1.8<1.20.4"
+    },
+    "gungame": {
+      "name": "GunGame",
+      "color": "#FBB300",
+      "command": "/gametp gungame",
+      "versions": "1.8<1.20.4"
     },
     "mlgrush": {
       "name": "MLGRush",
       "color": "#de0b39",
       "command": "/gametp mlgrush",
-      "versions": "1.8<1.14.4"
+      "versions": "1.8<1.20.4"
     },
     "welt-untergang": {
       "name": "Welt-Untergang",
       "color": "#0bde19",
       "command": "/gametp wu",
-      "versions": "1.8<1.14.4"
+      "versions": "1.8<1.20.4"
     },
     "onehit": {
       "name": "OneHit",
       "color": "#f705ab",
       "command": "/gametp onehit",
-      "versions": "1.8<1.14.4"
+      "versions": "1.8<1.20.4"
     },
     "skypvp": {
       "name": "SkyPvP",
       "color": "#f7df05",
       "command": "/gametp spvp",
-      "versions": "1.8<1.14.4"
+      "versions": "1.8<1.20.4"
     },
     "survival": {
       "name": "Survival",
       "color": "#0d6914",
       "command": "/gametp survive",
-      "versions": "1.12<1.14.4"
+      "versions": "1.12<1.20.4"
     }
   },
   "brand": {
@@ -82,5 +88,5 @@
     "country": "Germany",
     "country_code": "DE"
   },
-  "yt_trailer": "7O9dxRuZ4BQ"
+  "yt_trailer": "Fzf-sy60V7U"
 }

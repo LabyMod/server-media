@@ -1,0 +1,24 @@
+{
+    "server_name": "primeblocks",
+    "nice_name": "PrimeBlocks",
+    "direct_ip": "primeblocks.net",
+    "supported_languages": [
+       "de"
+    ],
+    "social": {
+      "web_shop": "https://store.primeblocks.net",
+      "discord": "https://discord.gg/primeblocks"
+    },
+    "gamemodes": {
+      "citybuild": {
+        "name": "CityBuild", 
+        "color": "#E8B50F",
+        "url": "https://wiki.primeblocks.net",
+        "versions": "1.20<*"
+      }
+    },
+    "discord": {
+      "server_id": 1105538669999296584,
+      "rename_to_minecraft_name": false
+    }
+  }

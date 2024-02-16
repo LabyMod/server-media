@@ -7,14 +7,14 @@
     ],
     "social": {
       "web_shop": "https://superawesome.dk/#butik",
-      "discord": "https://discord.gg/SuperAwesomeDK",
+      "discord": "https://discord.gg/SuperAwesome",
       "tiktok": "superawesome.dk",
       "youtube": "https://www.youtube.com/channel/UClhOqD9GXk2zGHZRluDLIBQ"
     },
     "location": {
       "city": "Copenhagen",
       "country": "Denmark",
-      "country_code": "DK"
+      "country_code": "DA"
     },
     "brand": {
       "primary": "#306fdb",
