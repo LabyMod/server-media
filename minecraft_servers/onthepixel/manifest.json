@@ -16,10 +16,10 @@
     "tiktok": "onthepixel",
     "discord": "https://discord.gg/Dpx3eK9t3z",
     "twitter": "onthepixelnet",
-    "web_support": "https://onthepixel.net/support/tickets"
+    "web_support": "https://onthepixel.net/support"
   },
   "gamemodes": {
-    "kitpvp": {
+    "hideandseek": {
       "name": "Hide and Seek",
       "command": "/hideandseek"
     },
@@ -27,11 +27,11 @@
       "name": "BedWars",
       "command": "/bedwars"
     },
-    "tntrun":{
+    "buildffa":{
       "name": "BuildFFA",
       "command": "/buildffa"
     },
-    "bridging":{
+    "parkour":{
       "name": "Parkour",
       "command": "/parkour"
     }
