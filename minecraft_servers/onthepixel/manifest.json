@@ -20,20 +20,20 @@
   },
   "gamemodes": {
     "kitpvp": {
-      "name": "KitPVP",
-      "command": "/kpvp"
+      "name": "Hide and Seek",
+      "command": "/hideandseek"
     },
     "bedwards":{
       "name": "BedWars",
-      "command": "/bw"
+      "command": "/bedwars"
     },
     "tntrun":{
-      "name": "TNTRun",
-      "command": "/TNTRun"
+      "name": "BuildFFA",
+      "command": "/buildffa"
     },
     "bridging":{
-      "name": "Bridging",
-      "command": "/b"
+      "name": "Parkour",
+      "command": "/parkour"
     }
   },
   "discord": {
