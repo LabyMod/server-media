@@ -17,9 +17,25 @@
     "teamspeak": "ts.hypixel.net"
   },
   "gamemodes": {
+    "sb": {
+      "name": "SkyBlock",
+      "command": "/play sb"
+    },
     "bedwars_eight_one": {
       "name": "Bed Wars Solo",
       "command": "/play bedwars_eight_one"
+    },
+    "solo_normal": {
+      "name": "Skywars Solo Normal",
+      "command": "/play solo_normal"
+    },
+    "murder_classic": {
+      "name": "Murder Mystery Classic",
+      "command": "/play murder_classic"
+    },
+    "housing": {
+      "name": "Housing",
+      "command": "/lobby housing"
     },
     "bedwars_two_four": {
       "name": "Bed Wars 4v4",
@@ -92,10 +108,6 @@
     "bedwars_four_four_armed": {
       "name": "Bed Wars Dreams Armed 4v4v4v4",
       "command": "/play bedwars_four_four_armed"
-    },
-    "solo_normal": {
-      "name": "Skywars Solo Normal",
-      "command": "/play solo_normal"
     },
     "solo_insane": {
       "name": "Skywars Solo Insane",
@@ -224,10 +236,6 @@
     "duels_duel_arena": {
       "name": "Duels Duel Arena",
       "command": "/play duels_duel_arena"
-    },
-    "sb": {
-      "name": "SkyBlock",
-      "command": "/play sb"
     },
     "arcade_hole_in_the_wall": {
       "name": "Arcade Hole in the Wall",
@@ -489,10 +497,6 @@
       "name": "Murder Mystery Assassins",
       "command": "/play murder_assassins"
     },
-    "murder_classic": {
-      "name": "Murder Mystery Classic",
-      "command": "/play murder_classic"
-    },
     "murder_double_up": {
       "name": "Murder Mystery Double Up",
       "command": "/play murder_double_up"
@@ -504,10 +508,6 @@
     "smp": {
       "name": "SMP",
       "command": "/lobby smp"
-    },
-    "housing": {
-      "name": "Housing",
-      "command": "/lobby housing"
     },
     "wool_wool_wars_two_four": {
       "name": "Wool Wars",
