@@ -24,29 +24,34 @@
   "gamemodes": {
     "onlyup": {
       "name": "Only Up!",
+      "command": "/server onlyup",
       "color": "#ffc300",
       "versions": "1.19<*"
     },
     "skyblock": {
       "name": "Skyblock",
+      "command": "/server skyblockx",
       "color": "#ffc300",
       "url": "https://wiki.cytooxien.de/games/skyblock",
       "versions": "1.19<*"
     },
     "reallife": {
       "name": "Reallife",
+      "command": "/server reallife",
       "color": "#ffc300",
       "url": "https://wiki.cytooxien.de/games/reallife",
       "versions": "1.19<*"
     },
     "citybuild": {
       "name": "Citybuild",
+      "command": "/server citybuild",
       "color": "#ffc300",
       "url": "https://wiki.cytooxien.de/games/citybuild",
       "versions": "1.19<*"
     },
     "factions": {
       "name": "Factions",
+      "command": "/server factions",
       "color": "#ffc300",
       "url": "https://wiki.cytooxien.de/games/factions",
       "versions": "1.19<*"
@@ -94,6 +99,7 @@
     },
     "creative": {
       "name": "Creative",
+      "command": "/server creative",
       "color": "#ffc300",
       "url": "https://wiki.cytooxien.de/games/creative",
       "versions": "1.19<*"
