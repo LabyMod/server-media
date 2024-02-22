@@ -17,10 +17,16 @@
     "instagram": "craftergang"
   },
   "gamemodes": {
-    "citybuild": {
-      "name": "CityBuild",
+    "cbdesert": {
+      "name": "CB Desert",
       "color": "#0d6914",
-      "command": "/gametp cb",
+      "command": "/gametp cb1",
+      "versions": "1.8<1.20.4"
+    },
+    "cbwater": {
+      "name": "CB Water",
+      "color": "#13c7eb",
+      "command": "/gametp cb2",
       "versions": "1.8<1.20.4"
     },
     "ffa": {
