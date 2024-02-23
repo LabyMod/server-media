@@ -2,9 +2,6 @@
   "server_name": "cidon",
   "nice_name": "Cidon",
   "direct_ip": "cidon.de",
-  "server_wildcards": [
-    "%.cidon.de"
-  ],
   "supported_languages": [
      "en",
      "de"
