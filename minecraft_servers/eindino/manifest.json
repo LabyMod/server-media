@@ -1,0 +1,38 @@
+{
+  "server_name": "eindino",
+  "nice_name": "einDino",
+  "direct_ip": "eindino.net",
+  "supported_languages": [
+    "de",
+    "en"
+  ],
+  "social": {
+    "web": "https://forum.eindino.net",
+    "web_shop": "https://shop.eindino.net",
+    "twitter": "einDinoNET",
+    "discord": "https://discord.gg/eindino",
+    "teamspeak": "eindino.net",
+    "tiktok": "eindinonet"
+  },
+  "discord": {
+    "server_id": 887294676128890900,
+    "rename_to_minecraft_name": false
+  },
+  "gamemodes": {
+    "citybuild": {
+      "name": "CityBuild",
+      "color": "#55FF00",
+      "versions": "1.20<*"
+    },
+    "smp": {
+      "name": "SMP",
+      "color": "#018407",
+      "versions": "1.20<*"
+    }
+  },
+  "brand": {
+    "primary": "#55FF00",
+    "background": "#018407",
+    "text": "#ffffff"
+  }
+}
