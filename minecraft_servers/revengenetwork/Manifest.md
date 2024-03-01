@@ -1,0 +1,24 @@
+# Manifest.json
+
+## Available keys
+
+> **Important**: All provided values are just examples. Do not copy them, instead use your own ones!
+
+| Key                                | Description                                                                                          | Example value                                                                                     |
+|------------------------------------|------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| `server_name`*                     | Short server name (must match the directory name!)                                                   | `"revengenetwork"`                                                                                          |
+| `nice_name`*                       | Nice server name                                                                                     | `"RevengeNetwork"`                                                                                       |
+| `direct_ip`*                       | Direct Minecraft server ip                                                                           | `"RevengeNetwork.es"`                                                                              |                                                             |
+| `supported_languages`              | Supported languages on your server - Format: ISO 639-1                                               | `["es"]`                                                                                    |
+| `social.web`                       | [Website **URL**](Usages.md#social)                                                                  | `"https://labymod.net"`                                                                           |
+| `social.web_shop`                  | [Shop **URL**](Usages.md#links)                                                                      | `"https://tienda.revengenetwork.es"`                                                                      |
+| `social.web_support`               | [Support page **URL**](Usages.md#links), e.g. faq page                                               | `"Discord.gg/RevengeNetwork"`                                                                   |
+| `social.twitter`                   | [Twitter **username**](Usages.md#social)                                                             | `"RevengeNTW"`                                                                                       |
+| `social.tiktok`                    | [TikTok **username**](Usages.md#social)                                                              | `"RevengeNTW"`                                                                                       |
+| `social.facebook`                  | [Facebook **username**](Usages.md#social)                                                            | `"RevengeNTW"`                                                                                       |
+| `social.instagram`                 | [Instagram **username**](Usages.md#social)                                                           | `"RevengeNTW"`                                                                                       |
+| `social.discord`                   | [Discord invite **URL**](Usages.md#social)                                                           | `"Discord.gg/RevengeNetwork"` 
+| `social.youtube`                   | [YouTube channel **URL**](Usages.md#social)                                                          | `"https://www.youtube.com/channel/UCcZ_u1GfuJR3LWqLlljMG2Q"`                                                                 |
+| `discord.server_id`                | [Discord server id](Usages.md#one-click-discord-join-partner-only)                                   | `857169016787435521`                                                                              ||
+| `location.city`                    | [Server location: City](Usages.md#server-location)                                                   | `"Spain"`                                                                                        |                                                                             |                                                                                  |
+| `yt_trailer`                       | [YouTube trailer **embed ID**](Usages.md#server-trailer)                                             | `"cfX-0312hhc"`                                                                                   |
