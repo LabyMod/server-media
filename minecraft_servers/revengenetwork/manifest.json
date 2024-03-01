@@ -1,9 +1,9 @@
 {
   "server_name": "revengenetwork",
   "nice_name": "RevengeNetwork",
-  "direct_ip": "RevengeNetwork.es",
+  "direct_ip": "revengenetwork.es",
   "server_wildcards": [
-    "%.RevengeNetwork.es"
+    "%.revengenetwork.es"
   ],
   "supported_languages": [
      "es"
