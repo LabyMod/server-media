@@ -6,11 +6,11 @@
     "%.newrp.de"
   ],
   "supported_languages": [
-     "de"
+    "de"
   ],
   "social": {
-    "web": "https://newrp.de",
-    "web_shop": "https://shop.newrp.de",
+    "web": "https://newrp.de/",
+    "web_shop": "https://shop.newrp.de/",
     "teamspeak": "newrp.de",
     "tiktok": "newrpde",
     "youtube": "https://www.youtube.com/@NRPNewRolePlay",
@@ -25,5 +25,5 @@
     "country": "Germany",
     "country_code": "DE"
   },
-  "yt_trailer": "ez07Vvn5sO4",
+  "yt_trailer": "ez07Vvn5sO4"
 }
