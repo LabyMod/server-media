@@ -1,7 +1,7 @@
 {
   "server_name": "survivalgames",
   "nice_name": "SurvivalGames",
-  "direct_ip": "mc.survival-games.cz"
+  "direct_ip": "mc.survival-games.cz",
   "server_wildcards": [
     "%.survival-games.cz",
     "%.survivalgames.eu"
