@@ -1,10 +1,10 @@
 {
   "server_name": "survivalgames",
   "nice_name": "SurvivalGames",
-  "direct_ip": "mc.survival-games.cz",
+  "direct_ip": "mc.survival-games.cz"
   "server_wildcards": [
     "%.survival-games.cz",
-    "%.survivalgames.eu",
+    "%.survivalgames.eu"
   ],
   "supported_languages": [
      "cs",
@@ -17,9 +17,9 @@
     "web_support": "https://survival-games.cz/faq",
     "facebook": "CZSurvivalGames", 
     "instagram": "survival.games.cz",
-    "youtube": "https://www.youtube.com/@SurvivalGamesCZE"
-    "discord": "https://discord.com/invite/ZvK9g2WaVs"
-    "teamspeak": "ts3.survival-games.cz"
+    "youtube": "https://www.youtube.com/@SurvivalGamesCZE",
+    "discord": "https://discord.com/invite/ZvK9g2WaVs",
+    "teamspeak": "ts3.survival-games.cz",
     "tiktok": "https://www.tiktok.com/@survivalgamescz"
   },
   "discord": {
