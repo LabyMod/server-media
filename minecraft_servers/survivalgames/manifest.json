@@ -5,7 +5,7 @@
   "supported_languages": [
      "cs",
      "sk"
-	 "en"
+     "en"
   ],
   "social": {
     "web": "https://survival-games.cz",
@@ -14,9 +14,9 @@
     "facebook": "CZSurvivalGames", 
     "instagram": "survival.games.cz",
     "youtube": "https://www.youtube.com/@SurvivalGamesCZE"
-	"discord": "https://discord.com/invite/ZvK9g2WaVs"
-	"teamspeak": "ts3.survival-games.cz"
-	"tiktok": "https://www.tiktok.com/@survivalgamescz"
+    "discord": "https://discord.com/invite/ZvK9g2WaVs"
+    "teamspeak": "ts3.survival-games.cz"
+    "tiktok": "https://www.tiktok.com/@survivalgamescz"
   },
   "discord": {
     "server_id": 694511728691511347,
