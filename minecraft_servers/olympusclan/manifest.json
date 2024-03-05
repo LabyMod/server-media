@@ -1,0 +1,48 @@
+{
+  "server_name": "olympusclan",
+  "nice_name": "OlympusClan",
+  "direct_ip": "play.olympusclan.net",
+  "server_wildcards": [
+    "%.olympusclan.net"
+  ],
+  "social": {
+    "web": "https://www.olympusclan.net",
+    "web_shop": "https://store.olympusclan.net",
+    "web_support": "https://www.olympusclan.net",
+    "twitter": "TheOlympusNetwork",
+    "discord": "https://discord.gg/olympusclan"
+  },
+  "gamemodes": {
+    "ffa": {
+      "name": "Free for All"
+    },
+    "survivalgames": {
+      "name": "Survival Games"
+    },
+    "elytraffa": {
+      "name": "Elytra FFA"
+    },
+    "survival": {
+      "name": "Survival"
+    },
+    "arcade": {
+      "name": "Arcade"
+    },
+    "storymode": {
+      "name": "Story Mode"
+    }
+  },
+  "discord": {
+    "server_id": 1159665190929957004,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#55eb57",
+     "background": "#8eff90",
+     "text": "#FFFFFF"
+  }, 
+  "location": {
+     "country": "Germany",
+     "country_code": "DE"
+  }
+}
