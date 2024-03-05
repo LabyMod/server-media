@@ -2,13 +2,8 @@
   "server_name": "olympusclan",
   "nice_name": "OlympusClan",
   "direct_ip": "play.olympusclan.net",
-  "server_wildcards": [
-    "%.olympusclan.net"
-  ],
   "social": {
     "web": "https://www.olympusclan.net",
-    "web_shop": "https://store.olympusclan.net",
-    "web_support": "https://www.olympusclan.net",
     "twitter": "TheOlympusGames",
     "discord": "https://discord.gg/olympusclan"
   },
