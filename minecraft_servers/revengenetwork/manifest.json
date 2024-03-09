@@ -1,0 +1,18 @@
+{
+  "server_name": "revengenetwork",
+  "nice_name": "RevengeNetwork",
+  "direct_ip": "revengenetwork.es",
+  "server_wildcards": [
+    "%.revengenetwork.es"
+  ],
+  "supported_languages": [
+     "es"
+  ],
+  "social": {
+    "web_shop": "https://tienda.revengenetwork.es",
+    "instagram": "RevengeNTW",
+    "tiktok": "RevengeNTW",
+    "twitter": "RevengeNTW",
+    "discord": "https://discord.gg/revengenetwork"
+  }
+}
