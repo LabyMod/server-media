@@ -16,24 +16,24 @@
     "tiktok": "onthepixel",
     "discord": "https://discord.gg/Dpx3eK9t3z",
     "twitter": "onthepixelnet",
-    "web_support": "https://onthepixel.net/support/tickets"
+    "web_support": "https://onthepixel.net/support"
   },
   "gamemodes": {
-    "kitpvp": {
-      "name": "KitPVP",
-      "command": "/kpvp"
+    "hideandseek": {
+      "name": "Hide and Seek",
+      "command": "/hideandseek"
     },
     "bedwards":{
       "name": "BedWars",
-      "command": "/bw"
+      "command": "/bedwars"
     },
-    "tntrun":{
-      "name": "TNTRun",
-      "command": "/TNTRun"
+    "buildffa":{
+      "name": "BuildFFA",
+      "command": "/buildffa"
     },
-    "bridging":{
-      "name": "Bridging",
-      "command": "/b"
+    "parkour":{
+      "name": "Parkour",
+      "command": "/parkour"
     }
   },
   "discord": {
