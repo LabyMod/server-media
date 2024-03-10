@@ -7,18 +7,25 @@
     ],
     "social": {
       "web_shop": "https://store.primeblocks.net",
-      "discord": "https://discord.gg/primeblocks"
+      "web_support": "https://wiki.primeblocks.net",
+      "discord": "https://discord.gg/primeblocks",
+      "youtube": "https://youtube.com/@primeblocksserver"
     },
     "gamemodes": {
       "citybuild": {
         "name": "CityBuild", 
         "color": "#E8B50F",
-        "url": "https://wiki.primeblocks.net",
         "versions": "1.20<*"
       }
     },
     "discord": {
       "server_id": 1105538669999296584,
       "rename_to_minecraft_name": false
-    }
+    },
+    "location": {
+      "city": "Frankfurt",
+      "country": "Germany",
+      "country_code": "DE"
+    },
+    "yt_trailer": "_1bVrEcWOAc"
   }
