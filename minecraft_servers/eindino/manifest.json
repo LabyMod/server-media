@@ -6,6 +6,12 @@
     "de",
     "en"
   ],
+  "server_wildcards": [
+    "eindino.de",
+    "eindino.eu",
+    "magicalsmp.de",
+    "gamingcode.dev"
+  ],
   "social": {
     "web": "https://forum.eindino.net",
     "web_shop": "https://shop.eindino.net",
