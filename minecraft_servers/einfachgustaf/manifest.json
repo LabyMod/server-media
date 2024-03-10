@@ -2,9 +2,6 @@
     "server_name": "einfachgustaf",
     "nice_name": "EinfachGustaf.live",
     "direct_ip": "einfachgustaf.live",
-    "server_wildcards": [
-      "%.einfachgustaf.live"
-    ],
     "supported_languages": [
        "de"
     ],
@@ -15,7 +12,7 @@
       "youtube": "https://www.youtube.com/@einfachgustaflive"
     },
     "gamemodes": {
-      "jumpworld": {
+      "smp": {
         "name": "SMP", 
         "color": "#FFA500",
         "versions": "1.20.4"
