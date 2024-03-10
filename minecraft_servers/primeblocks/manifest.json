@@ -7,7 +7,8 @@
     ],
     "social": {
       "web_shop": "https://store.primeblocks.net",
-      "discord": "https://discord.gg/primeblocks"
+      "discord": "https://discord.gg/primeblocks",
+      "youtube": "https://youtube.com/@primeblocksserver"
     },
     "gamemodes": {
       "citybuild": {
@@ -20,5 +21,11 @@
     "discord": {
       "server_id": 1105538669999296584,
       "rename_to_minecraft_name": false
-    }
+    },
+    "location": {
+      "city": "Frankfurt",
+      "country": "Germany",
+      "country_code": "DE"
+    },
+    "yt_trailer": "_1bVrEcWOAc"
   }
