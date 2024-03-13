@@ -5,8 +5,8 @@
   "server_wildcards": [
     "%.survival-games.cz",
     "%.survivalgames.eu",
-	"survival-games.cz",
-	"survivalgames.eu"
+    "survival-games.cz",
+    "survivalgames.eu"
   ],
   "supported_languages": [
      "cs",
