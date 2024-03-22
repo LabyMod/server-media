@@ -84,6 +84,10 @@
       "versions": "1.14<1.20.4"
     }
   },
+  "discord": {
+    "server_id": 251791624483373056,
+    "rename_to_minecraft_name": false
+  },
   "brand": {
     "primary": "#497cb1",
     "background": "#245587",
