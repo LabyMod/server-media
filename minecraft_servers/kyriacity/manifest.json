@@ -1,29 +1,28 @@
 {
-  "server_name": "kyriacity",
-  "nice_name": "KyriaCity",
-  "direct_ip": "kyriacity.net",
-  "supported_languages": [
-     "en", 
+  "server_name": "kyriarealms",
+  "nice_name": "KyriaRealms",
+  "direct_ip": "kyriarealms.net",
+  "supported_languages": [ 
      "de"
   ],
   "social": {
-    "web": "https://kyriacity.net",
-    "twitter": "KyriaCityNET",
-    "instagram": "kyriacitynet",
-    "tiktok": "kyriacitynet",
+    "web": "https://kyriarealms.net",
+    "twitter": "KyriaRealms",
+    "instagram": "KyriaRealms",
+    "tiktok": "KyriaRealms",
     "discord": "https://discord.gg/hnpU3TmnfY",
-    "youtube": "https://www.youtube.com/channel/UCtckHsWoozueB3QZnekWQHg"
+    "youtube": "https://www.youtube.com/@kyriarealms"
   },
   "brand": {
-     "primary": "#f68327",
+     "primary": "#00B534",
      "background": "#eaa21a",
      "text": "#FFFFFF"
   }, 
   "gamemodes": {
-    "citybuild": {
-      "name": "Citybuild", 
+    "realms": {
+      "name": "Realms", 
       "color": "#FFFFFF",
-      "versions": "1.19.3"
+      "versions": "1.20.4"
     }
   },
   "discord": {
