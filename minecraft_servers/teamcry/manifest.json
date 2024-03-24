@@ -12,10 +12,12 @@
     },
     "gamemodes": {
         "bffa": {
-          "name": "BuildFFA"
+          "name": "BuildFFA",
+          "color": "#FFA500"
         },
         "bw": {
-            "name": "BedWars"
+            "name": "BedWars",
+            "color": "#BC8F8F"
           }
     },
     "discord": {
