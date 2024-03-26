@@ -1,13 +1,27 @@
 {
   "server_name": "revengenetwork",
   "nice_name": "RevengeNetwork",
-  "direct_ip": "revengenetwork.es",
+  "direct_ip": "mc.revengenetwork.es",
   "server_wildcards": [
     "%.revengenetwork.es"
   ],
   "supported_languages": [
      "es"
   ],
+  "gamemodes": {
+    "infra": {
+      "name": "Survival Inframundo",
+      "color": "#7C0728"
+    },
+    "earth": {
+      "name": "Survival Earth",
+      "color": "#21E346"
+    },
+    "nimbus": {
+      "name": "Nimbus Gens",
+      "color": "#F1C142"
+    }
+  },
   "social": {
     "web_shop": "https://tienda.revengenetwork.es",
     "instagram": "RevengeNTW",
