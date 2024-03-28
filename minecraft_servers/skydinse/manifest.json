@@ -5,7 +5,6 @@
     "server_wildcards": [
       "%.skydinse.net",
       "%.skydinse.de",
-      "%.skydinse.tk",
       "cattack.de"
     ],
     "supported_languages": [
@@ -14,25 +13,27 @@
       "pt",
       "fr",
       "es",
+      "pl",
+      "nl",
       "tr"
     ],
     "social": {
-        "web": "https://skydinse.net",
-        "web_support": "https://skydinse.net/contact",
-        "twitter": "skydinse",
+        "web": "https://www.skydinse.net",
+        "web_support": "https://www.skydinse.net/contact",
         "tiktok": "skydinse_net",
+        "instagram": "skydinse",
         "discord": "https://discord.gg/cdWsMjfnea",
         "youtube": "https://www.youtube.com/@skydinse"
     },
     "gamemodes": {
-      "mineattack": {
-        "name": "MineAttack IV",
-        "command": "/game mineattackiv",
+      "citybuild": {
+        "name": "CityBuild",
+        "command": "/game citybuild",
         "versions": "1.20<*"
       },
-      "sdplace": {
-        "name": "Place",
-        "command": "/nav sdplace",
+      "blockparty": {
+        "name": "BlockParty",
+        "command": "/game blockparty",
         "versions": "1.17<*"
       },
       "lavarises": {
@@ -45,11 +46,6 @@
         "command": "/game duels",
         "versions": "1.17<*"
       },
-      "blockparty": {
-        "name": "BlockParty",
-        "command": "/game blockparty",
-        "versions": "1.17<*"
-      },
       "murdermystery": {
         "name": "Murder",
         "command": "/game murdermystery",
@@ -58,6 +54,11 @@
       "maze": {
         "name": "Maze",
         "command": "/game maze",
+        "versions": "1.17<*"
+      },
+      "sdplace": {
+        "name": "Place",
+        "command": "/nav sdplace",
         "versions": "1.17<*"
       }
     },

@@ -1,0 +1,52 @@
+{
+  "server_name": "flame",
+  "nice_name": "FlameMC",
+  "direct_ip": "flamemc.com.br",
+  "supported_languages": [
+    "pt"
+  ],
+  "social": {
+    "web": "https://flamemc.com.br",
+    "web_shop": "https://loja.flamemc.com.br",
+    "twitter": "RedeFlameMC",
+    "tiktok": "flamemc_",
+    "discord": "https://discord.gg/flamemc",
+    "youtube": "https://www.youtube.com/@flamemcoficial"
+  },
+  "gamemodes": {
+    "bedwars": {
+      "name": "BedWars",
+      "command": "/play bedwars"
+    },
+    "skywars": {
+      "name": "SkyWars",
+      "command": "/play skywars"
+    },
+    "hardcoregames": {
+      "name": "HardcoreGames",
+      "command": "/play hg"
+    },
+    "duels": {
+      "name": "Duels",
+      "command": "/play duels"
+    },
+    "kitpvp": {
+      "name": "KitPvP",
+      "command": "/play pvp"
+    },
+    "clanxclan": {
+        "name": "CxC",
+        "command": "/play cxc"
+      }
+  },
+  "discord": {
+    "server_id": 730517177450627212,
+    "rename_to_minecraft_name": false
+  },
+  "location": {
+    "city": "São Paulo",
+    "country": "Brasil",
+    "country_code": "BR"
+  },
+  "user_stats": "https://flamemc.com.br/player/{userName}"
+}
