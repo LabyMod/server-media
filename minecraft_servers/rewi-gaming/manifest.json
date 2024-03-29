@@ -3,7 +3,8 @@
   "nice_name": "Rewi-Gaming.de",
   "direct_ip": "rewi-gaming.de",
   "server_wildcards": [
-    "%.rewi-gaming.de"
+    "mc.rewi-gaming.de",
+    "event.rewi-gaming.de"
   ],
   "supported_languages": [
     "de"
