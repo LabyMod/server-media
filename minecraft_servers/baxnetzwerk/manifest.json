@@ -1,18 +1,13 @@
 {
     "server_name": "Bax",
     "nice_name": "Bax Netzwerk",
-    "direct_ip": "play-bax.de",
-    "server_wildcards": [
-      "%.BaxNetzwerk.de",
-      "%.play-bax.de"
-    ],
+    "direct_ip": "play-bax.de"
     "supported_languages": [
       "de",
       "en"
     ],
     "social": {
       "web": "https://BaxNetzwerk.de",
-      "web_support": "https://BaxNetzwerk.de/support",
       "instagram": "BaxNetzwerk",
       "twitter": "BaxNetzwerk",
       "tiktok": "BaxNetzwerk",
