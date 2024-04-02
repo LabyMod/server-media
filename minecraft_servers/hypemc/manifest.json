@@ -1,0 +1,27 @@
+{
+  "server_name": "hypemc",
+  "nice_name": "HypeMC",
+  "direct_ip": "play.hypemc.net",
+  "supported_languages": [
+     "ar",
+     "en"
+  ],
+  "social": {
+    "tiktok": "hypemc.net",
+    "discord": "https://discord.gg/hypemc"
+  },
+  "discord": {
+    "server_id": 797538384453173329,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#FFD700",
+     "background": "#444543",
+     "text": "#FFFFFF"
+  }, 
+  "location": {
+     "city": "Riyadh",
+     "country": "Saudi Arabia",
+     "country_code": "SA"
+  }
+}
