@@ -2,8 +2,6 @@
   "server_name": "vinixmc",
   "nice_name": "VinixMC Network",
   "direct_ip": "play.vinixmc.net",
-  "server_wildcards": [
-    "%.vinixmc.net"
   ],
   "social": {
     "web_shop": "https://store.vinixmc.net",
