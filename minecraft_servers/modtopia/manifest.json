@@ -1,0 +1,15 @@
+{
+  "server_name": "modtopia",
+  "nice_name": "Modtopia",
+  "direct_ip": "modtopia.de",
+  "server_wildcards": [
+    "%.antiac.de"
+  ],
+  "social": {
+    "web_shop": "https://shop.modtopia.de",
+    "youtube": "https://youtube.modtopia.de",
+    "tiktok": "modtopia",
+    "instagram": "modtopia.social",
+    "discord": "https://discord.modtopia.de"
+  }
+}
