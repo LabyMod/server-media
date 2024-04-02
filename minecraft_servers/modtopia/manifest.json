@@ -1,0 +1,31 @@
+{
+  "server_name": "modtopia",
+  "nice_name": "Modtopia",
+  "direct_ip": "modtopia.de",
+  "server_wildcards": [
+    "%.laby.net"
+  ],
+  "supported_languages": [
+     "de"
+  ],
+  "social": {
+    "web_shop": "https://shop.modtopia.de",
+    "tiktok": "https://tiktok.modtopia.de",
+    "instagram": "https://instagram.modtopia.de",
+    "discord": "https://discord.modtopia.de",
+    "youtube": "https://youtube.modtopia.de",
+  },
+  "gamemodes": {}
+  "discord": {
+    "server_id": 1205187819056922696,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#ffa500",
+     "background": "#FFFFFF",
+     "text": "#FFFFFF"
+  }, 
+  "location": {
+     "country": "Germany",
+     "country_code": "DE"
+}
