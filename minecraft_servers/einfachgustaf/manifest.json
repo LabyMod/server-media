@@ -1,0 +1,34 @@
+{
+    "server_name": "einfachgustaf",
+    "nice_name": "EinfachGustaf.live",
+    "direct_ip": "einfachgustaf.live",
+    "supported_languages": [
+       "de"
+    ],
+    "social": {
+      "web": "https://einfachgustaf.live",
+      "twitter": "einfachgustafl",
+      "discord": "https://discord.gg/R5spCd5vq8",
+      "youtube": "https://www.youtube.com/@einfachgustaflive"
+    },
+    "gamemodes": {
+      "smp": {
+        "name": "SMP", 
+        "color": "#FFA500",
+        "versions": "1.20.4"
+      }
+    },
+    "discord": {
+      "server_id": 1065307087724363796,
+      "rename_to_minecraft_name": false
+    },
+    "brand": {
+       "primary": "#00A5FF",
+       "background": "#0077B7",
+       "text": "#FFFFFF"
+    }, 
+    "location": {
+       "country": "Germany",
+       "country_code": "DE"
+    }
+  }

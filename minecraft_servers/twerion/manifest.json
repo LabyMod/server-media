@@ -1,0 +1,95 @@
+{
+    "server_name": "twerion",
+    "nice_name": "Twerion Netzwerk",
+    "direct_ip": "twerion.net",
+    "server_wildcards": [
+        "%.twerion.net",
+        "%.twerion.de",
+        "%.twerion.com",
+        "%.twerion.eu",
+        "%.twerion.org",
+        "%.totking.de",
+        "%.totking.dev"
+    ],
+    "supported_languages": [
+        "de",
+        "en",
+        "ru"
+    ],
+    "social": {
+        "web": "https://www.twerion.net",
+        "web_shop": "https://shop.twerion.net",
+        "twitter": "twerionnetwork",
+        "tiktok": "twerionnetwork",
+        "instagram": "twerion_network",
+        "discord": "https://discord.gg/twerion",
+        "youtube": "https://www.youtube.com/@twerion",
+        "teamspeak": "ts.twerion.net"
+    },
+    "gamemodes": {
+        "skypvp": {
+            "name": "SkyPvP",
+            "color": "#AA0000",
+            "versions": "1.8<*"
+        },
+        "citybuild": {
+            "name": "CityBuild SMP",
+            "color": "#00AAAA",
+            "versions": "1.8<*"
+        },
+        "oneblock": {
+            "name": "OneBlock",
+            "color": "#5555FF",
+            "versions": "1.8<*"
+        },
+        "oppvp": {
+            "name": "OPPvP",
+            "color": "#00AA00",
+            "versions": "1.8<*"
+        },
+        "bedwars": {
+            "name": "BedWars",
+            "color": "#FF5555",
+            "command": "/play bw-solo",
+            "versions": "1.8<*"
+        },
+        "fastbuilders": {
+            "name": "FastBuilders",
+            "color": "#FFFF55",
+            "command": "/play fastbuilders",
+            "versions": "1.8<*"
+        },
+        "buildffa": {
+            "name": "BuildFFA",
+            "color": "#55FF55",
+            "command": "/play buildffa",
+            "versions": "1.8<*"
+        },
+        "mlgrush": {
+            "name": "MLGRush",
+            "color": "#55FFFF",
+            "command": "/play mlgrush",
+            "versions": "1.8<*"
+        },
+        "clutches": {
+            "name": "Clutches",
+            "color": "#FF55FF",
+            "command": "/play clutches",
+            "versions": "1.8<*"
+        }
+    },
+    "discord": {
+        "server_id": 326789496525815800,
+        "rename_to_minecraft_name": false
+    },
+    "brand": {
+        "primary": "#FFAA00",
+        "text": "#FFFFFF"
+    },
+    "location": {
+        "city": "Frankfut am Main",
+        "country": "Germany",
+        "country_code": "DE"
+    },
+    "yt_trailer": "6xACbO1hHnA"
+}

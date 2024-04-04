@@ -1,0 +1,56 @@
+{
+  "server_name": "playhills",
+  "nice_name": "PlayHills",
+  "direct_ip": "playhills.eu",
+  "server_wildcards": [
+    "%.playhills.de",
+    "%.playhills.eu",
+    "%.tumira.net",
+    "%.tumira.de",
+    "%.tumira.eu"
+  ],
+  "supported_languages": [
+    "de",
+    "en",
+    "ru"
+  ],
+  "social": {
+    "web": "https://playhills.eu",
+    "web_shop": "https://shop.playhills.eu",
+    "twitter": "PlayHillsEU",
+    "discord": "https://discord.gg/heKnBXK",
+    "teamspeak": "ts.playhills.eu",
+    "tiktok": "PlayHillsEU",
+    "youtube": "https://www.youtube.com/@playhillseu6232"
+  },
+  "gamemodes": {
+    "knockit": {
+      "name": "KnockIt",
+      "command": "/knockit",
+      "color": "#55FFFF",
+      "versions": "1.8<*"
+    },
+    "pserver": {
+      "name": "PServer",
+      "command": "/panel",
+      "color": "#5555FF",
+      "versions": "1.16.5<*"
+    },
+     "skyblock": {
+      "name": "SkyBlock",
+      "command": "/skyblock",
+      "color": "#5555FF",
+      "versions": "1.20.1<*"
+    }
+  },
+  "brand": {
+    "primary": "#d9bf46",
+    "background": "#202020",
+    "text": "#ffffff"
+  },
+  "location": {
+    "city": "Falkenstein",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}

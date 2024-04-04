@@ -15,7 +15,7 @@
     "tiktok": "craftplay.de",
     "facebook": "CraftplayDE",
     "instagram": "craftplay.de",
-    "discord": "https://discord.craftplay.de",
+    "discord": "https://discord.gg/craftplayde",
     "youtube": "https://www.youtube.com/@craftplayDE",
     "teamspeak": "ts.craftplay.de"
   },
@@ -25,6 +25,13 @@
       "color": "#5454FC",
       "url": "https://www.craftplay.de/wiki/citybuild",
       "command": "/citybuild",
+      "versions": "1.18<*"
+    },
+    "plotserver": {
+      "name": "Plotserver",
+      "color": "#55FFFF",
+      "url": "https://www.craftplay.de/wiki/plotserver",
+      "command": "/plotserver",
       "versions": "1.18<*"
     },
     "skygames": {

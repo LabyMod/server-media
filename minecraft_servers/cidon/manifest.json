@@ -1,0 +1,36 @@
+{
+  "server_name": "cidon",
+  "nice_name": "Cidon",
+  "direct_ip": "cidon.de",
+  "supported_languages": [
+     "en",
+     "de"
+  ],
+  "social": {
+    "web": "https://cidon.de",
+    "web_shop": "https://cidon.de/premium",
+    "web_support": "https://cidon.de/support",
+    "tiktok": "cidon.de",
+    "instagram": "cidon.de",
+    "discord": "https://discord.gg/ZVt9peGZw3",
+    "youtube": "https://www.youtube.com/@cidonde"
+  },
+  "gamemodes": {
+    "roleplay": {
+      "name": "Roleplay",
+      "color": "#ebc340",
+      "versions": "1.16<*",
+      "command": "/quickjoin roleplay"
+    }
+  },
+  "brand": {
+     "primary": "#ebc340",
+     "background": "#ffb03b",
+     "text": "#FFFFFF"
+  }, 
+  "location": {
+     "country": "Germany",
+     "country_code": "DE"
+  },
+  "user_stats": "https://cidon.de/user/profile/?player={userName}"
+}
