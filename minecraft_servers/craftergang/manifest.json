@@ -1,6 +1,7 @@
 {
   "server_name": "craftergang",
   "nice_name": "Craftergang",
+  "nice_name": "Craftergang",
   "direct_ip": "craftergang.de",
   "server_wildcards": [
     "craftergang.net",
@@ -17,6 +18,12 @@
     "instagram": "craftergang"
   },
   "gamemodes": {
+    "crafterplace": {
+      "name": "CB Desert",
+      "color": "#b8f0e9",
+      "command": "/gametp cp",
+      "versions": "1.12<1.20.4"
+    },
     "cbdesert": {
       "name": "CB Desert",
       "color": "#0d6914",
@@ -98,5 +105,6 @@
     "country": "Germany",
     "country_code": "DE"
   },
+  "user_stats": "https://laby.net/@{userName}",
   "yt_trailer": "Fzf-sy60V7U"
 }
