@@ -4,7 +4,7 @@
     "direct_ip": "craftergang.de",
     "server_wildcards": [
         "craftergang.net",
-        "citybuild.craftergang.de"
+        "%.craftergang.de"
     ],
     "supported_languages": [
         "de"
