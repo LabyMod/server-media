@@ -19,7 +19,7 @@
   },
   "gamemodes": {
     "crafterplace": {
-      "name": "CB Desert",
+      "name": "Crafterplace",
       "color": "#b8f0e9",
       "command": "/gametp cp",
       "versions": "1.12<1.20.4"
@@ -105,6 +105,5 @@
     "country": "Germany",
     "country_code": "DE"
   },
-  "user_stats": "https://laby.net/@Kallecrafter",
   "yt_trailer": "Fzf-sy60V7U"
 }
