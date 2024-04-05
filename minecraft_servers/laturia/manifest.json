@@ -2,11 +2,6 @@
     "server_name": "laturia",
     "nice_name": "Laturia",
     "direct_ip": "laturia.net",
-    "server_wildcards": [
-      "lalura.net",
-      "planetturia.net",
-      "team.laturia.net"
-    ],
     "supported_languages": [
        "de"
     ],
