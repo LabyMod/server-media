@@ -12,7 +12,7 @@
     "social": {
       "web": "https://minicraft.cz",
       "web_shop": "https://store.minicraft.cz",
-      "web_support": "https://www.minicraft.cz/forum",
+      "web_support": "https://www.minicraft.cz/kontakt",
       "facebook": "czminicraft", 
       "instagram": "minicraft.cz",
       "tiktok": "minicraft.cz",
@@ -29,15 +29,15 @@
        "text": "#FFFFFF"
     },
     "gamemodes": {
-      "getdown": {
+      "survival": {
         "name": "Survival",
         "command": "/tpsurvival"
       },
-      "survival": {
+      "oneblock": {
         "name": "OneBlock",
         "command": "/tponeblock"
       },
-      "gungame": {
+      "skyblock": {
         "name": "SkyBlock",
         "command": "/tpskyblock"
       }
