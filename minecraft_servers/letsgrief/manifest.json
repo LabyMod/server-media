@@ -7,24 +7,23 @@
         "de"
     ],
     "social": {
-        "web": "https://web.letsgrief.net",
-        "discord": "https://discord.gg/teslaa"
+        "web": "https://letsgrief.net",
+        "web_shop": "https://store.letsgrief.net",
+        "discord": "https://discord.gg/teslaa",
+        "tiktok": "tesla_my_"
     },
     "gamemodes": {
         "citybuild": {
             "name": "CityBuild",
             "color": "#FFA500",
-            "versions": "1.17<*"
-        },
-        "survival": {
-            "name": "Survival",
-            "color": "#ADD8E6",
-            "versions": "1.17<*"
+            "command": "/join cb",
+            "versions": "1.20<*"
         },
         "skyblock": {
             "name": "SkyBlock",
             "color": "#1B6800",
-            "versions": "1.17<*"
+            "command": "/join sb",
+            "versions": "1.20<*"
         }
     }
 }
