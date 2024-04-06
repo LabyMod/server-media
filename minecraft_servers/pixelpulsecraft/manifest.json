@@ -5,17 +5,30 @@
   "server_wildcards": [
     "%.PixelPulseCraft.de"
   ],
-  "supported_languages": [
-    "de"
-  ],
   "social": {
     "twitter": "PixelPulseCraft",
     "tiktok": "pixelpulsecraft.de",
     "youtube": "https://www.youtube.com/channel/UCdIaEvVXlF9PtOiabh2UjBA"
-
   },
   "discord": {
     "server_id": 1092865877373898772,
     "rename_to_minecraft_name": false
+  },
+  "gamemodes": {
+    "CBSonne": {
+      "name": "CBSonne",
+      "color": "#55FF00",
+      "versions": "1.20<*",
+      "command": "/server CBSonne-1"
+    }
+  },
+  "brand": {
+    "primary": "#55FF00",
+    "background": "#018407",
+    "text": "#ffffff"
+  },
+  "location": {
+    "country": "Germany",
+    "country_code": "DE"
   }
 }
