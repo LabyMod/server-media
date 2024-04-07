@@ -2,9 +2,6 @@
   "server_name": "mcsucht",
   "nice_name": "MCSUCHT",
   "direct_ip": "mcsucht.de",
-  "server_wildcards": [
-    "%.mcsucht.de"
-  ],
   "supported_languages": [
     "de"
   ],
