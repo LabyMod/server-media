@@ -44,6 +44,11 @@
             "name": "Untergang",
             "color": "#0bde19",
             "command": "/gametp wu",
+        },
+        "build": {
+            "name": "BFFA",
+            "color": "#e8a507",
+            "command": "/gametp bffa",
             "versions": "1.8<1.20.4"
         },
         "bedwars": {
