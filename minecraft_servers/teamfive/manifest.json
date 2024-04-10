@@ -1,0 +1,25 @@
+{
+    "server_name": "teamfive",
+    "nice_name": "TeamFive",
+    "direct_ip": "node2.craftsblock.eu:25583",
+    "supported_languages": [
+       "de"
+    ]
+    },
+    "gamemodes": {
+      "Citybulid": {
+        "name": "Citybulid", 
+        "color": "#FFA500",
+        "versions": "1.20.4"
+      }
+    },
+    "brand": {
+       "primary": "#00A5FF",
+       "background": "#0077B7",
+       "text": "#FFFFFF"
+    }, 
+    "location": {
+       "country": "Germany",
+       "country_code": "DE"
+    }
+  }
