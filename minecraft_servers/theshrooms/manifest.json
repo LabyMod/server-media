@@ -5,8 +5,7 @@
   "server_wildcards": [
     "%.theshrooms.net",
     "%.theshrooms.de",
-    "%.theshrooms.eu",
-    "%.pilzkiste.net"
+    "%.theshrooms.eu"
   ],
   "social": {
     "web": "https://theshrooms.net",

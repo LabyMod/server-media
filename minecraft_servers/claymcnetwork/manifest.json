@@ -1,0 +1,32 @@
+{
+  "server_name": "claymc",
+  "nice_name": "ClayMC",
+  "direct_ip": "play.claymc.net",
+  "server_wildcards": [
+    "%.claymc.net"
+  ],
+  "supported_languages": [
+    "de", "en"
+  ],
+  "social": {
+    "web": "https://claymc.net",
+    "web_shop": "https://shop.claymc.net",
+    "twitter": "ClayMCNetwork",
+    "discord": "https://discord.claymc.net",
+    "teamspeak": "claymc.net",
+    "instagram": "claymcnetwork",
+    "tiktok": "claymcnetwork"
+  },
+  "discord": {
+    "server_id": 645357420775997440
+  },
+  "brand": {
+    "primary": "#ffc300",
+    "text": "#ffffff"
+  },
+  "location": {
+    "city": "Frankfurt",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}
