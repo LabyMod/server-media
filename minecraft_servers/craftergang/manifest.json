@@ -40,10 +40,10 @@
             "command": "/gametp ffa",
             "versions": "1.8<1.20.4"
         },
-        "build": {
-            "name": "BFFA",
-            "color": "#e8a507",
-            "command": "/gametp bffa",
+        "welt-untergang": {
+            "name": "Untergang",
+            "color": "#0bde19",
+            "command": "/gametp wu",
             "versions": "1.8<1.20.4"
         },
         "bedwars": {
@@ -62,12 +62,6 @@
             "name": "MLGRush",
             "color": "#de0b39",
             "command": "/gametp mlgrush",
-            "versions": "1.8<1.20.4"
-        },
-        "welt-untergang": {
-            "name": "Welt-Untergang",
-            "color": "#0bde19",
-            "command": "/gametp wu",
             "versions": "1.8<1.20.4"
         },
         "onehit": {
