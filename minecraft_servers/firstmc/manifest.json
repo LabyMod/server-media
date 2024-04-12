@@ -1,0 +1,18 @@
+{
+  "server_name": "firstmc",
+  "nice_name": "FirstMC.de",
+  "direct_ip": "firstmc.de",
+  "supported_languages": [
+    "de",
+    "en"
+  ],
+  "social": {
+    "web_shop": "https://shop.firstmc.de",
+    "tiktok": "firstmc.de",
+    "youtube": "https://www.youtube.com/@FirstMC_de",
+    "discord": "https://discord.gg/firstmc-de-minecraft-973753366326939658"
+  },
+  "discord": {
+    "server_id": 973753366326939658
+  }
+}

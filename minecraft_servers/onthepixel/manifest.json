@@ -1,0 +1,54 @@
+{
+  "server_name": "onthepixel",
+  "nice_name": "OnThePixel Network",
+  "direct_ip": "play.onthepixel.net",
+  "server_wildcards": [
+    "%.onthepixel.net"
+  ],
+  "supported_languages": [
+    "de",
+    "en"
+  ],
+  "social": {
+    "web": "https://onthepixel.net",
+    "instagram": "onthepixel_net",
+    "youtube": "https://www.youtube.com/@thebestminecraftserver",
+    "tiktok": "onthepixel",
+    "discord": "https://discord.gg/Dpx3eK9t3z",
+    "twitter": "onthepixelnet",
+    "web_support": "https://onthepixel.net/support"
+  },
+  "gamemodes": {
+    "hideandseek": {
+      "name": "Hide and Seek",
+      "command": "/hideandseek"
+    },
+    "bedwards":{
+      "name": "BedWars",
+      "command": "/bedwars"
+    },
+    "buildffa":{
+      "name": "BuildFFA",
+      "command": "/buildffa"
+    },
+    "parkour":{
+      "name": "Parkour",
+      "command": "/parkour"
+    }
+  },
+  "discord": {
+    "server_id": 1051287687233015841,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#32a840",
+    "background": "#084f10",
+    "text": "#ffffff"
+  },
+  "location": {
+    "city": "Nürnberg",
+    "country": "Germany",
+    "country_code": "DE"
+  },
+  "user_stats": "https://stats.onthepixel.net/{userName}"
+}

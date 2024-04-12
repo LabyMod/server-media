@@ -1,35 +1,45 @@
 {
     "server_name": "skydinse",
     "nice_name": "Skydinse",
-    "direct_ip": "skydinse.de",
+    "direct_ip": "skydinse.net",
     "server_wildcards": [
-      "skydinse.net",
-      "skydinse.de",
-      "skydinse.tk",
-      "dev.skydinse.net",
-      "dev.skydinse.de"
+      "%.skydinse.net",
+      "%.skydinse.de",
+      "cattack.de"
     ],
     "supported_languages": [
+      "en",
       "de",
-      "en"
+      "pt",
+      "fr",
+      "es",
+      "pl",
+      "nl",
+      "tr"
     ],
     "social": {
-        "web": "https://skydinse.de",
-        "twitter": "mc_skydinse",
-        "tiktok": "skydinse_de",
+        "web": "https://www.skydinse.net",
+        "web_support": "https://www.skydinse.net/contact",
+        "tiktok": "skydinse_net",
+        "instagram": "skydinse",
         "discord": "https://discord.gg/cdWsMjfnea",
         "youtube": "https://www.youtube.com/@skydinse"
     },
     "gamemodes": {
-      "lavarises": {
-        "name": "LavaRises",
-        "command": "/game lavarises",
-        "versions": "1.19.4<*"
+      "citybuild": {
+        "name": "CityBuild",
+        "command": "/game citybuild",
+        "versions": "1.20<*"
       },
       "blockparty": {
         "name": "BlockParty",
         "command": "/game blockparty",
         "versions": "1.17<*"
+      },
+      "lavarises": {
+        "name": "LavaRises",
+        "command": "/game lavarises",
+        "versions": "1.19.4<*"
       },
       "duels": {
         "name": "Duels",
@@ -37,13 +47,18 @@
         "versions": "1.17<*"
       },
       "murdermystery": {
-        "name": "Murder Mystery",
+        "name": "Murder",
         "command": "/game murdermystery",
         "versions": "1.17<*"
       },
       "maze": {
         "name": "Maze",
         "command": "/game maze",
+        "versions": "1.17<*"
+      },
+      "sdplace": {
+        "name": "Place",
+        "command": "/nav sdplace",
         "versions": "1.17<*"
       }
     },

@@ -1,0 +1,46 @@
+{
+  "server_name": "amuria",
+  "nice_name": "Amuria",
+  "direct_ip": "amuria.de",
+  "server_wildcards": [
+    "%.amuria.de"
+  ],
+  "supported_languages": [
+     "de"
+  ],
+  "social": {
+    "twitter": "amuria_de",
+    "tiktok": "amuria_de",
+    "youtube": "https://youtube.com/@amuriade",
+    "discord": "https://discord.gg/c59NXbx6ym",
+    "teamspeak": "amuria.de"
+  },
+  "gamemodes": {
+    "citybuildpandora": {
+      "name": "CityBuild Pandora",
+      "color": "#FFFFFF"
+    },
+    "citybuildnaboo": {
+      "name": "CityBuild Naboo",
+      "color": "#FFFFFF"
+    },
+    "creative": {
+      "name": "Creative",
+      "color": "#0095B0"
+    }
+  },
+  "discord": {
+    "server_id": 1015691786850672660,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#818181",
+    "background": "#ffffff",
+    "text": "#000000"
+  },
+  "location": {
+     "city": "Frankfurt",
+     "country": "Germany",
+     "country_code": "DE"
+   }
+}

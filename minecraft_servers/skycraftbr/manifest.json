@@ -1,0 +1,51 @@
+{
+    "server_name": "skycraftbr",
+    "nice_name": "SkyCraft Network",
+    "direct_ip": "original.skycraft.com.br",
+    "server_wildcards": [
+      "%.skycraft.com.br",
+      "%.skycraft.network",
+      "%.skycraft.games"
+    ],
+    "supported_languages": [
+       "pt"
+    ],
+    "social": {
+      "twitter": "NetworkSkycraft",
+      "tiktok": "NetworkSkycraft",
+      "facebook": "NetworkSkycraft",
+      "instagram": "networkskycraft",
+      "discord": "https://discord.gg/skycraft",
+      "youtube": "https://www.youtube.com/@SkyCraftOficial"
+    },
+    "gamemodes": {
+      "jumpworld": {
+        "name": "BedWars", 
+        "color": "#b52d2d",
+        "command": "/jogar bedwars",
+        "versions": "1.20<*"
+      },
+      "dna": {
+        "name": "EscondeEsconde",
+        "color": "#67f24b",
+        "command": "/jogar escesc",
+        "versions": "1.20<*"
+      }
+    },
+    "discord": {
+      "server_id": 1026980918403018773,
+      "rename_to_minecraft_name": false
+    },
+    "brand": {
+       "primary": "#e09500",
+       "background": "#168891",
+       "text": "#FFFFFF"
+    }, 
+    "location": {
+       "city": "Sao Paulo",
+       "country": "Brazil",
+       "country_code": "BR"
+    },
+    "yt_trailer": "WhITZG25Go8",
+    "command_delay": 3000
+  }

@@ -1,0 +1,54 @@
+{
+  "server_name": "minespazio",
+  "nice_name": "MineSpazio Network",
+  "direct_ip": "minespazio.com",
+  "server_wildcards": [
+    "%.minespazio.com",
+    "%.minespazio.es",
+    "%.minespazio.net"
+  ],
+  "supported_languages": [
+    "es"
+  ],
+  "gamemodes": {
+    "oneblock": {
+      "name": "OneBlock",
+      "color": "#9000B4"
+    },
+    "survivalcustom": {
+      "name": "Survival Custom",
+      "color": "#F11A00"
+    },
+    "survival": {
+      "name": "Survival OP",
+      "color": "#EAF100"
+    },
+    "boxpvp": {
+      "name": "BoxPvP",
+      "color": "#A400F1"
+    },
+    "skywars": {
+      "name": "SkyWars",
+      "color": "#00A1F1"
+    },
+    "bedwars": {
+      "name": "BedWars",
+      "color": "#EDF100"
+    }
+  },
+  "social": {
+    "web_shop": "https://tienda.minespazio.com",
+    "twitter": "MineSpazioNT",
+    "discord": "https://discord.minespazio.com",
+    "instagram": "minespazio_oficial"
+  },
+  "discord": {
+    "server_id": 845422605157924886,
+    "rename_to_minecraft_name": false
+  },
+  "location": {
+    "city": "Canarias",
+    "country": "Spain",
+    "country_code": "ES"
+  }
+}

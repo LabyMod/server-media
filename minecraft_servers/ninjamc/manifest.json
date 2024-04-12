@@ -1,0 +1,31 @@
+{
+  "server_name": "ninjamc",
+  "nice_name": "ninjamc",
+  "direct_ip": "ninjamc.net",
+  "server_wildcards": [
+    "%.ninjamc.net"
+  ],
+  "supported_languages": [
+     "de"
+  ],
+  "social": {
+		"tiktok": "NinjaMC.net",
+		"discord": "https://discord.gg/uhPfMuSHMp",
+		"teamspeak": "ts.ninjamc.net"
+  },
+  "gamemodes": {
+	"citybuild": {
+	 "name": "CityBuild", 
+	 "color": "#FFA500",
+	 "command": "/server cb-1"
+	}
+  },
+  "brand": {
+		  "primary": "#c4c4c4"
+  },
+  "location": {
+     "city": "Walldorf",
+     "country": "Germany",
+     "country_code": "DE"
+  }
+}
