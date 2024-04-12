@@ -1,9 +1,11 @@
 {
   "server_name":"legendnation",
   "nice_name":"LegendNation",
-  "direct_ip":"LegendNation.gg",
+  "direct_ip":"LegendNation.net",
   "server_wildcards":[
-    "%.legendnation.gg"
+    "%.legendnation.gg",
+    "%.legendnation.net",
+    "ln.legendcraft.de"
   ],
   "supported_languages":[
     "de",
