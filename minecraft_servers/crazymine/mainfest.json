@@ -1,0 +1,61 @@
+{
+  "server_name": "crazymine",
+  "nice_name": "CrazyMine",
+  "direct_ip": "crazymine.de",
+  "server_wildcards": [
+    "%.laby.net"
+  ],
+  "supported_languages": [
+     "de"
+  ],
+  "social": {
+    "web": "https://web.crazymine.de",
+    "web_shop": "-",
+    "web_support": "https://web.crazymin.de/support",
+    "twitter": "-",
+    "tiktok": "-",
+    "facebook": "-",
+    "instagram": "-",
+    "discord": "https://discord.com/invite/HPdCPjyrE6",
+    "youtube": "https://www.youtube.com/@CrazyMineMC",
+    "teamspeak": "-"
+  },
+  "gamemodes": {
+    "Lobby": {
+      "name": "Citybuild", 
+      "color": "#FFA500",
+      "url": "https://web.crazymine.de/citybuild",
+      "command": "/citybuild",
+      "versions": "1.20.4"
+    },
+    "dna": {
+      "name": "DNA",
+      "color": "#ADD8E6",
+      "url": "https://web.crazymine.de/boxpvp",
+      "command": "/boxpvp",
+      "versions": "1.20.4"
+    }
+  },
+  "chat": {
+    "message_formats": [
+      "^§[a-f0-9](?<level>\\d+)( \\||§8 \\|) §[a-f0-9](?<sender>[a-zA-Z0-9_]{2,16})§r§7: §f(?<message>.*)$"
+    ]
+  },
+  "discord": {
+    "server_id": 1182216068824039504,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#008FE8",
+     "background": "#0A56A5",
+     "text": "#FFFFFF"
+  }, 
+  "location": {
+     "city": "Walldorf",
+     "country": "Germany",
+     "country_code": "DE"
+  },
+  "yt_trailer": "-",
+  "user_stats": "https://laby.net/@{userName}",
+  "command_delay": 3000
+}
