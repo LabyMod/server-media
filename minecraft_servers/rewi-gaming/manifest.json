@@ -1,0 +1,24 @@
+{
+  "server_name": "rewi-gaming",
+  "nice_name": "Rewi-Gaming.de",
+  "direct_ip": "rewi-gaming.de",
+  "server_wildcards": [
+    "mc.rewi-gaming.de",
+    "event.rewi-gaming.de"
+  ],
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "web": "https://rewi-gaming.de",
+    "discord": "https://discord.gg/aky84hDGJ8"
+  },
+  "discord": {
+    "server_id": 501777537005912065
+  },
+  "brand": {
+    "primary": "#ff8800",
+    "background": "#ff8800",
+    "text": "#ffffff"
+  }
+}
