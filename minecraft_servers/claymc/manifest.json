@@ -1,22 +1,17 @@
 {
   "server_name": "claymc",
   "nice_name": "ClayMC",
-  "direct_ip": "mc.claymc.net",
+  "direct_ip": "play.claymc.net",
   "server_wildcards": [
-    "%.claymc.net",
-    "cactuscanyon.net",
-    "mc.clueserv.de",
-    "kuschelstube.net",
-    "qsgstube.de"
+    "%.claymc.net"
   ],
   "supported_languages": [
     "de", "en"
   ],
   "social": {
     "web": "https://www.claymc.net",
-    "web_shop": "https://shop.claymc.net",
     "twitter": "ClayMCNetwork",
-    "discord": "https://discord.claymc.net",
+    "discord": "https://discord.gg/zHQacxz4F7",
     "teamspeak": "claymc.net",
     "instagram": "claymcnetwork",
     "tiktok": "claymcnetwork"
