@@ -2,6 +2,13 @@
   "server_name": "eindino",
   "nice_name": "einDino",
   "direct_ip": "play.eindino.net",
+  "server_wildcards": [
+    "%.eindino.net",
+    "%.eindino.de",
+    "%.eindino.eu",
+    "%.magicalsmp.de",
+    "%.gamingcode.dev"
+  ],
   "supported_languages": [
     "de",
     "en"
