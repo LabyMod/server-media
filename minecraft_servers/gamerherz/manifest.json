@@ -2,15 +2,13 @@
   "server_name": "gamerherz",
   "nice_name": "Gamerherz.eu",
   "direct_ip": "Gamerherz.eu",
-  "server_wildcards": [
-    "%.gamerherz.eu"
-  ],
+
   "supported_languages": [
-     "de",
-     "en"
+     "de"
   ],
   "social": {
-    "web": "https://www.gamerherz.eu/",
+    "web": "https://gamerherz.eu",
+    "web_support": "https://gamerherz.eu/contact.html
     "twitter": "Gamerherz.eu",
     "tiktok": "Gamerherz.eu",
     "discord": "https://discord.gg/Z3rrqYSpUE",
@@ -23,17 +21,17 @@
       "versions": "1.8<*"
     },
     "duels 1.8": {
-      "name": "Schach", 
+      "name": "Duels 1.8", 
       "command": "/quickjoin Duels_8-1",
       "versions": "1.8<*"
     },
-    "duels 1.16": {
-      "name": "Duels 1.16", 
+    "duels 1.20": {
+      "name": "Duels 1.20", 
       "command": "/quickjoin Duels_16-1",
       "versions": "1.16<*"
     },
     "schach": {
-      "name": "Duels 1.8",
+      "name": "Schach",
       "command": "/quickjoin Schach-1",
       "versions": "1.8<*"
     }
