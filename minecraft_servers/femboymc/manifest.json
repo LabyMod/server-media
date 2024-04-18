@@ -3,14 +3,13 @@
   "nice_name": "FemBoyMC",
   "direct_ip": "mc.femboy.gmbh",
   "server_wildcards": [
-    "%.femboy.gmbh"
+    ""
   ],
   "supported_languages": [
      "de"
      "en",
   ],
   "social": {
-    "web": "https://femboy.gmbh",
     "discord": "https://discord.gg/pfKgrarhMK",
   },
   "gamemodes": {
