@@ -15,7 +15,7 @@
             "color": "#FF00000",
             "versions": "1.17<*"
         },
-        "CityBuild": {
+        "citybuild": {
             "name": "CityBuild",
             "color": "#FF00000",
             "versions": "1.17<*"
