@@ -17,6 +17,7 @@
       "name": "SMP", 
       "color": "#FF00000",
       "versions": "1.17<*"
+    }
   },
   "gamemodes": {
     "CityBuild": {
