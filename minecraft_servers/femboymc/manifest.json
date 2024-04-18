@@ -13,7 +13,7 @@
         "discord": "https://discord.gg/pfKgrarhMK"
     },
     "gamemodes": {
-        "SMP": {
+        "smp": {
             "name": "SMP",
             "color": "#FF00000",
             "versions": "1.17<*"
