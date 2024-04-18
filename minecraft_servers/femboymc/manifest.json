@@ -15,7 +15,7 @@
   "gamemodes": {
     "SMP": {
       "name": "SMP", 
-      "color": "#FF00000,
+      "color": "#FF00000",
       "versions": "1.17<*"
   },
   "gamemodes": {
