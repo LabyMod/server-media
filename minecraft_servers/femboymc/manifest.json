@@ -1,34 +1,33 @@
+
+Save New Duplicate & Edit Just Text Twitter
 {
-  "server_name": "FemBoy",
-  "nice_name": "FemBoyMC",
-  "direct_ip": "mc.femboy.gmbh",
-  "server_wildcards": [
-    ""
-  ],
-  "supported_languages": [
-     "de",
-     "en"
-  ],
-  "social": {
-    "discord": "https://discord.gg/pfKgrarhMK",
-  },
-  "gamemodes": {
-    "SMP": {
-      "name": "SMP", 
-      "color": "#FF00000",
-      "versions": "1.17<*"
+    "server_name": "FemBoy",
+    "nice_name": "FemBoyMC",
+    "direct_ip": "mc.femboy.gmbh",
+    "server_wildcards": [
+        ""
+    ],
+    "supported_languages": [
+        "de",
+        "en"
+    ],
+    "social": {
+        "discord": "https://discord.gg/pfKgrarhMK"
+    },
+    "gamemodes": {
+        "SMP": {
+            "name": "SMP",
+            "color": "#FF00000",
+            "versions": "1.17<*"
+        },
+        "CityBuild": {
+            "name": "CityBuild",
+            "color": "#FF00000",
+            "versions": "1.17<*"
+        }
+    },
+    "discord": {
+        "server_id": 1229059627174592500,
+        "rename_to_minecraft_name": false
     }
-  },
-  "gamemodes": {
-    "CityBuild": {
-      "name": "CityBuild", 
-      "color": "#FF00000",
-      "versions": "1.17<*"
-    }
-  },
-  "discord": {
-    "server_id": 1229059627174592512,
-    "rename_to_minecraft_name": false
-  }
-}
 }
