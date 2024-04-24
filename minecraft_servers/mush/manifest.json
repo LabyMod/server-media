@@ -4,7 +4,8 @@
   "direct_ip": "jogar.mush.com.br",
   "server_wildcards": [
     "%.mush.com.br",
-    "%.mushmc.com"
+    "%.mushmc.com",
+    "%.muu.sh"
   ],
   "supported_languages": [
     "pt"
@@ -14,7 +15,7 @@
     "web_shop": "https://mush.com.br/loja",
     "web_support": "https://mush.com.br/r/ajuda",
     "twitter": "MushMC_",
-    "tiktok": "MushMC_",
+    "tiktok": "mush.games",
     "facebook": "MushMCNetwork",
     "instagram": "mush.games",
     "discord": "https://discord.gg/mush",
