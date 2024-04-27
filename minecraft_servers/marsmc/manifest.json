@@ -2,14 +2,13 @@
   "server_name": "marsmc",
   "nice_name": "MarsMC",
   "direct_ip": "marsmc.net",
-   "server_wildcards":[
-     "play.marsmc.net",
-     "premium.marsmc.net",
+  "server_wildcards": [
      "%.marsmc.net"
   ],
   "social": {
-    "web_shop": "store.marsmc.net",
-    "discord": "https://discord.gg/MarsMC",
+    "web_shop": "https://store.marsmc.net",
+    "youtube": "https://www.youtube.com/@PlayMarsMC",
+    "discord": "https://discord.gg/MarsMC"
   },
   "brand": {
      "primary": "#ffc100",
