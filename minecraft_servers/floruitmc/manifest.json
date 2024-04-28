@@ -1,0 +1,11 @@
+{
+  "server_name": "floruitmc",
+  "nice_name": "Floruit MC",
+  "direct_ip": "floruitmc.com",
+  "supported_languages": [
+     "pt"
+  ],
+  "social": {
+    "discord": "https://discord.gg/kGrUnWB3Dy"
+  }
+}
