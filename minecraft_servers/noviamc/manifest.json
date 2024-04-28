@@ -3,7 +3,7 @@
   "nice_name": "NoviaMC",
   "direct_ip": "NoviaMC.de",
   "server_wildcards": [
-    "%.noviamc.de"
+    "noviamc.de"
   ],
   "social": {
     "twitter": "noviamcde",
