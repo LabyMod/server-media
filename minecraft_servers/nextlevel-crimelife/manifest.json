@@ -1,0 +1,26 @@
+{
+  "server_name": "nextlevel-crimelife",
+  "nice_name": "Nextlevel-Crimelife",
+  "direct_ip": "nextlevel-crimelife.net",
+  "server_wildcards": [
+    "%.nextlevel-crimelife.net"
+  ],
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "teamspeak": "nextlevel-crimelife.net",
+    "tiktok": "MCNextlevelCrimelife",
+    "youtube": "https://www.youtube.com/@Nextlevel-Crimelife",
+    "discord": "https://discord.gg/BRBSwY36gC"
+  },
+  "discord": {
+    "server_id": 1197689893535617064,
+    "rename_to_minecraft_name": false
+  },
+  "location": {
+    "city": "Berlin",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}
