@@ -1,0 +1,21 @@
+{
+  "server_name": "Lmcraft",
+  "nice_name": "Lmcraft",
+  "direct_ip": "Lmcraft.de",
+  "server_wildcards": [
+    "%.Lmcraft.de"
+  ],
+  "social": {
+    "web": "https://Lmcraft.de",
+    "web_shop": "https://shop.Lmcraft.de/",
+    "discord": "https://discord.com/invite/uuVzuyckQb"
+  },
+  "discord": {
+    "server_id": 1129055437669548114,
+    "rename_to_minecraft_name": false
+  },
+  "location": {
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}
