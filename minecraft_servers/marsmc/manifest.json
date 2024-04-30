@@ -13,7 +13,55 @@
   "social": {
     "web_shop": "https://store.marsmc.net",
     "youtube": "https://www.youtube.com/@PlayMarsMC",
+    "twitter": "playmarsmc",
     "discord": "https://discord.gg/MarsMC"
+  },
+  "gamemodes": {
+    "superpvp": {
+      "name": "SuperPvP", 
+      "color": "#FFFFFF",
+      "versions": "1.8<*"
+    },
+    "sg": {
+      "name": "SurvivalGames", 
+      "color": "#FFFFFF",
+      "versions": "1.8<*"
+    },
+    "partypvp": {
+      "name": "PartyPvP", 
+      "color": "#FFFFFF",
+      "versions": "1.8<*"
+    },
+    "1vs1": {
+      "name": "1vs1",
+      "color": "#FFFFFF",
+      "versions": "1.8<*"
+    },
+    "skypvp": {
+      "name": "SkyPvP",
+      "color": "#FFFFFF",
+      "versions": "1.8<*"
+    },
+    "timv": {
+      "name": "TIMV",
+      "color": "#FFFFFF",
+      "versions": "1.8<*"
+    },
+    "creative": {
+      "name": "Creative",
+      "color": "#FFFFFF",
+      "versions": "1.8<*"
+    },
+    "dragonescape": {
+      "name": "DragonEscape",
+      "color": "#FFFFFF",
+      "versions": "1.8<*"
+    },
+    "events": {
+      "name": "Events",
+      "color": "#FFFFFF",
+      "versions": "1.8<*"
+    }
   },
   "brand": {
      "primary": "#ffc100",
