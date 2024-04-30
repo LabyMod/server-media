@@ -1,0 +1,28 @@
+{
+  "server_name": "marsmc",
+  "nice_name": "MarsMC",
+  "direct_ip": "marsmc.net",
+  "server_wildcards": [
+     "%.marsmc.net"
+  ],
+  "supported_languages": [
+     "ar",
+     "en",
+     "de"
+  ],
+  "social": {
+    "web_shop": "https://store.marsmc.net",
+    "youtube": "https://www.youtube.com/@PlayMarsMC",
+    "discord": "https://discord.gg/MarsMC"
+  },
+  "brand": {
+     "primary": "#ffc100",
+     "background": "#0c0600"
+  },
+  "location": {
+     "city": "Riyadh",
+     "country": "Saudi Arabia",
+     "country_code": "SA"
+  },
+  "yt_trailer": "-oZlcake_44"
+}
