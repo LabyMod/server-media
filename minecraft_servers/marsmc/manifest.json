@@ -5,14 +5,25 @@
   "server_wildcards": [
      "%.marsmc.net"
   ],
+  "supported_languages": [
+    "ar",
+    "en",
+	  "de"
+  ],
   "social": {
     "web_shop": "https://store.marsmc.net",
+    "web_support": "https://discord.gg/marsmc",
     "youtube": "https://www.youtube.com/@PlayMarsMC",
     "discord": "https://discord.gg/MarsMC"
   },
   "brand": {
      "primary": "#ffc100",
      "background": "#0c0600"
+  },
+  "location": {
+     "city": "Riyadh",
+     "country": "Saudi Arabia",
+     "country_code": "SA"
   },
   "yt_trailer": "-oZlcake_44"
 }
