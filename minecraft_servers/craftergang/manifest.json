@@ -16,71 +16,71 @@
         "instagram": "craftergang"
     },
     "gamemodes": {
-        "crafterplace": {
-            "name": "Crafterplace",
-            "color": "#b8f0e9",
-            "command": "/gametp cp",
-            "versions": "1.12<1.20.4"
-        },
-        "cbdesert": {
-            "name": "CB Desert",
-            "color": "#0d6914",
-            "command": "/gametp cb1",
-            "versions": "1.8<1.20.4"
-        },
-        "cbwater": {
-            "name": "CB Water",
-            "color": "#13c7eb",
-            "command": "/gametp cb2",
-            "versions": "1.8<1.20.4"
-        },
-        "ffa": {
-            "name": "FFA",
-            "color": "#ed0c26",
-            "command": "/gametp ffa",
-            "versions": "1.8<1.20.4"
+        "crafterbreak": {
+            "name": "Crafterbreak",
+            "color": "07F0E0",
+            "command": "/gametp crafterbreak",
+            "versions": "1.8<1.20.6"
         },
         "welt-untergang": {
             "name": "Untergang",
             "color": "#0bde19",
             "command": "/gametp wu",
-            "versions": "1.8<1.20.4"
+            "versions": "1.8<1.20.6"
+        },
+        "cbdesert": {
+            "name": "CB Desert",
+            "color": "#0d6914",
+            "command": "/gametp cb1",
+            "versions": "1.8<1.20.6"
+        },
+        "cbwater": {
+            "name": "CB Water",
+            "color": "#13c7eb",
+            "command": "/gametp cb2",
+            "versions": "1.8<1.20.6"
+        },
+        "ffa": {
+            "name": "FFA",
+            "color": "#ed0c26",
+            "command": "/gametp ffa",
+            "versions": "1.8<1.20.6"
         },
         "bedwars": {
             "name": "BW",
             "color": "#e3bcc1",
             "command": "/gametp bw",
-            "versions": "1.8<1.20.4"
+            "versions": "1.8<1.20.6"
         },
         "gungame": {
             "name": "GunGame",
             "color": "#FBB300",
             "command": "/gametp gungame",
-            "versions": "1.8<1.20.4"
+            "versions": "1.8<1.20.6"
         },
         "mlgrush": {
             "name": "MLGRush",
             "color": "#de0b39",
             "command": "/gametp mlgrush",
-            "versions": "1.8<1.20.4"
+            "versions": "1.8<1.20.6"
         },
         "onehit": {
             "name": "OneHit",
             "color": "#f705ab",
             "command": "/gametp onehit",
-            "versions": "1.8<1.20.4"
+            "versions": "1.8<1.20.6"
         },
         "skypvp": {
             "name": "SkyPvP",
             "color": "#f7df05",
             "command": "/gametp spvp",
-            "versions": "1.8<1.20.4"
+            "versions": "1.8<1.20.6"
         },
         "survival": {
             "name": "Survival",
             "color": "#0d6914",
             "command": "/gametp survive",
-            "versions": "1.14<1.20.4"
+            "versions": "1.14<1.20.6"
         }
     },
     "discord": {
