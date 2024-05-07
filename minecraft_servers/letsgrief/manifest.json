@@ -13,16 +13,10 @@
         "tiktok": "tesla_my_"
     },
     "gamemodes": {
-        "citybuild": {
-            "name": "CityBuild",
+        "citybuild-1": {
+            "name": "CityBuild-1",
             "color": "#FFA500",
-            "command": "/join cb",
-            "versions": "1.20<*"
-        },
-        "skyblock": {
-            "name": "SkyBlock",
-            "color": "#1B6800",
-            "command": "/join sb",
+            "command": "/join cb1",
             "versions": "1.20<*"
         }
     }
