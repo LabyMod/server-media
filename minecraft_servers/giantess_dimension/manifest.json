@@ -1,0 +1,21 @@
+{
+  "server_name": "giantess_dimension",
+  "nice_name": "Giantess Dimension",
+  "direct_ip": "giantesselsie.g-portal.game",
+  "supported_languages": [
+     "en"
+  ],
+  "social": {
+    "web": "https://giantesselsie.net",
+    "twitter": "LabyMod",
+    "facebook": "LabyMod",
+    "discord": "https://discord.gg/labymod",
+  },
+  "discord": {
+    "server_id": 1091972956973969488,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#FF0000",
+     "background": "#C90076",
+     "text": "#FFFFFF"
