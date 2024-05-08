@@ -9,7 +9,7 @@
     "web": "https://giantesselsie.net",
     "twitter": "GTSDimension",
     "facebook": "GiantessDimension",
-    "discord": "https://discord.gg/giantessdimension",
+    "discord": "https://discord.gg/giantessdimension"
   },
   "discord": {
     "server_id": 1091972956973969488,
@@ -18,4 +18,4 @@
   "brand": {
      "primary": "#FF0000",
      "background": "#C90076",
-     "text": "#FFFFFF"
+     "text": "#FFFFFF"}}
