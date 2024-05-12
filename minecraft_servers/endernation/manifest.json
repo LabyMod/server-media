@@ -16,17 +16,17 @@
   "gamemodes": {
     "EnderGuns": {
       "name": "EnderGuns",
-      "url": "https://www.gommehd.net/game/EnderGuns",
+      "url": "https://www.endernation.net/game/EnderGuns",
       "command": "/gameteleport eg"
     },
     "EndOfLife": {
       "name": "EndOfLife",
-      "url": "https://www.gommehd.net/game/EndOfLife",
+      "url": "https://www.endernation.net/game/EndOfLife",
       "command": "/gameteleport eol"
     },
     "EnderNation-Community": {
       "name": "EnderNation-Community",
-      "url": "https://www.gommehd.net/game/Community",
+      "url": "https://www.endernation.net/game/Community",
       "command": "/gameteleport enc"
     }
   },
