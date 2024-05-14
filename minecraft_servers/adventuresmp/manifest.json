@@ -9,8 +9,8 @@
     },
     "gamemodes": {
         "survival": {
-        "name": "Survival", 
-        "color": "#48E863"
+            "name": "Survival", 
+            "color": "#48E863"
         }
     },
     "discord": {
