@@ -2,7 +2,9 @@
     "server_name": "adventuresmp",
     "nice_name": "AdventureSMP",
     "direct_ip": "adventuresmp.de",
-    "supported_languages": ["de"],
+    "supported_languages": [
+        "de"
+    ],
     "social": {
         "web_shop": "https://shop.adventuresmp.de",
         "discord": "https://discord.gg/E7EWKugWXR"
