@@ -1,0 +1,26 @@
+{
+    "server_name": "adventuresmp",
+    "nice_name": "AdventureSMP",
+    "direct_ip": "adventuresmp.de",
+    "supported_languages": [
+        "de"
+    ],
+    "social": {
+        "discord": "https://discord.gg/E7EWKugWXR"
+    },
+    "gamemodes": {
+        "survival": {
+            "name": "Survival", 
+            "color": "#48E863"
+        }
+    },
+    "discord": {
+        "server_id": 1238427052688937030,
+        "rename_to_minecraft_name": false
+    },
+    "location": {
+        "city": "Frankfurt",
+        "country": "Germany",
+        "country_code": "DE"
+    }
+}
