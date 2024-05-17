@@ -3,28 +3,24 @@
     "nice_name": "UnyCraftNET",
     "direct_ip": "unycraft.net",
     "social": {
-        "web": "https://unycraft.net",
         "discord": "https://discord.gg/2QVV8XxrrE"
     },
     "gamemodes": {
         "survival": {
             "name": "Survival",
             "color": "#122DDE",
-            "url": "https://unycraft.net/games#survival",
             "command": "/quickjoin survival",
             "versions": "1.20<*"
         },
         "smash": {
             "name": "SMASH",
             "color": "#ADD8E6",
-            "url": "https://unycraft.net/games#smash",
             "command": "/quickjoin smash",
             "versions": "1.20<*"
         },
         "murder": {
             "name": "Secret Murder",
             "color": "#ADD8E6",
-            "url": "https://unycraft.net/games#murder",
             "command": "/quickjoin murder",
             "versions": "1.20<*"
         }
