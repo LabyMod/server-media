@@ -8,29 +8,25 @@
   ],
   "gamemodes": {
     "rankup": {
-      "name": "Rank UP", 
+      "name": "Rank UP",
       "color": "#FFFFFF"
-    },
-	"prison": {
-      "name": "Prison", 
-      "color": "#FFFFFF"
-    },	
+    }
   },
   "social": {
     "discord": "https://discord.gg/6j3jJSWP",
-    "web_shop": "https://loja.redewinter.com",
+    "web_shop": "https://loja.redewinter.com"
   },
-  "discord": {
+  "discord": {  
     "server_id": 1115069301230157914,
     "rename_to_minecraft_name": false
   },
   "brand": {
-     "primary": "#A0D1E5",
-     "background": "#5F9BA1",
-     "text": "#FFFFFF"
+    "primary": "#A0D1E5",
+    "background": "#5F9BA1",
+    "text": "#FFFFFF"
   },
   "location": {
     "country": "Brazil",
     "country_code": "BR"
- }
+  }
 }
