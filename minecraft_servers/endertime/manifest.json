@@ -1,7 +1,7 @@
 {
    "server_name":"endertime",
    "nice_name":"EnderTime",
-   "direct_ip":"ENDERTIME.NET",
+   "direct_ip":"endertime.net",
    "supported_languages":[
       "en",
       "de"
