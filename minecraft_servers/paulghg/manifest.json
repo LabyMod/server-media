@@ -2,10 +2,8 @@
   "server_name": "PaulGHG.de",
   "nice_name": "PaulGHG.de",
   "direct_ip": "PaulGHG.de",
-  "server_wildcards": [],
   "supported_languages": [
     "de",
-
   ],
   "social": {
     "discord": "https://discord.gg/UDSrVUzdVj",
