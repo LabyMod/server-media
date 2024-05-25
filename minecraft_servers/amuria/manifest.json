@@ -16,17 +16,9 @@
     "teamspeak": "amuria.de"
   },
   "gamemodes": {
-    "citybuildpandora": {
-      "name": "CityBuild Pandora",
-      "color": "#FFFFFF"
-    },
     "citybuildnaboo": {
       "name": "CityBuild Naboo",
       "color": "#FFFFFF"
-    },
-    "creative": {
-      "name": "Creative",
-      "color": "#0095B0"
     }
   },
   "discord": {

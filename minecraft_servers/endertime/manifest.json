@@ -13,7 +13,9 @@
       "tiktok":"endertimenetwork",
       "discord":"https://discord.gg/G3qr5dpadU",
       "youtube":"https://www.youtube.com/channel/UCEhzB2xkBtEPaIjD1LpxGpA",
-      "teamspeak":"endertime.net"
+      "teamspeak":"endertime.net",
+      "web":"https://endertime.net",
+      "web_support":"https://endertime.net/SUPPORT"
    },
    "discord":{
       "server_id":1104040356204523641,
