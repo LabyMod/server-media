@@ -3,8 +3,7 @@
   "nice_name": "Rede Winter",
   "direct_ip": "redewinter.com",
   "supported_languages": [
-    "pt-BR",
-    "pt-PT"
+    "pt"
   ],
   "gamemodes": {
     "rankup": {
