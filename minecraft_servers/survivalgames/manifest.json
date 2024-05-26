@@ -1,35 +1,104 @@
 {
-  "server_name": "survivalgames",
-  "nice_name": "SurvivalGames",
-  "direct_ip": "mc.survival-games.cz",
-  "server_wildcards": [
-    "%.survival-games.cz",
-    "%.survivalgames.eu"
-  ],
-  "supported_languages": [
-     "cs",
-     "sk",
-     "en"
-  ],
-  "social": {
-    "web": "https://survival-games.cz",
-    "web_shop": "https://store.survival-games.cz",
-    "web_support": "https://survival-games.cz/faq",
-    "facebook": "CZSurvivalGames", 
-    "instagram": "survival.games.cz",
-    "youtube": "https://www.youtube.com/@SurvivalGamesCZE",
-    "discord": "https://discord.com/invite/ZvK9g2WaVs",
-    "teamspeak": "survival-games.cz",
-    "tiktok": "survivalgamescz"
-  },
-  "discord": {
-    "server_id": 694511728691511347,
-    "rename_to_minecraft_name": false
-  },
-  "brand": {
-     "primary": "#368024",
-     "background": "#3c3d3c",
-     "text": "#FFFFFF"
-  },
-  "yt_trailer": "jNkdxxMugTs"
+   "server_name": "survivalgames",
+   "nice_name": "SurvivalGames",
+   "direct_ip": "play.survival-games.cz",
+   "server_wildcards": [
+      "%.survival-games.cz",
+      "%.survivalgames.eu",
+      "survival-games.cz",
+      "survivalgames.eu"
+   ],
+   "supported_languages": [
+      "cs",
+      "sk",
+      "en"
+   ],
+   "social": {
+      "web": "https://survival-games.cz",
+      "web_shop": "https://store.survival-games.cz",
+      "web_support": "https://survival-games.cz/faq",
+      "facebook": "CZSurvivalGames",
+      "instagram": "survival.games.cz",
+      "youtube": "https://www.youtube.com/@SurvivalGamesCZE",
+      "discord": "https://discord.com/invite/ZvK9g2WaVs",
+      "teamspeak": "survival-games.cz",
+      "tiktok": "survivalgamescz"
+   },
+   "gamemodes": {
+      "thepit": {
+         "name": "The Pit",
+         "color": "#542c03"
+      },
+      "bedwars": {
+         "name": "BedWars",
+         "color": "#8a2222"
+      },
+      "eggwars": {
+         "name": "EggWars",
+         "color": "#1c1919"
+      },
+      "skywars": {
+         "name": "SkyWars",
+         "color": "#784f0a"
+      },
+      "uhcrun": {
+         "name": "UHC Run",
+         "color": "#5f2a69"
+      },
+      "annihilation": {
+         "name": "Annihilation",
+         "color": "#9c6933"
+      },
+      "microbattle": {
+         "name": "Micro Battle",
+         "color": "#215215"
+      },
+      "partygames": {
+         "name": "PartyGames",
+         "color": "#82196d"
+      },
+      "risinglava": {
+         "name": "Rising Lava",
+         "color": "#b33b00"
+      },
+      "duels": {
+         "name": "Duels",
+         "color": "#37227a"
+      },
+      "buildbattle": {
+         "name": "Build Battle",
+         "color": "#c2ad27"
+      },
+      "bridgebuilders": {
+         "name": "Bridge Builders",
+         "color": "#332003"
+      },
+      "hideandseek": {
+         "name": "Hide and Seek",
+         "color": "#3e5f8a"
+      },
+      "palermotown": {
+         "name": "Palermo Town",
+         "color": "#521e38"
+      },
+      "dragons": {
+         "name": "Dragons",
+         "color": "#212121"
+      }
+   },
+   "discord": {
+      "server_id": 694511728691511347,
+      "rename_to_minecraft_name": false
+   },
+   "brand": {
+      "primary": "#368024",
+      "background": "#3c3d3c",
+      "text": "#FFFFFF"
+   },
+   "location": {
+      "city": "Prague",
+      "country": "Czechia",
+      "country_code": "CZ"
+   },
+   "yt_trailer": "jNkdxxMugTs"
 }
