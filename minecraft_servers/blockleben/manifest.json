@@ -14,25 +14,10 @@
     "discord": "https://discord.gg/2dveXu4eaf"
   },
   "gamemodes": {
-    "citybuild": {
-      "name": "CityBuild",
+    "skywars": {
+      "name": "SkyWars",
       "color": "#ffa800",
-      "command": "/citybuild"
-    },
-    "skypvp":{
-      "name": "SkyPvP",
-      "color": "#ffa800",
-      "command": "/skypvp"
-    },
-    "buildffa": {
-      "name": "BuildFFA",
-      "color": "#ffa800",
-      "command": "/buildffa"
-    },
-    "mlgrush":{
-      "name": "MLG-Rush",
-      "color": "#ffa800",
-      "command": "/mlgrush"
+      "command": "/skywars"
     },
     "bedwars":{
       "name": "Bedwars",
@@ -43,6 +28,26 @@
       "name": "BuildBattle",
       "color": "#ffa800",
       "command": "/buildbattle"
+    },
+    "citybuild": {
+      "name": "CityBuild",
+      "color": "#ffa800",
+      "command": "/citybuild"
+    },
+    "bffa": {
+      "name": "BFFA",
+      "color": "#ffa800",
+      "command": "/buildffa"
+    },
+    "mlgrush":{
+      "name": "MLG Rush",
+      "color": "#ffa800",
+      "command": "/mlgrush"
+    },
+    "uhc":{
+      "name": "UHC",
+      "color": "#ffa800",
+      "command": "/uhc"
     }
   },
   "discord": {

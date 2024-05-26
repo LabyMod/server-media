@@ -1,0 +1,29 @@
+{
+  "server_name": "cubehub",
+  "nice_name": "CubeHub",
+  "direct_ip": "CubeHub.dk",
+  "server_wildcards": [
+    "%.cubehub.dk"
+  ],
+  "supported_languages": [
+    "dk"
+  ],
+  "social": {
+    "web": "https://cubehub.dk",
+    "web_shop": "https://butik.cubehub.dk",
+    "discord": "https://discord.gg/jRQ3b7k6g5"
+  },
+  "discord": {
+    "server_id": 1172666524876689408
+  },
+  "brand": {
+    "primary": "#0084ff",
+    "background": "#0084ff",
+    "text": "#ffffff"
+  },
+  "location": {
+    "city": "Frankfurt",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}
