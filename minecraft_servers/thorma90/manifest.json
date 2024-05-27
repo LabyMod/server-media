@@ -2,6 +2,9 @@
     "servername": "thorma90",
     "nice_name": "Thorma90 Netzwerk",
     "direct_ip": "thorma90.net",
+    "server_wildcards": [
+      "%.thorma90.net"
+    ],
     "supported_languages": [
        "de"
     ],
@@ -9,8 +12,7 @@
       "discord": "https://discord.gg/yRZEFzn5Kk",
       "web": "https://thorma90.net/",
       "youtube": "https://www.youtube.com/@thorma9030",
-      "instagram": "thorma90",
-      "twitter": "Thorma90"
+      "instagram": "thorma90"
     },
     "gamemodes": {
         "minigames": {
@@ -19,7 +21,7 @@
           "command": "/minigames",
           "versions": "1.16.5<*"
         }
-      },
+    },
     "discord": {
       "server_id": 1081550768903049279,
       "rename_to_minecraft_name": false
