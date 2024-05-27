@@ -2,15 +2,11 @@
     "server_name": "thorma90",
     "nice_name": "Thorma90 Netzwerk",
     "direct_ip": "thorma90.net",
-    "server_wildcards": [
-      "%.thorma90.net"
-    ],
     "supported_languages": [
        "de"
     ],
     "social": {
       "discord": "https://discord.gg/yRZEFzn5Kk",
-      "web": "https://thorma90.net",
       "youtube": "https://www.youtube.com/@thorma9030",
       "instagram": "thorma90"
     },
