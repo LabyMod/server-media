@@ -2,18 +2,11 @@
     "server_name": "abbelsmp",
     "nice_name": "AbbelSMP",
     "direct_ip": "play.abbelsmp.de",
-    "server_wildcards": [
-      "%.abbelsmp.de"
-    ],
     "supported_languages": [
        "de"
     ],
     "social": {
-      "twitter": "vinnipapi",
-      "tiktok": "vinnipapii",
-      "instagram": "vinnipapi",
-      "discord": "https://discord.gg/qXPaAGs8ru",
-      "youtube": "https://www.youtube.com/channel/UCSamgE1KYvC7qZn56T0J2yg"
+      "discord": "https://discord.gg/qXPaAGs8ru"
     },
     "gamemodes": {
       "smp": {
