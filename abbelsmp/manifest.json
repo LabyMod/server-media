@@ -1,0 +1,39 @@
+{
+    "server_name": "abbelsmp",
+    "nice_name": "AbbelSMP",
+    "direct_ip": "play.abbelsmp.de",
+    "server_wildcards": [
+      "%.abbelsmp.de"
+    ],
+    "supported_languages": [
+       "de"
+    ],
+    "social": {
+      "twitter": "vinnipapi",
+      "tiktok": "vinnipapii",
+      "instagram": "vinnipapi",
+      "discord": "https://discord.gg/qXPaAGs8ru",
+      "youtube": "https://www.youtube.com/channel/UCSamgE1KYvC7qZn56T0J2yg"
+    },
+    "gamemodes": {
+      "smp": {
+        "name": "SMP", 
+        "color": "#7a00aa",
+        "versions": "1.20.4"
+      }
+    },
+    "discord": {
+      "server_id": 1134388459042246736,
+      "rename_to_minecraft_name": false
+    },
+    "brand": {
+       "primary": "#7a00aa",
+       "background": "#36393e",
+       "text": "#FFFFFF"
+    }, 
+    "location": {
+       "city": "Eygelshoven",
+       "country": "Germany",
+       "country_code": "DE"
+    }
+  }
