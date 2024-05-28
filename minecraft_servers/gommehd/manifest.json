@@ -33,7 +33,7 @@
     "web_support": "https://gommehdnet.zendesk.com",
     "twitter": "GommeHDnet",
     "instagram": "gommehdnetwork",
-    "tiktok": "gommehdnetwork",
+    "tiktok": "gommehdnet",
     "youtube": "https://www.youtube.com/GommeHDnet",
     "discord": "https://discord.com/invite/Y9qVwk4",
     "teamspeak": "GommeHD.net"
@@ -58,12 +58,19 @@
     },
     "gommunity": {
       "name": "Gommunity",
-      "command": "/gameteleport gommunity"
+      "command": "/gameteleport gommunity",
+      "versions": "1.20<*"
     },
     "gungame": {
       "name": "GunGame",
       "url": "https://www.gommehd.net/game/GunGame",
       "command": "/gameteleport ffagungame"
+    },
+    "duels": {
+      "name": "Duels",
+      "url": "https://www.gommehd.net/game/Duels",
+      "command": "/gameteleport duelsl",
+      "versions": "1.20<*"
     },
     "kit1vs1": {
       "name": "Kit1vs1",
@@ -83,7 +90,8 @@
     "jumpleague": {
       "name": "JumpLeague",
       "url": "https://www.gommehd.net/game/JumpLeague",
-      "command": "/gameteleport jl"
+      "command": "/gameteleport jl",
+      "versions": "1.20<*"
     },
     "game1vs1": {
       "name": "Game1vs1",
@@ -153,7 +161,8 @@
     "speeduhc": {
       "name": "SpeedUHC",
       "url": "https://www.gommehd.net/game/SpeedUHC",
-      "command": "/gameteleport speeduhc"
+      "command": "/gameteleport speeduhc",
+      "versions": "1.20<*"
     },
     "survivalgames": {
       "name": "SurvivalGames",

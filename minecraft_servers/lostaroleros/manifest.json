@@ -3,7 +3,8 @@
     "nice_name": "LosTaroleros Network",
     "direct_ip": "mc.lostaroleros.com",
     "server_wildcards": [
-      "%.lostaroleros.com"
+      "%.lostaroleros.com",
+      "%.lostaroleros.net"
     ],
     "supported_languages": [
       "es"
@@ -12,7 +13,7 @@
       "web": "https://lostaroleros.com",
       "web_shop": "https://tienda.lostaroleros.com",
       "twitter": "LosTarolerosMC",
-      "discord": "https://discord.gg/9J6m7ked5J"
+      "discord": "https://discord.gg/comunidad-tarolera-707250934421520404"
     },
     "gamemodes": {
       "survival": {
@@ -23,17 +24,17 @@
         "name": "SkyBlock",
         "color": "#FFF"
       },
-	  "practice": {
+      "practice": {
         "name": "Practice",
         "color": "#FFF"
       },
-	  "boxpvp": {
+      "boxpvp": {
         "name": "BoxPvP",
         "color": "#FFF"
       }
     },
     "brand": {
-       "primary": "#FF3344",
+       "primary": "#00C1FF",
        "background": "#00000",
        "text": "#FFFFFF"
     },

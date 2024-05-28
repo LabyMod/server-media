@@ -1,0 +1,61 @@
+{
+  "server_name": "hylex",
+  "nice_name": "Hylex",
+  "direct_ip": "hylex.gg",
+  "server_wildcards": [
+    "%.hylex.gg",
+    "%.hylex.net"
+  ],
+  "supported_languages": [
+    "pt-BR",
+    "pt-PT"
+  ],
+  "social": {
+    "web": "https://hylex.gg",
+    "web_shop": "https://hylex.gg/loja",
+    "twitter": "HylexMC",
+    "instagram": "hylexmc",
+    "tiktok": "hylexoficial",
+    "youtube": "https://www.youtube.com/@HylexGG",
+    "discord": "https://discord.gg/hylex"
+  },
+  "gamemodes": {
+    "bedwars": {
+      "name": "BedWars",
+      "command": "/play bedwars_solo"
+    },
+    "skywars": {
+      "name": "SkyWars",
+      "command": "/play skywars_solo"
+    },
+    "the_bridge": {
+      "name": "The Bridge",
+      "command": "/play the_bridge_solo"
+    },
+    "build_battle": {
+      "name": "Build Battle",
+      "command": "/play build_battle_solo"
+    },
+    "duels": {
+      "name": "Duels Classic",
+      "command": "/play duels_classic_solo"
+    },
+    "rankup": {
+      "name": "RankUP",
+      "command": "/play rankup"
+    }
+  },
+  "discord": {
+    "server_id": 680183137455833119,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#1e647d",
+    "background": "#00b2a9",
+    "text": "#FFFFFF"
+  },
+  "location": {
+    "country": "Brazil",
+    "country_code": "BR"
+  }
+}

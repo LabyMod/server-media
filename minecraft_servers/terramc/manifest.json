@@ -2,13 +2,16 @@
    "server_name":"terramc",
    "nice_name":"TerraMC",
    "direct_ip":"terramc.net",
+   "server_wildcards": [
+      "%.terramc.net"
+   ],
    "supported_languages":[
       "de",
       "en"
    ],
    "social":{
       "web":"https://terramc.net",
-      "web_support":"https://terramc.net/forum",
+      "web_support":"https://terramc.net/core",
       "twitter":"TerraMCnet",
       "tiktok":"terramcnet",
       "instagram":"terramcnet",
@@ -86,6 +89,6 @@
       "country":"Germany"
    },
    "yt_trailer":"dERYAYRWh7w",
-   "user_stats": "https://terramc.net/player/?name={userName}",
+   "user_stats": "https://terramc.net/player/{userName}",
    "command_delay": 4000
 }

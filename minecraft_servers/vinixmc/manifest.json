@@ -1,0 +1,22 @@
+{
+  "server_name": "vinixmc",
+  "nice_name": "VinixMC Network",
+  "direct_ip": "play.vinixmc.net",
+  "supported_languages": [
+    "en"
+  ],
+  "social": {
+    "web_shop": "https://store.vinixmc.net",
+    "twitter": "VinixMC_Network",
+    "discord": "https://discord.gg/Qv5HUTvSmu"
+  },
+  "brand": {
+    "background": "#058CD7",
+    "text": "#0C0F12"
+  },
+  "location": {
+    "city": "Riyadh",
+    "country": "Saudi Arabia",
+    "country_code": "SA"
+  }
+}
