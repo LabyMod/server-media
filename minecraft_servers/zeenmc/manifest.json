@@ -3,13 +3,10 @@
     "nice_name": "ZeenMC Network",
     "direct_ip": "play.zeenmc.es",
     "server_wildcards": [
-      "%.zeenmc.com",
-      "%.insidemc.es",
-      "%.strider.cc"
+      "%.zeenmc.com"
     ],
     "supported_languages": [
-      "es",
-      "en"
+      "es"
     ],
     "social": {
       "web": "https://zeenmc.es",
@@ -19,15 +16,10 @@
       "tiktok": "zeenmc.es"
     },
     "gamemodes": {
-      "spacepvp": {
-        "name": "SpacePvP",
+      "boxpvp": {
+        "name": "Kung-Fu Box",
         "color": "#FFF",
-        "command": "/spacepvp"
-      },
-      "lagransubida": {
-        "name": "La Gran Subida",
-        "color": "#FFF",
-        "command": "/lagransubida"
+        "command": "/boxpvp"
       }
     },
     "brand": {
@@ -36,9 +28,9 @@
        "text": "#FFFFFF"
     },
     "location": {
-      "city": "Dallas",
-      "country": "United States",
-      "country_code": "US"
+      "city": "Beauharnois",
+      "country": "Canada",
+      "country_code": "CA"
     },
     "discord": {
       "server_id": 1026646611327205416,
