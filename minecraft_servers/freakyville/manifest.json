@@ -8,27 +8,27 @@
   "social": {
     "web": "https://freakyville.dk/",
     "web_shop": "https://shop.freakyville.dk/",
-    "discord": "http://www.freakyville.dk/discord",
+    "discord": "http://www.freakyville.dk/discord"
   },
   "gamemodes": {
     "nprison": {
-      "name": "NPrison", 
+      "name": "NPrison",
       "color": "#306fdb"
     },
     "friheden": {
-      "name": "Friheden", 
+      "name": "Friheden",
       "color": "#306fdb"
     },
     "skyblock": {
-      "name": "Skyblock", 
+      "name": "Skyblock",
       "color": "#306fdb"
     },
     "creative": {
-      "name": "Creative", 
+      "name": "Creative",
       "color": "#306fdb"
     },
     "kitpvp": {
-      "name": "KitPvP", 
+      "name": "KitPvP",
       "color": "#306fdb"
     }
   },
@@ -42,6 +42,6 @@
     "text": "#ffffff"
   },
   "discord": {
-    "server_id": 502808183060824074
+    "server_id": 502808183060824060
   }
 }
