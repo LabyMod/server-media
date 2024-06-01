@@ -6,9 +6,9 @@
     "da"
   ],
   "social": {
-    "web": "https://freakyville.dk/",
-    "web_shop": "https://shop.freakyville.dk/",
-    "discord": "http://www.freakyville.dk/discord"
+    "web": "https://freakyville.dk",
+    "web_shop": "https://shop.freakyville.dk",
+    "discord": "https://www.freakyville.dk/discord"
   },
   "gamemodes": {
     "nprison": {
