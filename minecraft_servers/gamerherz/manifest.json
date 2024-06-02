@@ -16,22 +16,22 @@
   "gamemodes": {
     "paintball": {
       "name": "Paintball", 
-      "command": "/quickjoin Paintball-1",
+      "command": "/server Paintball-1",
       "versions": "1.8<*"
     },
     "duels 1.8": {
       "name": "Duels 1.8", 
-      "command": "/quickjoin Duels_8-1",
+      "command": "/server Duels_8-1",
       "versions": "1.8<*"
     },
     "duels 1.20": {
       "name": "Duels 1.20", 
-      "command": "/quickjoin Duels_16-1",
+      "command": "/server Duels_16-1",
       "versions": "1.16<*"
     },
     "schach": {
       "name": "Schach",
-      "command": "/quickjoin Schach-1",
+      "command": "/server Schach-1",
       "versions": "1.8<*"
     }
   }
