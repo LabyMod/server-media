@@ -16,10 +16,10 @@
         "command": "/warp LuckyLane"
       },
       "bingo": {
-        "name": "Bingo", 
+        "name": "Item Finder", 
         "color": " #e6965e",
         "versions": "1.20.4",
-        "command": "/warp Bingo"
+        "command": "/warp ItemFinder"
       }
     },
     "brand": {
