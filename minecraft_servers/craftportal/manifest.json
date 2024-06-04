@@ -6,7 +6,7 @@
       "de"
    ],
    "social":{
-      "discord":"https://discord.com/invite/7F6MbnUSEp",
+      "discord":"https://discord.gg/7F6MbnUSEp",
       "tiktok":"craftportal_net",
       "youtube":"https://www.youtube.com/@craftportal_net"
    },
@@ -33,6 +33,11 @@
          "name":"KnockFFA",
          "color":"#5CE1E6",
          "versions":"1.20>*"
+      },
+      "brand": {
+         "primary": "#00AA00",
+         "background": "#005500",
+         "text": "#FFFFFF"
       }
    }
 }
