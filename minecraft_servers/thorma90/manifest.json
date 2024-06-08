@@ -2,9 +2,6 @@
     "server_name": "thorma90",
     "nice_name": "Thorma90 Netzwerk",
     "direct_ip": "thorma90.net",
-    "server_wildcards": [
-      "%.thorma90.net"
-    ],
     "supported_languages": [
        "de"
     ],
@@ -23,7 +20,7 @@
     },
     "discord": {
       "server_id": 1246905695580852406,
-      "rename_to_minecraft_name": true
+      "rename_to_minecraft_name": false
     },
     "brand": {
       "primary": "#6DA5C0",
