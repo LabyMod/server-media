@@ -5,20 +5,14 @@
   "supported_languages": [
     "de"
   ],
-  "server_wildcards": [
-    "%.privatgames.net"
-  ],
-  "social": {
-    "web": "https://www.privatgames.net"
-  },
   "brand": {
     "primary":	"#5EA03F",
     "background": "#0F1C25",
     "text": "#FFFFFF"
   },
   "location": {
-    "city": "Munich | München",
-    "country": "Germany | Deutschland",
+    "city": "München",
+    "country": "Germany",
     "country_code": "DE"
   }
 }
