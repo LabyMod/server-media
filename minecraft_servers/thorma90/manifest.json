@@ -2,9 +2,6 @@
     "server_name": "thorma90",
     "nice_name": "Thorma90 Netzwerk",
     "direct_ip": "thorma90.net",
-    "server_wildcards": [
-      "%.thorma90.net"
-    ],
     "supported_languages": [
        "de"
     ],
