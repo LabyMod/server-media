@@ -1,0 +1,24 @@
+{
+  "server_name": "privatgames",
+  "nice_name": "PrivatGames",
+  "direct_ip": "privatgames.net",
+  "supported_languages": [
+    "de"
+  ],
+  "server_wildcards": [
+    "%.privatgames.net"
+  ],
+  "social": {
+    "web": "https://www.privatgames.net"
+  },
+  "brand": {
+    "primary":	"#5EA03F",
+    "background": "#0F1C25",
+    "text": "#FFFFFF"
+  },
+  "location": {
+    "city": "Munich | München",
+    "country": "Germany | Deutschland",
+    "country_code": "DE"
+  },
+}
