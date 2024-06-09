@@ -1,49 +1,50 @@
 {
-	"server_name":"rubymc",
-	"nice_name":"RubyMC",
-	"direct_ip":"rubymc.de",
-	"supported_languages": [
-		"de", "en"
-	],
-	"social": {
-		"web_shop":"https://shop.rubymc.de",
-		"discord":"https://discord.gg/Wu4PSKaQA2",
-		"youtube":"https://www.youtube.com/channel/UCdP40AdmG_ZMM6A19dJN8fw",
-		"instagram":"rubymc_official",
-		"tiktok":"rubymc_de"
-	},
-	"gamemodes": {
-		"survival": {
-			"name":"Survival",
-			"color":"#AADD15"
-		},
-		"paintball": {
-			"name":"Paintball",
-			"color":"#FC8E16"
-		},
-		"zonewars": {
-			"name":"ZoneWars",
-			"color":"#13FCD2"
-		},
-		"colorffa": {
-			"name":"ColorFFA",
-			"color":"#FCFC54"
-		},
-		"cakebattle": {
-			"name":"Cakebattle",
-			"color":"#FC51ED"
-		},
-		"survivor": {
-			"name":"Survivor",
-			"color":"#00FC19"
-		}
-	},
-	"discord": {
-		"server_id":759336586361569280,
-		"rename_to_minecraft_name":false
-	},
-	"location": {
-		"country": "Germany",
-		"country_code": "DE"
-	}
+   "server_name":"rubymc",
+   "nice_name":"RubyMC",
+   "direct_ip":"rubymc.de",
+   "supported_languages":[
+      "de",
+      "en"
+   ],
+   "social":{
+      "web_shop":"https://shop.rubymc.de",
+      "discord":"https://discord.gg/Wu4PSKaQA2",
+      "youtube":"https://www.youtube.com/channel/UCdP40AdmG_ZMM6A19dJN8fw",
+      "instagram":"rubymc_official",
+      "tiktok":"rubymc_de"
+   },
+   "gamemodes":{
+      "survival":{
+         "name":"Survival",
+         "color":"#AADD15"
+      },
+      "paintball":{
+         "name":"Paintball",
+         "color":"#FC8E16"
+      },
+      "zonewars":{
+         "name":"ZoneWars",
+         "color":"#13FCD2"
+      },
+      "colorffa":{
+         "name":"ColorFFA",
+         "color":"#FCFC54"
+      },
+      "cakebattle":{
+         "name":"Cakebattle",
+         "color":"#FC51ED"
+      },
+      "survivor":{
+         "name":"Survivor",
+         "color":"#00FC19"
+      }
+   },
+   "discord":{
+      "server_id":759336586361569280,
+      "rename_to_minecraft_name":false
+   },
+   "location":{
+      "country":"Germany",
+      "country_code":"DE"
+   }
 }
