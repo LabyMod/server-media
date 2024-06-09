@@ -22,7 +22,7 @@
   },
   "gamemodes": {
     "project-1": {
-      "name": "Speedrun",
+      "name": "Slowrun",
       "command": "/server project-1"
     },
     "project-2": {
