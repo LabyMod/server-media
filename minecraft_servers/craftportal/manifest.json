@@ -23,16 +23,19 @@
          "name":"Citybuild",
          "color":"#5CE1E6",
          "versions":"1.20>*"
+         "command": "/warp CB01"
       },
       "freebuild":{
          "name":"FreeBuild",
          "color":"#5CE1E6",
          "versions":"1.20>*"
+         "command": "/warp FCB01"
       },
       "knockffa":{
          "name":"KnockFFA",
          "color":"#5CE1E6",
          "versions":"1.20>*"
+         "command": "/warp KnockFFA"
       },
       "brand": {
          "primary": "#00AA00",
