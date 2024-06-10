@@ -1,10 +1,7 @@
 {
   "server_name": "privatgames",
   "nice_name": "PrivatGames",
-  "direct_ip": "mc.privatgames.net",
-  "server_wildcards": [
-    "%.privatgames.net"
-  ],
+  "direct_ip": "privatgames.net",
   "social": {
     "discord": "https://discord.com/invite/UwgxpWYzhy"
   },
