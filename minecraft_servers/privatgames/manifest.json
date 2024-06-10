@@ -27,7 +27,7 @@
       "command": "/server project-2"
     },
     "project-3": {
-      "name": "Coming Soon",
+      "name": "Project 3",
       "command": "/server project-3"
     }
   },
