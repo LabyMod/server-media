@@ -2,6 +2,9 @@
   "server_name": "privatgames",
   "nice_name": "PrivatGames",
   "direct_ip": "privatgames.net",
+  "server_wildcards": [
+    "%.hypixel.net"
+  ],
   "social": {
     "discord": "https://discord.com/invite/aybhZjt4eQ"
   },
