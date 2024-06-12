@@ -1,0 +1,38 @@
+{
+    "server_name": "nordichub",
+    "nice_name": "NordicHub",
+    "direct_ip": "nordichub.dk",
+    "server_wildcards": [
+      "%.nordichub.dk"
+    ],
+    "supported_languages": [
+       "da"
+    ],
+    "social": {
+      "web_shop": "https://butik.nordichub.dk",
+      "discord": "https://discord.gg/t8Wwzmu67Y"
+    },
+    "gamemodes": {
+      "prison": {
+        "name": "Prison", 
+        "color": "#389EDC",
+        "command": "/prison",
+        "versions": "1.8.9"
+      }
+    },
+    "discord": {
+      "server_id": 1170325144040902747,
+      "rename_to_minecraft_name": false
+    },
+    "brand": {
+       "primary": "#389EDC",
+       "background": "#36393e",
+       "text": "#FFFFFF"
+    }, 
+    "location": {
+       "city": "Limburg",
+       "country": "Germany",
+       "country_code": "DE"
+    },
+    "command_delay": 3000
+}
