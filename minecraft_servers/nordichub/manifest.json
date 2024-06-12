@@ -19,6 +19,12 @@
         "color": "#389EDC",
         "command": "/prison",
         "versions": "1.8.9"
+      },
+      "skyblock": {
+        "name": "Skyblock", 
+        "color": "#389EDC",
+        "command": "/skyblock",
+        "versions": "1.8.9"
       }
     },
     "discord": {
