@@ -9,6 +9,7 @@
        "da"
     ],
     "social": {
+      "web": "https://nordichub.dk",
       "web_shop": "https://butik.nordichub.dk",
       "discord": "https://discord.gg/t8Wwzmu67Y"
     },
@@ -34,5 +35,5 @@
        "country": "Germany",
        "country_code": "DE"
     },
-    "command_delay": 3000
+    "command_delay": 1500
 }
