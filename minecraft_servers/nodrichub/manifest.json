@@ -6,12 +6,14 @@
        "da"
     ],
     "social": {
+      "web_shop": "https://butik.nordichub.dk",
       "discord": "https://discord.gg/t8Wwzmu67Y"
     },
     "gamemodes": {
       "prison": {
         "name": "Prison", 
         "color": "#389EDC",
+        "command": "/prison",
         "versions": "1.8.9"
       }
     },
@@ -28,5 +30,6 @@
        "city": "Limburg",
        "country": "Germany",
        "country_code": "DE"
-    }
+    },
+    "command_delay": 3000
 }
