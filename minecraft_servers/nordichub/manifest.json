@@ -2,6 +2,9 @@
     "server_name": "nordichub",
     "nice_name": "NordicHub",
     "direct_ip": "nordichub.dk",
+    "server_wildcards": [
+      "%.nordichub.dk"
+    ],
     "supported_languages": [
        "da"
     ],
