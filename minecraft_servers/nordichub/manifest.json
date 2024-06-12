@@ -1,7 +1,7 @@
 {
     "server_name": "nordichub",
     "nice_name": "NordicHub",
-    "direct_ip": "NordicHub.dk",
+    "direct_ip": "nordichub.dk",
     "supported_languages": [
        "da"
     ],
@@ -19,7 +19,7 @@
     },
     "discord": {
       "server_id": 1170325144040902747,
-      "rename_to_minecraft_name": true
+      "rename_to_minecraft_name": false
     },
     "brand": {
        "primary": "#389EDC",
