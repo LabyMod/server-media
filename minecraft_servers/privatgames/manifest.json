@@ -34,6 +34,7 @@
       "command": "/server project-3"
     }
   },
+  "command_delay": 3000,
   "discord": {
     "server_id": 846009664142311485,
     "rename_to_minecraft_name": false
