@@ -34,5 +34,6 @@
        "country": "Germany",
        "country_code": "DE"
     },
+    "user_stats": "https://laby.net/@{uuid}",
     "command_delay": 3000
 }
