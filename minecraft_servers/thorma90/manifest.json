@@ -20,6 +20,18 @@
           "color": "#B34B62",
           "command": "/minigames",
           "versions": "1.17.1<*"
+        },
+        "missilewars": {
+          "name": "MissileWars",
+          "color": "#B34B62",
+          "command": "/missilewars",
+          "versions": "1.17.1<*"
+        },
+        "tycoon": {
+          "name": "Tycoon",
+          "color": "#33FFCE",
+          "command": "/tycoon",
+          "versions": "1.17.1<*"
         }
     },
     "discord": {
