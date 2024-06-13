@@ -11,16 +11,23 @@
   "social": {
     "web": "https://www.lythia.de",
     "web_support": "https://wiki.lythia.de",
+    "tiktok": "Lythiaofficial",
     "discord": "https://discord.gg/3R8vbCPQcd",
     "youtube": "https://www.youtube.com/channel/UCWTEMNNPnZeAWPemS89Nctw",
     "instagram": "Lythia.de"
   },
   "gamemodes": {
+    "oneblock": {
+      "name": "OneBlock", 
+      "color": "#ff5d00",
+      "command": "/survival oneblock",
+      "versions": "1.20.6<*"
+    },
     "survival": {
       "name": "Survival", 
       "color": "#0a6b14",
       "command": "/survival survival",
-      "versions": "1.20.4<*"
+      "versions": "1.20.6<*"
     }
   },
   "chat": {
@@ -33,9 +40,9 @@
     "rename_to_minecraft_name": false
   },
   "brand": {
-      "primary": "#2c00e0",
-      "background": "#0A56A5",
-      "text": "#FFFFFF"
+      "primary": "#8963BA",
+      "background": "#031927",
+      "text": "#F0FFF1"
   }, 
   "location": {
       "city": "Bern",
@@ -43,5 +50,5 @@
       "country_code": "CH"
   },
   "command_delay": 3000,
-  "yt_trailer": "YDKuTO8WRug"
+  "yt_trailer": "aT3K4QpsgXg"
 }
