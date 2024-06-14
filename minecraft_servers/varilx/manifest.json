@@ -1,9 +1,10 @@
 {
   "server_name": "varilx",
   "nice_name": "Varilx Network",
-  "direct_ip": "Varilx.DE",
+  "direct_ip": "varilx.de",
   "server_wildcards": [
-    "%.varilx.de"
+    "mc.varilx.de",
+    "build.varilx.de"
   ],
   "supported_languages": [
      "de"
