@@ -1,7 +1,7 @@
 {
   "server_name": "varilx",
   "nice_name": "Varilx Network",
-  "direct_ip": "varilx.de",
+  "direct_ip": "Varilx.DE",
   "server_wildcards": [
     "%.varilx.de"
   ],
@@ -21,8 +21,14 @@
     "survival": {
       "name": "Survival", 
       "color": "#8995FF",
-      "versions": "1.12<1.20.4",
-      "command": "/spawn"
+      "versions": "1.12<1.21",
+      "command": "/server Survival"
+    }
+    "skyblock": {
+      "name": "SkyBlock", 
+      "color": "#ba03fc",
+      "versions": "1.12<1.21",
+      "command": "/server SkyBlock"
     }
   },
   "brand": {
@@ -35,4 +41,5 @@
      "country": "Germany",
      "country_code": "DE"
   }
+  "yt_trailer": "0zF9Cwcj6BQ"
 }
