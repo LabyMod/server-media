@@ -4,7 +4,9 @@
   "direct_ip": "varilx.de",
   "server_wildcards": [
     "mc.varilx.de",
-    "build.varilx.de"
+    "dev.varilx.de",
+    "content.varilx.de",
+    "bau.varilx.de"
   ],
   "supported_languages": [
      "de"
