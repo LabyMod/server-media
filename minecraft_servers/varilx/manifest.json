@@ -22,7 +22,7 @@
       "name": "Survival", 
       "color": "#8995FF",
       "versions": "1.12<1.21",
-	  "url": "https://wiki.varilx.de/varilx.de-or-wiki/varilx-survival/",
+      "url": "https://wiki.varilx.de/varilx.de-or-wiki/varilx-survival/",
       "command": "/server Survival"
     },
     "skyblock": {
