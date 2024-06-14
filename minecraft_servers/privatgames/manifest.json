@@ -1,7 +1,7 @@
 {
   "server_name": "privatgames",
   "nice_name": "PrivatGames",
-  "direct_ip": "privatgames.net",
+  "direct_ip": "mc.privatgames.net",
   "server_wildcards": [
     "%.privatgames.net"
   ],
