@@ -1,0 +1,61 @@
+{
+  "server_name": "voasis",
+  "nice_name": "Voasis",
+  "direct_ip": "voasis.de",
+  "server_wildcards": [
+    "%.laby.net"
+  ],
+  "supported_languages": [
+     "de"
+  ],
+  "social": {
+    "web": "",
+    "web_shop": "",
+    "web_support": "",
+    "twitter": "",
+    "tiktok": "",
+    "facebook": "",
+    "instagram": "",
+    "discord": "https://discord.gg/Ux8zRjhNyZ",
+    "youtube": "",
+    "teamspeak": ""
+  },
+  "gamemodes": {
+    "TheBridge": {
+      "name": "TheBridge Alt", 
+      "color": "#FFA500",
+      "url": "",
+      "command": "/warteschlange beitreten TheBridge",
+      "versions": "1.20.6"
+    },
+    "TheBridgeFast": {
+      "name": "TheBridge Neu",
+      "color": "#ADD8E6",
+      "url": "",
+      "command": "/warteschlange beitreten TheBridge-Fast",
+      "versions": "1.20.6"
+    }
+  },
+  "chat": {
+    "message_formats": [
+      "<prefix><player><message>"
+    ]
+  },
+  "discord": {
+    "server_id": 1181209057772703835,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#008FE8",
+     "background": "#0A56A5",
+     "text": "#FFFFFF"
+  }, 
+  "location": {
+     "city": "Nürnberg",
+     "country": "Germany",
+     "country_code": "DE"
+  },
+  "yt_trailer": "",
+  "user_stats": "",
+  "command_delay": 3000
+}
