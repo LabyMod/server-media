@@ -28,8 +28,7 @@
       }
     },
     "discord": {
-      "server_id": 1170325144040902747,
-      "rename_to_minecraft_name": false
+      "server_id": 1170325144040902747
     },
     "brand": {
        "primary": "#389EDC",
@@ -37,9 +36,9 @@
        "text": "#FFFFFF"
     }, 
     "location": {
-       "city": "Limburg",
-       "country": "Germany",
-       "country_code": "DE"
+       "city": "Copenhagen",
+       "country": "Denmark",
+       "country_code": "DA"
     },
-    "command_delay": 1500
+    "command_delay": 500
 }
