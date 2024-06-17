@@ -9,9 +9,9 @@
     "de"
   ],
   "social": {
-    "web": "https://forum.tornadomc.net/",
-    "web_shop": "https://store.tornadomc.net/",
-    "tiktok": "https://www.tiktok.com/@tornadomc.net",
+    "web": "https://forum.tornadomc.net",
+    "web_shop": "https://store.tornadomc.net",
+    "tiktok": "@tornadomc.net",
     "discord": "https://discord.gg/55PZcudMHE",
     "youtube": "https://www.youtube.com/@TornadoMinecraft711"
   },
@@ -35,6 +35,5 @@
     "country_code": "DE"
   },
   "yt_trailer": "",
-  "user_stats": "",
   "command_delay": 3000
 }
