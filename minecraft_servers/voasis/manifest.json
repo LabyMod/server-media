@@ -3,42 +3,33 @@
   "nice_name": "Voasis",
   "direct_ip": "voasis.de",
   "server_wildcards": [
-    "%.laby.net"
+    "%.voasis.de"
   ],
   "supported_languages": [
      "de"
   ],
   "social": {
-    "web": "",
-    "web_shop": "",
-    "web_support": "",
-    "twitter": "",
-    "tiktok": "",
-    "facebook": "",
-    "instagram": "",
-    "discord": "https://discord.gg/Ux8zRjhNyZ",
-    "youtube": "",
-    "teamspeak": ""
+    "web": "https://voasis.de/",
+    "web_support": "https://voasis.de/index.php?route=/forum/",
+    "discord": "https://discord.gg/Ux8zRjhNyZ"
   },
   "gamemodes": {
-    "TheBridge": {
+    "thebridge": {
       "name": "TheBridge Alt", 
       "color": "#FFA500",
-      "url": "",
       "command": "/warteschlange beitreten TheBridge",
       "versions": "1.20.6"
     },
-    "TheBridgeFast": {
+    "thebridgefast": {
       "name": "TheBridge Neu",
       "color": "#ADD8E6",
-      "url": "",
       "command": "/warteschlange beitreten TheBridge-Fast",
       "versions": "1.20.6"
     }
   },
   "chat": {
     "message_formats": [
-      "<prefix><player><message>"
+      "^§[a-f0-9](?<level>\\d+)(| §[a-f0-9](?<rank>\\S+)) §e(?<sender>[a-zA-Z0-9_]{2,16}) §f(?<message>.*)$"
     ]
   },
   "discord": {
@@ -55,7 +46,5 @@
      "country": "Germany",
      "country_code": "DE"
   },
-  "yt_trailer": "",
-  "user_stats": "",
   "command_delay": 3000
 }
