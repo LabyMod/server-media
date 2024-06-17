@@ -1,0 +1,61 @@
+{
+    "server_name": "pvptemple",
+    "nice_name": "pvptemple.net",
+    "direct_ip": "pvptemple.net",
+    "server_wildcards": [
+      "%.pvptemple.net",
+      "%.teamunit.net",
+      "%.teamunit.de",
+      "%.potionmc.net"
+    ],
+    "supported_languages": [
+      "de",
+      "en"
+    ],
+    "social": {
+      "web": "https://pvptemple.net",
+      "web_shop": "https://store.pvptemple.net",
+      "twitter": "ThePvPTemple",
+      "discord": "https://discord.gg/p86Yj2Q5",
+      "youtube": "https://youtube.com/c/thepvptemple"
+    },
+    "discord": {
+      "server_id": "1246898224346693662",
+      "rename_to_minecraft_name": false
+    },
+    "brand": {
+      "primary": "#ffa500"
+    },
+    "gamemodes": {
+      "uhc": {
+        "name": "UHC",
+        "color": "#FFF",
+        "command": "/l uhc"
+      },
+      "skywars": {
+        "name": "SkyWars",
+        "color": "#FFF",
+        "command": "/l skywars"
+      },
+      "arenapvp": {
+        "name": "ArenaPvP",
+        "color": "#FFF",
+        "command": "/l arenapvp"
+      },
+      "bedwars": {
+        "name": "BedWars",
+        "color": "#FFF",
+        "command": "/l bedwars"
+      },
+      "ffa": {
+        "name": "FFA",
+        "color": "#FFF",
+        "command": "/l ffa"
+      }
+    },
+    "location": {
+      "city": "Frankfurt am Main",
+      "country": "Germany",
+      "country_code": "DE"
+    }
+  }
