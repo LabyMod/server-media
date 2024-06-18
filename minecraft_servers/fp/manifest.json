@@ -24,6 +24,5 @@
      "country": "Brazil",
      "country_code": "BR"
   },
-  "user_stats": "https://laby.net/@{userName}",
   "command_delay": 3000
 }
