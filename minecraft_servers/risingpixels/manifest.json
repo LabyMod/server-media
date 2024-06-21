@@ -2,16 +2,14 @@
   "server_name": "risingpixels",
   "nice_name": "RisingPixels",
   "direct_ip": "risingpixels.net",
-  "server_wildcards": [
-    "player.risingpixels.net"
-  ],
+  "server_wildcards": [],
   "supported_languages": [
     "de",
     "en"
   ],
   "social": {
     "web": "https://www.risingpixels.net",
-    "web_support": "https://www.risinglife.net/support",
+    "web_support": "https://www.risingpixels.net/support",
     "twitter": "rpxlsnet",
     "discord": "https://discord.gg/aHvRGg4hqb",
     "tiktok": "rpxlsnet",
