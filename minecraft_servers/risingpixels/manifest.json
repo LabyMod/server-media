@@ -1,21 +1,19 @@
 {
   "server_name": "risingpixels",
   "nice_name": "RisingPixels",
-  "direct_ip": "play.risingpixels.net",
+  "direct_ip": "risingpixels.net",
   "server_wildcards": [
-    "%.risingpixels.net"
+    "player.risingpixels.net"
   ],
   "supported_languages": [
     "de",
     "en"
   ],
   "social": {
-    "web": "https://risingpixels.net",
-    "web_shop": "https://store.risingpixels.net",
-    "web_support": "https://discord.gg/aHvRGg4hqb",
+    "web": "https://www.risingpixels.net",
+    "web_support": "https://www.risinglife.net/support",
     "twitter": "rpxlsnet",
     "discord": "https://discord.gg/aHvRGg4hqb",
-    "teamspeak": "ts.risingpixels.net",
     "tiktok": "rpxlsnet",
     "youtube": "https://www.youtube.com/@rpxlsnet"
   },
