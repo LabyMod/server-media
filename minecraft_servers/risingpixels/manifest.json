@@ -1,6 +1,6 @@
 {
   "server_name": "risingpixels",
-  "nice_name": "RisingPixels.net",
+  "nice_name": "RisingPixels",
   "direct_ip": "play.risingpixels.net",
   "server_wildcards": [
     "%.risingpixels.net"
