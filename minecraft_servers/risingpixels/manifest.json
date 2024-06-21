@@ -2,7 +2,6 @@
   "server_name": "risingpixels",
   "nice_name": "RisingPixels",
   "direct_ip": "risingpixels.net",
-  "server_wildcards": [],
   "supported_languages": [
     "de",
     "en"
