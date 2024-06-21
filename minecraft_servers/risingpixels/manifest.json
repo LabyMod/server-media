@@ -1,0 +1,37 @@
+{
+  "server_name": "risingpixels",
+  "nice_name": "RisingPixels.net",
+  "direct_ip": "play.risingpixels.net",
+  "server_wildcards": [
+    "%.risingpixels.net"
+  ],
+  "supported_languages": [
+    "de",
+    "en"
+  ],
+  "social": {
+    "web": "https://risingpixels.net",
+    "web_shop": "https://store.risingpixels.net",
+    "web_support": "https://discord.gg/aHvRGg4hqb",
+    "twitter": "rpxlsnet",
+    "discord": "https://discord.gg/aHvRGg4hqb",
+    "teamspeak": "ts.risingpixels.net",
+    "tiktok": "rpxlsnet",
+    "youtube": "https://www.youtube.com/@rpxlsnet"
+  },
+  "gamemodes": {
+    "luckywars": {
+      "name": "LuckyWars"
+    },
+    "luckyrace": {
+      "name": "LuckyRace"
+    },
+    "knockit": {
+      "name": "KnockIt"
+    }
+  },
+  "discord": {
+    "server_id": 810885141874475052,
+    "rename_to_minecraft_name": false
+  }
+}
