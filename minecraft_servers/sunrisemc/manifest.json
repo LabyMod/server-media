@@ -1,0 +1,27 @@
+{
+    "server_name": "sunrisemc",
+    "nice_name": "SunriseMC",
+    "direct_ip": "sunrisemc.com.br",
+    "supported_languages": [
+        "pt-BR",
+        "pt-PT"
+    ],
+    "social": {
+        "discord": "https://discord.gg/QukRycgVA5"
+    },
+    "gamemodes": {
+        "rankup": {
+            "name": "Rank UP", 
+            "color": "#FFFFFF"
+        }
+    },
+    "discord": {
+        "server_id": 1102812085517287454,
+        "rename_to_minecraft_name": false
+    },
+    "location": {
+        "city": "São Paulo",
+        "country": "Brasil",
+        "country_code": "BR"
+    }
+}
