@@ -6,7 +6,7 @@
     "%.voasis.de"
   ],
   "supported_languages": [
-     "de"
+    "de"
   ],
   "social": {
     "web": "https://voasis.de",
@@ -42,14 +42,14 @@
     "rename_to_minecraft_name": false
   },
   "brand": {
-     "primary": "#008FE8",
-     "background": "#0A56A5",
-     "text": "#FFFFFF"
-  }, 
+    "primary": "#008FE8",
+    "background": "#0A56A5",
+    "text": "#FFFFFF"
+  },
   "location": {
-     "city": "Nürnberg",
-     "country": "Germany",
-     "country_code": "DE"
+    "city": "Nürnberg",
+    "country": "Germany",
+    "country_code": "DE"
   },
   "command_delay": 3000
 }
