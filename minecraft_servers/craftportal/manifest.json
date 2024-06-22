@@ -7,6 +7,7 @@
    ],
    "social":{
       "discord":"https://discord.gg/7F6MbnUSEp",
+      "teamspeak":"ts.craftportal.net",
       "tiktok":"craftportal_net",
       "youtube":"https://www.youtube.com/@craftportal_net"
    },
@@ -21,23 +22,21 @@
    "gamemodes":{
       "citybuild":{
          "name":"Citybuild",
+         "command": "/warp CB01",
          "color":"#5CE1E6",
          "versions":"1.20>*"
       },
       "freebuild":{
          "name":"FreeBuild",
+         "command": "/warp FCB01",
          "color":"#5CE1E6",
          "versions":"1.20>*"
       },
       "knockffa":{
          "name":"KnockFFA",
+         "command": "/warp KnockFFA",
          "color":"#5CE1E6",
          "versions":"1.20>*"
-      },
-      "brand": {
-         "primary": "#00AA00",
-         "background": "#005500",
-         "text": "#FFFFFF"
       }
    }
 }
