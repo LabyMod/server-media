@@ -5,50 +5,53 @@
   "server_wildcards": [
     "blockleben.de"
   ],
-  "supported_languages": [
-     "de"
-  ],
   "social": {
+    "web": "https://blockleben.de",
+    "tiktok": "blockleben.de",
     "twitter": "blocklebende",
     "instagram": "blocklebende",
-    "tiktok": "blockleben.de",
     "youtube": "https://www.youtube.com/channel/UCK566mjZ5QSmfIDUM22hNIA",
     "discord": "https://discord.gg/2dveXu4eaf"
   },
   "gamemodes": {
+    "skywars": {
+      "name": "SkyWars",
+      "color": "#ffa800",
+      "command": "/skywars"
+    },
+    "bedwars":{
+      "name": "Bedwars",
+      "color": "#ffa800",
+      "command": "/bedwars"
+    },
+    "buildbattle":{
+      "name": "BuildBattle",
+      "color": "#ffa800",
+      "command": "/buildbattle"
+    },
     "citybuild": {
       "name": "CityBuild",
-      "color": "#ffa800"
+      "color": "#ffa800",
+      "command": "/citybuild"
     },
-    "skypvp": {
-      "name": "SkyPvP",
-      "color": "#ffa800"
+    "bffa": {
+      "name": "BFFA",
+      "color": "#ffa800",
+      "command": "/buildffa"
     },
-    "myworld": {
-      "name": "MyWorld",
-      "color": "#ffa800"
+    "mlgrush":{
+      "name": "MLG Rush",
+      "color": "#ffa800",
+      "command": "/mlgrush"
     },
-    "buildffa": {
-      "name": "BuildFFA",
-      "color": "#ffa800"
-    },
-    "mlgrush": {
-      "name": "MLG-Rush",
-      "color": "#ffa800"
+    "uhc":{
+      "name": "UHC",
+      "color": "#ffa800",
+      "command": "/uhc"
     }
   },
   "discord": {
     "server_id": 1104758781004488776,
     "rename_to_minecraft_name": false
-  },
-  "brand": {
-    "primary": "#ffffff",
-    "background": "#ffffff",
-    "text": "#ffffff"
-  },
-  "location": {
-     "city": "Hessen",
-     "country": "Germany",
-     "country_code": "DE"
-   }
+  }
 }
