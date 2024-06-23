@@ -24,6 +24,12 @@
       "color": "#ADD8E6",
       "command": "/warteschlange beitreten TheBridge-Fast",
       "versions": "1.20.6"
+    },
+    "duels": {
+      "name": "Duels",
+      "color": "#6b5b95",
+      "command": "/warteschlange beitreten Duels",
+      "versions": "1.20.6"
     }
   },
   "chat": {
