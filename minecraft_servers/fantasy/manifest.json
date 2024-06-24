@@ -3,6 +3,7 @@
   "nice_name": "Rede Fantasy",
   "direct_ip": "redefantasy.com",
   "server_wildcards": [
+    "%.redefantasy.com",
     "redefantasy.digital"
   ],
   "gamemodes": {
