@@ -15,11 +15,17 @@
         "versions": "1.20.4",
         "command": "/warp LuckyLane"
       },
-      "itemfinder": {
-        "name": "Item Finder", 
+      "abyssaldrop": {
+        "name": "Abyssal Drop", 
         "color": " #e6965e",
         "versions": "1.20.4",
-        "command": "/warp ItemFinder"
+        "command": "/warp AbyssalDrop"
+      },
+      "targettussle": {
+        "name": "Target Tussle", 
+        "color": " #e6965e",
+        "versions": "1.20.4",
+        "command": "/warp TargetTussle"
       }
     },
     "brand": {
