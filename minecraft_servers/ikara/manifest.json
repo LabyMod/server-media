@@ -1,17 +1,13 @@
 {
   "server_name": "ikara",
   "nice_name": "Ikara",
-  "direct_ip": "ikara.gg",
-  "server_wildcards": [
-    "%.ikara.gg"
+  "direct_ip": "ikara.gg"
   ],
   "supported_languages": [
      "en"
   ],
   "social": {
-    "web": "https://ikara.gg",
     "web_shop": "https://store.ikara.gg",
-    "web_support": "https://ikara.gg/discord",
     "twitter": "PlayIKARA",
     "tiktok": "PlayIkara",
     "discord": "https://discord.gg/BzUyWTCWD2",
@@ -21,19 +17,16 @@
     "factions": {
       "name": "Factions", 
       "color": "#7CFDFF",
-      "url": "https://www.Ikara.gg/Discord",
       "command": "/server factions"
     },
     "practice": {
       "name": "Practice", 
       "color": "#FFE287",
-      "url": "https://www.Ikara.gg/Discord",
       "command": "/server practice"
     },
     "survival": {
       "name": "Survival",
       "color": "#8CFCB9",
-      "url": "https://www.Ikara.gg/Discord",
       "command": "/server survival"
     }
   },
