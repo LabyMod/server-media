@@ -1,7 +1,7 @@
 {
   "server_name": "ikara",
   "nice_name": "Ikara",
-  "direct_ip": "ikara.gg"
+  "direct_ip": "ikara.gg",
   "supported_languages": [
      "en"
   ],
