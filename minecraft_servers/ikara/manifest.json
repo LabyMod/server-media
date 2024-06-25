@@ -15,26 +15,26 @@
     "twitter": "PlayIKARA",
     "tiktok": "PlayIkara",
     "discord": "https://discord.gg/BzUyWTCWD2",
-    "youtube": "https://www.youtube.com/@Ikaranetwork",
+    "youtube": "https://www.youtube.com/@Ikaranetwork"
   },
   "gamemodes": {
     "factions": {
       "name": "Factions", 
       "color": "#7CFDFF",
       "url": "https://www.Ikara.gg/Discord",
-      "command": "/server factions",
+      "command": "/server factions"
     },
     "practice": {
       "name": "Practice", 
       "color": "#FFE287",
       "url": "https://www.Ikara.gg/Discord",
-      "command": "/server practice",
+      "command": "/server practice"
     },
     "survival": {
       "name": "Survival",
       "color": "#8CFCB9",
       "url": "https://www.Ikara.gg/Discord",
-      "command": "/server survival",
+      "command": "/server survival"
     }
   },
   "discord": {
@@ -46,5 +46,5 @@
      "background": "#464646",
      "text": "#EEEEEE"
   },
-  "yt_trailer": "1PkHxJT02J4&t",
+  "yt_trailer": "1PkHxJT02J4&t"
 }
