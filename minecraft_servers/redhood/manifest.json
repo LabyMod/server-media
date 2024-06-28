@@ -1,0 +1,22 @@
+{
+  "server_name": "RedHood",
+  "nice_name": "RedHood.sbs",
+  "direct_ip": "play.redhood.sbs",
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "web": "https://wien.redhood.sbs"
+  },
+  "gamemodes": {
+    "citybuild": {
+      "name": "CityBuild",
+      "version": "1.19.2<*"
+    }
+  },
+  "location": {
+    "city": "Vienna",
+    "country": "Austria",
+    "country_code": "AT"
+  }
+}
