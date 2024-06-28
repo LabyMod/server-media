@@ -2,7 +2,6 @@
     "server_name": "bencraft",
     "nice_name": "Bencraft",
     "direct_ip": "play.bencraft.xyz",
-    "server_wildcards": ["bencraft.xyz"],
     "supported_languages": ["de"],
     "social": {
         "web": "https://bencraft.xyz",
