@@ -1,0 +1,27 @@
+{
+  "server_name": "fp",
+  "nice_name": "Fp Mine",
+  "direct_ip": "m.fpt.icu",
+  "supported_languages": [
+     "pt-BR"
+  ],
+  "social": {
+    "web": "https://m.fpt.icu",
+    "twitter": "fptbb",
+    "discord": "https://discord.gg/kQrB6sW6Vh"
+  },
+  "discord": {
+    "server_id": 900808498294706267
+  },
+  "brand": {
+     "primary": "#e64889",
+     "background": "#1b1b1d",
+     "text": "#000000"
+  }, 
+  "location": {
+     "city": "São Paulo",
+     "country": "Brazil",
+     "country_code": "BR"
+  },
+  "command_delay": 3000
+}
