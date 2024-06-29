@@ -8,8 +8,7 @@
     ],
     "social": {
       "web": "https://www.crystopia.net",
-      "web_shop": "https://shop.crystopia.net",
-      "web_support": "https://www.crystopia.net/index.php?route=/wiki",
+      "web_support": "https://www.crystopia.net/guides",
       "twitter": "crystopianet",
       "discord": "https://discord.com/invite/q7xW3MH425",
       "youtube": "https://www.youtube.com/@crystopia"
@@ -18,9 +17,8 @@
       "smp": {
         "name": "SMP", 
         "color": "#FFA500",
-        "url": "https://www.crystopia.net/index.php?route=/games/smp/",
         "command": "/smp",
-        "versions": "1.20.1"
+        "versions": "1.20.4"
       }
     },
     "chat": {
