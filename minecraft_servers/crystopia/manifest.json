@@ -1,0 +1,38 @@
+{
+    "server_name": "crystopia",
+    "nice_name": "Crystopia",
+    "direct_ip": "crystopia.net",
+    "supported_languages": [
+       "en",
+       "de"
+    ],
+    "social": {
+      "web": "https://www.crystopia.net",
+      "web_support": "https://www.crystopia.net/guides",
+      "twitter": "crystopianet",
+      "discord": "https://discord.com/invite/q7xW3MH425",
+      "youtube": "https://www.youtube.com/@crystopia"
+    },
+    "gamemodes": {
+      "smp": {
+        "name": "SMP", 
+        "color": "#FFA500",
+        "command": "/smp",
+        "versions": "1.20.4"
+      }
+    },
+    "chat": {
+      "message_formats": [
+        "^§[a-f0-9](?<level>\\d+)( \\||§8 \\|) §[a-f0-9](?<sender>[a-zA-Z0-9_]{2,16})§r§7: §f(?<message>.*)$"
+      ]
+    },
+    "discord": {
+      "server_id": 1084507325450162247,
+      "rename_to_minecraft_name": false
+    },
+    "brand": {
+       "primary": "#2E8BC0",
+       "background": "#0C2D48",
+       "text": "#B1D4E0"
+    }
+  }
