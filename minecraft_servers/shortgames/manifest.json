@@ -1,0 +1,21 @@
+{
+  "server_name": "shortgames",
+  "nice_name": "ShortGames",
+  "direct_ip": "shortgames.eu",
+  "social": {
+    "web_shop": "https://shop.shortgames.eu",
+    "discord": "https://discord.gg/invite/KFBgp4HsFN"
+  },
+  "gamemodes": {
+    "jumpworld": {
+      "name": "Survival", 
+      "color": "#FEC809",
+      "command": "/quickjoin survival",
+      "versions": "1.20.2<*"
+    }
+  },
+  "discord": {
+    "server_id": 1091785707502190682,
+    "rename_to_minecraft_name": false
+  }
+}

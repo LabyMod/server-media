@@ -1,0 +1,42 @@
+{
+  "server_name": "ikara",
+  "nice_name": "Ikara",
+  "direct_ip": "ikara.gg",
+  "supported_languages": [
+     "en"
+  ],
+  "social": {
+    "web_shop": "https://store.ikara.gg",
+    "twitter": "PlayIKARA",
+    "tiktok": "PlayIkara",
+    "discord": "https://discord.gg/BzUyWTCWD2",
+    "youtube": "https://www.youtube.com/@Ikaranetwork"
+  },
+  "gamemodes": {
+    "factions": {
+      "name": "Factions", 
+      "color": "#7CFDFF",
+      "command": "/server factions"
+    },
+    "practice": {
+      "name": "Practice", 
+      "color": "#FFE287",
+      "command": "/server practice"
+    },
+    "survival": {
+      "name": "Survival",
+      "color": "#8CFCB9",
+      "command": "/server survival"
+    }
+  },
+  "discord": {
+    "server_id": 566396846549893136,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#f8c161",
+     "background": "#464646",
+     "text": "#EEEEEE"
+  },
+  "yt_trailer": "1PkHxJT02J4&t"
+}

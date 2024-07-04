@@ -1,0 +1,40 @@
+{
+  "server_name": "lunarie",
+  "nice_name": "Lunarie.tv",
+  "direct_ip": "lunarie.tv",
+  "supported_languages": [
+     "de"
+  ],
+  "social": {
+    "web": "https://lunarie.tv",
+    "twitter": "Lunarie_ttv",
+    "discord": "https://discord.gg/xCyctN6rVN",
+    "tiktok": "lunarie_ttv",
+    "instagram": "__Lunarie__",
+    "youtube": "https://www.youtube.com/@lunarie_ttv"
+  },
+  "discord": {
+    "server_id": 776190633105948733,
+    "rename_to_minecraft_name": false
+  },
+  "gamemodes": {
+    "freebuild": {
+      "name": "Freebuild", 
+      "color": "#5bde3a",
+      "command": "/freebuild",
+      "versions": "1.20<*"
+    },
+    "pvp": {
+      "name": "PVP",
+      "color": "#dea543",
+      "command": "/pvp",
+      "versions": "1.20<*"
+    }
+  },
+  "brand": {
+     "primary": "#6E167B",
+     "background": "#110B12",
+     "text": "#F2EBF3"
+  },
+  "command_delay": 3000
+}
