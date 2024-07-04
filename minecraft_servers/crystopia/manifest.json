@@ -3,7 +3,7 @@
     "nice_name": "Crystopia",
     "direct_ip": "crystopia.net",
     "server_wildcards": [
-    "crystopia.%"
+    "crystopia.*"
     ],
     "supported_languages": [
        "en",
