@@ -40,6 +40,18 @@
             "command": "/gametp cb2",
             "versions": "1.8<1.20.6"
         },
+        "onehit": {
+            "name": "OneHit",
+            "color": "#f705ab",
+            "command": "/gametp onehit",
+            "versions": "1.8<1.20.6"
+        },
+        "skypvp": {
+            "name": "SkyPvP",
+            "color": "#f7df05",
+            "command": "/gametp spvp",
+            "versions": "1.8<1.20.6"
+        },
         "ffa": {
             "name": "FFA",
             "color": "#ed0c26",
@@ -63,25 +75,6 @@
             "color": "#de0b39",
             "command": "/gametp mlgrush",
             "versions": "1.8<1.20.6"
-        },
-        "onehit": {
-            "name": "OneHit",
-            "color": "#f705ab",
-            "command": "/gametp onehit",
-            "versions": "1.8<1.20.6"
-        },
-        "skypvp": {
-            "name": "SkyPvP",
-            "color": "#f7df05",
-            "command": "/gametp spvp",
-            "versions": "1.8<1.20.6"
-        },
-        "survival": {
-            "name": "Survival",
-            "color": "#0d6914",
-            "command": "/gametp survive",
-            "versions": "1.14<1.20.6"
-        }
     },
     "discord": {
         "server_id": 251791624483373060,
