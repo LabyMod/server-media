@@ -17,14 +17,12 @@
       "prison": {
         "name": "Prison", 
         "color": "#389EDC",
-        "command": "/prison",
-        "versions": "1.8.9-1.20.6"
+        "command": "/prison"
       },
       "skyblock": {
         "name": "Skyblock", 
         "color": "#389EDC",
-        "command": "/skyblock",
-        "versions": "1.20.6"
+        "command": "/skyblock"
       }
     },
     "discord": {
