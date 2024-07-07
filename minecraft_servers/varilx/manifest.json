@@ -3,7 +3,10 @@
   "nice_name": "Varilx Network",
   "direct_ip": "varilx.de",
   "server_wildcards": [
-    "%.varilx.de"
+    "mc.varilx.de",
+    "dev.varilx.de",
+    "content.varilx.de",
+    "bau.varilx.de"
   ],
   "supported_languages": [
      "de"
@@ -21,8 +24,15 @@
     "survival": {
       "name": "Survival", 
       "color": "#8995FF",
-      "versions": "1.12<1.20.4",
-      "command": "/spawn"
+      "versions": "1.12<1.21",
+      "url": "https://wiki.varilx.de/varilx.de-or-wiki/varilx-survival/",
+      "command": "/server Survival"
+    },
+    "skyblock": {
+      "name": "SkyBlock", 
+      "color": "#ba03fc",
+      "versions": "1.12<1.21",
+      "command": "/server SkyBlock"
     }
   },
   "brand": {
@@ -34,5 +44,6 @@
      "city": "Frankfurt",
      "country": "Germany",
      "country_code": "DE"
-  }
+  },
+  "yt_trailer": "0zF9Cwcj6BQ"
 }
