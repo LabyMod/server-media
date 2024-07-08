@@ -2,9 +2,6 @@
     "server_name": "crystopia",
     "nice_name": "Crystopia",
     "direct_ip": "crystopia.net",
-    "server_wildcards": [
-    "play.crystopia.de"
-    ],
     "supported_languages": [
        "en",
        "de"
