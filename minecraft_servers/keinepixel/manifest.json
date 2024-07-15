@@ -1,33 +1,11 @@
 {
   "server_name": "keinepixel",
-  "nice_name": "KeinePixel Network",
+  "nice_name": "KeinePixel",
   "direct_ip": "keinepixel.net",
-  "server_wildcards": [],
-  "supported_languages": [
-    "de-DE",
-    "en-GB",
-    "en-US"
+  "server_wildcards": [
+    "%.keinepixel.net"
   ],
-  "gamemodes": {
-    "skyblock": {
-      "name": "SkyBlock", 
-      "color": "#fc4646"
-    }
-  },
   "social": {
-    "discord": "https://discord.gg/F2h5mDjd6f",
-  },
-  "discord": {
-    "server_id": 1251985209750978610,
-    "rename_to_minecraft_name": false
-  },
-  "brand": {
-     "primary": "#fc4646",
-     "background": "#F9A825",
-     "text": "#ffff00"
-  },
-  "location": {
-    "country": "Germany",
-    "country_code": "DE"
- }
+    "discord": "https://discord.com/invite/F2h5mDjd6f"
+  }
 }
