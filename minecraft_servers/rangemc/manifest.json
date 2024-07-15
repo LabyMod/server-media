@@ -1,33 +1,47 @@
 {
-    "server_name": "rangemc",
-    "nice_name": "RangeMC",
-    "direct_ip": "rangemc.net",
-    "supported_languages": [
-       "de",
-       "en"
-    ],
-    "social": {
-      "discord": "https://discord.rangemc.net/"
+  "server_name": "rangemc",
+  "nice_name": "RangeMC",
+  "direct_ip": "rangemc.net",
+  "supported_languages": [
+     "en",
+     "de"
+  ],
+  "social": {
+    "web": "https://rangemc.net",
+    "web_shop": "https://rangemc.net/store",
+    "web_support": "https://rangemc.net/support",
+    "twitter": "RangeMCnet",
+    "tiktok": "RangeMC",
+    "instagram": "rangemc",
+    "discord": "https://discord.gg/8x4uSpp7UM",
+    "youtube": "https://www.youtube.com/@rangemc"
+  },
+  "gamemodes": {
+    "citybuild": {
+      "name": "JumpWorld", 
+      "color": "#ffaa00"
     },
-    "gamemodes": {
-      "citybuild": {
-        "name": "CityBuild", 
-        "color": "#ffff55",
-        "versions": "1.20.4"
-      }
-    },
-    "discord": {
-      "server_id": 1058101027527737365,
-      "rename_to_minecraft_name": false
-    },
-    "brand": {
-       "primary": "#ffaa00",
-       "background": "#36393e",
-       "text": "#FFFFFF"
-    }, 
-    "location": {
-       "city": "Frankfurt",
-       "country": "Germany",
-       "country_code": "DE"
+    "dna": {
+      "name": "DNA",
+      "color": "#ADD8E6",
+      "url": "https://www.timolia.de/games#dna",
+      "command": "/quickjoin dna",
+      "versions": "1.8<*"
     }
-  }
+  },
+  "discord": {
+    "server_id": 1058101027527737365,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#ffaa00",
+     "background": "#0A56A5",
+     "text": "#FFFFFF"
+  }, 
+  "location": {
+     "city": "Walldorf",
+     "country": "Germany",
+     "country_code": "DE"
+  },
+  "yt_trailer": "KrwzMFJausA"
+}
