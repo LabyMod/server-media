@@ -2,9 +2,6 @@
   "server_name": "keinepixel",
   "nice_name": "KeinePixel",
   "direct_ip": "keinepixel.net",
-  "server_wildcards": [
-    "%.keinepixel.net"
-  ],
   "social": {
     "discord": "https://discord.com/invite/F2h5mDjd6f"
   }
