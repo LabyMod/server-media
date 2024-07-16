@@ -9,7 +9,6 @@
   "social": {
     "web": "https://rangemc.net",
     "web_shop": "https://rangemc.net/store",
-    "web_support": "https://rangemc.net/support",
     "twitter": "RangeMCnet",
     "tiktok": "RangeMC",
     "instagram": "rangemc",
@@ -18,15 +17,8 @@
   },
   "gamemodes": {
     "citybuild": {
-      "name": "JumpWorld", 
+      "name": "CityBuild", 
       "color": "#ffaa00"
-    },
-    "dna": {
-      "name": "DNA",
-      "color": "#ADD8E6",
-      "url": "https://www.timolia.de/games#dna",
-      "command": "/quickjoin dna",
-      "versions": "1.8<*"
     }
   },
   "discord": {
@@ -39,7 +31,7 @@
      "text": "#FFFFFF"
   }, 
   "location": {
-     "city": "Walldorf",
+     "city": "Frankfurt",
      "country": "Germany",
      "country_code": "DE"
   },
