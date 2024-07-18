@@ -75,6 +75,7 @@
             "color": "#de0b39",
             "command": "/gametp mlgrush",
             "versions": "1.8<1.20.6"
+        }
     },
     "discord": {
         "server_id": 251791624483373060,
