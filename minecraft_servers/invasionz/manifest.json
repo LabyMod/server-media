@@ -3,8 +3,8 @@
   "nice_name": "InvasionZ",
   "direct_ip": "play.invasionz.net",
   "server_wildcards": [
-    "%.invasionz.net",
-    "%.lunamc.fr"
+    "play.invasionz.net",
+    "play.lunamc.fr"
   ],
   "supported_languages": [
     "fr"
