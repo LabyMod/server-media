@@ -2,10 +2,6 @@
   "server_name": "invasionz",
   "nice_name": "InvasionZ",
   "direct_ip": "play.invasionz.net",
-  "server_wildcards": [
-    "play.invasionz.net",
-    "play.lunamc.fr"
-  ],
   "supported_languages": [
     "fr"
   ],
