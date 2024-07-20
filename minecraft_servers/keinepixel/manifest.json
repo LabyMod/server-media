@@ -2,7 +2,26 @@
   "server_name": "keinepixel",
   "nice_name": "KeinePixel",
   "direct_ip": "keinepixel.net",
+  "server_wildcards": [
+    "%.keinepixel.net"
+  ],
   "social": {
     "discord": "https://discord.com/invite/F2h5mDjd6f"
+  },
+  "supported_languages": [
+     "en",
+     "de"
+  ],
+  "gamemodes": {
+    "skyblock" {
+      "name": "SkyBlock",
+      "color": "#ED7117",
+      "versions": "1.20<*"
+    }
+  },
+  "location": {
+     "city": "Walldorf",
+     "country": "Germany",
+     "country_code": "DE"
   }
 }
