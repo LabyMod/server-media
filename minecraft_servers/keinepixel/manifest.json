@@ -12,13 +12,6 @@
      "en",
      "de"
   ],
-  "gamemodes": {
-    "skyblock" {
-      "name": "SkyBlock",
-      "color": "#ED7117",
-      "versions": "1.20<*"
-    }
-  },
   "location": {
      "city": "Walldorf",
      "country": "Germany",
