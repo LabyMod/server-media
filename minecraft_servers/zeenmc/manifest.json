@@ -1,0 +1,31 @@
+{
+    "server_name": "zeenmc",
+    "nice_name": "ZeenMC Network",
+    "direct_ip": "play.zeenmc.es",
+    "server_wildcards": [
+      "%.zeenmc.es"
+    ],
+    "supported_languages": [
+      "es"
+    ],
+    "social": {
+      "web_shop": "https://tienda.zeenmc.es",
+      "twitter": "zeenmc_es",
+      "discord": "https://discord.gg/zdS4aEUyGG",
+      "tiktok": "zeenmc_"
+    },
+    "brand": {
+       "primary": "#FF8D33",
+       "background": "#00000",
+       "text": "#FFFFFF"
+    },
+    "location": {
+      "city": "Beauharnois",
+      "country": "Canada",
+      "country_code": "CA"
+    },
+    "discord": {
+      "server_id": 1237017916709539862,
+      "rename_to_minecraft_name": false
+    }
+}

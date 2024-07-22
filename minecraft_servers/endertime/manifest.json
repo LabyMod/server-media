@@ -1,0 +1,84 @@
+{
+   "server_name":"endertime",
+   "nice_name":"EnderTime",
+   "direct_ip":"endertime.net",
+   "supported_languages":[
+      "en",
+      "de"
+   ],
+   "yt_trailer": "rE_Dqakp8NM",
+   "command_delay": 3000,
+   "social":{
+      "twitter":"EnderTimeNET",
+      "tiktok":"endertimenetwork",
+      "discord":"https://discord.gg/G3qr5dpadU",
+      "youtube":"https://www.youtube.com/channel/UCEhzB2xkBtEPaIjD1LpxGpA",
+      "teamspeak":"endertime.net",
+      "web":"https://endertime.net",
+      "web_support":"https://endertime.net/SUPPORT"
+   },
+   "discord":{
+      "server_id":1104040356204523641,
+      "rename_to_minecraft_name":false
+   },
+   "location":{
+      "city":"Frankfurt",
+      "country":"Germany",
+      "country_code":"DE"
+   },
+   "brand": {
+      "primary": "#4a2770",
+      "background": "#4a2770",
+      "text": "#FFFFFF"
+  },
+   "gamemodes":{
+      "terra":{
+         "name":"Terra",
+         "color":"#84ff6c",
+         "command": "/quickjoin Terra",
+         "versions":"1.20<*"
+      },
+      "kbffa":{
+         "name":"KBFFA",
+         "color":"#ffac63",
+         "command": "/quickjoin KBFFA",
+         "versions":"1.20<*"
+      },
+      "destruction":{
+         "name":"Destruction",
+         "color":"#ff3838",
+         "command": "/quickjoin Destruction",
+         "versions":"1.20<*"
+      },
+      "dungeons":{
+         "name":"Dungeons",
+         "color":"#ffd800",
+         "command": "/quickjoin Dungeons",
+         "versions":"1.20<*"
+      },
+      "treewars":{
+         "name":"TreeWars",
+         "color":"#e2ff6c",
+         "command": "/quickjoin TreeWars",
+         "versions":"1.20<*"
+      },
+      "creative":{
+         "name":"Creative",
+         "color":"#73c2ff",
+         "command": "/quickjoin Creative",
+         "versions":"1.20<*"
+      },
+      "snowbattle":{
+         "name":"SnowBattle",
+         "color":"#ffffff",
+         "command": "/quickjoin SnowBattle",
+         "versions":"1.20<*"
+      },
+      "oitc":{
+         "name":"OITC",
+         "color":"#ffac63",
+         "command": "/quickjoin OITC",
+         "versions":"1.20<*"
+      }
+   }
+}
