@@ -1,0 +1,39 @@
+{
+  "server_name": "opsucht",
+  "nice_name": "OPSUCHT",
+  "direct_ip": "opsucht.net",
+  "server_wildcards": [
+    "%.opsucht.net",
+    "%.opsucht.de",
+    "%.opsucht.org",
+    "%.opsucht.com"
+  ],
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "web": "https://www.opsucht.net",
+    "web_shop": "https://shop.opsucht.net/labymod",
+    "discord": "https://opsucht.link/discord",
+    "teamspeak": "opsucht.net"
+  },
+  "chat": {
+    "message_formats": [
+      "^(|§8»\\n)(§[a-f0-9]§?l?(?<rank>\\S+))§r §8\\| §7(?<sender>[a-zA-Z0-9_]{2,16})§r §8» §7(?<message>.*)(|\\n§8»)$"
+    ]
+  },
+  "discord": {
+    "server_id": 492478214568935460
+  },
+  "brand": {
+    "primary": "#0095ed",
+    "background": "#00182e",
+    "text": "#ffffff"
+  },
+  "location": {
+    "city": "Frankfurt",
+    "country": "Germany",
+    "country_code": "DE"
+  },
+  "yt_trailer": "O7Zdr6ZygNo"
+}

@@ -1,0 +1,65 @@
+{
+  "server_name": "shieldbreak",
+  "nice_name": "Shield Break",
+  "direct_ip": "shield-break.net",
+  "supported_languages": [
+    "en",
+    "de"
+  ],
+  "social": {
+    "discord": "https://discord.gg/xQrCe23B7E",
+    "youtube": "https://www.youtube.com/@ShieldBreakNetwork"
+  },
+  "gamemodes": {
+    "airhit": {
+      "name": "AirHit",
+      "command": "/joingame airhit",
+      "color": "#00FFFF",
+      "versions": "1.16.5<*"
+    },
+    "mlgrush": {
+      "name": "MLGRush",
+      "command": "/joingame mlgrush",
+      "color": "#800080",
+      "versions": "1.16.5<*"
+    },
+    "minigames": {
+      "name": "MiniGames",
+      "command": "/joingame minigames",
+      "color": "#0000FF",
+      "versions": "1.16.5<*"
+    },
+    "bedwars": {
+      "name": "BedWars",
+      "command": "/joingame bw8x1",
+      "color": "#FF0000",
+      "versions": "1.16.5<*"
+    },
+    "cavepvp": {
+      "name": "CavePVP",
+      "command": "/joingame cavepvp",
+      "color": "#808080",
+      "versions": "1.16.5<*"
+    },
+    "modded": {
+      "name": "Modded",
+      "command": "/joinimmersive",
+      "color": "#FFC300",
+      "versions": "1.18.2"
+    }
+  },
+  "discord": {
+    "server_id": 889032211716784158,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#447eaf",
+    "background": "#1b2138",
+    "text": "#FFFFFF"
+  },
+  "location": {
+    "city": "Zuerich",
+    "country": "Schweiz",
+    "country_code": "CH"
+  }
+}

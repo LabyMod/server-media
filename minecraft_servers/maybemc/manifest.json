@@ -1,0 +1,22 @@
+{
+  "server_name": "maybemc",
+  "nice_name": "MaybeMC",
+  "direct_ip": "maybemc.net",
+  "social": {
+    "web": "https://maybemc.net",
+    "web_shop": "https://shop.maybemc.net",
+    "twitter": "maybemcnet",
+    "youtube": "https://www.youtube.com/@maybemcnetzwerk2759",
+    "instagram": "maybemcnet"
+  },
+  "discord": {
+    "server_id": 894672794774827061,
+    "rename_to_minecraft_name": false
+  },
+  "location": {
+    "city": "Frankfurt",
+    "country": "Germany",
+    "country_code": "DE"
+  },
+  "yt_trailer": "2ck0uJMeKkw"
+}

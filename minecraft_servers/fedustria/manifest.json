@@ -1,0 +1,29 @@
+{
+  "server_name": "fedustria",
+  "nice_name": "FedustriaNET",
+  "direct_ip": "fedustria.net",
+  "server_wildcards": [
+      "%.fedustria.net"
+  ],
+  "supported_languages": [
+     "en",
+     "de"
+  ],
+  "social": {
+    "web": "https://astral-network.eu", 
+    "discord": "https://discord.gg/nTj9WxUgyA"
+  },
+  "discord": {
+    "server_id": 1206731979538567168
+  },
+  "brand": {
+     "primary": "#3965b8",
+     "background": "#31669e",
+     "text": "#FFFFFF"
+  }, 
+  "location": {
+     "city": "Gravelines",
+     "country": "France",
+     "country_code": "FR"
+  }
+}

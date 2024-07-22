@@ -1,0 +1,15 @@
+{
+  "server_name": "diamondsucht",
+  "nice_name": "DIAMONDSUCHT",
+  "direct_ip": "diamondsucht.de",
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "web_shop": "https://store.diamondsucht.de",
+    "discord": "https://discord.com/invite/sy4v7YTFT5"
+  },
+  "discord": {
+    "server_id": 1129188986213113896
+  }
+}

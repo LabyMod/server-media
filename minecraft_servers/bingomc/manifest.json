@@ -1,0 +1,29 @@
+{
+  "server_name": "bingomc",
+  "nice_name": "BingoMC",
+  "direct_ip": "play.bingomc.net",
+  "supported_languages": [
+     "en"
+  ],
+  "social": {
+    "tiktok": "play.bingomc.net",
+    "discord": "https://discord.gg/MZ7Dna9nuW",
+    "youtube": "https://www.youtube.com/@playbingomc",
+    "web": "https://bingomc.net"
+  },
+  "discord": {
+    "server_id": 927990948535861278,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#55FF55",
+     "background": "#2A2E39",
+     "text": "#FFFFFF"
+  }, 
+  "location": {
+     "country": "Germany",
+     "country_code": "DE"
+  },
+  "yt_trailer": "Rq6sTrdjVVk",
+  "user_stats": "https://bingomc.net?stats_user=@{userName}"
+}
