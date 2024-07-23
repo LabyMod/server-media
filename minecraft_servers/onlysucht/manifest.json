@@ -1,0 +1,33 @@
+{
+  "server_name": "onlysucht",
+  "nice_name": "OnlySucht",
+
+  "direct_ip": "OnlySucht.net",
+  "supported_languages": "de",
+
+  "social": {
+    "web": "https://www.onlysucht.net",
+    "web_support": "https://help.onlysucht.net",
+    "twitter": "OnlySucht",
+    "tiktok": "OnlySucht",
+    "youtube": "https://www.youtube.com/@OnlySucht",
+    "discord": "https://discord.gg/EJBH9Uv7ar",
+    "instagram": "OnlySucht"
+  },
+
+  "discord": {
+    "server_id": "1191153819690729572"
+  },
+
+  "brand": {
+    "primary": "#00ffff",
+    "background": "#010101",
+    "text": "#ffffff"
+  },
+
+  "location": {
+    "city": "Frankfurt",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}
