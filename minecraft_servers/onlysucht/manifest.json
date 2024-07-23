@@ -6,13 +6,13 @@
   "supported_languages": "de",
 
   "social": {
-    "web": "https://www.onlysucht.net/",
-    "web_support": "https://help.onlysucht.net/",
-    "twitter": "https://x.com/OnlySucht",
-    "tiktok": "https://www.tiktok.com/@OnlySucht",
+    "web": "https://www.onlysucht.net",
+    "web_support": "https://help.onlysucht.net",
+    "twitter": "OnlySucht",
+    "tiktok": "OnlySucht",
     "youtube": "https://www.youtube.com/@OnlySucht",
     "discord": "https://discord.gg/EJBH9Uv7ar",
-    "instagram": "https://www.instagram.com/OnlySucht/"
+    "instagram": "OnlySucht"
   },
 
   "discord": {
