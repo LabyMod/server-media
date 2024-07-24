@@ -22,20 +22,20 @@
    "gamemodes":{
       "citybuild":{
          "name":"Citybuild",
-         "command": "/warp CB01",
-         "color":"#5CE1E6",
+         "command": "/cb01",
+         "color":"#FFAB02",
          "versions":"1.20>*"
       },
       "freebuild":{
          "name":"FreeBuild",
-         "command": "/warp FCB01",
-         "color":"#5CE1E6",
+         "command": "/fcb01",
+         "color":"#FFAB02",
          "versions":"1.20>*"
       },
       "knockffa":{
          "name":"KnockFFA",
-         "command": "/warp KnockFFA",
-         "color":"#5CE1E6",
+         "command": "/knochffa",
+         "color":"#FFAB02",
          "versions":"1.20>*"
       }
    }
