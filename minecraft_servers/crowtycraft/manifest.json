@@ -10,46 +10,43 @@
   ],
   "gamemodes": {
     "survival": {
-      "name": "Survival 1.16",
-      "color": "#4f24b5"
+      "name": "Survival 1.20.4"
     },
     "skywars": {
-      "name": "SkyWars",
-      "color": "#4f24b5"
+      "name": "SkyWars"
     },
     "skypvp": {
-      "name": "SkyPVP",
-      "color": "#4f24b5"
+      "name": "SkyPVP"
     },
     "dicegames": {
-      "name": "CrowtyDICE",
-      "color": "#4f24b5"
+      "name": "CrowtyDICE"
     },
     "skyblock": {
-      "name": "SkyBlock 1.16",
-      "color": "#4f24b5"
+      "name": "SkyBlock 1.20.4"
+    },
+    "boxpvp": {
+      "name": "GalaxyBox PVP"
     },
     "buildbattle": {
-      "name": "BuildBattle",
-      "color": "#4f24b5"
+      "name": "BuildBattle"
     },
-    "bedwars": {
-      "name": "BedWars",
-      "color": "#4f24b5"
+    "oneblock": {
+      "name": "OneBlock 1.20.4"
     }
   },
   "social": {
     "web": "https://crowtycraft.es",
     "web_shop": "https://tienda.crowtycraft.es",
-    "web_support": "https://crowtycraft.es/foro",
+    "web_support": "https://soporte.crowtycraft.es",
     "twitter": "crowtycraft",
     "tiktok": "crowtycraft",
+    "facebook": "CrowtyCraftNT",
     "youtube": "https://www.youtube.com/channel/UCh2nLY8c1c3sQcdYhhjF1vw",
-    "discord": "https://discord.gg/ADv3WnYTup",
+    "discord": "https://discord.gg/NmHFMnty8F",
     "instagram": "crowtycraft_network"
   },
   "discord": {
-    "server_id": 710707825344512030,
+    "server_id": 1161270930169929730,
     "rename_to_minecraft_name": false
   },
   "brand": {
@@ -59,5 +56,6 @@
     "city": "Barcelona",
     "country": "Spain",
     "country_code": "ES"
-  }
+  },
+  "yt_trailer": "m6VDJGohHkY"
 }
