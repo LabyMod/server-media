@@ -1,0 +1,45 @@
+{
+	"server_name": "ExtremeMage",
+	"nice_name": "ExtremeMage",
+	"direct_ip": "extrememage.mineserver.xyz",
+	"server_wildcards":[
+	  "%.extrememage.mineserver.xyz",
+	  "%.extrememage.mineserver.xyz"
+	],
+	"supported_languages":[
+	  "en"
+	],
+	"social":{
+	  "web": "https://app.extrememage.com",
+	  "web_shop": "https://app.extrememage.com/shop/credits",
+	  "web_support": "https://app.extrememage.com/support/form",
+	  "twitter": "artem20087136",
+	  "tiktok": "artem20087136",
+	  "facebook": "ExtremeMageServers",
+	  "instagram": "morohoevartem",
+	  "discord": "https://discord.gg/Qafwn7E4",
+	  "youtube": "https://www.youtube.com/artem2008russian"
+	},
+	"gamemodes":{
+	  "playerservers":{
+		"name": "Player Servers",
+		"color": "#FFFFFF",
+		"url": "https://app.extrememage.com/servers"
+	  }
+	},
+	"discord":{
+	  "server_id": 239599059415859200,
+	  "rename_to_minecraft_name": false
+	},
+	"brand":{
+	  "primary": "#19F4B9",
+	  "background": "#19F4B9",
+	  "text": "#00081A"
+	},
+	"location":{
+	  "city": "Toronto",
+	  "country": "Canada",
+	  "country_code": "CA"
+	},
+	"yt_trailer": "jzOIURoz1v4"
+}
