@@ -18,7 +18,7 @@
     "gamemodes": {
         "crafterbreak": {
             "name": "Crafterbreak",
-            "color": "#0AF0F0",
+            "color": "07F0E0",
             "command": "/gametp crafterbreak",
             "versions": "1.8<1.20.6"
         },
@@ -40,24 +40,6 @@
             "command": "/gametp cb2",
             "versions": "1.8<1.20.6"
         },
-        "onehit": {
-            "name": "OneHit",
-            "color": "#f705ab",
-            "command": "/gametp onehit",
-            "versions": "1.8<1.20.6"
-        },
-        "skypvp": {
-            "name": "SkyPvP",
-            "color": "#f7df05",
-            "command": "/gametp spvp",
-            "versions": "1.8<1.20.6"
-        },
-        "ffa": {
-            "name": "FFA",
-            "color": "#ed0c26",
-            "command": "/gametp ffa",
-            "versions": "1.8<1.20.6"
-        },
         "bedwars": {
             "name": "BW",
             "color": "#e3bcc1",
@@ -74,6 +56,24 @@
             "name": "MLGRush",
             "color": "#de0b39",
             "command": "/gametp mlgrush",
+            "versions": "1.8<1.20.6"
+        },
+        "onehit": {
+            "name": "OneHit",
+            "color": "#f705ab",
+            "command": "/gametp onehit",
+            "versions": "1.8<1.20.6"
+        },
+        "skypvp": {
+            "name": "SkyPvP",
+            "color": "#f7df05",
+            "command": "/gametp spvp",
+            "versions": "1.8<1.20.6"
+        },
+        "ffa": {
+            "name": "FFA",
+            "color": "#ed0c26",
+            "command": "/gametp ffa",
             "versions": "1.8<1.20.6"
         }
     },
