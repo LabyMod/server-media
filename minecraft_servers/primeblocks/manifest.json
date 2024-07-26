@@ -12,8 +12,13 @@
       "youtube": "https://youtube.com/@primeblocksserver"
     },
     "gamemodes": {
-      "citybuild": {
-        "name": "CityBuild", 
+      "citybuild1": {
+        "name": "CityBuild 1", 
+        "color": "#E8B50F",
+        "versions": "1.20<*"
+      },
+      "citybuild2": {
+        "name": "CityBuild 2", 
         "color": "#E8B50F",
         "versions": "1.20<*"
       }

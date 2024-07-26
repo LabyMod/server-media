@@ -1,0 +1,37 @@
+{
+    "server_name": "bencraft",
+    "nice_name": "Bencraft",
+    "direct_ip": "play.bencraft.xyz",
+    "supported_languages": ["de"],
+    "social": {
+        "web": "https://bencraft.xyz",
+        "web_shop": "https://shop.bencraft.xyz",
+        "discord": "https://discord.com/invite/mdWBX7whUG",
+        "youtube": "https://www.youtube.com/channel/UCZ_4IvaHjkJuKjP6FJSeb8Q"
+    },
+    "gamemodes": {
+        "bedwars": {
+            "name": "BedWars",
+            "color": "#f5c945",
+            "version": "1.20<*"
+        },
+        "hideandseek": {
+            "name": "Hide and Seek",
+            "color": "#c28610",
+            "version": "1.20<*"
+        },
+        "tycoon": {
+            "name": "Tycoon",
+            "color": "#e33d20",
+            "version": "1.20<*"
+        }
+    },
+    "discord": {
+        "server_id": "1137731868440137738"
+    },
+    "location": {
+        "country_code": "DE",
+        "country": "Germany",
+        "city": "Hessen"
+    }
+}

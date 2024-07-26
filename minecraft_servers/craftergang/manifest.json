@@ -40,6 +40,12 @@
             "command": "/gametp cb2",
             "versions": "1.8<1.20.6"
         },
+        "ffa": {
+            "name": "FFA",
+            "color": "#ed0c26",
+            "command": "/gametp ffa",
+            "versions": "1.8<1.20.6"
+        },
         "bedwars": {
             "name": "BW",
             "color": "#e3bcc1",
@@ -75,6 +81,11 @@
             "color": "#ed0c26",
             "command": "/gametp ffa",
             "versions": "1.8<1.20.6"
+        "survival": {
+            "name": "Survival",
+            "color": "#0d6914",
+            "command": "/gametp survive",
+            "versions": "1.14<1.20.6"
         }
     },
     "discord": {

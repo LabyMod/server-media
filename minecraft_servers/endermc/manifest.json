@@ -1,0 +1,25 @@
+{
+    "server_name": "endermc",
+    "nice_name": "EnderMC Network",
+    "direct_ip": "mc.endkind.net",
+    "social": {
+        "web": "https://mc.endkind.net",
+        "web_shop": "https://mc.endkind.net/shop"
+    },
+    "gamemodes": {
+        "community_craft": {
+            "name": "CommunityCraft",
+            "color": "#fff"
+        },
+        "tnttag": {
+            "name": "TNT Tag",
+            "color": "#fff",
+            "url": "https://mc.endkind.net/mode/tnt_tag"
+        },
+        "aaa": {
+            "name": "All Against All",
+            "color": "#fff",
+            "url": "https://mc.endkind.net/mode/aaa"
+        }
+    }
+}
