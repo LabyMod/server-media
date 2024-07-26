@@ -65,16 +65,10 @@
             "command": "/play buildffa",
             "versions": "1.8<*"
         },
-        "mlgrush": {
-            "name": "MLGRush",
-            "color": "#55FFFF",
-            "command": "/play mlgrush",
-            "versions": "1.8<*"
-        },
-        "clutches": {
-            "name": "Clutches",
+        "practice": {
+            "name": "Practice",
             "color": "#FF55FF",
-            "command": "/play clutches",
+            "command": "/play practice",
             "versions": "1.8<*"
         }
     },
