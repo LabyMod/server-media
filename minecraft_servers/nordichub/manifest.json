@@ -23,6 +23,17 @@
         "name": "Skyblock", 
         "color": "#389EDC",
         "command": "/skyblock"
+      },
+      "jumper": {
+        "name": "Jumper", 
+        "color": "#389EDC",
+        "command": "/jumper"
+      },
+      "smp": {
+        "name": "SMP", 
+        "versions": "1.20>*",
+        "color": "#389EDC",
+        "command": "/smp"
       }
     },
     "discord": {
