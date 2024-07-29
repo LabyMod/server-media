@@ -1,7 +1,7 @@
 {
   "server_name": "ninjamc",
   "nice_name": "ninjamc",
-  "direct_ip": "ninjamc.net",
+  "direct_ip": "ninjamc.de",
   "server_wildcards": [
     "%.ninjamc.net"
   ],
@@ -9,9 +9,9 @@
      "de"
   ],
   "social": {
-		"tiktok": "NinjaMC.net",
+		"tiktok": "NinjaMC.de",
 		"discord": "https://discord.gg/uhPfMuSHMp",
-		"teamspeak": "ts.ninjamc.net"
+		"teamspeak": "ts.ninjamc.de"
   },
   "gamemodes": {
 	"citybuild": {

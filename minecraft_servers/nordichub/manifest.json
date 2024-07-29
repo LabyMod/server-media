@@ -33,7 +33,7 @@
         "name": "SMP", 
         "versions": "1.20>*",
         "color": "#389EDC",
-        "command": "/jumper"
+        "command": "/smp"
       }
     },
     "discord": {
