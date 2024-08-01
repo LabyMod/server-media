@@ -1,0 +1,37 @@
+{
+  "server_name": "minityworld",
+  "nice_name": "MinityWorld",
+  "direct_ip": "minity.world",
+  "server_wildcards": [
+    "%.minity.world",
+    "%.minityworld.net"
+  ],
+  "supported_languages": [
+    "de", "en"
+  ],
+  "social": {
+    "discord": "https://discord.minity.world/",
+    "twitter": "MinityWorld"
+  },
+  "discord": {
+    "server_id": 1113564878754562112,
+    "rename_to_minecraft_name": false
+  },
+  "location": {
+    "city": "Frankfurt",
+    "country": "Germany",
+    "country_code": "DE"
+  },
+  "gamemodes": {
+    "tycoon": {
+      "name": "Tycoon",
+      "color": "#e4b319",
+      "command": "/quickjoin tycoon"
+    },
+    "island": {
+      "name": "Island",
+      "color": "#de9910",
+      "command": "/quickjoin island"
+    }
+  }
+}
