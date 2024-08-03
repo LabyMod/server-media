@@ -1,0 +1,43 @@
+{
+  "server_name": "clarrymc",
+  "nice_name": "ClarryMC",
+  "direct_ip": "clarrymc.de",
+  "server_wildcards": [
+    "%.clarrymc.de"
+  ],
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "web": "https://web.clarrymc.de",
+    "discord": "https://discord.gg/QXqryx4Wcj"
+    "youtube": "https://youtube.com/@clarrymc"
+  },
+    "gamemodes": {
+    "citybuild-1": {
+      "name": "Citybuild-1",
+      "command": "/server CityBuild-1"
+    },
+    "skypvp-1":{
+      "name": "Skypvp-1",
+      "command": "/server SkyPvP-1"
+    },
+    "dropper-1":{
+      "name": "Dropper-1",
+      "command": "/server Dropper-1"
+    }
+  },
+  "discord": {
+    "server_id": 1256979742457069658
+  },
+  "brand": {
+    "primary": "#0095ed",
+    "background": "#00182e",
+    "text": "#ffffff"
+  },
+  "location": {
+    "city": "Münster",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}
