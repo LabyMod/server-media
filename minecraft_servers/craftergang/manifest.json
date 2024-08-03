@@ -63,7 +63,7 @@
       "name": "SkyPvP",
       "color": "#f7df05",
       "command": "/gametp spvp",
-      "versions": "1.12<1.21"
+      "versions": "1.8<1.21"
     },
     "gungame": {
       "name": "Welt-Untergang",
