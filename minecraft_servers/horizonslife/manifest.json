@@ -1,0 +1,20 @@
+{
+    "server_name": "horizonslife",
+    "nice_name": "HorizonsLife",
+    "direct_ip": "horizonslife.eu",
+    "server_wildcards": [
+        "%.horizonslife.eu"
+    ],
+    "supported_languages": [
+        "de"
+    ],
+    "social": {
+        "discord": "https://discord.gg/f2UmdGKHBs",
+        "teamspeak": "horizonslife.eu"
+    },
+    "location": {
+        "city": "Frankfurt am Main",
+        "country": "Germany",
+        "country_code": "DE"
+      }
+}
