@@ -3,7 +3,7 @@
   "nice_name": "Craftergang",
   "direct_ip": "craftergang.de",
   "server_wildcards": [
-    "%.craftergang.net"
+    "craftergang.net"
   ],
   "supported_languages": [
     "de"
@@ -80,7 +80,7 @@
   },
   "discord": {
     "server_id": 251791624483373060,
-    "rename_to_minecraft_name": true
+    "rename_to_minecraft_name": false
   },
   "brand": {
     "primary": "#497cb1",
