@@ -2,9 +2,6 @@
   "server_name": "noviamc",
   "nice_name": "NoviaMC",
   "direct_ip": "NoviaMC.de",
-  "server_wildcards": [
-    "%.noviamc.de"
-  ],
   "social": {
     "twitter": "noviamcde",
     "discord": "https://discord.gg/h7ZzXycByV",

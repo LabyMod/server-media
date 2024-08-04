@@ -1,0 +1,23 @@
+{
+    "server_name": "baxnetzwerk",
+    "nice_name": "Bax Netzwerk",
+    "direct_ip": "play-bax.de",
+    "supported_languages": [
+      "de",
+      "en"
+    ],
+    "social": {
+      "web": "https://BaxNetzwerk.de",
+      "instagram": "BaxNetzwerk",
+      "twitter": "BaxNetzwerk",
+      "tiktok": "BaxNetzwerk",
+      "youtube": "https://www.youtube.com/@baxnetzwerk9169",
+      "discord": "https://discord.gg/66K6uha",
+      "teamspeak": "BaxNetzwerk.de"
+    },
+    "discord": {
+      "server_id": 690749639695138876,
+      "rename_to_minecraft_name": false
+    },
+    "yt_trailer": "9mob6bCCjzM"
+}

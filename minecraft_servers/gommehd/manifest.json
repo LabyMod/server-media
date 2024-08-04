@@ -35,7 +35,7 @@
     "instagram": "gommehdnetwork",
     "tiktok": "gommehdnet",
     "youtube": "https://www.youtube.com/GommeHDnet",
-    "discord": "https://discord.com/invite/Y9qVwk4",
+    "discord": "https://discord.gg/gommehdnet",
     "teamspeak": "GommeHD.net"
   },
   "gamemodes": {
@@ -103,27 +103,6 @@
       "url": "https://www.gommehd.net/game/Build%20FFA",
       "command": "/gameteleport ffabuild"
     },
-    "cores": {
-      "name": "Cores",
-      "url": "https://www.gommehd.net/game/Cores",
-      "command": "/gameteleport cores"
-    },
-    "cookies": {
-      "name": "Cookies",
-      "url": "https://www.gommehd.net/game/Cookies",
-      "command": "/gameteleport cookies",
-      "versions": "1.20<*"
-    },
-    "endergames": {
-      "name": "EnderGames",
-      "url": "https://www.gommehd.net/game/EnderGames",
-      "command": "/gameteleport eg"
-    },
-    "ffa-classic": {
-      "name": "FFA Classic",
-      "url": "https://www.gommehd.net/game/FFA%20Classic",
-      "command": "/gameteleport ffaclassic"
-    },
     "hardcore": {
       "name": "Hardcore",
       "url": "https://www.gommehd.net/game/Hardcore",
@@ -145,29 +124,6 @@
       "name": "PartyGames",
       "url": "https://www.gommehd.net/game/PartyGames",
       "command": "/gameteleport pg",
-      "versions": "1.20<*"
-    },
-    "quicksurvivalgames": {
-      "name": "QuickSurvivalGames",
-      "url": "https://www.gommehd.net/game/QuickSurvivalGames",
-      "command": "/gameteleport qsg",
-      "versions": "1.20<*"
-    },
-    "ragemode": {
-      "name": "RageMode",
-      "url": "https://www.gommehd.net/game/RageMode",
-      "command": "/gameteleport ragemode"
-    },
-    "speeduhc": {
-      "name": "SpeedUHC",
-      "url": "https://www.gommehd.net/game/SpeedUHC",
-      "command": "/gameteleport speeduhc",
-      "versions": "1.20<*"
-    },
-    "survivalgames": {
-      "name": "SurvivalGames",
-      "url": "https://www.gommehd.net/game/SurvivalGames",
-      "command": "/gameteleport sg24",
       "versions": "1.20<*"
     },
     "ttt": {

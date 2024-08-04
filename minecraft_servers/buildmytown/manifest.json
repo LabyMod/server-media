@@ -1,0 +1,30 @@
+{
+    "server_name": "buildmytown",
+    "nice_name": "BuildMyTown Netzwerk",
+    "direct_ip": "buildmytown.de",
+    "supported_languages": [
+       "de"
+    ],
+    "social": {
+      "tiktok": "buildmytown.de"
+    },
+    "gamemodes": {
+      "citybuild": {
+        "name": "CityBuild", 
+        "color": " #e6965e",
+        "versions": "1.20.4",
+        "command": "/citybuildserver"
+      },
+      "inselbuild": {
+        "name": "InselBuild", 
+        "color": " #e6965e",
+        "versions": "1.20.4",
+        "command": "/inselbuildserver"
+      }
+    },
+    "brand": {
+       "primary": "#f73724",
+       "background": "#33D515",
+       "text": "#D8D8D8"
+    } 
+  }

@@ -14,20 +14,20 @@
     "teamspeak": "ts.endernation.net"
   },
   "gamemodes": {
-    "BedWars": {
-      "name": "BedWars",
-      "color": "#d51212",
-      "url": "https://endernation.net/BedWars"
-    },
     "EnderGuns": {
       "name": "EnderGuns",
-      "color": "#d51212",
-      "url": "https://endernation.net/EnderGuns"
+      "url": "https://www.endernation.net/game/EnderGuns",
+      "command": "/gameteleport eg"
     },
     "EndOfLife": {
       "name": "EndOfLife",
-      "color": "#00e9fc",
-      "url": "https://endernation.net/EndOfLife"
+      "url": "https://www.endernation.net/game/EndOfLife",
+      "command": "/gameteleport eol"
+    },
+    "EnderNation-Community": {
+      "name": "EnderNation-Community",
+      "url": "https://www.endernation.net/game/Community",
+      "command": "/gameteleport enc"
     }
   },
   "discord": {

@@ -1,0 +1,17 @@
+{
+    "server_name": "opinsel",
+    "nice_name": "OpInsel",
+    "direct_ip": "mc.opinsel.de",
+    "supported_languages": [
+        "de"
+    ],
+    "social": {
+        "web": "https://opinsel.de",
+        "web_shop": "https://opinsel.de/shop",
+        "discord": "https://discord.gg/Mn9drhfaDQ"
+    },
+    "location": {
+        "country": "Germany",
+        "country_code": "DE"
+    }
+}

@@ -1,28 +1,55 @@
 {
-    "server_name": "superawesome",
-    "nice_name": "SuperAwesome",
-    "direct_ip": "superawesome.dk",
-    "server_wildcards": [
-      "%.superawesome.dk"
-    ],
-    "social": {
-      "web_shop": "https://superawesome.dk/#butik",
-      "discord": "https://discord.gg/SuperAwesome",
-      "tiktok": "superawesome.dk",
-      "youtube": "https://www.youtube.com/channel/UClhOqD9GXk2zGHZRluDLIBQ"
+  "server_name": "superawesome",
+  "nice_name": "SuperAwesome",
+  "direct_ip": "superawesome.dk",
+  "server_wildcards": [
+    "%.superawesome.dk"
+  ],
+  "supported_languages": [
+    "da"
+  ],
+  "social": {
+    "web": "https://superawesome.dk",
+    "web_shop": "https://superawesome.dk/#butik",
+    "discord": "https://discord.gg/SuperAwesome",
+    "tiktok": "superawesome.dk",
+    "youtube": "https://www.youtube.com/channel/UClhOqD9GXk2zGHZRluDLIBQ"
+  },
+  "gamemodes": {
+    "larmelobby": {
+      "name": "Larmelobby",
+      "command": "/server larmelobby",
+      "color": "#306fdb"
     },
-    "location": {
-      "city": "Copenhagen",
-      "country": "Denmark",
-      "country_code": "DA"
+    "shoppylobby": {
+      "name": "Shoppylobby",
+      "command": "/server shoppylobby",
+      "color": "#306fdb"
     },
-    "brand": {
-      "primary": "#306fdb",
-      "background": "#306fdb",
-      "text": "#ffffff"
+    "maskinrummet": {
+      "name": "Maskinrummet",
+      "command": "/server maskinrummet",
+      "color": "#306fdb"
     },
-    "discord": {
-      "server_id": 739186031412379738,
-      "rename_to_minecraft_name": true
+    "creepylobby": {
+      "name": "Creepylobby",
+      "command": "/server creepylobby",
+      "color": "#306fdb"
     }
+  },
+  "location": {
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "country_code": "DA"
+  },
+  "brand": {
+    "primary": "#306fdb",
+    "background": "#306fdb",
+    "text": "#ffffff"
+  },
+  "discord": {
+    "server_id": 739186031412379738,
+    "rename_to_minecraft_name": true
+  },
+  "command_delay": 250
 }
