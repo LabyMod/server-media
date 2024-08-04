@@ -10,11 +10,11 @@
     "ua"
   ],
   "social": {
-    "web": "https://lostvae.fun",
+    "web": "https://lostvale.fun",
     "discord": "https://lostvale.fun/discord",
-    "youtube": "https://www.youtube.com/channel/UC08AcOsWnw_gMXB3GJATp6Q",
+    "youtube": "https://www.youtube.com/channel/UC08AcOsWnw_gMXB3GJATp6Q"
   },
-"gamemodes": {
+  "gamemodes": {
     "mistland": {
       "name": "MistLand",
       "color": "#04FF00"
@@ -28,7 +28,7 @@
   },
   "yt_trailer": "fGpm7RETbWA",
   "location": {
-    "country": "Russian",
+    "country": "Russia",
     "country_code": "RU"
   }
 }
