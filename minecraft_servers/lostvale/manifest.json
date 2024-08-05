@@ -1,9 +1,25 @@
 {
   "server_name": "lostvale",
   "nice_name": "LostVale.fun",
-  "direct_ip": "play.lostvale.fun",
+  "direct_ip": "mc.lostvale.fun",
   "server_wildcards": [
-    "%.lostvale.fun"
+    "mc.lostvale.fun",
+    "auto.lostvale.fun",
+    "es.lostvale.fun",
+    "ez.lostvale.fun",
+    "go.lostvale.fun",
+    "la.lostvale.fun",
+    "ll.lostvale.fun",
+    "lul.lostvale.fun",
+    "mc.lostvale.fun",
+    "me.lostvale.fun",
+    "ml.lostvale.fun",
+    "mr.lostvale.fun",
+    "nr.lostvale.fun",
+    "tg.lostvale.fun",
+    "top.lostvale.fun",
+    "tt.lostvale.fun",
+    "yt.lostvale.fun"
   ],
   "supported_languages": [
     "ru",
