@@ -3,7 +3,7 @@
   "nice_name": "BlocksMC",
   "direct_ip": "blocksmc.com",
   "server_wildcards":[
-     "blocksmc.com"
+     "%.blocksmc.com"
   ],
   "social": {
     "web": "https://blocksmc.com",
