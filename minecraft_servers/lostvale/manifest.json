@@ -14,7 +14,8 @@
   "gamemodes": {
     "mistland": {
       "name": "MistLand",
-      "color": "#04FF00"
+      "color": "#04FF00",
+      "command": "/queue survival"
     }
   },
   "discord": {
