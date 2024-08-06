@@ -2,9 +2,8 @@
   "server_name": "blocksmc",
   "nice_name": "BlocksMC",
   "direct_ip": "blocksmc.com",
-   "server_wildcards":[
+  "server_wildcards":[
      "premium.blocksmc.com",
-     "%.blocksmc.com"
   ],
   "social": {
     "web": "https://blocksmc.com",
