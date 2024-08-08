@@ -1,0 +1,42 @@
+{
+  "server_name": "melonblocks",
+  "nice_name": "MelonBlocks",
+  "direct_ip": "melonblocks.net",
+  "server_wildcards": [
+    "%.melonblocks.net"
+  ],
+  "supported_languages": [
+     "de"
+  ],
+  "social": {
+    "twitter": "melonblocks_net",
+    "tiktok": "melonblocks_net",
+    "youtube": "https://www.youtube.com/@melonblocks_net",
+    "discord": "http://discord.melonblocks.net",
+    "teamspeak": "melonblocks.net"
+  },
+  "gamemodes": {
+    "citybuildlemon": {
+      "name": "CityBuild Lemon",
+      "color": "#FFFFFF"
+    },
+    "smp": {
+      "name": "SMP",
+      "color": "#FFFFFF"
+    }
+  },
+  "discord": {
+    "server_id": 1015691786850672660,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#818181",
+    "background": "#ffffff",
+    "text": "#000000"
+  },
+  "location": {
+     "city": "Frankfurt",
+     "country": "Germany",
+     "country_code": "DE"
+   }
+}
