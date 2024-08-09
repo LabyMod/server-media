@@ -3,8 +3,8 @@
   "nice_name": "Craftergang",
   "direct_ip": "craftergang.de",
   "server_wildcards": [
-    "%.craftergang.net",
-    "%.craftergang.de"
+    "craftergang.net",
+    "play.craftergang.de"
   ],
   "supported_languages": [
     "de",
