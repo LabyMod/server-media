@@ -1,0 +1,41 @@
+{
+  "server_name": "melonblocks",
+  "nice_name": "MelonBlocks",
+  "direct_ip": "melonblocks.net",
+  "server_wildcards": [
+    "%.melonblocks.net"
+  ],
+  "supported_languages": [
+     "en",
+     "de"
+  ],
+  "social": {
+    "tiktok": "melonblocks_net",
+    "youtube": "https://youtube.com/@melonblocks_net",
+    "discord": "https://discord.com/invite/g634f9sctV"
+  },
+  "gamemodes": {
+    "citybuildlemon": {
+      "name": "CityBuild Lemon",
+      "color": "#BF40BF"
+    },
+     "smp": {
+      "name": "SMP",
+      "color": "#BF40BF"
+    }
+  },
+  "discord": {
+    "server_id": 1269661962204221511,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#29fb08",
+    "background": "#353539",
+    "text": "#ffffff"
+  },
+  "location": {
+     "city": "Offenbach am Main",
+     "country": "Germany",
+     "country_code": "DE"
+   }
+}
