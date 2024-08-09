@@ -1,13 +1,16 @@
 {
     "server_name": "opinsel",
     "nice_name": "OpInsel",
-    "direct_ip": "mc.opinsel.de",
+    "direct_ip": "mc.opinsel.net",
+    "server_wildcards": [
+      "%.opinsel.net"
+    ],
     "supported_languages": [
         "de"
     ],
     "social": {
-        "web": "https://opinsel.de",
-        "web_shop": "https://opinsel.de/shop",
+        "web": "https://opinsel.net",
+        "web_shop": "https://opinsel.net/shop",
         "discord": "https://discord.gg/Mn9drhfaDQ"
     },
     "location": {
