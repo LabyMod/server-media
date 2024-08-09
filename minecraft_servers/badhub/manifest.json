@@ -3,8 +3,7 @@
   "nice_name": "BadHub",
   "direct_ip": "mc.badhub.cz",
   "server_wildcards": [
-    "mc.badhub.cz",
-    "play.badhub.cz"
+    "%.badhub.cz"
   ],
   "supported_languages": [
      "cz",
