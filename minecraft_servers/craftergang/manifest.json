@@ -3,10 +3,12 @@
   "nice_name": "Craftergang",
   "direct_ip": "craftergang.de",
   "server_wildcards": [
-    "craftergang.net"
+    "%.craftergang.net",
+    "%.craftergang.de"
   ],
   "supported_languages": [
-    "de"
+    "de",
+    "en"
   ],
   "social": {
     "discord": "https://discord.gg/ThCt8Pq",
@@ -20,61 +22,61 @@
       "name": "Crafterbreak",
       "color": "#07F0E0",
       "command": "/gametp crafterbreak",
-      "versions": "1.8<1.21"
+      "versions": "1.8<1.21.1"
     },
     "welt-untergang": {
       "name": "Untergang",
       "color": "#0bde19",
       "command": "/gametp wu",
-      "versions": "1.8<1.21"
+      "versions": "1.8<1.21.1"
     },
     "cbdesert": {
       "name": "CB Desert",
       "color": "#0d6914",
       "command": "/gametp cb1",
-      "versions": "1.8<1.21"
+      "versions": "1.8<1.21.1"
     },
     "cbwater": {
       "name": "CB Water",
       "color": "#13c7eb",
       "command": "/gametp cb2",
-      "versions": "1.12<1.21"
+      "versions": "1.12<1.21.1"
     },
     "onehit": {
       "name": "OneHit",
       "color": "#f705ab",
       "command": "/gametp onehit",
-      "versions": "1.8<1.21"
+      "versions": "1.8<1.21.1"
     },
     "ffa": {
       "name": "FFA",
       "color": "#ed0c26",
       "command": "/gametp ffa",
-      "versions": "1.8<1.21"
+      "versions": "1.8<1.21.1"
     },
     "bedwars": {
       "name": "BW",
       "color": "#e3bcc1",
       "command": "/gametp bw",
-      "versions": "1.8<1.21"
+      "versions": "1.8<1.21.1"
     },
     "skypvp": {
       "name": "SkyPvP",
       "color": "#f7df05",
       "command": "/gametp spvp",
-      "versions": "1.8<1.21"
+      "versions": "1.8<1.21.1"
     },
     "gungame": {
       "name": "Welt-Untergang",
       "color": "#0bde19",
       "command": "/gametp gungame",
-      "versions": "1.8<1.21"
+      "versions": "1.8<1.21.1"
     },
     "mlgrush": {
       "name": "MLGRush",
       "color": "#de0b39",
       "command": "/gametp mlgrush",
-      "versions": "1.8<1.21"
+      "versions": "1.8<1.21.1"
     }
   },
   "discord": {
