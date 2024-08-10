@@ -2,10 +2,6 @@
   "server_name": "senorpollo",
   "nice_name": "SenorPollo Netzwerk",
   "direct_ip": "senorpollo.net",
-  "server_wildcards": [
-    "%.senorpollo.net",
-    "%.senor-pollo.net"
-  ],
   "supported_languages": [
     "de"
   ],
