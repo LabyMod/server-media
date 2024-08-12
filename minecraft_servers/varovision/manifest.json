@@ -8,6 +8,9 @@
   "social": {
     "discord": "https://discord.gg/Vf98Pe54W4"
   },
+  "discord": {
+    "server_id": 1257300329737752648
+  },
   "brand": {
     "primary": "#ff5555"
   },
