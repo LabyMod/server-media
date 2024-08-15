@@ -1,0 +1,16 @@
+{
+    "server_name": "mixelbuild",
+    "nice_name": "MixelBuild",
+    "direct_ip": "MixelBuild.de",
+    "server_wildcards": [
+        "%.MixelBuild.de"
+    ],
+    "social": {
+    "tiktok": "mixelbuild",
+    "discord": "https://discord.gg/H7ekm5h27C",
+    },
+    "brand": {
+        "primary": "#FFAA00",
+        "background": "#FFFF55"
+    }
+}
