@@ -1,0 +1,22 @@
+{
+  "server_name": "ogcraft",
+  "nice_name": "OGcraft",
+  "direct_ip": "ogcraft.eu",
+  "server_wildcards": [
+    "%.ogcraft.eu"
+  ],
+  "social": {
+    "web": "https://ogcraft.eu",
+    "twitter": "ogcrafteu",
+    "discord": "https://discord.gg/VhVhhp2KPR"
+  },
+  "discord": {
+    "server_id": 1250598213379952821,
+    "rename_to_minecraft_name": true
+  },
+  "brand": {
+    "primary": "#007bff",
+    "background": "#0c6ec4",
+    "text": "#FFFFFF"
+  }
+}
