@@ -2,7 +2,6 @@
   "server_name": "parraland",
   "nice_name": "Parraland Network",
   "direct_ip": "mc.parraland.es",
-  "server_wildcards": [],
   "supported_languages": [
     "es"
   ],
@@ -14,7 +13,7 @@
   },
   "brand": {
     "primary": "#FF8D33",
-    "background": "#00000",
+    "background": "#000000",
     "text": "#FFFFFF"
   },
   "location": {
