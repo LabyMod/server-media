@@ -12,16 +12,16 @@
       "youtube":"https://www.youtube.com/@craftportal_net"
   },
   "gamemodes": {
-    "citybuild": {
-      "name": "Citybuild",
-      "command": "/cb02",
-      "color": "#5CE1E6",
+    "battleground": {
+      "name": "Construct & Conquer",
+      "command": "/battleground",
+      "color": "#22D2FC",
       "versions": "1.20<*"
     },
     "knockffa": {
       "name": "KnockFFA",
       "command": "/knockffa",
-      "color": "#5CE1E6",
+      "color": "#22D2FC",
       "versions": "1.20<*"
     }
   },
@@ -30,7 +30,7 @@
     "rename_to_minecraft_name": false
   },
   "brand": {
-     "primary": "#5CE1E6",
+     "primary": "#22D2FC",
      "background": "#1E7B87",
      "text": "#FFFFFF"
   },
