@@ -1,17 +1,17 @@
 {
   "server_name": "akratis",
   "nice_name": "Akratis",
-  "direct_ip": "Akratis.de",
+  "direct_ip": "akratis.de",
   "server_wildcards": [
-    "ip6.akratis.de"
+    "%.akratis.de"
   ],
   "social": {
-    "web": "https://akratis.de/",
-    "discord": "https://discord.gg/9wY4qbdFcP",
+    "web": "https://acewolf.eu",
+   "discord": "https://discord.gg/9wY4qbdFcP",
   },
   "discord": {
     "server_id": 1275921226396602378,
-    "rename_to_minecraft_name": true
+    "rename_to_minecraft_name": false
   },
   "location": {
     "city": "Nordhorn",
