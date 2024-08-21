@@ -6,7 +6,7 @@
       "%.opinsel.net"
     ],
     "gamemodes": {
-        "smp": {
+        "tntrun": {
           "name": "TNTRun", 
           "color": "#Ff0000",
           "command": "/server tntrun",
