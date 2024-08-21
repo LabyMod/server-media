@@ -5,12 +5,26 @@
   "server_wildcards": [
     "%.akratis.de"
   ],
+  "supported_languages": [
+     "de"
+  ],
   "social": {
-    "web": "https://www.akratis.de",
-    "twitter": "GermanMinerDE",
-  }
-    },
+    "web": "https://akratis.de/",
+    "discord": "https://discord.gg/9wY4qbdFcP",
+
+  },
   "discord": {
-    "server_id": 260471731809026048,
+    "server_id": 1275921226396602378,
     "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#008FE8",
+     "background": "#0A56A5",
+     "text": "#FFFFFF"
+  }, 
+  "location": {
+     "city": "Nordhorn",
+     "country": "Germany",
+     "country_code": "DE"
   }
+}
