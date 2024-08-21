@@ -3,8 +3,7 @@
   "nice_name": "§8§l[§c§lGame§f§lUP§8§l]§8",
   "direct_ip": "mc.gameup.ir",
   "server_wildcards": [
-    "%.gameup.ir",
-    "%.voidpixel.ir"
+    "play.voidpixel.ir"
   ],
   "supported_languages": [
     "fa"
