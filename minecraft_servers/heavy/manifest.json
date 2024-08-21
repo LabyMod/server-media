@@ -3,8 +3,7 @@
   "nice_name": "Rede Heavy",
   "direct_ip": "redeheavy.com.br",
   "server_wildcards": [
-    "%.redeheavy.com.br",
-    "redeheavy.com.br"
+    "%.redeheavy.com.br"
   ],
   "gamemodes": {
     "factions": {
