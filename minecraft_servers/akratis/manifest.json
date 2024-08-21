@@ -16,6 +16,5 @@
     "brand": {
        "primary": "#001414",
        "background": "#008cd3"
-    },
-    "user_stats": "https://blocksmc.com/player/{userName}"
+    }
   }
