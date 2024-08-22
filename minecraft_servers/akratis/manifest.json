@@ -11,7 +11,7 @@
   },
   "discord": {
     "server_id": 1275921226396602378,
-    "rename_to_minecraft_name": true
+    "rename_to_minecraft_name": false
   },
   "location": {
     "city": "Nordhorn",
