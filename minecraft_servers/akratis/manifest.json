@@ -2,11 +2,8 @@
   "server_name": "akratis",
   "nice_name": "Akratis",
   "direct_ip": "Akratis.de",
-  "server_wildcards": [
-    "ip6.akratis.de"
-  ],
   "social": {
-    "web": "https://akratis.de/",
+    "web": "https://akratis.de",
     "discord": "https://discord.gg/9wY4qbdFcP"
   },
   "discord": {
