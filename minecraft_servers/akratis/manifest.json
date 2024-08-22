@@ -1,9 +1,12 @@
 {
   "server_name": "akratis",
   "nice_name": "Akratis",
-  "direct_ip": "akratis.de",
+  "direct_ip": "Akratis.de",
   "server_wildcards": [
     "%.akratis.de"
+  ],
+  "supported_languages": [
+    "de"
   ],
   "social": {
     "web": "https://akratis.de",
