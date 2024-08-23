@@ -32,6 +32,22 @@
       "name": "OneBlock",
       "command": "/oneblock"
     },
+    "prison":{
+      "name": "Prison",
+      "command": "/prison"
+    },
+    "eggwars":{
+      "name": "EggWars",
+      "command": "/eggwars"
+    },
+    "arcade":{
+      "name": "Arcade",
+      "command": "/arcade"
+    },
+    "skywars":{
+      "name": "SkyWars",
+      "command": "/skywars"
+    },
     "kitpvp":{
       "name": "KitPVP",
       "command": "/kitpvp"

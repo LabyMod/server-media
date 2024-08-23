@@ -24,7 +24,7 @@
     "gamemodes": {
         "assembly": {
             "name": "Assembly",
-            "color": "#FF5555",
+            "color": "#e84118",
             "versions": "1.16<*"
         },
         "catch": {
@@ -34,12 +34,12 @@
         },
         "tumble": {
             "name": "Tumble",
-            "color": "#5555FF",
+            "color": "#FF55FF",
             "versions": "1.16<*"
         },
         "skirmish": {
             "name": "Skirmish",
-            "color": "#00AA00",
+            "color": "#5555FF",
             "versions": "1.16<*"
         },
         "beebattle": {

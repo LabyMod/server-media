@@ -17,25 +17,501 @@
     "teamspeak": "ts.hypixel.net"
   },
   "gamemodes": {
-    "skyblock": {
+    "sb": {
       "name": "SkyBlock",
       "command": "/play sb"
     },
-    "bedwards":{
-      "name": "BedWars Solo",
+    "bedwars_eight_one": {
+      "name": "Bed Wars Solo",
       "command": "/play bedwars_eight_one"
     },
-    "skywars": {
-      "name": "SkyWars Solo",
+    "solo_normal": {
+      "name": "Skywars Solo Normal",
       "command": "/play solo_normal"
     },
-    "murder_mystery":{
+    "murder_classic": {
       "name": "Murder Mystery Classic",
       "command": "/play murder_classic"
     },
-    "dropper":{
-      "name": "Dropper",
-      "command": "/play prototype_dropper"
+    "housing": {
+      "name": "Housing",
+      "command": "/lobby housing"
+    },
+    "bedwars_two_four": {
+      "name": "Bed Wars 4v4",
+      "command": "/play bedwars_two_four"
+    },
+    "bedwars_eight_two": {
+      "name": "Bed Wars Doubles",
+      "command": "/play bedwars_eight_two"
+    },
+    "bedwars_four_three": {
+      "name": "Bed Wars 3v3v3v3",
+      "command": "/play bedwars_four_three"
+    },
+    "bedwars_four_four": {
+      "name": "Bed Wars 4v4v4v4",
+      "command": "/play bedwars_four_four"
+    },
+    "bedwars_practice": {
+      "name": "Bed Wars Practice",
+      "command": "/play bedwars_practice"
+    },
+    "bedwars_eight_one_rush": {
+      "name": "Bed Wars Dreams Rush Solo",
+      "command": "/play bedwars_eight_one_rush"
+    },
+    "bedwars_eight_two_rush": {
+      "name": "Bed Wars Dreams Rush Doubles",
+      "command": "/play bedwars_eight_two_rush"
+    },
+    "bedwars_four_four_rush": {
+      "name": "Bed Wars Dreams Rush 4v4v4v4",
+      "command": "/play bedwars_four_four_rush"
+    },
+    "bedwars_eight_one_ultimate": {
+      "name": "Bed Wars Dreams Ultimate Solo",
+      "command": "/play bedwars_eight_one_ultimate"
+    },
+    "bedwars_eight_two_ultimate": {
+      "name": "Bed Wars Dreams Ultimate Doubles",
+      "command": "/play bedwars_eight_two_ultimate"
+    },
+    "bedwars_four_four_ultimate": {
+      "name": "Bed Wars Dreams Ultimate 4v4v4v4",
+      "command": "/play bedwars_four_four_ultimate"
+    },
+    "bedwars_castle": {
+      "name": "Bed Wars Dreams Castle",
+      "command": "/play bedwars_castle"
+    },
+    "bedwars_eight_two_lucky": {
+      "name": "Bed Wars Dreams Lucky Blocks Doubles",
+      "command": "/play bedwars_eight_two_lucky"
+    },
+    "bedwars_four_four_lucky": {
+      "name": "Bed Wars Dreams Lucky Blocks 4v4v4v4",
+      "command": "/play bedwars_four_four_lucky"
+    },
+    "bedwars_eight_two_voidless": {
+      "name": "Bed Wars Dreams Voidless Doubles",
+      "command": "/play bedwars_eight_two_voidless"
+    },
+    "bedwars_four_four_voidless": {
+      "name": "Bed Wars Dreams Voidless 4v4v4v4",
+      "command": "/play bedwars_four_four_voidless"
+    },
+    "bedwars_eight_two_armed": {
+      "name": "Bed Wars Dreams Armed Doubles",
+      "command": "/play bedwars_eight_two_armed"
+    },
+    "bedwars_four_four_armed": {
+      "name": "Bed Wars Dreams Armed 4v4v4v4",
+      "command": "/play bedwars_four_four_armed"
+    },
+    "solo_insane": {
+      "name": "Skywars Solo Insane",
+      "command": "/play solo_insane"
+    },
+    "teams_normal": {
+      "name": "Skywars Teams Normal",
+      "command": "/play teams_normal"
+    },
+    "teams_insane": {
+      "name": "Skywars Teams Insane",
+      "command": "/play teams_insane"
+    },
+    "mega_normal": {
+      "name": "Skywars Mega",
+      "command": "/play mega_normal"
+    },
+    "mega_doubles": {
+      "name": "Skywars Mega Doubles",
+      "command": "/play mega_doubles"
+    },
+    "duels_bow_duel": {
+      "name": "Duels Bow Duel",
+      "command": "/play duels_bow_duel"
+    },
+    "duels_mw_duel": {
+      "name": "Duels Mega Walls Duel",
+      "command": "/play duels_mw_duel"
+    },
+    "duels_uhc_four": {
+      "name": "Duels UHC Four",
+      "command": "/play duels_uhc_four"
+    },
+    "duels_sw_doubles": {
+      "name": "Duels SkyWars Doubles",
+      "command": "/play duels_sw_doubles"
+    },
+    "duels_uhc_doubles": {
+      "name": "Duels UHC Doubles",
+      "command": "/play duels_uhc_doubles"
+    },
+    "duels_uhc_duel": {
+      "name": "Duels UHC Duel",
+      "command": "/play duels_uhc_duel"
+    },
+    "duels_op_doubles": {
+      "name": "Duels OP Doubles",
+      "command": "/play duels_op_doubles"
+    },
+    "duels_op_duel": {
+      "name": "Duels OP Duel",
+      "command": "/play duels_op_duel"
+    },
+    "duels_uhc_meetup": {
+      "name": "Duels UHC Deathmatch",
+      "command": "/play duels_uhc_meetup"
+    },
+    "duels_mw_doubles": {
+      "name": "Duels Mega Walls Doubles",
+      "command": "/play duels_mw_doubles"
+    },
+    "duels_classic_duel": {
+      "name": "Duels Classic Duel",
+      "command": "/play duels_classic_duel"
+    },
+    "duels_potion_duel": {
+      "name": "Duels Potion Duel",
+      "command": "/play duels_potion_duel"
+    },
+    "duels_combo_duel": {
+      "name": "Duels Combo Duel",
+      "command": "/play duels_combo_duel"
+    },
+    "duels_sw_duel": {
+      "name": "Duels SkyWars Duel",
+      "command": "/play duels_sw_duel"
+    },
+    "duels_blitz_duel": {
+      "name": "Duels Blitz Duel",
+      "command": "/play duels_blitz_duel"
+    },
+    "duels_bowspleef_duel": {
+      "name": "Duels Bow Spleef Duel",
+      "command": "/play duels_bowspleef_duel"
+    },
+    "duels_sumo_duel": {
+      "name": "Duels Sumo Duel",
+      "command": "/play duels_sumo_duel"
+    },
+    "duels_bridge_duel": {
+      "name": "Duels Bridge Duel",
+      "command": "/play duels_bridge_duel"
+    },
+    "duels_bridge_doubles": {
+      "name": "Duels Bridge Doubles",
+      "command": "/play duels_bridge_doubles"
+    },
+    "duels_bridge_threes": {
+      "name": "Duels Bridge 3v3",
+      "command": "/play duels_bridge_threes"
+    },
+    "duels_bridge_four": {
+      "name": "Duels Bridge 4v4",
+      "command": "/play duels_bridge_four"
+    },
+    "duels_bridge_2v2v2v2": {
+      "name": "Duels Bridge 2v2v2v2",
+      "command": "/play duels_bridge_2v2v2v2"
+    },
+    "duels_bridge_3v3v3v3": {
+      "name": "Duels Bridge 3v3v3v3",
+      "command": "/play duels_bridge_3v3v3v3"
+    },
+    "duels_capture_threes": {
+      "name": "Duels Bridge CTF 3v3",
+      "command": "/play duels_capture_threes"
+    },
+    "duels_boxing_duel": {
+      "name": "Duels Boxing Duel",
+      "command": "/play duels_boxing_duel"
+    },
+    "duels_parkour_eight": {
+      "name": "Duels Parkour",
+      "command": "/play duels_parkour_eight"
+    },
+    "duels_duel_arena": {
+      "name": "Duels Duel Arena",
+      "command": "/play duels_duel_arena"
+    },
+    "arcade_hole_in_the_wall": {
+      "name": "Arcade Hole in the Wall",
+      "command": "/play arcade_hole_in_the_wall"
+    },
+    "arcade_soccer": {
+      "name": "Arcade Football",
+      "command": "/play arcade_soccer"
+    },
+    "arcade_bounty_hunters": {
+      "name": "Arcade Bounty Hunters",
+      "command": "/play arcade_bounty_hunters"
+    },
+    "arcade_pixel_painters": {
+      "name": "Arcade Pixel Painters",
+      "command": "/play arcade_pixel_painters"
+    },
+    "arcade_dragon_wars": {
+      "name": "Arcade Dragon Wars",
+      "command": "/play arcade_dragon_wars"
+    },
+    "arcade_ender_spleef": {
+      "name": "Arcade Ender Spleef",
+      "command": "/play arcade_ender_spleef"
+    },
+    "arcade_starwars": {
+      "name": "Arcade Galaxy Wars",
+      "command": "/play arcade_starwars"
+    },
+    "arcade_throw_out": {
+      "name": "Arcade Throw Out",
+      "command": "/play arcade_throw_out"
+    },
+    "arcade_creeper_attack": {
+      "name": "Arcade Creeper Attack",
+      "command": "/play arcade_creeper_attack"
+    },
+    "arcade_party_games_1": {
+      "name": "Arcade Party Games",
+      "command": "/play arcade_party_games_1"
+    },
+    "arcade_farm_hunt": {
+      "name": "Arcade Farm Hunt",
+      "command": "/play arcade_farm_hunt"
+    },
+    "arcade_zombies_dead_end": {
+      "name": "Arcade Zombies - Dead End",
+      "command": "/play arcade_zombies_dead_end"
+    },
+    "arcade_zombies_bad_blood": {
+      "name": "Arcade Zombies - Bad Blood",
+      "command": "/play arcade_zombies_bad_blood"
+    },
+    "arcade_zombies_alien_arcadium": {
+      "name": "Arcade Zombies - Alien Arcadium",
+      "command": "/play arcade_zombies_alien_arcadium"
+    },
+    "arcade_hide_and_seek_prop_hunt": {
+      "name": "Arcade Hide and Seek - Prop Hunt",
+      "command": "/play arcade_hide_and_seek_prop_hunt"
+    },
+    "arcade_hide_and_seek_party_pooper": {
+      "name": "Arcade Hide and Seek - Party Pooper",
+      "command": "/play arcade_hide_and_seek_party_pooper"
+    },
+    "arcade_simon_says": {
+      "name": "Arcade Hypixel Says",
+      "command": "/play arcade_simon_says"
+    },
+    "arcade_mini_walls": {
+      "name": "Arcade Mini Walls",
+      "command": "/play arcade_mini_walls"
+    },
+    "arcade_day_one": {
+      "name": "Arcade Blocking Dead",
+      "command": "/play arcade_day_one"
+    },
+    "arcade_pvp_ctw": {
+      "name": "Arcade Capture The Wool",
+      "command": "/play arcade_pvp_ctw"
+    },
+    "arcade_dropper": {
+      "name": "Arcade Dropper",
+      "command": "/play arcade_dropper"
+    },
+    "arcade_pixel_party": {
+      "name": "Arcade Pixel Party",
+      "command": "/play arcade_pixel_party"
+    },
+    "warlords_ctf_mini": {
+      "name": "Warlords Capture the Flag",
+      "command": "/play warlords_ctf_mini"
+    },
+    "warlords_domination": {
+      "name": "Warlords Domination",
+      "command": "/play warlords_domination"
+    },
+    "warlords_team_deathmatch": {
+      "name": "Warlords Team Deathmatch",
+      "command": "/play warlords_team_deathmatch"
+    },
+    "mw_standard": {
+      "name": "Mega Walls Standard",
+      "command": "/play mw_standard"
+    },
+    "mw_face_off": {
+      "name": "Mega Walls Faceoff",
+      "command": "/play mw_face_off"
+    },
+    "blitz_solo_normal": {
+      "name": "Blitz SG Solo",
+      "command": "/play blitz_solo_normal"
+    },
+    "blitz_teams_normal": {
+      "name": "Blitz SG Teams",
+      "command": "/play blitz_teams_normal"
+    },
+    "tnt_tntrun": {
+      "name": "TNT Games TNT Run",
+      "command": "/play tnt_tntrun"
+    },
+    "tnt_pvprun": {
+      "name": "TNT Games PVP Run",
+      "command": "/play tnt_pvprun"
+    },
+    "tnt_bowspleef": {
+      "name": "TNT Games Bow Spleef",
+      "command": "/play tnt_bowspleef"
+    },
+    "tnt_tntag": {
+      "name": "TNT Games TNT Tag",
+      "command": "/play tnt_tntag"
+    },
+    "tnt_capture": {
+      "name": "TNT Games TNT Wizards",
+      "command": "/play tnt_capture"
+    },
+    "pit": {
+      "name": "The Pit",
+      "command": "/play pit"
+    },
+    "vampirez": {
+      "name": "Classic Games VampireZ",
+      "command": "/play vampirez"
+    },
+    "quake_solo": {
+      "name": "Classic Games Quake Solo",
+      "command": "/play quake_solo"
+    },
+    "quake_teams": {
+      "name": "Classic Games Quake Teams",
+      "command": "/play quake_teams"
+    },
+    "paintball": {
+      "name": "Classic Games Paintball",
+      "command": "/play paintball"
+    },
+    "arena_1v1": {
+      "name": "Classic Games Arena 1v1",
+      "command": "/play arena_1v1"
+    },
+    "arena_2v2": {
+      "name": "Classic Games Arena 2v2",
+      "command": "/play arena_2v2"
+    },
+    "arena_4v4": {
+      "name": "Classic Games Arena 4v4",
+      "command": "/play arena_4v4"
+    },
+    "walls": {
+      "name": "Classic Games The Walls",
+      "command": "/play walls"
+    },
+    "tkr": {
+      "name": "Classic Games Turbo Kart Racers",
+      "command": "/play tkr"
+    },
+    "mcgo_normal": {
+      "name": "Cops and Crims Defusal",
+      "command": "/play mcgo_normal"
+    },
+    "mcgo_deathmatch": {
+      "name": "Cops and Crims Deathmatch",
+      "command": "/play mcgo_deathmatch"
+    },
+    "mcgo_normal_party": {
+      "name": "Cops and Crims Defusal Party",
+      "command": "/play mcgo_normal_party"
+    },
+    "mcgo_deathmatch_party": {
+      "name": "Cops and Crims Deathmatch Party",
+      "command": "/play mcgo_deathmatch_party"
+    },
+    "mcgo_gungame": {
+      "name": "Cops and Crims Gun Game",
+      "command": "/play mcgo_gungame"
+    },
+    "build_battle_solo_normal": {
+      "name": "Build Battle Solo",
+      "command": "/play build_battle_solo_normal"
+    },
+    "build_battle_teams_normal": {
+      "name": "Build Battle Teams",
+      "command": "/play build_battle_teams_normal"
+    },
+    "build_battle_solo_pro": {
+      "name": "Build Battle Pro Mode",
+      "command": "/play build_battle_solo_pro"
+    },
+    "build_battle_guess_the_build": {
+      "name": "Build Battle Guess The Build",
+      "command": "/play build_battle_guess_the_build"
+    },
+    "uhc_solo": {
+      "name": "UHC Solo",
+      "command": "/play uhc_solo"
+    },
+    "uhc_teams": {
+      "name": "UHC Teams",
+      "command": "/play uhc_teams"
+    },
+    "uhc_events": {
+      "name": "UHC Events Mode",
+      "command": "/play uhc_events"
+    },
+    "speed_solo_normal": {
+      "name": "Speed UHC Solo Normal",
+      "command": "/play speed_solo_normal"
+    },
+    "speed_team_normal": {
+      "name": "Speed UHC Team Normal",
+      "command": "/play speed_team_normal"
+    },
+    "super_smash_solo_normal": {
+      "name": "Smash Heroes Solo 1v1v1v1",
+      "command": "/play super_smash_solo_normal"
+    },
+    "super_smash_2v2_normal": {
+      "name": "Smash Heroes Teams 2v2",
+      "command": "/play super_smash_2v2_normal"
+    },
+    "super_smash_teams_normal": {
+      "name": "Smash Heroes Teams 2v2v2",
+      "command": "/play super_smash_teams_normal"
+    },
+    "super_smash_1v1_normal": {
+      "name": "Smash Heroes 1v1 Mode",
+      "command": "/play super_smash_1v1_normal"
+    },
+    "super_smash_friends_normal": {
+      "name": "Smash Heroes Friends 1v1v1v1",
+      "command": "/play super_smash_friends_normal"
+    },
+    "murder_infection": {
+      "name": "Murder Mystery Infection",
+      "command": "/play murder_infection"
+    },
+    "murder_assassins": {
+      "name": "Murder Mystery Assassins",
+      "command": "/play murder_assassins"
+    },
+    "murder_double_up": {
+      "name": "Murder Mystery Double Up",
+      "command": "/play murder_double_up"
+    },
+    "tournament": {
+      "name": "Tournament Hall",
+      "command": "/lobby tournament"
+    },
+    "smp": {
+      "name": "SMP",
+      "command": "/lobby smp"
+    },
+    "wool_wool_wars_two_four": {
+      "name": "Wool Wars",
+      "command": "/play wool_wool_wars_two_four"
     }
   },
   "discord": {

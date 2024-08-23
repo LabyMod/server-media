@@ -1,0 +1,35 @@
+{
+  "server_name": "seaside",
+  "nice_name": "SeaSide",
+  "direct_ip": "mc-seaside.eu",
+  "supported_languages": [
+    "de",
+    "en"
+  ],
+  "server_wildcards": [
+    "%.mc-seaside.eu"
+  ],
+  "social": {
+    "web_shop": "https://seaside.craftingstore.net",
+    "twitter": "SeaSideMC",
+    "youtube": "https://www.youtube.com/channel/UCSamt0KtmADC77AIC4_-0XQ",
+    "discord": "https://discord.gg/q2DjN6e9pw",
+    "instagram": "mc.seaside"
+  },
+  "discord": {
+    "server_id": 704281126855901215,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "background": "#FFDB4B",
+    "text": "#FFFFFF"
+  },
+  "gamemodes": {
+    "seaside": {
+      "name": "SeaSide",
+      "command": "/serverjoin seaside",
+      "versions": "1.19.4<*"
+    }
+  },
+  "yt_trailer": "j61o7LLIFaU"
+}

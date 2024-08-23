@@ -1,0 +1,29 @@
+{
+  "server_name": "newrp",
+  "nice_name": "New RolePlay",
+  "direct_ip": "newrp.de",
+  "server_wildcards": [
+    "%.newrp.de"
+  ],
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "web": "https://newrp.de",
+    "web_shop": "https://shop.newrp.de",
+    "teamspeak": "newrp.de",
+    "tiktok": "newrpde",
+    "youtube": "https://www.youtube.com/@NRPNewRolePlay",
+    "discord": "https://discord.gg/newroleplay"
+  },
+  "discord": {
+    "server_id": 1183386774374981662,
+    "rename_to_minecraft_name": false
+  },
+  "location": {
+    "city": "Berlin",
+    "country": "Germany",
+    "country_code": "DE"
+  },
+  "yt_trailer": "ez07Vvn5sO4"
+}

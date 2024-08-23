@@ -12,11 +12,8 @@
   "social": {
     "web": "https://timolia.de",
     "web_shop": "https://shop.timolia.de",
-    "web_support": "https://forum.timolia.de",
     "twitter": "TimoliaTeam",
-    "facebook": "timoliamc",
     "discord": "https://discord.gg/Q55FujN",
-    "teamspeak": "ts.timolia.de",
     "tiktok": "timolianetwork",
     "youtube": "https://www.youtube.com/Timolia",
     "instagram": "timolianetwork"
@@ -27,28 +24,13 @@
       "command": "/quickjoin jumpworld",
       "url": "https://www.timolia.de/games#jumpworld",
       "color": "#0095B0",
-      "versions": "1.19<*"
-    },
-    "jumpworld-legacy": {
-      "name": "JumpWorld",
-      "command": "/quickjoin jw-legacy",
-      "url": "https://www.timolia.de/games#jumpworld",
-      "color": "#0095B0",
-      "versions": "1.8<1.18.2"
-    },
-    "pvp20": {
-      "name": "1vs1",
-      "command": "/quickjoin pvp20",
-      "url": "https://www.timolia.de/games#pvp",
-      "color": "#0095B0",
-      "versions": "1.19<*"
+      "versions": "1.20<*"
     },
     "pvp": {
       "name": "1vs1",
       "command": "/quickjoin pvp",
       "url": "https://www.timolia.de/games#pvp",
-      "color": "#0095B0",
-      "versions": "1.8<1.18.2"
+      "color": "#0095B0"
     },
     "freebuild": {
       "name": "Freebuild",
@@ -69,12 +51,6 @@
       "url": "https://www.timolia.de/games#castles",
       "color": "#0095B0"
     },
-    "arcade": {
-      "name": "Arcade",
-      "command": "/quickjoin arcade",
-      "url": "https://www.timolia.de/games#arcade",
-      "color": "#0095B0"
-    },
     "survivalquest": {
       "name": "SurvivalQuest",
       "command": "/quickjoin survivalquest",
@@ -86,7 +62,8 @@
       "name": "Splun",
       "command": "/quickjoin splun",
       "url": "https://www.timolia.de/games#splun",
-      "color": "#0095B0"
+      "color": "#0095B0",
+      "versions": "1.20<*"
     }
   },
   "discord": {
@@ -97,11 +74,6 @@
     "primary": "#497cb1",
     "background": "#497cb1",
     "text": "#ffffff"
-  },
-  "location": {
-    "city": "Nürnberg",
-    "country": "Germany",
-    "country_code": "DE"
   },
   "chat": {
     "message_formats": [

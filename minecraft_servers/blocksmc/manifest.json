@@ -2,8 +2,7 @@
   "server_name": "blocksmc",
   "nice_name": "BlocksMC",
   "direct_ip": "blocksmc.com",
-   "server_wildcards":[
-     "premium.blocksmc.com",
+  "server_wildcards":[
      "%.blocksmc.com"
   ],
   "social": {
@@ -11,11 +10,11 @@
     "web_shop": "https://blocksmc.com/store",
     "tiktok": "blocksmctiktok",
     "instagram": "BlocksMC",
-    "discord": "https://discord.gg/BlocksMC",
-    "teamspeak": "ts.blocks.host"
+    "discord": "https://discord.gg/BlocksMC"
   },
   "brand": {
      "primary": "#001414",
      "background": "#008cd3"
-  }
+  },
+  "user_stats": "https://blocksmc.com/player/{userName}"
 }
