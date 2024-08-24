@@ -1,0 +1,41 @@
+{
+  "server_name": "townymc",
+  "display_name": "TownyMC",
+  "description": "TownyMC ist ein Minecraft-Server mit spannenden Spielmodi wie Citybuild, Goldjagt und Punsh. Er bietet moderne Maps, coole Custom Models und lebendige NPCs.",
+  "direct_ip": "TownyMc.de",
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "web": "https://townymc.de",
+    "discord": "https://dc.TownyMc.de",
+    "tiktok": "https://dc.TownyMc.de"
+  },
+  "discord": {
+    "server_id": 1226637161349120030
+  },
+  "brand": {
+    "primary": "#ECAD5E",
+    "background": "#e19536",
+    "text": "#ffffff"
+  },
+  "location": {
+    "city": "Hessen",
+    "country": "Germany",
+    "country_code": "DE"
+  },
+  "gamemodes": {
+    "citybuild": {
+      "name": "Citybuild",
+      "command": "/citybuild"
+    },
+    "goldjagt": {
+      "name": "Goldjagt",
+      "command": "/goldjagt"
+    },
+    "punsh": {
+      "name": "Punsh",
+      "command": "/punsh"
+    }
+  }
+}
