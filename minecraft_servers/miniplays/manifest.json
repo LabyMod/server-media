@@ -14,10 +14,10 @@
   },
   "gamemodes": {
 	  "CB1": {
-		  "name": "CB1",
+		  "name": "CityBuild 1",
 		  "color": "#55FFFF",
 		  "command": "/server cb1",
-		  "versions": "1.19.4<"
+		  "versions": "1.17<"
 	  }
   },
   "discord": {
