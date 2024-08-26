@@ -1,0 +1,47 @@
+{
+    "server_name": "thorma90",
+    "nice_name": "Thorma90 Netzwerk",
+    "direct_ip": "thorma90.net",
+    "supported_languages": [
+       "de"
+    ],
+    "social": {
+      "web": "https://thorma90.net",
+      "discord": "https://discord.gg/thorma90",
+      "youtube": "https://www.youtube.com/@Thorma90net"
+    },
+    "gamemodes": {
+        "minigames": {
+          "name": "Minigames",
+          "color": "#B34B62",
+          "command": "/minigames",
+          "versions": "1.20.4<*"
+        },
+        "missilewars": {
+          "name": "MissileWars",
+          "color": "#B34B62",
+          "command": "/missilewars",
+          "versions": "1.20.4<*"
+        },
+        "tycoon": {
+          "name": "Tycoon",
+          "color": "#33FFCE",
+          "command": "/tycoon",
+          "versions": "1.20.4<*"
+        }
+    },
+    "discord": {
+      "server_id": 1246905695580852406,
+      "rename_to_minecraft_name": false
+    },
+    "brand": {
+      "primary": "#6DA5C0",
+      "background": "#343a40",
+      "text": "#f8f9fa"
+    },
+    "location": {
+       "city": "Eygelshoven",
+       "country": "Niederlande",
+       "country_code": "NL"
+    }
+  }
