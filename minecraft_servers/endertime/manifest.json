@@ -67,7 +67,7 @@
          "command": "/quickjoin Creative",
          "versions":"1.20<*"
       },
-      "snowbattle":{
+      "battlebox":{
          "name":"BattleBox",
          "color":"#ffd800",
          "command": "/quickjoin BattleBox",
