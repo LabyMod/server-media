@@ -1,0 +1,26 @@
+{
+    "server_name": "craft-world",
+    "nice_name": "CRAFT-WORLD",
+    "direct_ip": "craft-world.eu",
+    "supported_languages": [
+        "de"
+    ],
+    "social": {
+        "web": "https://craft-world.eu",
+        "web_support": "https://craft-world.eu/support",
+        "discord": "https://c-w.click/discord"
+    },
+    "discord": {
+        "server_id": 654386265269207040
+    },
+    "brand": {
+        "primary": "#4095FF",
+        "background": "#131C40",
+        "text": "#ebf0ff"
+    },
+    "location": {
+        "city": "Frankfurt",
+        "country": "Germany",
+        "country_code": "DE"
+    }
+}
