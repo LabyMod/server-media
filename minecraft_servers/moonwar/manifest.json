@@ -1,0 +1,19 @@
+{
+	"server_name": "moonwar",
+	"nice_name": "MoonWar",
+	"direct_ip": "mc.moonwar.eu",
+	"social": {
+		"web_shop": "https://shop.moonwar.eu",
+		"website": "https://www.moonwar.eu",
+		"tiktok": "moonwar",
+		"discord": "https://discord.moonwar.eu"
+	},
+	"supported_languages": [
+    "it"
+  ],
+  "brand": {
+    "primary": "#fee076",
+    "background": "#0000AA",
+    "text": "#ffffff"
+  }
+}
