@@ -60,7 +60,7 @@
         "bedwars": {
             "name": "BedWars",
             "color": "#FF5555",
-            "command": "/play bw-solo",
+            "command": "/play bw",
             "versions": "1.8<*"
         },
         "fastbuilders": {
