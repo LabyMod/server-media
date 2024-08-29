@@ -48,7 +48,7 @@
         "lifesteal": {
             "name": "LifeSteal",
             "color": "#FF0000",
-            "command": "/play lifesteal",
+            "command": "/play lifestealsmp",
             "versions": "1.21<*"
         },
         "oppvp": {
