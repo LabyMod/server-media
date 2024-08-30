@@ -46,7 +46,7 @@
             "versions": "1.21<*"
         },
         "lifesteal": {
-            "name": "LifeSteal",
+            "name": "Lifesteal SMP",
             "color": "#FF0000",
             "command": "/play lifestealsmp",
             "versions": "1.21<*"
