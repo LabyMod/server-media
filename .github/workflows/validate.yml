@@ -22,8 +22,7 @@ jobs:
         with:
           ref: refs/pull/${{ github.event.number }}/merge
       - name: Get changed files
-        #uses: lots0logs/gh-action-get-changed-files@2.1.4
-        uses: Raik0707/gh-action-get-changed-files@feature/support-pr-target-event # Remove as soon as PR is merged
+        uses: lots0logs/gh-action-get-changed-files@2.2.2
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
       - name: Add json
