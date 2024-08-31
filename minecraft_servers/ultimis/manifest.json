@@ -11,9 +11,9 @@
     "discord": "https://discord.gg/UltimisMC"
   },
   "brand": {
-     "primary": "#008FE8",
-     "background": "#0A56A5",
-     "text": "#FFFFFF"
+    "primary": "#008FE8",
+    "background": "#0A56A5",
+    "text": "#FFFFFF"
   },
   "discord": {
     "server_id": "621655047905869848"
