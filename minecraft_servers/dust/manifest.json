@@ -8,13 +8,12 @@
         "en-US"
     ],
     "social": {
-        "web": "https://loja.rededust.com",
-        "youtube": "https://www.youtube.com/@rede_dust",
-        "discord": "https://discord.gg/rededust",
-        "tiktok": "rede_dust",
+        "web_shop": "https://loja.rededust.com",
         "twitter": "rede_dust",
+        "tiktok": "rede_dust",
         "instagram": "rede_dust",
-        "twitch": "https://twitch.tv/rede_dust"
+        "discord": "https://discord.gg/rededust",
+        "youtube": "https://www.youtube.com/@rede_dust"
     },
     "gamemodes": {
         "bedwars": {
@@ -44,6 +43,7 @@
         "text": "#000000"
     },
     "location": {
+        "city": "São Paulo",
         "country": "Brazil",
         "country_code": "BR"
     }
