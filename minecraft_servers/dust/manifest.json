@@ -2,11 +2,6 @@
     "server_name": "dust",
     "nice_name": "Dust",
     "direct_ip": "rededust.com",
-    "server_wildcards": [
-        "%.rededust.com",
-        "%.mc-dust.com.br",
-        "%.dustmc.com.br"
-    ],
     "supported_languages": [
         "pt-BR",
         "pt-PT",
