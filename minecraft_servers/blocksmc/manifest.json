@@ -1,20 +1,27 @@
 {
-  "server_name": "blocksmc",
-  "nice_name": "BlocksMC",
-  "direct_ip": "blocksmc.com",
-  "server_wildcards":[
-     "%.blocksmc.com"
-  ],
-  "social": {
-    "web": "https://blocksmc.com",
-    "web_shop": "https://blocksmc.com/store",
-    "tiktok": "blocksmctiktok",
-    "instagram": "BlocksMC",
-    "discord": "https://discord.gg/BlocksMC"
-  },
-  "brand": {
-     "primary": "#001414",
-     "background": "#008cd3"
-  },
-  "user_stats": "https://blocksmc.com/player/{userName}"
-}
+    "server_name": "blocksmc",
+    "nice_name": "BlocksMC",
+    "direct_ip": "blocksmc.com",
+    "server_wildcards":[
+       "%.blocksmc.com"
+    ],
+    "social": {
+      "web": "https://blocksmc.com",
+      "web_shop": "https://blocksmc.com/store",
+      "tiktok": "blocksmctiktok",
+      "instagram": "BlocksMC",
+      "discord": "https://discord.gg/BlocksMC",
+      "youtube": "https://www.youtube.com/@blocksmcyoutube"
+    },
+    "discord":{
+     "server_id": 211543198651121664,
+     "rename_to_minecraft_name": false
+    },
+    "brand": {
+       "primary": "#001414",
+       "background": "#008cd3"
+    },
+    "user_stats": "https://blocksmc.com/player/{userName}",
+      "yt_trailer": "KwJt3Rtoagg"
+  }
+  

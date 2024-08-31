@@ -11,47 +11,21 @@
   ],
   "social": {
     "web": "https://anturnia.net",
-    "twitter": "Anturnia",
+    "twitter": "anturnia",
     "discord": "https://discord.gg/gYsf49MzwH",
     "tiktok": "anturnia",
     "youtube": "https://www.youtube.com/@anturnia"
   },
   "gamemodes": {
+    "smp": {
+      "name": "SMP",
+      "color": "#00aa00",
+      "versions": "1.21<*"
+    },
     "oneblock": {
       "name": "OneBlock",
-      "command": "/oneblock",
       "color": "#00aa00",
       "versions": "1.18<*"
-    },
-    "duels": {
-      "name": "Duels",
-      "command": "/duel",
-      "color": "#00aa00",
-      "versions": "1.8<*"
-    },
-    "blocksumo": {
-      "name": "BlockSumo",
-      "command": "/blocksumo",
-      "color": "#00aa00",
-      "versions": "1.8<*"
-    },
-    "bedwars": {
-      "name": "BedWars",
-      "command": "/bedwars",
-      "color": "#00aa00",
-      "versions": "1.16<*"
-    },
-    "creative": {
-      "name": "Creative",
-      "command": "/creative",
-      "color": "#00aa00",
-      "versions": "1.19<*"
-    },
-    "fallingfalling": {
-        "name": "FallingFalling",
-        "command": "/fallingfalling",
-        "color": "#00aa00",
-        "versions": "1.16<*"
     }
   },
   "discord": {
@@ -59,14 +33,12 @@
     "rename_to_minecraft_name": false
   },
   "brand": {
-     "primary": "#00AA00",
-     "background": "#005500",
-     "text": "#FFFFFF"
+     "primary": "#001400",
+     "background": "#02ad02"
   },
   "location": {
     "city": "Nürnberg",
     "country": "Germany",
     "country_code": "DE"
-  },
-  "yt_trailer": "BJUVPXoQKpY"
+  }
 }

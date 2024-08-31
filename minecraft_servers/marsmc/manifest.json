@@ -1,76 +1,74 @@
 {
   "server_name": "marsmc",
   "nice_name": "MarsMC",
-  "direct_ip": "marsmc.net",
+  "direct_ip": "play.marsmc.net",
   "server_wildcards": [
-     "%.marsmc.net"
+    "%.marsmc.net"
   ],
   "supported_languages": [
-     "ar",
-     "en",
-     "de"
+    "ar",
+    "en"
   ],
   "social": {
     "web_shop": "https://store.marsmc.net",
-    "youtube": "https://www.youtube.com/@PlayMarsMC",
     "twitter": "playmarsmc",
-    "discord": "https://discord.gg/MarsMC"
+    "discord": "https://discord.gg/marsmc",
+    "youtube": "https://www.youtube.com/@PlayMarsMC"
   },
   "gamemodes": {
-    "superpvp": {
-      "name": "SuperPvP", 
-      "color": "#FFFFFF",
-      "versions": "1.8<*"
-    },
-    "sg": {
-      "name": "SurvivalGames", 
-      "color": "#FFFFFF",
-      "versions": "1.8<*"
-    },
-    "partypvp": {
-      "name": "PartyPvP", 
-      "color": "#FFFFFF",
+    "jumpworld": {
+      "name": "SuperPvP",
+      "color": "#ffffff",
       "versions": "1.8<*"
     },
     "1vs1": {
       "name": "1vs1",
-      "color": "#FFFFFF",
+      "color": "#ffffff",
+      "versions": "1.8<*"
+    },
+    "survivalgames": {
+      "name": "Survival Games",
+      "color": "#ffffff",
+      "versions": "1.8<*"
+    },
+    "partypvp": {
+      "name": "PartyPvP",
+      "color": "#ffffff",
       "versions": "1.8<*"
     },
     "skypvp": {
       "name": "SkyPvP",
-      "color": "#FFFFFF",
+      "color": "#ffffff",
       "versions": "1.8<*"
     },
     "timv": {
-      "name": "TIMV",
-      "color": "#FFFFFF",
+      "name": "Trouble In Mineville",
+      "color": "#ffffff",
       "versions": "1.8<*"
     },
     "creative": {
       "name": "Creative",
-      "color": "#FFFFFF",
+      "color": "#ffffff",
       "versions": "1.8<*"
     },
-    "dragonescape": {
-      "name": "DragonEscape",
-      "color": "#FFFFFF",
-      "versions": "1.8<*"
-    },
-    "events": {
-      "name": "Events",
-      "color": "#FFFFFF",
+    "partygames": {
+      "name": "PartyGames",
+      "color": "#ffffff",
       "versions": "1.8<*"
     }
-  },
-  "brand": {
-     "primary": "#ffc100",
-     "background": "#0c0600"
   },
   "location": {
      "city": "Riyadh",
      "country": "Saudi Arabia",
      "country_code": "SA"
+  },
+  "discord": {
+    "server_id": 378184284080439309,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#ffc100",
+     "background": "#0c0600"
   },
   "yt_trailer": "-oZlcake_44"
 }

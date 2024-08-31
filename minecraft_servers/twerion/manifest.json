@@ -30,27 +30,37 @@
         "skypvp": {
             "name": "SkyPvP",
             "color": "#AA0000",
+            "command": "/play skypvp",
             "versions": "1.8<*"
         },
         "citybuild": {
             "name": "CityBuild SMP",
             "color": "#00AAAA",
-            "versions": "1.8<*"
+            "command": "/play citybuild",
+            "versions": "1.21<*"
         },
         "oneblock": {
             "name": "OneBlock",
             "color": "#5555FF",
-            "versions": "1.8<*"
+            "command": "/play oneblock",
+            "versions": "1.21<*"
+        },
+        "lifesteal": {
+            "name": "Lifesteal SMP",
+            "color": "#FF0000",
+            "command": "/play lifestealsmp",
+            "versions": "1.21<*"
         },
         "oppvp": {
             "name": "OPPvP",
             "color": "#00AA00",
+            "command": "/play oppvp",
             "versions": "1.8<*"
         },
         "bedwars": {
             "name": "BedWars",
             "color": "#FF5555",
-            "command": "/play bw-solo",
+            "command": "/play bw",
             "versions": "1.8<*"
         },
         "fastbuilders": {
@@ -74,7 +84,7 @@
     },
     "discord": {
         "server_id": 326789496525815800,
-        "rename_to_minecraft_name": false
+        "rename_to_minecraft_name": true
     },
     "brand": {
         "primary": "#FFAA00",
