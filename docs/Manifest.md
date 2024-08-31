@@ -41,6 +41,11 @@
 | Key               | Description                             | Example value |
 |-------------------|-----------------------------------------|---------------|
 | `message_formats` | Regex for chat messages sent by players | see below     |
+```json
+[
+  "^§[a-f0-9](?<level>\\d+)(| §[a-f0-9](?<rank>\\S+)) §e(?<sender>[a-zA-Z0-9_]{2,16}) §f(?<message>.*)$"
+]
+```
 
 **Example color and formatting code regex:**
 
@@ -51,14 +56,6 @@
 | Any color or formatting code          | `§[a-fk-or0-9]`                                                                                           |
 | Any color or formatting code in a row | zero or one: `(§[a-fk-or0-9])?`<br/>at least one: `(§[a-fk-or0-9])+`<br/>zero or more: `(§[a-fk-or0-9])*` |
 | Player name                           | `[a-zA-Z0-9_]{2,16}`                                                                                      |
-
-**Example chat object:**
-
-```json
-[
-  "^§[a-f0-9](?<level>\\d+)(| §[a-f0-9](?<rank>\\S+)) §e(?<sender>[a-zA-Z0-9_]{2,16}) §f(?<message>.*)$"
-]
-```
 
 ### Gamemode object
 
