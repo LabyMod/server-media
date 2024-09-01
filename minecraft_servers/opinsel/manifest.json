@@ -3,7 +3,8 @@
     "nice_name": "OpInsel",
     "direct_ip": "mc.opinsel.net",
     "server_wildcards": [
-      "%.opinsel.net"
+      "%.opinsel.net",
+      "%.opinsel.com"
     ],
     "gamemodes": {
         "tntrun": {
