@@ -36,7 +36,11 @@
           "redstonepvp": {
             "name": "RedStonePvP",
             "command": "/server redstonepvp"
-          }
+          },
+        "creative": {
+          "name": "Creative",
+          "command": "/server creative"
+        }
     },
     "discord":{
      "server_id": 211543198651121664,
