@@ -1,13 +1,11 @@
 {
   "server_name": "townymc",
   "nice_name": "TownyMc",
-  "description": "TownyMC ist ein Minecraft-Server mit spannenden Spielmodi wie Citybuild, Goldjagt und Punsh. Er bietet moderne Maps, coole Custom Models und lebendige NPCs.",
   "direct_ip": "TownyMc.de",
   "supported_languages": [
     "de"
   ],
   "social": {
-    "web": "https://townymc.de",
     "discord": "https://discord.gg/fwEGbn8VgQ",
     "tiktok": "townymc_de"
   },
