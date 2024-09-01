@@ -19,7 +19,8 @@
         "rename_to_minecraft_name": false
       },
     "supported_languages": [
-        "de"
+        "de",
+        "en"
     ],
     "social": {
         "web": "https://opinsel.net",
