@@ -8,14 +8,39 @@
     "social": {
       "web": "https://blocksmc.com",
       "web_shop": "https://blocksmc.com/store",
+      "web_support": "https://blocksmc.com/support",
       "tiktok": "blocksmctiktok",
       "instagram": "BlocksMC",
       "discord": "https://discord.gg/BlocksMC",
       "youtube": "https://www.youtube.com/@blocksmcyoutube"
     },
+    "gamemodes": {
+        "bedwars": {
+          "name": "BedWars",
+          "url": "https://blocksmc.com/bed-wars",
+          "command": "/server bedwars"
+        },
+        "skywars ": {
+          "name": "SkyWars",
+          "url": "https://blocksmc.com/sky-wars",
+          "command": "/server skywars"
+        },
+        "pvp": {
+            "name": "PvP",
+            "command": "/server pvp"
+          },
+          "skypvp": {
+            "name": "SkyPvP",
+            "command": "/server skypvp"
+          },
+          "redstonepvp": {
+            "name": "RedStonePvP",
+            "command": "/server redstonepvp"
+          }
+    },
     "discord":{
      "server_id": 211543198651121664,
-     "rename_to_minecraft_name": false
+     "rename_to_minecraft_name": true
     },
     "brand": {
        "primary": "#001414",
