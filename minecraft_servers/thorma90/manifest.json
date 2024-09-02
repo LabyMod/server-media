@@ -7,7 +7,7 @@
     ],
     "social": {
       "web": "https://thorma90.net",
-      "discord": "https://discord.gg/thorma90",
+      "discord": "https://discord.gg/FcQTXTVGsh",
       "youtube": "https://www.youtube.com/@Thorma90net"
     },
     "gamemodes": {
@@ -15,19 +15,7 @@
           "name": "Minigames",
           "color": "#B34B62",
           "command": "/minigames",
-          "versions": "1.20.4<*"
-        },
-        "missilewars": {
-          "name": "MissileWars",
-          "color": "#B34B62",
-          "command": "/missilewars",
-          "versions": "1.20.4<*"
-        },
-        "tycoon": {
-          "name": "Tycoon",
-          "color": "#33FFCE",
-          "command": "/tycoon",
-          "versions": "1.20.4<*"
+          "versions": "1.17.1<*"
         }
     },
     "discord": {
