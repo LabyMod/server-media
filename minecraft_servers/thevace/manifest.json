@@ -3,8 +3,8 @@
   "nice_name":"TheVace",
   "direct_ip":"thevace.net",
   "server_wildcards":[
-    "thevace.net",
-    "thevace.me"
+    "*.thevace.net",
+    "*.thevace.me"
   ],
   "supported_languages":[
     "de",
