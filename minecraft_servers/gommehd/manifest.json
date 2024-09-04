@@ -136,5 +136,11 @@
   "discord": {
     "server_id": 433699842389180417,
     "rename_to_minecraft_name": true
-  }
+  },
+  "location": {
+    "city": "Lüneburg",
+    "country": "Germany",
+    "country_code": "DE"
+  },
+  "yt_trailer": "ou_a1NL_xBE"
 }

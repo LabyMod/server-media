@@ -1,0 +1,35 @@
+{
+    "server_name": "opinsel",
+    "nice_name": "OpInsel",
+    "direct_ip": "mc.opinsel.net",
+    "server_wildcards": [
+      "%.opinsel.net",
+      "%.opinsel.com"
+    ],
+    "gamemodes": {
+        "tntrun": {
+          "name": "TNTRun", 
+          "color": "#Ff0000",
+          "command": "/server tntrun",
+          "versions": "1.21<*"
+        }
+    },
+    "discord": {
+        "server_id": 1271149953221263452,
+        "rename_to_minecraft_name": false
+      },
+    "supported_languages": [
+        "de",
+        "en"
+    ],
+    "social": {
+        "web": "https://opinsel.net",
+        "web_shop": "https://opinsel.net/shop",
+        "discord": "https://discord.gg/SaBbwpT9hK"
+    },
+    "location": {
+        "city": "Eygelshoven",
+        "country": "Germany",
+        "country_code": "DE"
+    }
+}

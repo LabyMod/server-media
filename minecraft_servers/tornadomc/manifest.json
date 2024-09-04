@@ -1,0 +1,38 @@
+{
+  "server_name": "tornadomc",
+  "nice_name": "TornadoMC",
+  "direct_ip": "tornadomc.net",
+  "server_wildcards": [
+    "%.tornadomc.net"
+  ],
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "web": "https://tornadomc.de",
+    "web_shop": "https://store.tornadomc.net",
+    "tiktok": "@tornadomc.net",
+    "discord": "https://discord.gg/94gAUAJfGr",
+    "youtube": "https://www.youtube.com/@TornadoMinecraft711"
+  },
+  "chat": {
+    "message_formats": [
+      "^§[a-f0-9](?<level>\\d+)(| §[a-f0-9](?<rank>\\S+)) §e(?<sender>[a-zA-Z0-9]{2,16}) §f(?<message>.*)$"
+    ]
+  },
+  "discord": {
+    "server_id": 1242526921787445379,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#008FE8",
+    "background": "#0A56A5",
+    "text": "#FFFFFF"
+  },
+  "location": {
+    "city": "Nürnberg",
+    "country": "Germany",
+    "country_code": "DE"
+  },
+  "command_delay": 3000
+}

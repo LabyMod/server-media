@@ -1,7 +1,13 @@
 {
   "server_name": "privatgames",
   "nice_name": "PrivatGames",
-  "direct_ip": "privatgames.net",
+  "direct_ip": "mc.privatgames.net",
+  "server_wildcards": [
+    "%.privatgames.net"
+  ],
+  "social": {
+    "discord": "https://discord.com/invite/aybhZjt4eQ"
+  },
   "supported_languages": [
     "de"
   ],
@@ -11,8 +17,26 @@
     "text": "#FFFFFF"
   },
   "location": {
-    "city": "München",
     "country": "Germany",
     "country_code": "DE"
+  },
+  "gamemodes": {
+    "project-1": {
+      "name": "Slowrun",
+      "command": "/server project-1"
+    },
+    "project-2": {
+      "name": "Survival",
+      "command": "/server project-2"
+    },
+    "project-3": {
+      "name": "Project 3",
+      "command": "/server project-3"
+    }
+  },
+  "command_delay": 3000,
+  "discord": {
+    "server_id": 846009664142311485,
+    "rename_to_minecraft_name": false
   }
 }

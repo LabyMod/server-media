@@ -1,0 +1,22 @@
+{
+  "server_name": "varovision",
+  "nice_name": "VaroVision.EU",
+  "direct_ip": "VaroVision.EU",
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "discord": "https://discord.gg/Vf98Pe54W4"
+  },
+  "discord": {
+    "server_id": 1257300329737752648
+  },
+  "brand": {
+    "primary": "#ff5555"
+  },
+  "location": {
+    "city": "Landeck",
+    "country": "Austria",
+    "country_code": "AT"
+  }
+}

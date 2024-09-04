@@ -13,9 +13,8 @@
       "tiktok":"endertimenetwork",
       "discord":"https://discord.gg/G3qr5dpadU",
       "youtube":"https://www.youtube.com/channel/UCEhzB2xkBtEPaIjD1LpxGpA",
-      "teamspeak":"endertime.net",
       "web":"https://endertime.net",
-      "web_support":"https://endertime.net/SUPPORT"
+      "web_support":"https://endertime.net/SUPPORT.html"
    },
    "discord":{
       "server_id":1104040356204523641,
@@ -68,10 +67,10 @@
          "command": "/quickjoin Creative",
          "versions":"1.20<*"
       },
-      "snowbattle":{
-         "name":"SnowBattle",
-         "color":"#ffffff",
-         "command": "/quickjoin SnowBattle",
+      "battlebox":{
+         "name":"BattleBox",
+         "color":"#ffd800",
+         "command": "/quickjoin BattleBox",
          "versions":"1.20<*"
       },
       "oitc":{

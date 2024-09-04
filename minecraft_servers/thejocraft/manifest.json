@@ -1,0 +1,56 @@
+{
+    "server_name": "thejocraft",
+    "nice_name": "TheJoCraft Netzwerk",
+    "direct_ip": "thejocraft.net",
+    "supported_languages": [
+       "de"
+    ],
+    "social": {
+      "web": "https://thejocraft.net",
+      "web_shop": "https://shop.thejocraft.net",
+      "discord": "https://discord.gg/thejocraft",
+      "youtube": "https://www.youtube.com/@thejocraftnet",
+      "twitter": "thejocraftnet"
+    },
+    "gamemodes": {
+        "arcardegames": {
+          "name": "Arcarde Games",
+          "color": "#B29315",
+          "command": "/arcade",
+          "versions": "1.20<*"
+        },
+        "apocalypse": { 
+          "name": "Apocalypse",
+          "color": "#B43F2A",
+          "command": "/apocalypse",
+          "versions": "1.20<*"
+        },
+        "evolution": { 
+            "name": "Evolution",
+            "color": "#B215A4",
+            "command": "/evolution",
+            "versions": "1.20<*"
+        },
+        "hideandseek": {
+          "name": "Hide&Seek",
+          "color": "#E8E51D",
+          "command": "/hideandseek",
+          "versions": "1.20<*"
+        },
+        "survivalgames": { 
+            "name": "Survival Games",
+            "color": "#70E81D",
+            "command": "/survivalgames",
+            "versions": "1.20<*"
+        }
+    },
+    "discord": {
+      "server_id": 251008837983797259,
+      "rename_to_minecraft_name": false
+    },
+    "brand": {
+      "primary": "#6DA5C0",
+      "background": "#343a40",
+      "text": "#f8f9fa"
+    }
+  }
