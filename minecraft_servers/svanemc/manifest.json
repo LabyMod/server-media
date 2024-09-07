@@ -10,11 +10,10 @@
   "social": {
     "web": "https://svanemc.net",
     "web_shop": "https://buycraft.svanemc.net",
-    "web_support": "https://gommehdnet.zendesk.com",
     "discord": "https://discord.gg/svanemc"
   },
   "gamemodes": {
-    "Skyblock": {
+    "skyblock": {
       "name": "Skyblock",
       "command": "/server skyblock",
       "versions": "1.21<*"
