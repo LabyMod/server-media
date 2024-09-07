@@ -1,7 +1,7 @@
 {
   "server_name": "abyssal",
   "nice_name": "Abyssal.cz",
-  "direct_ip": "play.abyssal.cz",
+  "direct_ip": "play.abyssal.cz"
   "server_wildcards": [
     "%.abyssal.cz"
   ],
