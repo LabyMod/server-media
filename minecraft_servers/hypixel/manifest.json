@@ -26,7 +26,7 @@
       "command": "/play bedwars_eight_one"
     },
     "solo_normal": {
-      "name": "Skywars Solo Normal",
+      "name": "SkyWars Solo Normal",
       "command": "/play solo_normal"
     },
     "murder_classic": {
@@ -114,19 +114,19 @@
       "command": "/play solo_insane"
     },
     "teams_normal": {
-      "name": "Skywars Teams Normal",
+      "name": "SkyWars Teams Normal",
       "command": "/play teams_normal"
     },
     "teams_insane": {
-      "name": "Skywars Teams Insane",
+      "name": "SkyWars Teams Insane",
       "command": "/play teams_insane"
     },
     "mega_normal": {
-      "name": "Skywars Mega",
+      "name": "SkyWars Mega",
       "command": "/play mega_normal"
     },
     "mega_doubles": {
-      "name": "Skywars Mega Doubles",
+      "name": "SkyWars Mega Doubles",
       "command": "/play mega_doubles"
     },
     "duels_bow_duel": {
