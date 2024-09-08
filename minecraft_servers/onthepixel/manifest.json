@@ -18,7 +18,7 @@
     "twitter": "onthepixelnet"
   },
   "gamemodes": {
-    "hideandseek": {
+    "tntrun": {
       "name": "TNTRun",
       "command": "/tntrun"
     },
