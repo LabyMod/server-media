@@ -23,7 +23,7 @@
       "command": "/citybuild",
       "versions": "1.20<*"
     },
-    "stoneblock": {
+    "stoneblock-reloaded": {
       "name": "StoneBlock Reloaded",
       "color": "#F5683D",
       "command": "/stoneblock",
@@ -41,7 +41,7 @@
       "command": "/oneblock",
       "versions": "1.20<*"
     },
-    "survival": {
+    "freebuild": {
       "name": "Freebuild",
       "color": "#126E0A",
       "command": "/freebuild",
