@@ -14,13 +14,13 @@
       "discord": "https://discord.gg/2QVV8XxrrE"
     },
     "gamemodes": {
-      "jumpworld": {
+      "survival": {
         "name": "Survival", 
         "color": "#FFA500",
         "command": "/quickjoin survival",
         "versions": "1.20<*"
       },
-      "dna": {
+      "smash": {
         "name": "SMASH",
         "color": "#ADD8E6",
         "command": "/quickjoin smash",
@@ -41,6 +41,5 @@
        "background": "#0580f2",
        "text": "#FFFFFF"
     },
-    "yt_trailer": "not_available",
     "command_delay": 3000
   }
