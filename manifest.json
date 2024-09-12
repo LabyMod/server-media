@@ -1,0 +1,31 @@
+{
+  "server_name": "citymine",
+  "nice_name": "CityMine",
+  "direct_ip": "join.citymine.eu",
+  "server_wildcards": "134.255.220.125:25565",
+  "supported_languages": [
+     "de"
+  ],
+  "gamemodes": {
+    "citybuild": {
+      "name": "Citybuild", 
+      "color": "#ADD8E6",
+      "versions": "1.9<1.21"
+	},
+    "survival": {
+      "name": "Survival", 
+      "color": "#FFA500",
+      "versions": "1.9<1.21"
+	},
+    "grundstuecke": {
+      "name": "Grundstücke", 
+      "color": "#66FE32",
+      "versions": "1.9<1.21"
+    }, 
+  },
+  "location": {
+     "city": "Stuttgart",
+     "country": "Germany",
+     "country_code": "DE"
+  },
+}
