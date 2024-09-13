@@ -5,6 +5,9 @@
   "supported_languages": [
      "de"
   ],
+  "social": {
+    "discord": "https://discord.gg/4wYAZ7UWGK",
+  },
   "gamemodes": {
     "citybuild": {
       "name": "Citybuild", 
@@ -21,6 +24,10 @@
       "color": "#66FE32",
       "versions": "1.9<1.21"
     } 
+  },
+  "discord": {
+    "server_id": 731277491976536085,
+    "rename_to_minecraft_name": false
   },
   "location": {
      "city": "Stuttgart",
