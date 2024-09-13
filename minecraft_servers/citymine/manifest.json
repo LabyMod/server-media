@@ -2,7 +2,9 @@
   "server_name": "citymine",
   "nice_name": "CityMine",
   "direct_ip": "join.citymine.eu",
-  "server_wildcards": "134.255.220.125:25565",
+  "server_wildcards": [
+    "134.255.220.125:25565"
+  ],
   "supported_languages": [
      "de"
   ],
@@ -21,11 +23,11 @@
       "name": "Grundstücke", 
       "color": "#66FE32",
       "versions": "1.9<1.21"
-    }, 
+    } 
   },
   "location": {
      "city": "Stuttgart",
      "country": "Germany",
      "country_code": "DE"
-  },
+  }
 }
