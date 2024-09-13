@@ -1,15 +1,15 @@
 {
-  "server_name": "chillecke",
-  "nice_name": "ChillEcke",
-  "direct_ip": "chillecke.xyz",
+  "server_name": "spacecity",
+  "nice_name": "SpaceCity",
+  "direct_ip": "spacecity.world",
   "supported_languages": [
     "de"
   ],
   "social": {
-    "web": "https://web.chillecke.xyz",
-    "web_shop": "https://shop.chillecke.xyz",
+    "web": "https://web.spacecity.world",
+    "web_shop": "https://shop.spacecity.world",
     "discord": "https://discord.gg/9Zgh7wdyWZ",
-    "teamspeak": "ts.chillecke.xyz"
+    "teamspeak": "ts.spacecity.world"
   },
   "location": {
     "country": "Germany",
