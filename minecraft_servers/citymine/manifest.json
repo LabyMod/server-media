@@ -12,7 +12,7 @@
     "citybuild": {
       "name": "Citybuild", 
       "color": "#ADD8E6",
-      "command": "/spawn",
+      "command": "/spawn"
       "versions": "1.9<1.21"
 	},
     "survival": {
