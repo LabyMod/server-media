@@ -2,10 +2,6 @@
   "server_name": "zimplylost",
   "nice_name": "ZimplyLost",
   "direct_ip": "zimplylost.net",
-  "server_wildcards": [
-    "mc.zimplylost.net",
-	  "proxy.zimplylost.net"
-  ],
   "supported_languages": [
     "de",
     "en"
