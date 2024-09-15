@@ -11,9 +11,8 @@
     "en"
   ],
   "social": {
-    "web": "https://www.zimplylost.net",
-    "web_shop": "https://shop.zimplylost.net",
-    "discord": "https://discord.gg/V9JPz27UvR",
+    "web": "https://zimplylost.net",
+    "discord": "https://discord.gg/DMbJg8RuEJ",
     "tiktok": "zimplylost",
     "youtube": "https://www.youtube.com/ZimplyLost",
     "instagram": "zimplylost_network"
@@ -31,8 +30,8 @@
       "name": "Smash",
       "color": "#0095B0"
     },
-    "towerdefense": {
-      "name": "Tower Defense",
+    "hidenseek": {
+      "name": "HideNSeek",
       "color": "#0095B0"
     }
   },
