@@ -1,10 +1,13 @@
 {
-    "server_name": "nevtrox",
-    "nice_name": "Nevtrox",
-    "direct_ip": "nevtrox.de",
-    "supported_languages": [
-        "de"
-    ],
+  "server_name": "nevtrox",
+  "nice_name": "Nevtrox",
+  "direct_ip": "nevtrox.de",
+  "server_wildcards": [
+    "%.nevtrox.de"
+  ],
+  "supported_languages": [
+     "de"
+  ],
     "social": {
         "tiktok": "nicecitytt",
     },
