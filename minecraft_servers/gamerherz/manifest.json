@@ -19,12 +19,17 @@
       "command": "/server Paintball-1",
       "versions": "1.8<*"
     },
-    "duels 1.8": {
+    "duels_1.8": {
       "name": "Duels 1.8", 
       "command": "/server Duels_8-1",
       "versions": "1.8<*"
     },
-    "duels 1.20": {
+    "build_attack_4": {
+      "name": "Build Attack 4", 
+      "command": "/server Build-Attack-1",
+      "versions": "1.20<*"
+    },
+    "duels_1.20": {
       "name": "Duels 1.20", 
       "command": "/server Duels_16-1",
       "versions": "1.16<*"

@@ -14,13 +14,6 @@
       "discord": "https://discord.gg/zdS4aEUyGG",
       "tiktok": "zeenmc_"
     },
-    "gamemodes": {
-      "boxpvp": {
-        "name": "Kung-Fu Box",
-        "color": "#FFF",
-        "command": "/boxpvp"
-      }
-    },
     "brand": {
        "primary": "#FF8D33",
        "background": "#00000",

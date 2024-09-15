@@ -6,27 +6,39 @@
        "de"
     ],
     "social": {
-      "discord": "https://discord.gg/yRZEFzn5Kk",
-      "youtube": "https://www.youtube.com/@thorma9030",
-      "instagram": "thorma90"
+      "web": "https://thorma90.net",
+      "discord": "https://discord.gg/thorma90",
+      "youtube": "https://www.youtube.com/@Thorma90net"
     },
     "gamemodes": {
         "minigames": {
           "name": "Minigames",
           "color": "#B34B62",
           "command": "/minigames",
-          "versions": "1.16.5<*"
+          "versions": "1.20.4<*"
+        },
+        "missilewars": {
+          "name": "MissileWars",
+          "color": "#B34B62",
+          "command": "/missilewars",
+          "versions": "1.20.4<*"
+        },
+        "tycoon": {
+          "name": "Tycoon",
+          "color": "#33FFCE",
+          "command": "/tycoon",
+          "versions": "1.20.4<*"
         }
     },
     "discord": {
-      "server_id": 1081550768903049279,
+      "server_id": 1246905695580852406,
       "rename_to_minecraft_name": false
     },
     "brand": {
-       "primary": "#2EE60E",
-       "background": "#E19536",
-       "text": "#FFE819"
-    }, 
+      "primary": "#6DA5C0",
+      "background": "#343a40",
+      "text": "#f8f9fa"
+    },
     "location": {
        "city": "Eygelshoven",
        "country": "Niederlande",

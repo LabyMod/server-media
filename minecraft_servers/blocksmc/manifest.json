@@ -1,21 +1,191 @@
 {
-  "server_name": "blocksmc",
-  "nice_name": "BlocksMC",
-  "direct_ip": "blocksmc.com",
-   "server_wildcards":[
-     "premium.blocksmc.com",
-     "%.blocksmc.com"
-  ],
-  "social": {
-    "web": "https://blocksmc.com",
-    "web_shop": "https://blocksmc.com/store",
-    "tiktok": "blocksmctiktok",
-    "instagram": "BlocksMC",
-    "discord": "https://discord.gg/BlocksMC",
-    "teamspeak": "ts.blocks.host"
-  },
-  "brand": {
-     "primary": "#0e0600",
-     "background": "#ffc103"
+    "server_name": "blocksmc",
+    "nice_name": "BlocksMC",
+    "direct_ip": "blocksmc.com",
+    "server_wildcards":[
+       "%.blocksmc.com"
+    ],
+    "supported_languages": [
+      "ar",
+      "en"
+    ],
+    "social": {
+      "web": "https://blocksmc.com",
+      "web_shop": "https://blocksmc.com/store",
+      "web_support": "https://blocksmc.com/support",
+      "tiktok": "blocksmctiktok",
+      "instagram": "BlocksMC",
+      "discord": "https://discord.gg/BlocksMC",
+      "youtube": "https://www.youtube.com/@blocksmcyoutube"
+    },
+    "gamemodes": {
+      "bedwars": { 
+          "name": "BedWars",
+          "url": "https://blocksmc.com/bed-wars",
+          "command": "/server bedwars",
+          "color": "#AA0000"
+      },
+      "skywars ": {
+          "name": "SkyWars",
+          "url": "https://blocksmc.com/sky-wars",
+          "command": "/server skywars",
+          "color": "#55FFFF"
+      },
+      "pvp": {
+          "name": "PvP",
+          "command": "/server pvp",
+          "color": "#FF5555"
+      },
+      "skypvp": {
+          "name": "SkyPvP",
+          "command": "/server skypvp",
+          "color": "#FF5555"
+      },
+      "redstonepvp": {
+          "name": "RedStonePvP",
+          "command": "/server redstonepvp",
+          "color": "#AA0000"
+      },
+      "creative": {
+          "name": "Creative",
+          "command": "/server creative",
+          "color": "#55FFFF"
+      },
+      "skypvp_classic": {
+          "name": "SkyPvP Classic",
+          "color": "#FF5555"
+      },
+      "bedwars_solo": {
+          "name": "BedWars Solo",
+          "color": "#AA0000"
+      },
+      "bedwars_doubles": {
+          "name": "BedWars Doubles",
+          "color": "#AA0000"
+      },
+      "bedwars_3v3v3v3": {
+          "name": "BedWars 3v3v3v3",
+          "color": "#AA0000"
+      },
+      "bedwars_4v4v4v4": {
+          "name": "BedWars 4v4v4v4",
+          "color": "#AA0000"
+      },
+      "eggwars_solo": {
+          "name": "EggWars Solo",
+          "color": "#AA00AA"
+      },
+      "eggwars_teams": {
+          "name": "EggWars Teams",
+          "color": "#AA00AA"
+      },
+      "skywars_solo": {
+          "name": "SkyWars Solo",
+          "color": "#55FFFF"
+      },
+      "skywars_teams": {
+          "name": "SkyWars Teams",
+          "color": "#55FFFF"
+      },
+      "luckyblockwars": {
+          "name": "LuckyBlockWars",
+          "color": "#FFF000"
+      },
+      "survivalgames": {
+          "name": "SurvivalGames",
+          "color": "#55FF55"
+      },
+      "uhcrun": {
+          "name": "UHCRun",
+          "color": "#FFF000"
+      },
+      "buildbattle_solo": {
+          "name": "BuildBattle Solo",
+          "color": "#AAAAAA"
+      },
+      "buildbattle_doubles": {
+          "name": "BuildBattle Doubles",
+          "color": "#AAAAAA"
+      },
+      "skygiant_mini": {
+          "name": "SkyGiant Mini",
+          "color": "#ba50e7"
+      },
+      "skygiant_mega": {
+          "name": "SkyGiant Mega",
+          "color": "#ba50e7"
+      },
+      "gravity": {
+          "name": "Gravity",
+          "color": "#55FFFF"
+      },
+      "blockparty": {
+          "name": "BlockParty",
+          "color": "#55FFFF"
+      },
+      "quakecraft": {
+          "name": "QuakeCraft",
+          "color": "#AA0000"
+      },
+      "splegg": {
+          "name": "Splegg",
+          "color": "#FFF000"
+      },
+      "superjump": {
+          "name": "SuperJump",
+          "color": "#AAAAAA"
+      },
+      "partypvp": {
+          "name": "PartyPvP",
+          "color": "#FF55FF"
+      },
+      "1vs1": {
+          "name": "1vs1",
+          "color": "#FFF000"
+      },
+      "thebridge_1vs1": {
+          "name": "TheBridge 1vs1",
+          "color": "#5555FF"
+      },
+      "thebridge_2vs2": {
+          "name": "TheBridge 2vs2",
+          "color": "#5555FF"
+      },
+      "thebridge_4vs4": {
+          "name": "TheBridge 4vs4",
+          "color": "#5555FF"
+      },
+      "murdermystery": {
+          "name": "MurderMystery",
+          "color": "#AA00AA"
+      },
+      "hideandseek": {
+          "name": "HideAndSeek",
+          "color": "#55FF55"
+      },
+      "tnttag": {
+          "name": "TntTag",
+          "color": "#FF5555"
+      },
+      "woolwars": {
+          "name": "WoolWars",
+          "color": "#FF5555"
+      }
+    },
+    "discord":{
+     "server_id": 211543198651121664,
+     "rename_to_minecraft_name": true
+    },
+    "brand": {
+       "primary": "#001414",
+       "background": "#008cd3"
+    },
+    "location": {
+      "city": "Paris",
+      "country": "France",
+      "country_code": "FR"
+    },
+    "user_stats": "https://blocksmc.com/player/{userName}",
+      "yt_trailer": "KwJt3Rtoagg"
   }
-}
+  
