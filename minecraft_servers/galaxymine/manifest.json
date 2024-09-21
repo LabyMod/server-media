@@ -49,6 +49,5 @@
         "country": "Germany",
         "country_code": "DE"
     },
-    "user_stats": "https://galaxymine.de/{@username}",
-    "command_delay": 3000
+    "command_delay": 5000
 }
