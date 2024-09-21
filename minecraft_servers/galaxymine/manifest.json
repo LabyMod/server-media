@@ -1,1 +1,54 @@
-
+{
+    "server_name": "galaxymine.de",
+    "nice_name": "GalaxyMine.de",
+    "direct_ip": "play.galaxymine.de",
+    "server_wildcards": [
+        "%.galaxymine.de"
+    ],
+    "supported_languages": [
+        "de"
+    ],
+    "social": {
+        "web": "https://galaxymine.de",
+        "twitter": "GalaxyMine",
+        "tiktok": "trismotv",
+        "instagram": "trismotv_",
+        "discord": "https://dc.galaxymine.de",
+        "teamspeak": "ts.galaxymine.de"
+    },
+    "gamemodes": {
+        "cb01-1": {
+            "name": "CB01",
+            "color": "#FFA500",
+            "command": "/send %player% cb01",
+            "versions": "1.21*"
+        },
+        "farmwelt-1": {
+            "name": "Farmwelt",
+            "color": "#ADD8E6",
+            "command": "/send %player% farmwelt",
+            "versions": "1.21*"
+        }
+    },
+    "chat": {
+        "message_formats": [
+            "^§[a-f0-9](?<level>\\d+)( \\||§8 \\|) §[a-f0-9](?<sender>[a-zA-Z0-9_]{2,16})§r§7: §f(?<message>.*)$"
+        ]
+    },
+    "discord": {
+        "server_id": 1284479819031249000,
+        "rename_to_minecraft_name": false
+    },
+    "brand": {
+        "primary": "#008FE8",
+        "background": "#0A56A5",
+        "text": "#FFFFFF"
+    },
+    "location": {
+        "city": "Frankfurt am Main",
+        "country": "Germany",
+        "country_code": "DE"
+    },
+    "user_stats": "https://laby.net/@{userName}",
+    "command_delay": 3000
+}
