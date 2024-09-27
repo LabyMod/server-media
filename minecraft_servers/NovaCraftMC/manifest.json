@@ -1,0 +1,27 @@
+{
+  "server_name": "NovaCraft",
+  "nice_name": "NovaCraftMC",
+  "direct_ip": "Novacraftmc.de",
+  "supported_languages": [
+     "de"
+  ],
+  "social": {
+    "tiktok": "novacraftmc.de",
+    "youtube": "https://www.youtube.com/@Novacraftmc_de",
+    "discord": "https://discord.gg/aFqrN5aUZZ"
+  },
+  "discord": {
+    "server_id": 1284448735979507837,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#818181",
+    "background": "#ffffff",
+    "text": "#000000"
+  },
+  "location": {
+     "city": "Falkenstein",
+     "country": "Germany",
+     "country_code": "DE"
+   }
+}
