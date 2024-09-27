@@ -7,7 +7,6 @@
   ],
   "social": {
       "discord":"https://discord.gg/7F6MbnUSEp",
-      "teamspeak":"ts.craftportal.net",
       "tiktok":"craftportal_net",
       "youtube":"https://www.youtube.com/@craftportal_net"
   },
@@ -19,8 +18,8 @@
       "versions": "1.20<*"
     },
     "knockffa": {
-      "name": "KnockFFA",
-      "command": "/knockffa",
+      "name": "Misslewars",
+      "command": "/misslewars",
       "color": "#22D2FC",
       "versions": "1.20<*"
     }
