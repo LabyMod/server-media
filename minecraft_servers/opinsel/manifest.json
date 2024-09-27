@@ -8,9 +8,9 @@
     ],
     "gamemodes": {
         "tntrun": {
-          "name": "TNTRun", 
+          "name": "Skyblock", 
           "color": "#Ff0000",
-          "command": "/server tntrun",
+          "command": "/server skyblock",
           "versions": "1.21<*"
         }
     },
