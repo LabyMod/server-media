@@ -6,9 +6,8 @@
     "da"
   ],
   "social": {
-    "web": "https://www.chopnex.net",
     "web_shop": "https://butik.chopnex.net",
-    "discord": "https://discord.chopnex.net",
+    "discord": "https://discord.com/invite/chopnex-797595017891282995",
     "tiktok": "chopnex",
     "youtube": "https://www.youtube.com/@chopnexofficial"
   },
@@ -30,8 +29,7 @@
     "text": "#ffffff"
   },
   "discord": {
-    "server_id": 797595017891282995,
-    "rename_to_minecraft_name": true
+    "server_id": 797595017891282995
   },
   "command_delay": 250
 }
