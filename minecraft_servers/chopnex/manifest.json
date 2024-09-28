@@ -1,0 +1,37 @@
+{
+  "server_name": "chopnex",
+  "nice_name": "Chopnex",
+  "direct_ip": "chopnex.net",
+  "supported_languages": [
+    "da"
+  ],
+  "social": {
+    "web": "https://www.chopnex.net/",
+    "web_shop": "https://butik.chopnex.net/",
+    "discord": "https://discord.chopnex.net/",
+    "tiktok": "chopnex",
+    "youtube": "https://www.youtube.com/@chopnexofficial"
+  },
+  "gamemodes": {
+    "eventyret": {
+      "name": "Eventyret",
+      "command": "/server eventyret",
+      "color": "#306fdb"
+    }
+  },
+  "location": {
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "country_code": "DA"
+  },
+  "brand": {
+    "primary": "#306fdb",
+    "background": "#306fdb",
+    "text": "#ffffff"
+  },
+  "discord": {
+    "server_id": 797595017891282995,
+    "rename_to_minecraft_name": true
+  },
+  "command_delay": 250
+}
