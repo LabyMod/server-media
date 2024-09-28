@@ -7,7 +7,7 @@
       "%.opinsel.com"
     ],
     "gamemodes": {
-        "tntrun": {
+        "skyblock": {
           "name": "Skyblock", 
           "color": "#Ff0000",
           "command": "/server skyblock",
