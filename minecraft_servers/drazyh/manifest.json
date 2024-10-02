@@ -2,25 +2,29 @@
   "server_name": "drazyh",
   "nice_name": "Drazyh",
   "direct_ip": "drazyh.com",
+  "server_wildcards": [
+    "%.drazyh.com"
+  ],
+  "supported_languages": [
+    "pt-BR",
+    "pt-PT"
+  ],
+  "social": {
+    "discord": "https://discord.com/invite/gdmqvRgzGf"
+  },
   "gamemodes": {
     "p4free": {
       "name": "P4 Free",
-      "color": "#f89900",
       "command": "/serverconnector p4free"
     },
     "rankup": {
       "name": "RankUP",
-      "color": "#f89900",
       "command": "/serverconnector rankup"
     },
     "factions": {
       "name": "Factions",
-      "color": "#f89900",
       "command": "/serverconnector factions"
     }
-  },
-  "social": {
-    "discord": "https://discord.com/invite/gdmqvRgzGf"
   },
   "discord": {
     "server_id": 697148173671465041,
@@ -34,9 +38,5 @@
   "location": {
     "country": "Brazil",
     "country_code": "BR"
-  },
-  "supported_languages": [
-    "pt-BR",
-    "pt-PT"
-  ]
+  }
 }
