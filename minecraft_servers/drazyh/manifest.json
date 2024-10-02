@@ -5,15 +5,15 @@
   "gamemodes": {
     "p4free": {
       "name": "P4 Free",
-      "color": "#f89900"
+      "command": "/play p4free"
     },
     "rankup": {
       "name": "RankUP",
-      "color": "#f89900"
+      "command": "/play rankup"
     },
     "factions": {
       "name": "Factions",
-      "color": "#f89900"
+      "command": "/play factions"
     }
   },
   "social": {
