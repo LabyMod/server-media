@@ -2,9 +2,6 @@
     "server_name": "craftedhorizon",
     "nice_name": "CraftedHorizon",
     "direct_ip": "mc.craftedhorizon.net",
-    "server_wildcards": [
-      "*.craftedhorizon.net"
-    ],
     "social": {
         "discord": "https://discord.com/invite/HzbwMUdeVj"
     },
