@@ -2,17 +2,13 @@
   "server_name": "wysteria",
   "nice_name": "Wysteria",
   "direct_ip": "wysteria.net",
-  "server_wildcards": [
-    "%.wysteria.net"
-  ],
   "supported_languages": [
      "en",
      "de"
   ],
   "social": {
     "tiktok": "wysteria.net",
-    "discord": "https://discord.gg/pqfV7EDeZ2",
-    "youtube": "https://www.youtube.com/@clyex"
+    "discord": "https://discord.gg/pqfV7EDeZ2"
   },
   "gamemodes": {
     "survival": {
