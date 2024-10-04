@@ -3,7 +3,7 @@
   "nice_name": "Wysteria",
   "direct_ip": "wysteria.net",
   "server_wildcards": [
-    "play.wysteria.net"
+    "%.wysteria.net"
   ],
   "supported_languages": [
      "en",
@@ -13,6 +13,12 @@
     "tiktok": "wysteria.net",
     "discord": "https://discord.gg/pqfV7EDeZ2",
     "youtube": "https://www.youtube.com/@clyex"
+  },
+  "gamemodes": {
+    "survival": {
+      "name": "Survival", 
+      "color": "#03F8FC"
+    }
   },
   "discord": {
     "server_id": 1199783349867261972,
