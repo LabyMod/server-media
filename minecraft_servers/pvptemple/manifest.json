@@ -5,8 +5,7 @@
     "server_wildcards": [
       "%.pvptemple.net",
       "%.teamunit.net",
-      "%.teamunit.de",
-      "%.potionmc.net"
+      "%.teamunit.de"
     ],
     "supported_languages": [
       "en"
