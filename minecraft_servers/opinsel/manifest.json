@@ -15,7 +15,7 @@
         }
     },
     "discord": {
-        "server_id": 1271149953221263452,
+        "server_id": 954852149882388550,
         "rename_to_minecraft_name": false
       },
     "supported_languages": [
@@ -25,7 +25,9 @@
     "social": {
         "web": "https://opinsel.net",
         "web_shop": "https://opinsel.net/shop",
-        "discord": "https://discord.gg/SaBbwpT9hK"
+        "discord": "https://discord.gg/YW9CSJC6VB",
+        "tiktok": "opinsel",
+        "youtube": "https://www.youtube.com/@opinsel"
     },
     "location": {
         "city": "Eygelshoven",
