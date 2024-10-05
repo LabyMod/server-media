@@ -50,5 +50,6 @@
   "discord": {
     "server_id": 739186031412379738,
     "rename_to_minecraft_name": true
-  }
+  },
+  "command_delay": 250
 }

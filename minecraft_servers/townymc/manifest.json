@@ -1,0 +1,39 @@
+{
+  "server_name": "townymc",
+  "nice_name": "TownyMc",
+  "direct_ip": "TownyMc.de",
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "discord": "https://discord.gg/fwEGbn8VgQ",
+    "tiktok": "townymc_de"
+  },
+  "discord": {
+    "server_id": 1226637161349120030
+  },
+  "brand": {
+    "primary": "#ECAD5E",
+    "background": "#e19536",
+    "text": "#ffffff"
+  },
+  "location": {
+    "city": "Hessen",
+    "country": "Germany",
+    "country_code": "DE"
+  },
+  "gamemodes": {
+    "citybuild": {
+      "name": "Citybuild",
+      "command": "/citybuild"
+    },
+    "goldjagd": {
+      "name": "Goldjagd",
+      "command": "/goldjagd"
+    },
+    "punsh": {
+      "name": "Punsh",
+      "command": "/punsh"
+    }
+  }
+}

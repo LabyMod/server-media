@@ -49,6 +49,12 @@ def main():
         if server_directory != data['server_name']:
             comment += '**Servername has to be directory name!**\n'
 
+        # Validate wildcards
+        if 'server_wildcards' in data:
+            for wildcard in data['server_wildcards']:
+                if not wildcard.startswith('%.'):
+                    comment += '- Invalid wildcard entry. Each entry must start with **%.**. Further information here: https://en.wikipedia.org/wiki/Wildcard_DNS_record (`server_wildcards`)\n'
+
         # Check for https
         if 'social' in data:
             social = data['social']

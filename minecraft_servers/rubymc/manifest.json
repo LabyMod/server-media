@@ -1,7 +1,7 @@
 {
    "server_name":"rubymc",
    "nice_name":"RubyMC",
-   "direct_ip":"rubymc.de",
+   "direct_ip":"rubymc.net",
    "supported_languages":[
       "de",
       "en"
@@ -9,9 +9,7 @@
    "social":{
       "web_shop":"https://shop.rubymc.de",
       "discord":"https://discord.gg/Wu4PSKaQA2",
-      "youtube":"https://www.youtube.com/channel/UCdP40AdmG_ZMM6A19dJN8fw",
-      "instagram":"rubymc_official",
-      "tiktok":"rubymc_de"
+      "youtube":"https://www.youtube.com/channel/UCdP40AdmG_ZMM6A19dJN8fw"
    },
    "gamemodes":{
       "survival":{
@@ -22,22 +20,34 @@
          "name":"Paintball",
          "color":"#FC8E16"
       },
-      "zonewars":{
-         "name":"ZoneWars",
-         "color":"#13FCD2"
-      },
       "colorffa":{
          "name":"ColorFFA",
          "color":"#FCFC54"
       },
-      "cakebattle":{
-         "name":"Cakebattle",
-         "color":"#FC51ED"
-      },
       "survivor":{
          "name":"Survivor",
          "color":"#00FC19"
+      },
+      "parkour":{
+         "name":"Parkour",
+         "color":"#3fcbac"
+      },
+      "luckyblocks":{
+         "name":"LuckyBlocks",
+         "color":"#FFFF55"
+      },
+      "arcade":{
+         "name":"Arcade",
+         "color":"#e11d48"
+      },
+      "blockparty":{
+         "name":"BlockParty",
+         "color":"#ec4899"
       }
+   },
+   "brand":{
+      "primary":"#e11d48",
+      "background":"#9f1239"
    },
    "discord":{
       "server_id":759336586361569280,

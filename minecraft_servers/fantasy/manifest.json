@@ -3,13 +3,14 @@
   "nice_name": "Rede Fantasy",
   "direct_ip": "redefantasy.com",
   "server_wildcards": [
-    "%.redefantasy.com"
+    "%.redefantasy.com",
+    "redefantasy.digital"
   ],
   "gamemodes": {
-    "prison": {
-      "name": "Prison Phoenix",
-      "color": "#FFAA00",
-      "command": "/serverconnector prison-phoenix"
+    "prison_eclipse": {
+      "name": "Prison Eclipse",
+      "color": "#661d6c",
+      "command": "/serverconnector prison-eclipse"
     }
   },
   "social": {
