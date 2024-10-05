@@ -1,6 +1,6 @@
 {
     "server_name": "pvptemple",
-    "nice_name": "pvptemple.net",
+    "nice_name": "PvPTemple",
     "direct_ip": "pvptemple.net",
     "server_wildcards": [
       "%.pvptemple.net",
@@ -9,15 +9,13 @@
       "%.potionmc.net"
     ],
     "supported_languages": [
-      "de",
       "en"
     ],
     "social": {
       "web": "https://pvptemple.net",
       "web_shop": "https://store.pvptemple.net",
       "twitter": "ThePvPTemple",
-      "discord": "https://discord.gg/p86Yj2Q5",
-      "youtube": "https://youtube.com/c/thepvptemple"
+      "discord": "https://discord.gg/pvptemple"
     },
     "discord": {
       "server_id": "1246898224346693662",
@@ -32,30 +30,25 @@
         "color": "#FFF",
         "command": "/l uhc"
       },
-      "skywars": {
-        "name": "SkyWars",
+      "uchmeetup": {
+        "name": "UHCMeetup",
         "color": "#FFF",
-        "command": "/l skywars"
+        "command": "/l uchm"
       },
-      "arenapvp": {
-        "name": "ArenaPvP",
+      "practice": {
+        "name": "Practice",
         "color": "#FFF",
-        "command": "/l arenapvp"
+        "command": "/l practice"
       },
-      "bedwars": {
-        "name": "BedWars",
+      "survivalgames": {
+        "name": "SurvivalGames",
         "color": "#FFF",
-        "command": "/l bedwars"
+        "command": "/l sg"
       },
-      "ffa": {
-        "name": "FFA",
+      "hardcorefaction": {
+        "name": "HCF",
         "color": "#FFF",
-        "command": "/l ffa"
+        "command": "/l hcf"
       }
-    },
-    "location": {
-      "city": "Frankfurt am Main",
-      "country": "Germany",
-      "country_code": "DE"
     }
   }
