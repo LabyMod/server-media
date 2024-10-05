@@ -15,13 +15,12 @@
     "youtube": "https://www.youtube.com/@thebestminecraftserver",
     "tiktok": "onthepixel",
     "discord": "https://discord.gg/Dpx3eK9t3z",
-    "twitter": "onthepixelnet",
-    "web_support": "https://onthepixel.net/support"
+    "twitter": "onthepixelnet"
   },
   "gamemodes": {
-    "hideandseek": {
-      "name": "Hide and Seek",
-      "command": "/hideandseek"
+    "tntrun": {
+      "name": "TNTRun",
+      "command": "/tntrun"
     },
     "bedwards":{
       "name": "BedWars",

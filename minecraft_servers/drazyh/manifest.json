@@ -1,0 +1,39 @@
+{
+  "server_name": "drazyh",
+  "nice_name": "Drazyh",
+  "direct_ip": "drazyh.com",
+  "gamemodes": {
+    "p4free": {
+      "name": "P4 Free",
+      "command": "/play p4free"
+    },
+    "rankup": {
+      "name": "RankUP",
+      "command": "/play rankup"
+    },
+    "factions": {
+      "name": "Factions",
+      "command": "/play factions"
+    }
+  },
+  "social": {
+    "discord": "https://discord.com/invite/gdmqvRgzGf"
+  },
+  "discord": {
+    "server_id": 697148173671465041,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#007bff",
+    "background": "#f9cb25",
+    "text": "#FFFFFF"
+  },
+  "location": {
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  "supported_languages": [
+    "pt-BR",
+    "pt-PT"
+  ]
+}
