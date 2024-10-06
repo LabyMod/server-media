@@ -2,14 +2,6 @@
     "server_name": "pvptemple",
     "nice_name": "PvPTemple",
     "direct_ip": "pvptemple.net",
-    "server_wildcards": [
-      "eu.pvptemple.net",
-      "na.pvptemple.net",
-      "eu.teamunit.net",
-      "na.teamunit.net",  
-      "eu.teamunit.de",
-      "na.teamunit.de"  
-    ],
     "supported_languages": [
       "en"
     ],
