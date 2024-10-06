@@ -3,15 +3,17 @@
     "nice_name": "PvPTemple",
     "direct_ip": "pvptemple.net",
     "server_wildcards": [
-      "%.pvptemple.net",
-      "%.teamunit.net",
-      "%.teamunit.de"
+      "eu.pvptemple.net",
+      "na.pvptemple.net",
+      "eu.teamunit.net",
+      "na.teamunit.net",  
+      "eu.teamunit.de",
+      "na.teamunit.de"  
     ],
     "supported_languages": [
       "en"
     ],
     "social": {
-      "web": "https://pvptemple.net",
       "web_shop": "https://store.pvptemple.net",
       "twitter": "ThePvPTemple",
       "discord": "https://discord.gg/pvptemple"
