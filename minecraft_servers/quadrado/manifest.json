@@ -1,0 +1,27 @@
+{
+    "server_name": "quadrado",
+    "nice_name": "Quadrado",
+    "direct_ip": "jogar.quadrado.net",
+    "supported_languages": [
+        "pt-BR",
+        "pt-PT"
+    ],
+    "social": {
+        "discord": "https://discord.gg/quadrado"
+    },
+    "gamemodes": {
+        "rankup": {
+            "name": "Rank UP Legacy", 
+            "color": "#383838"
+        }
+    },
+    "discord": {
+        "server_id": 1264697820531916941,
+        "rename_to_minecraft_name": false
+    },
+    "location": {
+        "city": "São Paulo",
+        "country": "Brasil",
+        "country_code": "BR"
+    }
+}

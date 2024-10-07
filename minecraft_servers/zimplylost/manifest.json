@@ -1,0 +1,42 @@
+{
+  "server_name": "zimplylost",
+  "nice_name": "ZimplyLost",
+  "direct_ip": "zimplylost.net",
+  "supported_languages": [
+    "de",
+    "en"
+  ],
+  "social": {
+    "discord": "https://discord.gg/DMbJg8RuEJ",
+    "tiktok": "zimplylost",
+    "youtube": "https://www.youtube.com/ZimplyLost",
+    "instagram": "zimplylost_network"
+  },
+  "gamemodes": {
+    "bowling": {
+      "name": "Bowling",
+      "color": "#0095B0"
+    },
+    "minigolf": {
+      "name": "MiniGolf",
+      "color": "#0095B0"
+    },
+    "smash": {
+      "name": "Smash",
+      "color": "#0095B0"
+    },
+    "hidenseek": {
+      "name": "HideNSeek",
+      "color": "#0095B0"
+    }
+  },
+  "discord": {
+    "server_id": 781614288929554453,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#497cb1",
+    "background": "#497cb1",
+    "text": "#ffffff"
+  }
+}
