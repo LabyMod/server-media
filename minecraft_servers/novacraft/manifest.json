@@ -1,0 +1,17 @@
+{
+    "server_name": "novacraft",
+    "nice_name": "NovaCraft",
+    "direct_ip": "Novacraftmc.de",
+    "supported_languages": [
+        "de"
+    ],
+    "social": {
+        "tiktok": "novacraftmc.de",
+        "discord": "https://discord.gg/2bjW9uhdfB",
+        "youtube": "https://youtube.com/novacraftmc_de"
+    },
+    "location": {
+        "city": "Falkenstein",
+        "country": "Germany"
+    }
+}
