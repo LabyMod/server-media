@@ -1,0 +1,7 @@
+server_name "networknougat"
+nice_name "NetworkNougat"
+direct_ip "networknougat.de"
+supported_languages ["de", "en"]
+social.web "networknougat.netlify.app"
+social.discord "https://discord.gg/Njr34XvYbg"
+
