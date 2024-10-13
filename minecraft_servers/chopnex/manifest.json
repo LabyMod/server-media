@@ -11,13 +11,6 @@
     "tiktok": "chopnex",
     "youtube": "https://www.youtube.com/@chopnexofficial"
   },
-  "gamemodes": {
-    "eventyret": {
-      "name": "Eventyret",
-      "command": "/server eventyret",
-      "color": "#306fdb"
-    }
-  },
   "location": {
     "city": "Copenhagen",
     "country": "Denmark",
@@ -25,11 +18,10 @@
   },
   "brand": {
     "primary": "#306fdb",
-    "background": "#306fdb",
+    "background": "#42bff5",
     "text": "#ffffff"
   },
   "discord": {
     "server_id": 797595017891282995
-  },
-  "command_delay": 250
+  }
 }
