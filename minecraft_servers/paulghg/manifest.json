@@ -1,0 +1,12 @@
+{
+    "server_name": "paulghg",
+    "nice_name": "PaulGHG.de",
+    "direct_ip": "paulghg.de",
+    "social": {
+      "discord": "https://discord.gg/UDSrVUzdVj"
+    },
+    "discord": {
+      "server_id": 1241348057577033840,
+      "rename_to_minecraft_name": false
+    }
+  }

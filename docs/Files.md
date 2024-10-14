@@ -20,7 +20,7 @@ A folder can contain the following files (*required):
 - `icon@2x.png`*: hDPI version of `icon.png` (512 x 512)
 - `logo@2x.png`: hDPI version of `logo.png` (256-512 x 512-1024)
 - `background@2x.png`: hDPI version of `background.png` (1920 x 1080)
-- `banner.png` This banner image will be shown in future versions of LabyMod above the player list (tab), this can currently be achieved also via the [LabyMod server API](https://docs.labymod.net/pages/server/displays/tablist/). (aspect ratio 5:1, max 1280 x 512)
+- `banner.png` This banner image will be shown in future versions of LabyMod above the player list (tab), this can currently be achieved also via the [LabyMod server API](https://docs.labymod.net/pages/server/displays/tablist/). (aspect ratio 5:1, max 1280 x 256)
 - `manifest.json`*: Information for minecraft server. See [example manifest.json](/docs/Manifest.md#example-manifestjson-file)
 
 ### Gamemodes

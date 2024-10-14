@@ -1,0 +1,47 @@
+{
+    "server_name": "pvptemple",
+    "nice_name": "PvPTemple",
+    "direct_ip": "pvptemple.net",
+    "supported_languages": [
+      "en"
+    ],
+    "social": {
+      "web_shop": "https://store.pvptemple.net",
+      "twitter": "ThePvPTemple",
+      "discord": "https://discord.gg/pvptemple"
+    },
+    "discord": {
+      "server_id": "1246898224346693662",
+      "rename_to_minecraft_name": false
+    },
+    "brand": {
+      "primary": "#ffa500"
+    },
+    "gamemodes": {
+      "uhc": {
+        "name": "UHC",
+        "color": "#FFF",
+        "command": "/l uhc"
+      },
+      "uchmeetup": {
+        "name": "UHCMeetup",
+        "color": "#FFF",
+        "command": "/l uchm"
+      },
+      "practice": {
+        "name": "Practice",
+        "color": "#FFF",
+        "command": "/l practice"
+      },
+      "survivalgames": {
+        "name": "SurvivalGames",
+        "color": "#FFF",
+        "command": "/l sg"
+      },
+      "hardcorefaction": {
+        "name": "HCF",
+        "color": "#FFF",
+        "command": "/l hcf"
+      }
+    }
+  }

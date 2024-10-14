@@ -36,29 +36,39 @@
     },
     "gamemodes":{
       "practice":{
-        "name":"Practice",
+        "name":"Legacy Practice",
         "color":"#FFAA00",
-        "command":"/joinqueue na-practice"
+        "command":"/joinqueue na-practice",
+        "versions": "1.7<1.8.9"
+      },
+      "modern_practice":{
+        "name":"Modern Practice",
+        "color":"#FFAA00",
+        "command":"/joinqueue na-mpractice",
+        "versions": "1.19.2<*"
       },
       "survival_games":{
         "name":"Survival Games",
         "color":"#E910E4",
-        "command":"/joinqueue na-sg"
+        "command":"/joinqueue na-sg",
+        "versions": "1.7<1.8.9"
       },
       "uhc_meetup":{
         "name":"UHC Meetup",
         "color":"#E910E4",
-        "command":"/joinqueue na-um"
+        "command":"/joinqueue na-um",
+        "versions": "1.7<1.8.9"
       },
       "uhc_games":{
         "name":"UHC Games",
         "color":"#E910E4",
-        "command":"/joinqueue na-ug"
+        "command":"/joinqueue na-ug",
+        "versions": "1.7<1.8.9"
       }
     },
     "chat": {
       "message_formats": [
-        "^(?<rank>\\[.+?\\]\\s)?(?<sender>[a-zA-Z0-9_]{1,16})(\\s(?<tag>[a-zA-Z0-9_ ]+))?:(?<message>.*)$"
+        "^(?<rank>§[a-z0-9]\\[.+?\\]\\s)?(?<senderColor>§[a-z0-9])(?<senderColorOptional>(§[a-z0-9])+)?(?<sender>[a-zA-Z0-9_]{1,16})(?<tag>[§a-zA-Z0-9_ ]+)?:\\s(?<message>.*)$"
       ]
     },
     "discord":{

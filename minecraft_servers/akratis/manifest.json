@@ -1,0 +1,24 @@
+{
+  "server_name": "akratis",
+  "nice_name": "Akratis",
+  "direct_ip": "Akratis.de",
+  "server_wildcards": [
+    "%.akratis.de"
+  ],
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "web": "https://akratis.de",
+    "discord": "https://discord.gg/mjfpcV3g9M"
+  },
+  "discord": {
+    "server_id": 1275921226396602378,
+    "rename_to_minecraft_name": false
+  },
+  "location": {
+    "city": "Nordhorn",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "server_name": "pixelpulsecraft",
+  "nice_name": "PixelPulseCraft",
+  "direct_ip": "PixelPulseCraft.de",
+  "server_wildcards": [
+    "%.PixelPulseCraft.de"
+  ],
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "web": "https://PixelPulseCraft.de",
+    "tiktok": "pixelpulsecraft.de",
+    "discord": "https://discord.gg/cQnKjXWq9s",
+    "twitter": "PXPSCraftDE"
+  },
+  "gamemodes": {
+    "cbsonne": {
+      "name": "CBSonne",
+      "command": "/cbsonne"
+    },
+    "survival":{
+      "name": "Survival",
+      "command": "/survival"
+    },
+    "paintball":{
+      "name": "Paintball",
+      "command": "/paintball"
+    }
+  },
+  "discord": {
+    "server_id": 1092865877373898772,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#32a840",
+    "background": "#084f10",
+    "text": "#ffffff"
+  },
+  "location": {
+    "city": "Nürnberg",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}

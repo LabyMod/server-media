@@ -52,7 +52,7 @@
     "islands": {
       "name": "Islands",
       "color": "#c4a525",
-      "command": "/island",
+      "command": "/islands",
       "versions": "1.16<*"
     },
     "anarchy": {
@@ -65,7 +65,7 @@
       "name": "Creative",
       "color": "#c4a525",
       "command": "/creative",
-      "versions": "1.8<*"
+      "versions": "1.19<*"
     },
     "earth_towny": {
       "name": "Earth Towny",
@@ -73,11 +73,11 @@
       "command": "/earth",
       "versions": "1.19<*"
     },
-    "factions": {
-      "name": "Factions",
+    "lifesteal_factions": {
+      "name": "Lifesteal Factions",
       "color": "#c4a525",
       "command": "/factions",
-      "versions": "1.8<*"
+      "versions": "1.19<*"
     },
     "kitpvp": {
       "name": "KitPvP",

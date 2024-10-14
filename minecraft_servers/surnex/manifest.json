@@ -2,6 +2,10 @@
   "server_name": "surnex",
   "nice_name": "Surnex",
   "direct_ip": "surnex.net",
+  "server_wildcards": [
+    "surnex.de",
+    "truayt.de"
+  ],
   "supported_languages": [
     "de"
   ],
@@ -20,5 +24,22 @@
     "city": "Frankfurt",
     "country": "Germany",
     "country_code": "DE"
+  },
+  "gamemodes": {
+    "citybuild": {
+      "name": "CityBuild",
+      "color": "#55FF55",
+      "versions": "1.20.1<*"
+    },
+    "ttt": {
+      "name": "TTT",
+      "color": "#FF5555",
+      "versions": "1.20.1<*"
+    },
+    "skywars": {
+      "name": "SkyWars",
+      "color": "#5555FF",
+      "versions": "1.20.1<*"
+    }
   }
 }

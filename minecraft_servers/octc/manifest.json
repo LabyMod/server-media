@@ -6,11 +6,12 @@
       "%.oc.tc"
     ],
     "supported_languages": [
-       "en"
+       "en",
+       "es"
     ],
     "social": {
         "web": "https://oc.tc",
-        "web_shop": "https://oc.tc/donate",
+        "web_shop": "https://oc.tc/store",
         "twitter": "OvercastPGM",
         "discord": "https://discord.gg/octc",
         "youtube": "https://www.youtube.com/@OvercastNetwork"
@@ -24,14 +25,23 @@
             "name": "Capture the Wool/Flag",
             "color": "#FFFFFF"
         },
+        "koth": {
+            "name": "King of the Hill/Flag",
+            "color": "#FFFFFF"
+        },
         "tdm": {
             "name": "Team Deathmatch",
             "color": "#FFFFFF"
         },
-        "tournaments": {
-            "name": "Tournaments",
+        "ranked": {
+            "name": "Ranked",
             "color": "#E69E19",
-            "url": "https://oc.tc/events"
+            "url": "https://oc.tc/docs/ranked"
+        },
+        "pugs": {
+            "name": "Pick Up Games",
+            "color": "#FFFFFF",
+            "url": "https://oc.tc/pugs"
         },
         "mapmaker": {
             "name": "Mapmaker",
@@ -49,11 +59,7 @@
         "background": "#4C0704",
         "text": "#FFFFFF"
     },
-    "location": {
-        "city": "Toronto",
-        "country": "Canada",
-        "country_code": "CA"
-    },
     "yt_trailer": "-nZdZ5Dy2Io",
+    "user_stats": "https://oc.tc/@{userName}",
     "command_delay": 3000
 }

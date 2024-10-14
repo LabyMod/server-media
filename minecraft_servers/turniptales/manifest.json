@@ -1,0 +1,32 @@
+{
+  "server_name": "turniptales",
+  "nice_name": "TurnipTales",
+  "direct_ip": "turniptales.net",
+  "server_wildcards": [
+    "%.turniptales.net"
+  ],
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "web": "https://turniptales.net",
+    "twitter": "turniptalesnet",
+    "tiktok": "turniptales",
+    "instagram": "turniptalesnet",
+    "discord": "https://discord.gg/turniptales",
+    "teamspeak": "turniptales.net"
+  },
+  "discord": {
+    "server_id": 1008928645185810463,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#00AAAA",
+     "background": "#00AAAA",
+     "text": "#FFFFFF"
+  },
+  "location": {
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}

@@ -1,0 +1,67 @@
+{
+    "server_name":"wyntale",
+    "nice_name":"Wyntale",
+    "direct_ip":"play.wyntale.fr",
+    "server_wildcards":[
+      "%.wyntale.fr"
+    ],
+    "supported_languages":[
+      "fr"
+    ],
+    "social":{
+      "web_shop":"https://shop.wyntale.fr",
+      "web_support":"https://docs.wyntale.fr",
+      "twitter":"wyntale",
+      "tiktok":"wyntalemc",
+      "discord":"https://discord.gg/wyntale",
+      "youtube":"https://www.youtube.com/@wyntale9563"
+    },
+    "gamemodes":{
+      "battlesheep":{
+        "name":"BattleSheep",
+        "color":"#79fefd",
+        "url": "https://docs.wyntale.fr/wyntale/jeux/battle-sheep"
+      },
+      "axolorun":{
+        "name":"Axolorun",
+        "color":"#ffc4f7",
+        "url": "https://docs.wyntale.fr/wyntale/jeux/axolorun"
+      },
+      "hungergames":{
+        "name":"Hunger Games",
+        "color":"#86fe6e",
+        "url": "https://docs.wyntale.fr/wyntale/jeux/hunger-games"
+      },
+      "buildbattle":{
+        "name":"buildbattle",
+        "color":"#01acac",
+        "url": "https://docs.wyntale.fr/wyntale/jeux/build-battle"
+      },
+      "fallenkingdoms":{
+        "name":"FallenKingdoms",
+        "color":"#fc1360",
+        "url": "https://docs.wyntale.fr/wyntale/jeux/fallen-kingdoms"
+      },
+      "bedwars":{
+        "name":"BedWars",
+        "color":"#ffdf3c",
+        "url": "https://docs.wyntale.fr/wyntale/jeux/bedwars"
+      }
+    },
+    "discord":{
+      "server_id":945750422700838922,
+      "rename_to_minecraft_name":false
+    },
+    "location":{
+      "city":"Paris",
+      "country":"France",
+      "country_code":"FR"
+    },
+    "brand":{
+      "primary":"#f2cb40",
+      "background":"#13212e",
+      "text":"#FFEFEF"
+    },
+    "yt_trailer": "V_0nczGPKQU"
+  }
+  

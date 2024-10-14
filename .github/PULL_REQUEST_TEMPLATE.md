@@ -2,6 +2,7 @@
 
 - [ ] Add new directory for a server
 - [ ] Update directory of a server
+- [ ] Remove directory of a server
 - [ ] Documentation Update
 
 ## Checklist

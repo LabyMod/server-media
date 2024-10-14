@@ -1,0 +1,15 @@
+{
+  "server_name": "cragenetwork",
+  "nice_name": "Crage Network",
+  "direct_ip": "play.cragenetwork.com",
+  "social": {
+    "web": "https://cragenetwork.com",
+    "web_shop": "https://cragenetwork.com/store",
+    "instagram": "cragenetworkcom",
+    "discord": "https://discord.com/invite/crage"
+  },
+  "discord": {
+    "server_id": 1114219173229383820,
+    "rename_to_minecraft_name": false
+  }
+}

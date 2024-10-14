@@ -1,0 +1,35 @@
+{
+  "server_name":"survivalworld",
+  "nice_name":"SurvivalWorld",
+  "direct_ip":"play.survivalworld.fr",
+  "server_wildcards":[
+    "%.survivalworld.fr"
+  ],
+  "supported_languages":[
+    "fr"
+  ],
+  "social":{
+    "web":"https://survivalworld.fr",
+    "web_shop":"https://shop.survivalworld.fr",
+    "web_support": "https://survivalworld.gitbook.io/survivalworld/f.a.q#jai-besoin-dune-assistance-que-faire",
+    "twitter":"SurvivalWorldFR",
+    "tiktok":"SurvivalWorldFR",
+    "instagram":"SurvivalWorldFR",
+    "discord":"https://discord.gg/survivalworld",
+    "youtube":"https://www.youtube.com/@survivalworldfr"
+  },
+  "gamemodes":{
+    "survie":{
+      "name":"Survie",
+      "color":"#108B0C"
+    },
+    "creatif":{
+      "name":"Créatif",
+      "color":"#108B0C"
+    }
+  },
+  "discord":{
+    "server_id":444989432114970644,
+    "rename_to_minecraft_name":false
+    }
+}

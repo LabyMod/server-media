@@ -1,0 +1,29 @@
+{
+  "server_name": "trypanix",
+  "nice_name": "TryPanix",
+  "direct_ip": "trypanix.de",
+  "supported_languages": [
+     "de"
+  ],
+  "social": {
+    "discord": "https://discord.gg/Mz7cJuCyBN"
+  },
+  "gamemodes": {
+    "ctf": {
+      "name": "CaptureTheFlag", 
+      "color": "#FFA500",
+      "command": "/admin CTF-1",
+      "versions": "1.20.4"
+    },
+    "flash": {
+      "name": "Flash", 
+      "color": "#A81100",
+      "command": "/admin Flash-1",
+      "versions": "1.20.4"
+    }
+  },
+  "discord": {
+    "server_id": 745512901963546624,
+    "rename_to_minecraft_name": false
+  }
+}
