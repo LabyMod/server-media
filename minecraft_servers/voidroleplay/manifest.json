@@ -2,14 +2,11 @@
   "server_name": "voidroleplay",
   "nice_name": "VoidRoleplay",
   "direct_ip": "voidroleplay.de",
-  "server_wildcards": [
-    "%.voidroleplay.de"
-  ],
   "supported_languages": [
      "de"
   ],
   "social": {
-    "web": "https://www.voidroleplay.de",
+    "web": "https://voidroleplay.de/",
     "discord": "https://discord.gg/voidroleplayde"
   },
   "location": {
