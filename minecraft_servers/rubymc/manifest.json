@@ -7,46 +7,42 @@
       "en"
    ],
    "social":{
-      "web_shop":"https://shop.rubymc.de",
-      "discord":"https://discord.gg/Wu4PSKaQA2",
-      "youtube":"https://www.youtube.com/channel/UCdP40AdmG_ZMM6A19dJN8fw"
+      "web_shop":"https://shop.rubymc.net",
+      "discord":"https://discord.gg/rubymc",
+      "youtube":"https://www.youtube.com/@rubymcnet"
    },
    "gamemodes":{
-      "survival":{
-         "name":"Survival",
-         "color":"#AADD15"
+      "blockwatch":{
+         "name":"BlockWatch",
+         "color":"#e53630"
       },
-      "paintball":{
-         "name":"Paintball",
-         "color":"#FC8E16"
+      "punchout":{
+         "name":"PunchOut",
+         "color":"#e53630"
       },
       "colorffa":{
          "name":"ColorFFA",
-         "color":"#FCFC54"
+         "color":"#e53630"
       },
       "survivor":{
          "name":"Survivor",
-         "color":"#00FC19"
+         "color":"#e53630"
       },
       "parkour":{
          "name":"Parkour",
-         "color":"#3fcbac"
-      },
-      "luckyblocks":{
-         "name":"LuckyBlocks",
-         "color":"#FFFF55"
-      },
-      "arcade":{
-         "name":"Arcade",
-         "color":"#e11d48"
+         "color":"#e53630"
       },
       "blockparty":{
          "name":"BlockParty",
-         "color":"#ec4899"
+         "color":"#e53630"
+      },
+      "survival":{
+         "name":"Survival",
+         "color":"#e53630"
       }
    },
    "brand":{
-      "primary":"#e11d48",
+      "primary":"#e53630",
       "background":"#9f1239"
    },
    "discord":{
