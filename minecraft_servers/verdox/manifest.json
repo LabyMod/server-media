@@ -17,8 +17,8 @@
       "survival": {
         "name": "Survival", 
         "color": "#FFA500",
-        "command": "/quickjoin survival",
-        "versions": "1.20<*"
+        "command": "/survival",
+        "versions": "1.21<*"
       },
       "smash": {
         "name": "SMASH",
