@@ -2,9 +2,6 @@
     "server_name": "chromamc",
     "nice_name": "ChromaMC",
     "direct_ip": "chromamc.net",
-    "server_wildcards": [
-      "chromamc.de"
-    ],
     "supported_languages": [
        "en",
        "de"
@@ -35,6 +32,5 @@
        "city": "Frankfurt am Main",
        "country": "Germany",
        "country_code": "DE"
-    },
-    "user_stats": "https://laby.net/@{userName}"
+    }
   }
