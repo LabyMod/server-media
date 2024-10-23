@@ -1,0 +1,37 @@
+{
+  "server_name": "mapfantasy",
+  "nice_name": "MapFantasy",
+  "direct_ip": "mapfantasy.eu",
+  "social": {
+    "web": "https://mapfantasy.eu",
+    "discord": "https://discord.gg/yad6TPS",
+    "twitter": "mapfantasyeu",
+    "teamspeak": "ts.mapfantasy.eu",
+    "instagram": "mapfantasyeu"
+  },
+  "gamemodes": {
+    "showcase": {
+      "name": "ShowCase",
+      "color": "#587BE3"
+    },
+    "buildserver": {
+      "name": "Community Bauserver",
+      "command": "/build",
+      "color": "#587BE3"
+    }
+  },
+  "discord": {
+    "server_id": 656950463949701192,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#587BE3",
+    "background": "#7A70D2",
+    "text": "#ffffff"
+  },
+  "location": {
+    "city": "Frankfurt",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "server_name": "kriegergames",
+  "nice_name": "KriegerGames",
+  "direct_ip": "KriegerGames.de",
+  "server_wildcards": [
+    "%.KriegerGames.de"
+  ],
+  "supported_languages": [
+     "de"
+  ],
+  "social": {
+    "twitter": "KriegerGamesDE",
+    "instagram": "KriegerGamesDE",
+    "discord": "https://discord.com/invite/bzeqhdyB23",
+    "teamspeak": "KriegerGames.de"
+  },
+  "gamemodes": {
+    "SkyBlock": {
+      "name": "SkyBlock", 
+      "color": "#00AA00",
+      "versions": "1.19<*"
+    },
+    "knockit": {
+      "name": "KnockIT",
+      "color": "#FF5555",
+      "versions": "1.8<*"
+	},
+    "smash": {
+      "name": "Smash",
+      "color": "#55FF55",
+      "versions": "1.8<*"
+	},
+    "duels": {
+      "name": "Duels",
+      "color": "#55FFFF",
+      "versions": "1.8<*"
+	},
+    "bedwars": {
+      "name": "BedWars",
+      "color": "#00AAAA",
+      "versions": "1.8<*"
+	},
+    "bridge": {
+      "name": "Bridge",
+      "color": "#FFFF55",
+      "versions": "1.8<*"
+    }
+  },
+  "discord": {
+    "server_id": 998351168600277005,
+    "rename_to_minecraft_name": false
+  },
+  "location": {
+     "city": "Frankfurt",
+     "country": "Germany",
+     "country_code": "DE"
+  }
+}

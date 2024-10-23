@@ -12,25 +12,37 @@
   "social": {
     "web": "https://timolia.de",
     "web_shop": "https://shop.timolia.de",
-    "web_support": "https://forum.timolia.de",
     "twitter": "TimoliaTeam",
-    "facebook": "timoliamc",
     "discord": "https://discord.gg/Q55FujN",
-    "teamspeak": "ts.timolia.de",
     "tiktok": "timolianetwork",
-    "youtube": "https://www.youtube.com/Timolia"
+    "youtube": "https://www.youtube.com/Timolia",
+    "instagram": "timolianetwork"
   },
   "gamemodes": {
     "jumpworld": {
-      "name": "JumpWorld [1.8/1.16]",
+      "name": "JumpWorld",
       "command": "/quickjoin jumpworld",
       "url": "https://www.timolia.de/games#jumpworld",
-      "color": "#0095B0"
+      "color": "#0095B0",
+      "versions": "1.20<*"
     },
     "pvp": {
-      "name": "1vs1 [1.8/1.16]",
-      "command": "/quickjoin 1vs1",
+      "name": "1vs1",
+      "command": "/quickjoin pvp",
       "url": "https://www.timolia.de/games#pvp",
+      "color": "#0095B0"
+    },
+    "freebuild": {
+      "name": "Freebuild",
+      "command": "/quickjoin freebuild",
+      "url": "https://www.timolia.de/games#freebuild",
+      "color": "#0095B0",
+      "versions": "1.20<*"
+    },
+    "4rena": {
+      "name": "4rena",
+      "command": "/quickjoin 4rena",
+      "url": "https://www.timolia.de/games#4rena",
       "color": "#0095B0"
     },
     "castles": {
@@ -39,35 +51,19 @@
       "url": "https://www.timolia.de/games#castles",
       "color": "#0095B0"
     },
-    "uhc": {
-      "name": "UHC",
-      "color": "#0095B0",
-      "url": "https://www.timolia.de/games#uhc",
-      "command": "/joinuhc <name> [password]"
-    },
-    "arcade": {
-      "name": "Arcade",
-      "command": "/quickjoin arcade",
-      "url": "https://www.timolia.de/games#arcade",
-      "color": "#0095B0"
-    },
     "survivalquest": {
       "name": "SurvivalQuest",
       "command": "/quickjoin survivalquest",
       "url": "https://www.timolia.de/games#survivalquest",
-      "color": "#0095B0"
-    },
-    "4rena": {
-      "name": "4rena",
-      "command": "/quickjoin 4rena",
-      "url": "https://www.timolia.de/games#4rena",
-      "color": "#0095B0"
+      "color": "#0095B0",
+      "versions": "1.16.5<*"
     },
     "splun": {
       "name": "Splun",
       "command": "/quickjoin splun",
       "url": "https://www.timolia.de/games#splun",
-      "color": "#0095B0"
+      "color": "#0095B0",
+      "versions": "1.20<*"
     }
   },
   "discord": {
@@ -79,10 +75,10 @@
     "background": "#497cb1",
     "text": "#ffffff"
   },
-  "location": {
-    "city": "Nürnberg",
-    "country": "Germany",
-    "country_code": "DE"
+  "chat": {
+    "message_formats": [
+      "^§[a-f0-9](?<level>\\d+)( \\||§8 \\|) §[a-f0-9](?<sender>[a-zA-Z0-9_]{2,16})§r§7: §f(?<message>.*)$"
+    ]
   },
   "yt_trailer": "vNF-ztQGnUo",
   "user_stats": "https://www.timolia.de/stats/{userName}"

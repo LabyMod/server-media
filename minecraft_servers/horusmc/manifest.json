@@ -1,0 +1,23 @@
+{
+  "server_name": "horusmc",
+  "nice_name": "HorusMC Network",
+  "direct_ip": "play.horusmc.net",
+  "server_wildcards": [
+    "play.horusmc.net"
+  ],
+  "social": {
+    "web": "https://horusmc.net",
+    "web_shop": "https://tienda.horusmc.net",
+    "youtube": "https://www.youtube.com/@horusmcnetwork",
+    "discord": "https://discord.com/invite/horusmc"
+  },
+  "brand": {
+    "primary": "#e397ff",
+    "background": "#201931"
+  },
+  "discord": {
+    "server_id": 741818766446428191,
+    "rename_to_minecraft_name": false
+  },
+  "yt_trailer": "V-C_7bUPWvU"
+}

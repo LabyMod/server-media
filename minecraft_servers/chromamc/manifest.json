@@ -1,0 +1,35 @@
+{
+    "server_name": "chromamc",
+    "nice_name": "ChromaMC",
+    "direct_ip": "chromamc.net",
+    "supported_languages": [
+       "en",
+       "de"
+    ],
+    "social": {
+      "twitter": "ChromaMCnet",
+      "tiktok": "ChromaMC",
+      "discord": "https://discord.gg/pR9q8WF2jw",
+      "youtube": "https://www.youtube.com/@ChromaMC."
+    },
+    "gamemodes": {
+      "smp": {
+        "name": "SMP", 
+        "versions": "1.21<*"
+      }
+    },
+    "discord": {
+      "server_id": 1242535083399708732,
+      "rename_to_minecraft_name": false
+    },
+    "brand": {
+       "primary": "#0079FF",
+       "background": "#7F00FF",
+       "text": "#FFFFFF"
+    }, 
+    "location": {
+       "city": "Frankfurt am Main",
+       "country": "Germany",
+       "country_code": "DE"
+    }
+  }

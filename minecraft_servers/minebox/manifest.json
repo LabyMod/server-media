@@ -61,9 +61,9 @@
     }
   },
   "social": {
-    "web": "https://minebox.es/",
-    "web_shop": "https://tienda.minebox.es/",
-    "web_support": "https://soporte.minebox.es/",
+    "web": "https://minebox.es",
+    "web_shop": "https://tienda.minebox.es",
+    "web_support": "https://soporte.minebox.es",
     "twitter": "MineBoxNetwork",
     "youtube": "https://minebox.es/go/youtube",
     "discord": "https://minebox.es/go/discord",

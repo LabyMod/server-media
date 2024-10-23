@@ -1,0 +1,24 @@
+{
+  "server_name": "vallenmc",
+  "nice_name": "VallenMC Network",
+  "direct_ip": "play.vallenmc.net",
+  "server_wildcards": [
+    "%.vallenmc.net"
+  ],
+  "social": {
+    "web": "https://vallenmc.net",
+    "web_shop": "https://vallenmc.net/store",
+    "twitter": "ContactVallenmc",
+    "discord": "https://discord.gg/vallenmc"
+  },
+  "brand": {
+    "background": "#E0AB07",
+    "text": "#000000"
+  },
+  "location": {
+    "city": "Riyadh",
+    "country": "Saudi Arabia",
+    "country_code": "SA"
+  },
+  "user_stats": "https://vallenmc.net/player/{userName}"
+}

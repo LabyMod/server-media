@@ -1,0 +1,17 @@
+{
+  "server_name": "og-network",
+  "nice_name": "OG Network",
+  "direct_ip": "og-network.net",
+  "server_wildcards": [
+    "%.og-network.net"
+  ],
+  "social": {
+    "web": "https://og-network.net",
+    "web_shop": "https://shop.og-network.net",
+    "discord": "https://discord.com/invite/UFDP3QXq5H"
+  },
+  "brand": {
+     "primary": "#151f38",
+     "background": "#58ff87"
+  }
+}

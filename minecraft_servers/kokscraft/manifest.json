@@ -1,0 +1,24 @@
+{
+  "server_name": "kokscraft",
+  "nice_name": "KoksCraft",
+  "direct_ip": "kokscraft.pl",
+  "server_wildcards": [
+    "%.kokscraft.pl"
+  ],
+  "supported_languages": [
+     "pl"
+  ],
+  "social": {
+    "web": "https://kokscraft.pl",
+    "web_shop": "https://sklep.kokscraft.pl",
+    "tiktok": "kokscraftpl",
+    "facebook": "kokscraftpl",
+    "instagram": "kokscraft.mc",
+    "discord": "https://discord.com/invite/kokscraft",
+    "youtube": "https://www.youtube.com/c/kokscraft"
+  },
+  "brand": {
+     "primary": "#2a2a2a",
+     "background": "#ff6301"
+  }
+}

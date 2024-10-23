@@ -1,0 +1,77 @@
+{
+  "server_name": "kettlemc",
+  "nice_name": "KettleMC.net",
+  "direct_ip": "KettleMC.net",
+  "server_wildcards": [
+    "%.kettlemc.de",
+    "%.kettlemc.net",
+    "%.kettlemc.eu"
+  ],
+  "supported_languages": [
+    "de", 
+    "en"
+  ],
+  "social": {
+    "web": "https://kettlemc.net",
+    "instagram": "kettlemc_net",
+    "twitter": "KettleMC",
+    "discord": "https://discord.gg/f9P9HEj"
+  },
+  "discord": {
+    "server_id": 719284014283751425
+  },
+  "gamemodes": {
+    "jet": {
+      "name": "JET",
+      "command": "/jet",
+      "color": "#e03434",
+      "url": "https://www.curseforge.com/minecraft/modpacks/jet",
+      "versions": "1.7.10"
+    },
+    "divinejourney": {
+      "name": "Divine Journey",
+      "command": "/divinejourney",
+      "color": "#a138c7",
+      "url": "https://www.curseforge.com/minecraft/modpacks/divine-journey",
+      "versions": "1.7.10"
+    },
+    "tekkit2": {
+      "name": "Tekkit II",
+      "command": "/tekkit2",
+      "color": "#ff8c00",
+      "url": "https://www.technicpack.net/modpack/tekkit-2.1935271",
+      "versions": "1.12.2"
+    },
+    "hexxit2": {
+      "name": "Hexxit II",
+      "command": "/hexxit2",
+      "color": "#990ba3",
+      "url": "https://www.technicpack.net/modpack/hexxit-ii.896745",
+      "versions": "1.12.2"
+    },
+    "tfcreditus2": {
+      "name": "TFC Reditus II",
+      "command": "/tfcreditus2",
+      "color": "#1a7d26",
+      "url": "https://www.curseforge.com/minecraft/modpacks/terrafirmacraft-reditus-2",
+      "versions": "1.12.2"
+    },
+    "harvestblock": {
+      "name": "HarvestBlock",
+      "command": "/harvestblock",
+      "color": "#00ff11",
+      "url": "https://www.curseforge.com/minecraft/modpacks/harvestblock",
+      "versions": "1.12.2"
+    }
+  },
+  "brand": {
+    "primary": "#4f4ccf",
+    "background": "#6586e0",
+    "text": "#ffffff"
+  },
+  "location": {
+    "city": "Frankfurt am Main",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}

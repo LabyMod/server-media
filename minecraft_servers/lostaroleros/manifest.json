@@ -1,0 +1,50 @@
+{
+    "server_name": "lostaroleros",
+    "nice_name": "LosTaroleros Network",
+    "direct_ip": "mc.lostaroleros.com",
+    "server_wildcards": [
+      "%.lostaroleros.com",
+      "%.lostaroleros.net"
+    ],
+    "supported_languages": [
+      "es"
+    ],
+    "social": {
+      "web": "https://lostaroleros.com",
+      "web_shop": "https://tienda.lostaroleros.com",
+      "twitter": "LosTarolerosMC",
+      "discord": "https://discord.gg/comunidad-tarolera-707250934421520404"
+    },
+    "gamemodes": {
+      "survival": {
+        "name": "Survival",
+        "color": "#FFF"
+      },
+      "skyblock": {
+        "name": "SkyBlock",
+        "color": "#FFF"
+      },
+      "practice": {
+        "name": "Practice",
+        "color": "#FFF"
+      },
+      "boxpvp": {
+        "name": "BoxPvP",
+        "color": "#FFF"
+      }
+    },
+    "brand": {
+       "primary": "#00C1FF",
+       "background": "#00000",
+       "text": "#FFFFFF"
+    },
+    "location": {
+      "city": "Beauharnois",
+      "country": "Canada",
+      "country_code": "CA"
+    },
+    "discord": {
+      "server_id": 707250934421520404,
+      "rename_to_minecraft_name": false
+    }
+}

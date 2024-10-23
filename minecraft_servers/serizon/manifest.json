@@ -1,0 +1,31 @@
+{
+  "server_name": "serizon",
+  "nice_name": "Serizon Network",
+  "direct_ip": "mc.serizon.net",
+  "supported_languages": [
+     "en"
+  ],
+  "social": {
+    "web": "https://serizon.net",
+    "web_shop": "https://shop.serizon.net",
+    "web_support": "https://serizon.net/contact",
+    "twitter": "serizonofficial",
+    "tiktok": "serizon",
+    "discord": "https://discord.gg/serizon",
+    "youtube": "https://youtube.com/@serizonnetwork"
+  },
+  "discord": {
+    "server_id": 856212089974030376,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#E53E6E",
+     "background": "#404347",
+     "text": "#FFFFFF"
+  }, 
+  "location": {
+     "city": "Walldorf",
+     "country": "Germany",
+     "country_code": "DE"
+  }
+}

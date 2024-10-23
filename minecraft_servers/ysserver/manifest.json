@@ -1,0 +1,14 @@
+{
+  "server_name": "ysserver",
+  "nice_name": "Youshou Fan Server",
+  "direct_ip": "mc.zorua.top",
+  "supported_languages": [
+    "zh"
+  ],
+  "gamemodes": {
+     "mainword": {
+        "name": "Mainworld",
+        "color": "#00FF00" 
+      }
+    }
+  }

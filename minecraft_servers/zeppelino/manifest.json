@@ -1,0 +1,42 @@
+{
+  "server_name": "zeppelino",
+  "nice_name": "zeppelino Network",
+  "direct_ip": "zeppelino.de",
+  "supported_languages": [
+     "de"
+  ],
+  "social": {
+    "twitter": "zeppelinoNW"
+  },
+  "gamemodes": {
+    "luckylane": {
+      "name": "LuckyLane", 
+      "color": " #e6965e",
+      "versions": "1.20.4",
+      "command": "/warp LuckyLane"
+    },
+    "abyssaldrop": {
+      "name": "Abyssal Drop", 
+      "color": " #e6965e",
+      "versions": "1.20.4",
+      "command": "/warp AbyssalDrop"
+    },
+    "targettussle": {
+      "name": "Target Tussle", 
+      "color": " #e6965e",
+      "versions": "1.20.4",
+      "command": "/warp TargetTussle"
+    }
+  },
+  "brand": {
+     "primary": "#f73724",
+     "background": "#fb9809",
+     "text": "#D8D8D8"
+  }, 
+  "location": {
+     "city": "Hessen",
+     "country": "Germany",
+     "country_code": "DE"
+  }
+}
+

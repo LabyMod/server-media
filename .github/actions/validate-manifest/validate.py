@@ -43,11 +43,17 @@ def main():
             comment += '- One of the **required values** is missing\n'
             continue
 
-        check_server_online_state(data['direct_ip'])
+        check_server_online_state(data['direct_ip'], data['server_wildcards'] if 'server_wildcards' in data else [])
 
         server_directory = manifest_file.replace('minecraft_servers/', '').replace('/manifest.json', '')
         if server_directory != data['server_name']:
             comment += '**Servername has to be directory name!**\n'
+
+        # Validate wildcards
+        if 'server_wildcards' in data:
+            for wildcard in data['server_wildcards']:
+                if not wildcard.startswith('%.'):
+                    comment += '- Invalid wildcard entry. Each entry must start with **%.**. Further information here: https://en.wikipedia.org/wiki/Wildcard_DNS_record (`server_wildcards`)\n'
 
         # Check for https
         if 'social' in data:
@@ -148,7 +154,7 @@ def post_comment(comment: str, request_type: str = 'reviews'):
     print(f'Github request returned {request.status_code}')
 
 
-def check_server_online_state(ip: str):
+def check_server_online_state(ip: str, wildcards: list):
     print(f'Check server status for {ip}')
 
     url = f'https://api.mcsrvstat.us/2/{ip}'
@@ -162,13 +168,42 @@ def check_server_online_state(ip: str):
 
     print(f"Checked server status successfully: {response['online']}")
 
+    offline_text = "In general, we only accept pull requests from servers, **that are online**. "\
+    "Please change this, otherwise we cannot review your server correctly and have to deny the pull request.\n\n"\
+    "If your server is currently online, then our api returned a wrong status, we will have a look at it :)\n\n"\
+    f"Reference: [API URL ({url})]({url})"
+
     if not response['online']:
-        post_comment(f'*Just as an information*:\nYour server {ip} **could be offline**.\n In general, we only accept '
-                     f'pull requests from servers, **that are online**. Please change this, otherwise we '
-                     f'cannot review your server correctly and have to deny the pull request.\n\n If your server is '
-                     f'currently online, then our api returned a wrong status, we will have a look at it :)\n\n'
-                     f'Reference: [API URL ({url})]({url})',
-                     'comments')
+        post_comment(f'*Just as an information*:\nYour server {ip} **could be offline**.\n {offline_text}', 'comments')
+
+    server_ip = response['ip']
+    wildcard_string = 'Wildcards do not resolve the same ip address:\n'
+    wildcard_comment = False
+    for wildcard in wildcards:
+        request = requests.get(f'https://api.mcsrvstat.us/2/{ip}')
+
+        try:
+            response = json.loads(request.text)
+        except json.JSONDecodeError:
+            print(f'Cannot get {wildcard} from server API. API returned {request.status_code} - Skipping...')
+            continue
+
+        wildcard_string += f'*{wildcard}* => *{response["ip"]}*\n'
+        if response['ip'] != server_ip:
+            wildcard_comment = True
+
+    if wildcard_comment:
+        post_comment(wildcard_string)
+
+    if 'motd' in response:
+        maintenance_tagged = False
+        for line in response['motd']:
+            line_content = line.lower()
+            if 'maintenance' in line_content or 'wartung' in line_content:
+                maintenance_tagged = True
+
+        if maintenance_tagged:
+            post_comment(f'The server {ip} **is in maintenance**.\n {offline_text}')
 
 
 def comment_needed():

@@ -1,0 +1,23 @@
+{
+  "server_name": "najsmc",
+  "nice_name": "NajsMC",
+  "direct_ip": "najsmc.pl",
+  "server_wildcards": [
+    "%.najsmc.pl"
+  ],
+  "supported_languages": [
+     "pl"
+  ],
+  "social": {
+    "web_shop": "https://najsmc.pl",
+    "tiktok": "najsmc.pl",
+    "discord": "https://discord.com/invite/HQ3EZ95qDP",
+    "youtube": "https://www.youtube.com/channel/UCYaMG-3Xze_sSozcF5bHvfg"
+  },
+  "brand": {
+     "primary": "#301d1c",
+     "background": "#e52d27"
+  }
+}
+
+

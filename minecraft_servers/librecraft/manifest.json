@@ -113,5 +113,5 @@
      "country": "Canada",
      "country_code": "CA"
   },
-  "user_stats": "https://librecraft.com/perfiles/jugadores/@{userName}"
+  "user_stats": "https://librecraft.com/jugadores/{userName}"
 }
