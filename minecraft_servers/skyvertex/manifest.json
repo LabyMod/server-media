@@ -1,0 +1,20 @@
+{
+  "server_name": "skyvertex",
+  "nice_name": "SkyVertex",
+  "direct_ip": "skyvertex.de",
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "discord": "https://discord.com/invite/vsbkcD2x6n"
+  },
+  "discord": {
+    "server_id": 1236639522528428153,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#207424",
+    "background": "#0A56A5",
+    "text": "#FFFFFF"
+  }
+}
