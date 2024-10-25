@@ -1,0 +1,47 @@
+{
+  "server_name": "90gQopen",
+  "nice_name": "90gqopen.se",
+  "direct_ip": "90gqopen.se",
+  "supported_languages": [
+    "en",
+    "sv"
+  ],
+  "social": {
+    "web": "https://90gqopen.se/",
+    "discord": "http://discord.gg/5q8FwNH"
+
+  },
+  "brand": {
+    "primary": "#55FF55"
+  },
+  "location": {
+    "country": "Sweden",
+    "country_code": "SE"
+  },
+  "gamemodes": {
+      "survival": {
+        "name": "Survival",
+        "command": "/survival"
+      },
+      "creative": {
+        "name": "SkyWars",
+        "command": "/creative"
+      },
+      "parkour": {
+        "name": "ArenaPvP",
+        "command": "/parkour"
+      },
+      "mb": {
+        "name": "Musical Blocks",
+        "command": "/mb"
+      },
+      "uhc": {
+        "name": "UHC",
+        "command": "/uhc"
+      },
+      "event": {
+        "name": "Event",
+        "command": "/event"
+      }
+  }
+}
