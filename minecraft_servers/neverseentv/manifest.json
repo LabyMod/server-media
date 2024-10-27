@@ -1,20 +1,12 @@
 {
     "server_name": "neverseentv",
-    "nice_name": "Neverseentv Netwerk",
+    "nice_name": "NeverseenTv Netwerk",
     "direct_ip": "neverseentv.de",
     "supported_languages": [
         "de"
     ],
-    "gamemodes": {
-        "survival": {
-          "name": "SMP",
-          "color": "#EAF100",
-          "versions": "1.21",
-          "command": "/smp"
-        }
-    },
     "social": {
-        "discord": "https://discord.gg/neverseen",
+        "discord": "https://discord.gg/39dc8HAthn",
         "youtube": "https://www.youtube.com/@neverseen_tv"
     },
     "brand": {
@@ -23,9 +15,9 @@
         "text": "#FFFFFF"
     },
     "location": {
-        "city": "Eygelshoven",
-        "country": "Niederlande",
-        "country_code": "NL"
+        "city": "Frankfurt am Main",
+        "country": "Deutschland",
+        "country_code": "DE"
     },
     "discord": {
         "server_id": 1049317898725883954,

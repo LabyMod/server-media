@@ -1,0 +1,32 @@
+{
+  "server_name": "lostvale",
+  "nice_name": "LostVale.fun",
+  "direct_ip": "mc.lostvale.fun",
+  "supported_languages": [
+    "ru",
+    "ua"
+  ],
+  "social": {
+    "web": "https://lostvale.fun",
+    "discord": "https://discord.gg/jDtcTAa2",
+    "youtube": "https://www.youtube.com/channel/UC08AcOsWnw_gMXB3GJATp6Q"
+  },
+  "gamemodes": {
+    "mistland": {
+      "name": "MistLand",
+      "color": "#04FF00",
+      "command": "/queue survival"
+    }
+  },
+  "discord": {
+    "server_id": "1080036759414509639"
+  },
+  "brand": {
+    "primary": "#AB00EF"
+  },
+  "yt_trailer": "fGpm7RETbWA",
+  "location": {
+    "country": "Russia",
+    "country_code": "RU"
+  }
+}
