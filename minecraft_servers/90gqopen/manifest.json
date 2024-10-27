@@ -24,11 +24,11 @@
         "command": "/survival"
       },
       "creative": {
-        "name": "SkyWars",
+        "name": "Creative",
         "command": "/creative"
       },
       "parkour": {
-        "name": "ArenaPvP",
+        "name": "Parkour",
         "command": "/parkour"
       },
       "mb": {
