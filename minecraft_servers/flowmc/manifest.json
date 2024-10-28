@@ -9,15 +9,5 @@
       "web_shop": "https://shop.flowmc.de",
       "tiktok": "flowmcde.official",
       "discord": "https://discord.gg/flowmc"
-    },
-    "gamemodes": {
-      "citybuild": {
-        "name": "CityBuild", 
-        "command": "/quickjoin citybuild"
-      }
-    },
-    "discord": {
-      "server_id": 967165248685621388,
-      "rename_to_minecraft_name": false
     }
 }
