@@ -14,14 +14,9 @@
     "gamemodes": {
         "lobby": {
             "name": "Lobby",
-            "color": "#FF0000",
+            "color": "#32CD32",
             "command": "/server lobby"
         }
-    },
-    "brand": {
-        "primary": "#FF0000",
-        "background": "#000000",
-        "text": "#FFFFFF"
     },
     "command_delay": 3000
 }
