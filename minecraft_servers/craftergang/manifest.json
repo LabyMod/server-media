@@ -64,12 +64,6 @@
       "command": "/gametp spvp",
       "versions": "1.8<1.21.3"
     },
-    "gungame": {
-      "name": "Welt-Untergang",
-      "color": "#0bde19",
-      "command": "/gametp gungame",
-      "versions": "1.8<1.21.3"
-    },
     "mlgrush": {
       "name": "MLGRush",
       "color": "#de0b39",
