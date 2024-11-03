@@ -1,0 +1,26 @@
+{
+  "server_name": "lodia",
+  "nice_name": "LodiaNet",
+  "direct_ip": "lodia.net",
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "web": "https://lodia.net",
+    "web_shop": "https://shop.lodia.net",
+    "discord": "https://discord.gg/Q3zVEVcG",
+    "tiktok": "lodianet"
+  },
+  "discord": {
+    "server_id": "1254724224971444255",
+    "rename_to_minecraft_name": false
+  },
+  "location": {
+    "city": "Frankfurt",
+    "country": "Germany",
+    "country_code": "DE"
+  },
+  "brand": {
+    "primary": "#3ab1fd"
+  }
+}
