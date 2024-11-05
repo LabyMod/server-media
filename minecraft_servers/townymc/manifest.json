@@ -27,9 +27,9 @@
       "name": "Citybuild",
       "command": "/citybuild"
     },
-    "goldjagt": {
-      "name": "Goldjagt",
-      "command": "/goldjagt"
+    "goldjagd": {
+      "name": "Goldjagd",
+      "command": "/goldjagd"
     },
     "punsh": {
       "name": "Punsh",

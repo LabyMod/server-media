@@ -1,0 +1,26 @@
+{
+  "server_name": "networknougat",
+  "nice_name": "NetworkNougat",
+  "direct_ip": "NetworkNougat.de",
+  "supported_languages": [
+     "de"
+  ],
+  "social": {
+    "discord": "https://discord.gg/KqZCuZfpKy",
+    "youtube": "https://www.youtube.com/@NetworkNougat"
+  },
+
+  "discord": {
+    "server_id": 1291781104491040880,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#008FE8",
+     "background": "#146D7F",
+     "text": "#FFFFFF"
+  }, 
+  "location": {
+     "country": "Germany",
+     "country_code": "DE"
+  }
+}

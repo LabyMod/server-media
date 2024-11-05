@@ -1,0 +1,24 @@
+{
+    "server_name": "hglabor",
+    "nice_name": "HGLabor",
+    "direct_ip": "hglabor.de",
+    "social": {
+      "discord": "https://discord.gg/UHNngfgh6p"
+    },
+    "discord": {
+      "server_id": 777536797601300490
+    },
+    "gamemodes": {
+      "subwaysurfers": {
+        "name": "Subway Surfers",
+        "command": "/server subwaysurfers-1",
+        "color": "#54fcfc",
+        "versions": "1.21"
+      }
+    },
+    "brand": {
+      "primary": "#54fcfc",
+      "background": "#54fcfc",
+      "text": "#ffffff"
+    }
+  }
