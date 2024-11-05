@@ -7,8 +7,8 @@
   ],
   "social": {
     "web": "https://galaxycity.eu",
-    "web_shop": "https://forum.galaxycity.eu/store",
-    "discord": "https://discord.gg/97aQznx5n8",
+    "web_shop": "https://shop.galaxycity.eu",
+    "discord": "https://discord.gg/acnWhyKU84",
     "teamspeak": "galaxycity.eu"
   },
   "location": {
@@ -16,25 +16,20 @@
     "country_code": "DE"
   },
   "gamemodes": {
-    "citybuild": {
-      "name": "CityBuild", 
+    "bedwars": {
+      "name": "BedWars", 
       "color": "#bd4aff",
-      "command": "/citybuild"
+      "command": "/join bedwars"
     },
     "mlgrush": {
       "name": "MLGRush", 
       "color": "#bd4aff",
-      "command": "/mlgrush"
+      "command": "/join mlgrush"
     },
-    "gungame": {
-      "name": "GunGame", 
+    "hardcore": {
+      "name": "HardCore", 
       "color": "#bd4aff",
-      "command": "/gungame"
-    },
-    "bedwars": {
-      "name": "BedWars", 
-      "color": "#bd4aff",
-      "command": "/bedwars"
+      "command": "/join hardcore"
     }
   },
   "discord": {
