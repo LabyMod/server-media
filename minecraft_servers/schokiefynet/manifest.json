@@ -1,0 +1,67 @@
+{
+  "server_name": "schokiefy",
+  "nice_name": "Schokiefy",
+  "direct_ip": "schokiefy.net",
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "web": "https://www.schokiefy.net",
+    "web_shop": "https://shop.schokiefy.net",
+    "web_support": "https://www.schokiefy.net/support",
+    "discord": "https://dc.schokiefy.net",
+    "youtube": "https://www.youtube.com/@SchokiefyNET.Official"
+  },
+  "discord": {
+    "server_id": 935577425692225606
+  },
+  "gamemodes": {
+    "molecraft": {
+      "name": "MoleCraft",
+      "command": "/mc",
+      "color": "#555555",
+      "versions": "1.8<*"
+      "url": "https://www.schokiefy.net/wiki/minigames/#molecraft",
+    },
+    "skywars": {
+      "name": "Skywars",
+      "command": "/sw",
+      "color": "#55FFFF",
+      "versions": "1.8<*"
+      "url": "https://www.schokiefy.net/wiki/minigames/#skywars",
+    },
+    "bedwars": {
+      "name": "BedWars",
+      "command": "/bw",
+      "color": "#FF5555",
+      "versions": "1.8<*"
+      "url": "https://www.schokiefy.net/wiki/minigames/#bedwars",
+    },
+    "murder": {
+      "name": "Murder",
+      "command": "/mm",
+      "color": "#AA00AA",
+      "versions": "1.8<*"
+      "url": "https://www.schokiefy.net/wiki/minigames/#murdermystery",
+    },
+    "mlgrush": {
+      "name": "MLGRush",
+      "command": "/mlg",
+      "color": "#5555FF",
+      "versions": "1.8<*"
+      "url": "https://www.schokiefy.net/wiki/minigames/mlgrush",
+    },
+    "spleef": {
+      "name": "Spleef",
+      "command": "/sp",
+      "color": "#FFFFFF",
+      "versions": "1.8<*"
+      "url": "https://www.schokiefy.net/wiki/minigames/spleef",
+    }
+  },
+  "brand": {
+    "primary": "#FF9600",
+    "background": "#252525",
+    "text": "#ffffff"
+  }
+}
