@@ -8,13 +8,13 @@
   "social": {
     "web": "https://www.schokiefy.net",
     "web_shop": "https://www.schokiefy.net/shop",
-    "web_support": "https://www.schokiefy.net/support",
+    "web_support": "https://www.schokiefy.net/wiki",
     "youtube": "https://www.youtube.com/@schokiefynet.official",
     "discord": "https://discord.com/invite/J6eEYkth9M"
   },
   "discord": {
     "server_id": 489529070913060867,
-    "rename_to_minecraft_name": true
+    "rename_to_minecraft_name": false
   },
   "gamemodes": {
     "molecraft": {
