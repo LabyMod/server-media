@@ -2,6 +2,10 @@
   "server_name": "craftergang",
   "nice_name": "Craftergang",
   "direct_ip": "craftergang.de",
+  "server_wildcards": [
+    "%.craftergang.net",
+    "%.craftergang.de"
+  ],
   "supported_languages": [
     "de",
     "en",
@@ -70,6 +74,11 @@
       "command": "/gametp mlgrush",
       "versions": "1.8<1.21.3"
     }
+  },
+  "chat": {
+    "message_formats": [
+      "^§[a-f0-9](?<level>\\d+)( \\||§8 \\|) §[a-f0-9](?<sender>[a-zA-Z0-9_]{2,16}) §8» §f(?<message>.*)$"
+    ]
   },
   "discord": {
     "server_id": 251791624483373060,
