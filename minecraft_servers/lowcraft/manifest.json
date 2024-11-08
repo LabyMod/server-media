@@ -1,0 +1,22 @@
+{
+  "server_name": "lowCraft",
+  "nice_name": "lowcraft.eu",
+  "direct_ip": "lowcraft.eu",
+  "supported_languages": [
+    "en",
+	"de"
+  ],
+  "social": {
+    "discord": "https://discord.gg/3KNSdPHKy6"
+  },
+  "brand": {
+    "primary": "#e6107a",
+	"background": "#930971",
+	"text": "#FFFFFF"
+  },
+  "location": {
+    "city": "Linz",
+    "country": "Austria",
+    "country_code": "AT"
+  }
+}
