@@ -1,9 +1,9 @@
 {
-  "server_name": "lowCraft",
+  "server_name": "lowcraft",
   "nice_name": "lowcraft.eu",
   "direct_ip": "lowcraft.eu",
   "supported_languages": [
-    "en",
+	"en",
 	"de"
   ],
   "social": {
