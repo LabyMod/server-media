@@ -1,0 +1,19 @@
+{
+  "server_name": "satariamc",
+  "nice_name": "SatariaMC",
+  "direct_ip": "satariamc.com",
+  "server_wildcards": [
+    "%.plantaria.com"
+  ],
+  "supported_languages": [
+     "en"
+  ],
+  "social": {
+    "twitter": "SatariaMC",
+    "discord": "https://discord.satariamc.com"
+  },
+  "discord": {
+    "server_id": 1288418499709898864,
+    "rename_to_minecraft_name": false
+  }
+}
