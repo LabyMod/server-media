@@ -3,14 +3,14 @@
   "nice_name": "SatariaMC",
   "direct_ip": "satariamc.com",
   "server_wildcards": [
-    "%.plantaria.com"
+    "%.satariamc.com"
   ],
   "supported_languages": [
      "en"
   ],
   "social": {
     "twitter": "SatariaMC",
-    "discord": "https://discord.satariamc.com"
+    "discord": "https://discord.gg/satariamc"
   },
   "discord": {
     "server_id": 1288418499709898864,
