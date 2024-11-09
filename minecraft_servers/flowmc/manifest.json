@@ -1,0 +1,13 @@
+{
+    "server_name": "flowmc",
+    "nice_name": "FlowMC",
+    "direct_ip": "flowmc.de",
+    "supported_languages": [
+       "de"
+    ],
+    "social": {
+      "web_shop": "https://shop.flowmc.de",
+      "tiktok": "flowmcde.official",
+      "discord": "https://discord.gg/flowmc"
+    }
+}

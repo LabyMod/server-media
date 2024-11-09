@@ -1,0 +1,16 @@
+{
+  "server_name": "voidroleplay",
+  "nice_name": "VoidRoleplay",
+  "direct_ip": "voidroleplay.de",
+  "supported_languages": [
+     "de"
+  ],
+  "social": {
+    "discord": "https://discord.gg/voidroleplayde"
+  },
+  "location": {
+    "city": "Herne",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}
