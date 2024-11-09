@@ -1,0 +1,28 @@
+{
+  "server_name": "SWHub",
+  "nice_name": "SWHub.NET",
+  "direct_ip": "swhub.net",
+  "server_wildcards": [
+    "swhub.net"
+  ],
+  "supported_languages": [
+     "de"
+  ],
+  "social": {
+    "web": "https://swhub.net/",
+    "web_shop": "https://lodianet.tebex.io/",
+    "discord": "https://discord.gg/b59wFE3SGx"
+  },
+  "discord": {
+    "server_id": 1254724224971444255,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#FFE272"
+  }, 
+  "location": {
+     "city": "Frankfurt",
+     "country": "Germany",
+     "country_code": "DE"
+  }
+}
