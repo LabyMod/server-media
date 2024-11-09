@@ -1,9 +1,9 @@
 {
     "server_name": "archmc",
     "nice_name": "ArchMC",
-    "direct_ip": "mc.archmc.lol",
+    "direct_ip": "mc.arch.lol",
     "server_wildcards": [
-      "%.laby.net"
+      "%.arch.lol"
     ],
     "supported_languages": [
        "en"
@@ -12,7 +12,7 @@
       "web": "https://arch.lol",
       "web_shop": "https://arch.lol/store",
       "tiktok": "ruleyourowngame",
-      "discord": "https://discord.gg/labymod",
+      "discord": "https://discord.gg/archmc",
       "youtube": "https://www.youtube.com/@RuleYourOwnGame"
     },
     "discord": {
