@@ -1,1 +1,35 @@
-{}
+{
+  "server_name": "fluidcraftnet",
+  "nice_name": "FluidCraft",
+  "direct_ip": "fluidcraft.net",
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "web": "https://fluidcraft.net",
+    "youtube": "https://www.youtube.com/@FluidCraftYT",
+    "discord": "https://discord.gg/bN5C3yHT3u"
+  },
+  "gamemodes": {
+    "citybuild": {
+      "name": "CityBuild",
+      "color": "",
+      "versions": "1.21"
+    }
+  },
+  "discord": {
+    "server_id": 1286696507080445954,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "",
+    "background": "",
+    "text": "#FFFFF"
+  },
+  "location": {
+    "city": "Hesse",
+    "country": "Germany",
+    "country_code": "DE"
+  },
+  "yt_trailer": ""
+}
