@@ -13,7 +13,7 @@
   "gamemodes": {
     "citybuild": {
       "name": "CityBuild",
-      "color": "",
+      "color": "#FFFFF",
       "versions": "1.21"
     }
   },
@@ -22,8 +22,8 @@
     "rename_to_minecraft_name": false
   },
   "brand": {
-    "primary": "",
-    "background": "",
+    "primary": "#112c70",
+    "background": "#FFFFF",
     "text": "#FFFFF"
   },
   "location": {
@@ -31,5 +31,5 @@
     "country": "Germany",
     "country_code": "DE"
   },
-  "yt_trailer": ""
+  "yt_trailer": "dnVDuIpPZfQ"
 }
