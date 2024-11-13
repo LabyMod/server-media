@@ -1,13 +1,13 @@
 {
-  "server_name": "SWHub",
-  "nice_name": "SWHub",
+  "server_name": "swhub",
+  "nice_name": "swhub",
   "direct_ip": "swhub.net",
   "supported_languages": [
      "de"
   ],
   "social": {
     "web": "https://swhub.net",
-    "web_shop": "https://lodianet.tebex.io",
+    "web_shop": "https://swhub-shop.tebex.io/",
     "discord": "https://discord.gg/b59wFE3SGx"
   },
   "discord": {
