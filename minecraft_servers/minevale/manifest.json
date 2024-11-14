@@ -36,9 +36,9 @@
       "command": "/queue citybuild3"
     },
     "citybuild4": {
-      "name": "CityBuild 4", 
+      "name": "CityBuild Melone", 
       "color": "#52ff59",
-      "command": "/queue citybuild4"
+      "command": "/queue citybuildmelone"
     }
   }
 }
