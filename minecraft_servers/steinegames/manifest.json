@@ -2,10 +2,6 @@
     "server_name": "steine",
     "nice_name": "SteineGames",
     "direct_ip": "steine-games.de",
-    "server_wildcards": [
-      "5.231.25.19",
-      "mc.steine-games.de"
-    ],
     "supported_languages": [
        "de"
     ],
