@@ -1,0 +1,46 @@
+{
+    "server_name": "steine",
+    "nice_name": "SteineGames",
+    "direct_ip": "steine-games.de",
+    "server_wildcards": [
+      "5.231.25.19",
+      "mc.steine-games.de"
+    ],
+    "supported_languages": [
+       "de"
+    ],
+    "social": {
+      "web": "https://steine-games.de",
+      "discord": "https://discord.gg/mHXuRpRsq7"
+    },
+    "gamemodes": {
+      "citybuild": {
+        "name": "CityBuild", 
+        "color": "#FFA500",
+        "versions": "1.17<*"
+      },
+      "bedwars": {
+        "name": "BedWars",
+        "color": "#ADD8E6",
+        "versions": "1.8<*"
+      }
+    },
+    "chat": {
+      "message_formats": [
+        "^§[a-f0-9](?<level>\\d+)( \\||§8 \\|) §[a-f0-9](?<sender>[a-zA-Z0-9_]{2,16})§r§7: §f(?<message>.*)$"
+      ]
+    },
+    "discord": {
+      "server_id": 1187374713597599845
+    },
+    "brand": {
+       "primary": "#008FE8",
+       "background": "#0A56A5",
+       "text": "#FFFFFF"
+    }, 
+    "location": {
+       "city": "Eygelshoven",
+       "country": "Niederlande",
+       "country_code": "NL"
+    }
+  }
