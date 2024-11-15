@@ -28,7 +28,7 @@
       "command": "/gametp wu",
       "versions": "1.8<1.21.3"
     },
-    "SuperBreakBlocks": {
+    "superbreakblocks": {
       "name": "SuperBreakBlocks",
       "color": "#bf1077",
       "command": "/gametp sbb",
