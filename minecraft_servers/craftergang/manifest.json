@@ -28,17 +28,17 @@
       "command": "/gametp wu",
       "versions": "1.8<1.21.3"
     },
+    "superbreakblocks": {
+      "name": "SuperBreakBlocks",
+      "color": "#bf1077",
+      "command": "/gametp sbb",
+      "versions": "1.8<1.21.3"
+    },
     "cbdesert": {
       "name": "CB Desert",
       "color": "#0d6914",
       "command": "/gametp cb1",
       "versions": "1.8<1.21.3"
-    },
-    "cbwater": {
-      "name": "CB Water",
-      "color": "#13c7eb",
-      "command": "/gametp cb2",
-      "versions": "1.12<1.21.1"
     },
     "onehit": {
       "name": "OneHit",
