@@ -1,43 +1,39 @@
 {
-   "server_name":"craftportal",
-   "nice_name":"Craftportal",
-   "direct_ip":"craftportal.net",
-   "supported_languages":[
+   "server_name": "craftportal",
+   "nice_name": "Craftportal",
+   "direct_ip": "craftportal.net",
+   "supported_languages": [
       "de"
    ],
-   "social":{
-      "discord":"https://discord.gg/7F6MbnUSEp",
-      "tiktok":"craftportal_net",
-      "youtube":"https://www.youtube.com/@craftportal_net"
+   "social": {
+          "twitter": "Craftportal_net",
+      "discord": "https://discord.gg/WHjKBCJ7pG",
+      "tiktok": "craftportal_net",
+      "youtube": "https://www.youtube.com/@craftportal_net"
    },
-   "discord":{
-      "server_id":1001851325891489822
+   "discord": {
+      "server_id": 1001851325891489822
    },
-   "location":{
-      "city":"Frankfurt",
-      "country":"Germany",
-      "country_code":"DE"
+   "location": {
+      "city": "Frankfurt",
+      "country": "Germany",
+      "country_code": "DE"
    },
-   "gamemodes":{
-      "citybuild":{
-         "name":"Citybuild",
-         "color":"#5CE1E6",
-         "versions":"1.20>*"
+   "gamemodes": {
+      "citybuild": {
+         "name": "Citybuild",
+         "color": "#5CE1E6",
+         "versions": "1.20>*"
       },
-      "freebuild":{
-         "name":"FreeBuild",
-         "color":"#5CE1E6",
-         "versions":"1.20>*"
-      },
-      "knockffa":{
-         "name":"KnockFFA",
-         "color":"#5CE1E6",
-         "versions":"1.20>*"
-      },
-      "brand": {
-         "primary": "#00AA00",
-         "background": "#005500",
-         "text": "#FFFFFF"
+      "freebuild": {
+         "name": "FreeBuild",
+         "color": "#5CE1E6",
+         "versions": "1.20>*"
       }
+   },
+   "brand": {
+      "primary": "#5CE1E6",
+      "background": "#389093",
+      "text": "#FFFFFF"
    }
 }
