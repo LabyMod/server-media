@@ -3,13 +3,14 @@
   "nice_name": "Craftportal",
   "direct_ip": "craftportal.net",
   "supported_languages": [
-    "de"
+    "de", "en"
   ],
   "social": {
-      "discord":"https://discord.gg/7F6MbnUSEp",
-      "teamspeak":"ts.craftportal.net",
-      "tiktok":"craftportal_net",
-      "youtube":"https://www.youtube.com/@craftportal_net"
+      "web": "https://craftportal.net",
+      "twitter": "craftportal_net",
+      "discord": "https://discord.gg/HVM2psaapR",
+      "tiktok": "craftportal_net",
+      "youtube": "https://www.youtube.com/@craftportal_net"
   },
   "gamemodes": {
     "battleground": {
@@ -18,9 +19,9 @@
       "color": "#22D2FC",
       "versions": "1.20<*"
     },
-    "knockffa": {
-      "name": "KnockFFA",
-      "command": "/knockffa",
+    "realms": {
+      "name": "Shattered Realms",
+      "command": "/shattered-realms",
       "color": "#22D2FC",
       "versions": "1.20<*"
     }
@@ -30,8 +31,8 @@
     "rename_to_minecraft_name": false
   },
   "brand": {
-     "primary": "#22D2FC",
-     "background": "#1E7B87",
+     "primary": "#000000",
+     "background": "#22D2FC",
      "text": "#FFFFFF"
   },
   "location": {
