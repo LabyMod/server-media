@@ -2,9 +2,7 @@
   "server_name": "kansyfamily",
   "nice_name": "KansyFamily",
   "direct_ip": "kansyfamily.net",
-  "server_wildcards": [
-    "%.kansyfamily.net"
-  ],
+
   "supported_languages": [
     "de",
     "en"
