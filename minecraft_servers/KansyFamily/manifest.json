@@ -1,40 +1,39 @@
 {
-  "server_name": "KansyFamily",
+  "server_name": "kansyfamily",
   "nice_name": "KansyFamily",
-  "direct_ip": "KansyFamily.net",
+  "direct_ip": "kansyfamily.net",
   "server_wildcards": [
-    "%.KansyFamily.net"
+    "%.kansyfamily.net"
   ],
   "supported_languages": [
     "de",
     "en"
   ],
   "social": {
-    "web": "https://KansyFamily.net",
-    "web_shop": "https://shop.KansyFamily.net",
-    "twitter": "KansyFamilyNet",
+    "web": "https://kansyfamily.net",
+    "twitter": "kansyfamilyNet",
     "discord": "https://discord.gg/kansyfamily",
     "tiktok": "kansyfamily"
   },
   "gamemodes": {
-    "KansyAttack": {
-      "name": "KansyAttack",
+    "kansyAttack": {
+      "name": "kansyAttack",
       "color": "#fcd8d8",
       "versions": "1.21<*"
     },
-    "1vs1": {
+    "pvp": {
       "name": "1vs1",
       "color": "#fcd8d8"
     },
-    "Flags": {
-      "name": "Flags",
+    "flags": {
+      "name": "flags",
       "color": "#fcd8d8",
       "versions": "1.21<*"
     }
   },
   "discord": {
     "server_id": 1101535267355103353,
-    "rename_to_minecraft_name": true
+    "rename_to_minecraft_name": false
   },
   "brand": {
     "primary": "#fcd8d8",
