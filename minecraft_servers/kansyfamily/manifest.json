@@ -17,7 +17,7 @@
 
   "gamemodes": {
     "kansyAttack": {
-      "name": "kansyAttack",
+      "name": "kansyattack",
       "color": "#fcd8d8",
       "versions": "1.21<*"
     },
