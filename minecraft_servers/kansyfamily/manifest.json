@@ -13,7 +13,7 @@
     "tiktok": "kansyfamily"
   },
   "gamemodes": {
-    "kansyAttack": {
+    "kansyattack": {
       "name": "kansyattack",
       "color": "#fcd8d8",
       "versions": "1.21<*"
