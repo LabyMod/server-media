@@ -4,6 +4,7 @@
   "direct_ip": "NetworkNougat.de",
   "server_wildcards": [
     "%.networknougat.de",
+    "%.networknougat.net",
     "%.networknougat.xyz"
   ],
   "supported_languages": [
