@@ -1,0 +1,45 @@
+{
+  "server_name": "garnix",
+  "nice_name": "Rede Garnix",
+  "direct_ip": "redegarnix.com",
+  "server_wildcards": [
+    "%.redegarnix.com"
+  ],
+  "gamemodes": {
+    "rankup-spawn": {
+      "name": "Rank UP",
+      "color": "#f89900",
+      "command": "/serverconnector rankup"
+    },
+    "skywars": {
+      "name": "Sky Wars",
+      "color": "#f89900",
+      "command": "/serverconnector skywars"
+    },
+    "bedwars": {
+      "name": "Bed Wars",
+      "color": "#f89900",
+      "command": "/serverconnector bedwars"
+    }
+  },
+  "social": {
+    "discord": "https://discord.gg/VpdWKdgNAW",
+    "web_shop": "https://loja.redegarnix.com",
+    "tiktok": "RedeGarnixOficial",
+    "instagram": "RedeGarnixOficial",
+    "youtube": "https://www.youtube.com/@redegarnix"
+  },
+  "discord": {
+    "server_id": 843966851683581983,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#f89900",
+    "background": "#f9cb25",
+    "text": "#FFFFFF"
+  },
+  "location": {
+    "country": "Brazil",
+    "country_code": "BR"
+  }
+}
