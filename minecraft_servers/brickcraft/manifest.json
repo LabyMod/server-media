@@ -17,7 +17,7 @@
             "name": "SkyPvP",
             "color": "#0d6914",
             "command": "/spawnn",
-            "versions": "1.14<1.20.6"
+            "versions": "1.8<1.21.3"
         }
     },
     "brand": {
@@ -29,5 +29,5 @@
         "city": "Frankfurt",
         "country": "Germany",
         "country_code": "DE"
-    },
+    }
 }
