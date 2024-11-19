@@ -1,33 +1,33 @@
 {
-  "server_name": "brickcraft",
-  "nice_name": "BrickCraft",
-  "direct_ip": "brickcraft.de",
-  "supported_languages": [
-    "de",
-    "en",
-    "es",
-    "it"
-  ],
-  "gamemodes": {
-    "skypvp": {
-      "name": "SkyPvP",
-      "color": "#07F0E0",
-      "versions": "1.8<1.21.3"
-    }
-  },
-  "chat": {
-    "message_formats": [
-      "^§[a-f0-9](?<level>\\d+)( \\||§8 \\|) §[a-f0-9](?<sender>[a-zA-Z0-9_]{2,16}) §8» §f(?<message>.*)$"
-    ]
-  },
-  "brand": {
-    "primary": "#497cb1",
-    "background": "#d98e0d",
-    "text": "#754e0b"
-  },
-  "location": {
-    "city": "Frankfurt",
-    "country": "Germany",
-    "country_code": "DE"
-  },
+    "server_name": "brickcraft",
+    "nice_name": "BrickCraft",
+    "direct_ip": "brickcraft.eu",
+    "supported_languages": [
+        "de"
+    ],
+    "social": {
+        "discord": "https://discord.gg/ThCt8Pq",
+        "teamspeak": "craftergang.de",
+        "tiktok": "craftergang",
+        "youtube": "https://www.youtube.com/@craftergang",
+        "instagram": "craftergang"
+    },
+    "gamemodes": {
+        "skypvp": {
+            "name": "SkyPvP",
+            "color": "#0d6914",
+            "command": "/spawnn",
+            "versions": "1.14<1.20.6"
+        }
+    },
+    "brand": {
+        "primary": "#497cb1",
+        "background": "#245587",
+        "text": "#4646cf"
+    },
+    "location": {
+        "city": "Frankfurt",
+        "country": "Germany",
+        "country_code": "DE"
+    },
 }
