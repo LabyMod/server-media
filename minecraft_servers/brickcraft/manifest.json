@@ -12,6 +12,7 @@
     "skypvp": {
       "name": "SkyPvP",
       "color": "#07F0E0",
+      "command": "",
       "versions": "1.8<1.21.3"
     }
   },
