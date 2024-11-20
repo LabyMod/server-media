@@ -8,10 +8,6 @@
       "discord":"https://discord.com/invite/vwmMusV",
       "tiktok":"melvin501.tiktok"
    },
-   "server_wildcards":[
-      "play.%",
-      "mc.%"
-   ],
    "supported_languages":[
       "de"
    ],
