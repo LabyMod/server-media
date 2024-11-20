@@ -9,9 +9,8 @@
       "tiktok":"melvin501.tiktok"
    },
    "server_wildcards":[
-      "play.melvin501.de",
-      "mc.melvin501.de",
-      "501Media.de"
+      "play.%",
+      "mc.%"
    ],
    "supported_languages":[
       "de"
