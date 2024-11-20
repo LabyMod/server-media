@@ -54,10 +54,6 @@
          "command":"/cs GetDown",
          "color":"#2ca7f3"
       },
-      "bodenistlava":{
-         "name":"BodenIstLava",
-         "color":"#2ca7f3"
-      },
       "onblockrace":{
          "name":"OneBlockRace",
          "color":"#2ca7f3"
@@ -68,6 +64,10 @@
       },
       "speedrun":{
          "name":"Speedrun",
+         "color":"#2ca7f3"
+      },
+      "bomberman":{
+         "name":"Bomberman",
          "color":"#2ca7f3"
       }
    }
