@@ -2,9 +2,6 @@
   "server_name": "newrp",
   "nice_name": "NewRP",
   "direct_ip": "new-roleplay.de",
-  "server_wildcards": [
-    "%.new-roleplay.de"
-  ],
   "supported_languages": [
      "de"
   ],
