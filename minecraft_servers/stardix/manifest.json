@@ -5,36 +5,70 @@
   "server_wildcards": [
     "%.stardix.com"
   ],
+  "supported_languages": [
+    "pt"
+  ],
   "social": {
     "web": "https://stardix.com",
     "web_shop": "https://loja.stardix.com",
     "twitter": "StardixSD",
+    "tiktok": "stardixoficial",
     "facebook": "stardixfc",
     "instagram": "stardixoficial",
-    "youtube": "https://www.youtube.com/c/StarDixOficial",
-    "discord": "https://discord.com/invite/stardix"
+    "discord": "https://discord.com/invite/stardix",
+    "youtube": "https://www.youtube.com/c/StarDixOficial"
   },
   "gamemodes": {
     "kitpvp": {
       "name": "KitPvP",
-      "command": "/play kp"
+      "color": "#00FF00",
+      "command": "/play kp",
+      "url": "https://forum.stardix.com/viewforum.php?f=29",
+      "versions": "1.8<*"
     },
     "fullpvp":{
       "name": "FullPvP",
-      "command": "/play fp"
+      "color": "#FFD700",
+      "command": "/play fp",
+      "url": "https://forum.stardix.com/viewforum.php?f=27",
+      "versions": "1.8<*"
     },
     "bedwars": {
       "name": "BedWars",
-      "command": "/play bw"
+      "color": "#FF4500",
+      "command": "/play bw",
+      "url": "https://forum.stardix.com/viewforum.php?f=31",
+      "versions": "1.8<*"
     },
-    "murder":{
-      "name": "Murder",
-      "command": "/play md"
+    "duels":{
+      "name": "Duels",
+      "color": "#B0C4DE",
+      "command": "/play du",
+      "url": "https://forum.stardix.com/viewforum.php?f=27",
+      "versions": "1.8<*"
     },
     "survival":{
       "name": "Survival",
-      "command": "/play sv"
+      "color": "#FF69B4",
+      "command": "/play sv",
+      "url": "https://forum.stardix.com/viewforum.php?f=36",
+      "versions": "1.8<*"
     }
   },
-  "yt_trailer": "UlZpyGrCkTk"
+  "discord": {
+    "server_id": 447833437697474562,
+    "rename_to_minecraft_name": true
+  },
+  "brand": {
+    "primary": "#2196F3",
+    "background": "#546E7A",
+    "text": "#FFFFFF"
+  },
+  "location": {
+    "city": "São Paulo",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  "yt_trailer": "Hs9Bzsew1eM",
+  "command_delay": 5000
 }

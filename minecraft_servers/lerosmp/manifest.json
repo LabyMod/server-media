@@ -1,0 +1,21 @@
+{
+    "server_name": "lerosmp",
+    "nice_name": "LeroSMP",
+    "direct_ip": "lerosmp.de",
+    "supported_languages": [
+       "de"
+    ],
+    "social": {
+      "discord": "https://discord.com/invite/6qxKVSVybP",
+      "youtube": "https://www.youtube.com/c/Lerokes"
+    },
+    "discord": {
+      "server_id": 797820970550951936,
+      "rename_to_minecraft_name": false
+    },
+    "location": {
+      "city": "Frankfurt",
+      "country": "Germany",
+      "country_code": "DE"
+    }
+  }

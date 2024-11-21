@@ -47,6 +47,16 @@
 ]
 ```
 
+**Example color and formatting code regex:**
+
+| Description                           | Regex                                                                                                     |
+|---------------------------------------|-----------------------------------------------------------------------------------------------------------|
+| Any color code                        | `§[a-f0-9]`                                                                                               |
+| Any formatting code                   | `§[k-or]`                                                                                                 |
+| Any color or formatting code          | `§[a-fk-or0-9]`                                                                                           |
+| Any color or formatting code in a row | zero or one: `(§[a-fk-or0-9])?`<br/>at least one: `(§[a-fk-or0-9])+`<br/>zero or more: `(§[a-fk-or0-9])*` |
+| Player name                           | `[a-zA-Z0-9_]{2,16}`                                                                                      |
+
 ### Gamemode object
 
 | Key        | Description                                                | Example value                              |
