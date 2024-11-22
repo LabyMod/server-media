@@ -2,6 +2,12 @@
     "server_name": "noovex",
     "nice_name": "Noovex",
     "direct_ip": "beta.noovex.net",
+    "server_wildcards": [
+        "noovex.net"
+    ],
+    "supported_languages": [
+        "de"
+    ],
     "social": {
         "discord": "https://discord.gg/rwErk49ZUQ"
     },
@@ -9,6 +15,18 @@
         "wintersmp": {
             "name": "WinterSMP",
             "command": "/server snowsmp",
+            "color": "#87cefa",
+            "versions": "1.21<*"
+        },
+        "survival": {
+            "name": "Survival",
+            "command": "/server survival",
+            "color": "#87cefa",
+            "versions": "1.21<*"
+        },
+        "arenabox": {
+            "name": "Arenabox",
+            "command": "/server arenabox",
             "color": "#87cefa",
             "versions": "1.21<*"
         },
