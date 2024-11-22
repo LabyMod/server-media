@@ -13,7 +13,7 @@
             "versions": "1.21<*"
         },
         "lobby": {
-            "name": "Skyblock",
+            "name": "Lobby",
             "command": "/server lobby",
             "color": "#87cefa",
             "versions": "1.21<*"
