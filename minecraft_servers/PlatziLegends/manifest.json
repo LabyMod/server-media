@@ -10,7 +10,7 @@
     },
     "gamemodes": {
         "survival": {
-            "name": "CityBuild", 
+            "name": "CityBuild",
             "color": "#48E863"
         }
     },
