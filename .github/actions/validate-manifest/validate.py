@@ -10,6 +10,7 @@ BRAND_KEYS = ['primary', 'background', 'text']
 
 
 def main():
+    error = ''
     comment = ''
 
     create_comment = comment_needed()
@@ -32,7 +33,7 @@ def main():
                 try:
                     data = json.load(file)
                 except json.JSONDecodeError:
-                    comment += f'- JSON is invalid! Workflow is not able to check {manifest_file}\n'
+                    error += f'- JSON is invalid! Workflow is not able to check {manifest_file}\n'
                     continue
         except FileNotFoundError:
             print(f'Unable to open {manifest_file} - Continue...')
@@ -40,20 +41,20 @@ def main():
 
         # Check for required keys
         if not all(key in data for key in REQUIRED_KEYS):
-            comment += '- One of the **required values** is missing\n'
+            error += '- One of the **required values** is missing\n'
             continue
 
         check_server_online_state(data['direct_ip'], data['server_wildcards'] if 'server_wildcards' in data else [])
 
         server_directory = manifest_file.replace('minecraft_servers/', '').replace('/manifest.json', '')
         if server_directory != data['server_name']:
-            comment += '**Servername has to be directory name!**\n'
+            error += '**Servername has to be directory name!**\n'
 
         # Validate wildcards
         if 'server_wildcards' in data:
             for wildcard in data['server_wildcards']:
                 if not wildcard.startswith('%.'):
-                    comment += '- Invalid wildcard entry. Each entry must start with **%.**. Further information here: https://en.wikipedia.org/wiki/Wildcard_DNS_record (`server_wildcards`)\n'
+                    error += '- Invalid wildcard entry. Each entry must start with **%.**. Further information here: https://en.wikipedia.org/wiki/Wildcard_DNS_record (`server_wildcards`)\n'
 
         # Check for https
         if 'social' in data:
@@ -62,9 +63,9 @@ def main():
                 if key not in social:
                     continue
                 if not social[key].startswith('https://'):
-                    comment += f'- Invalid url. URL has to start with **https://** (`social.{key}`)\n'
+                    error += f'- Invalid url. URL has to start with **https://** (`social.{key}`)\n'
                 if social[key].endswith('/'):
-                    comment += f'- Please remove **/** at the end of url (`social.{key}`)\n'
+                    error += f'- Please remove **/** at the end of url (`social.{key}`)\n'
 
                 try:
                     response = requests.get(social[key], timeout=5)
@@ -73,22 +74,22 @@ def main():
 
             if 'discord' in social:
                 link = social['discord']
-                if not link.startswith(('https://discord.com/', ' https://discord.gg/')):
+                if not link.startswith(('https://discord.gg', 'https://discord.com')):
                     comment += f'Custom Discord invites are reserved for **LabyMod Partners**.\nIf you are a partner, please ignore this message.\n'
                 if not check_discord_invite(link):
-                    comment += f'The Discord invite {link} is invalid or Discord is down.\n'
+                    error += f'The Discord invite {link} is invalid or Discord is down.\n'
 
 
             for key in USERNAME_SOCIAL_KEYS:
                 if key in social and (social[key].startswith('http') or 'www' in social[key]):
-                    comment += f'- Please use a **username**, not a link (`social.{key}`)\n'
+                    error += f'- Please use a **username**, not a link (`social.{key}`)\n'
 
             # Check facebook, because it works :)
             if 'facebook' in social:
                 facebook_username = social['facebook']
                 request = requests.get(f'https://facebook.com/{facebook_username}')
                 if request.status_code == 404:
-                    comment += f'- Invalid facebook account: https://facebook.com/{facebook_username} ' \
+                    error += f'- Invalid facebook account: https://facebook.com/{facebook_username} ' \
                                f'(`social.facebook`)\n'
 
         # check for numeric server id (discord)
@@ -96,43 +97,46 @@ def main():
             try:
                 int(data['discord']['server_id'])
             except ValueError:
-                comment += f'- Please use a **numeric** value for your server id (`discord.server_id`)\n'
+                error += f'- Please use a **numeric** value for your server id (`discord.server_id`)\n'
             if 'rename_to_minecraft_name' in 'discord' in data == True:
                 comment += f'- `discord.rename_to_minecraft_name` is reserved for LabyMod Partners. Change it to `false`. If you are a partner, please ignore this message.\n'
 
         if 'user_stats' in data and ('{userName}' not in data['user_stats'] and '{uuid}' not in data['user_stats']):
-            comment += '- Please use {userName} or {uuid} in your stats url (`user_stats`)\n'
+            error += '- Please use {userName} or {uuid} in your stats url (`user_stats`)\n'
 
         if 'location' in data and 'country_code' in data['location']:
             country_code = data['location']['country_code']
             if len(country_code) > 2 or len(country_code) <= 1:
-                comment += '- Use valid format (ISO 3166-1 alpha-2) for country code. (`location.country_code`)\n'
+                error += '- Use valid format (ISO 3166-1 alpha-2) for country code. (`location.country_code`)\n'
 
             if not country_code.isupper():
-                comment += '- Use upper-case for country code. (`location.country_code`)\n'
+                error += '- Use upper-case for country code. (`location.country_code`)\n'
 
         # check hex codes
         if 'brand' in data:
             for key in BRAND_KEYS:
                 if key in data['brand'] and '#' not in data['brand'][key]:
-                    comment += f'- Please enter a valid hex-code (`brand.{key})`\n'
+                    error += f'- Please enter a valid hex-code (`brand.{key})`\n'
 
         if 'user_stats' in data:
             stats_url = data['user_stats']
             if not stats_url.startswith('https://'):
-                comment += f'- Invalid url. URL has to start with **https://** (`user_stats`)\n'
+                error += f'- Invalid url. URL has to start with **https://** (`user_stats`)\n'
 
             if '://laby.net/' in stats_url:
-                comment += f'- Please use **your own page**, not LABY.net (`user_stats`)\n'
+                error += f'- Please use **your own page**, not LABY.net (`user_stats`)\n'
 
     if create_comment:
-        post_comment(comment)
+        post_comment(error + comment)
 
-    for error in comment.split('\n'):
+    for error in error.split('\n'):
         # Print error comments, so that the user can relate the issues even if there is no comment
         print(error)
 
-    if comment != '':
+    for comment in comment.split('\n'):
+        print(comment)
+
+    if error != '':
         # Make job fail
         sys_exit('Invalid data in manifest.json. See comments above or review in PR for more information.')
 
@@ -271,7 +275,6 @@ def check_discord_invite(url: str):
     except requests.exceptions.ConnectionError:
         print(f'Discord seems to be down while checking. Please check manually\n')
         return False
-
 
 if __name__ == '__main__':
     main()
