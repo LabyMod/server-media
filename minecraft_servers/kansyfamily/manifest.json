@@ -9,12 +9,12 @@
   "social": {
     "web": "https://kansyfamily.net",
     "twitter": "kansyfamilyNet",
-    "discord": "https://discord.gg/dsCYUjR5yv",
+    "discord": "https://discord.gg/kansyfamily",
     "tiktok": "kansyfamily"
   },
   "gamemodes": {
-    "kansyattack": {
-      "name": "kansyattack",
+    "kansyAttack": {
+      "name": "kansyAttack",
       "color": "#fcd8d8",
       "versions": "1.21<*"
     },
