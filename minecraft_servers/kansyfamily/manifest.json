@@ -20,7 +20,8 @@
     },
     "pvp": {
       "name": "1vs1",
-      "color": "#fcd8d8"
+      "color": "#fcd8d8",
+      "versions": "1.21<*"
     },
     "flags": {
       "name": "flags",
