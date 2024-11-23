@@ -2,9 +2,6 @@
     "server_name": "noovex",
     "nice_name": "Noovex",
     "direct_ip": "beta.noovex.net",
-    "server_wildcards": [
-        "noovex.net"
-    ],
     "supported_languages": [
         "de"
     ],
@@ -15,25 +12,25 @@
         "wintersmp": {
             "name": "WinterSMP",
             "command": "/server snowsmp",
-            "color": "#87cefa",
+            "color": "#ffffff",
             "versions": "1.21<*"
         },
         "survival": {
             "name": "Survival",
             "command": "/server survival",
-            "color": "#87cefa",
+            "color": "#ffffff",
             "versions": "1.21<*"
         },
         "arenabox": {
             "name": "Arenabox",
             "command": "/server arenabox",
-            "color": "#87cefa",
+            "color": "#ffffff",
             "versions": "1.21<*"
         },
         "lobby": {
             "name": "Lobby",
             "command": "/server lobby",
-            "color": "#87cefa",
+            "color": "#ffffff",
             "versions": "1.21<*"
         }
     }
