@@ -1,7 +1,7 @@
 {
-    "server_name": "PlatziLegends",
-    "nice_name": "PlatziLegends",
-    "direct_ip": "PlatziLegends.de",
+    "server_name": "platzilegends",
+    "nice_name": "platzilegends",
+    "direct_ip": "platzilegends.de",
     "supported_languages": [
         "de"
     ],
