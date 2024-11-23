@@ -5,95 +5,65 @@
   "server_wildcards": [
     "%.timolia.de"
   ],
+  "supported_languages": [
+    "de",
+    "en"
+  ],
   "social": {
-    "web": "https://timolia.de/",
-    "web_shop": "https://shop.timolia.de/",
-    "web_support": "https://forum.timolia.de/",
+    "web": "https://timolia.de",
+    "web_shop": "https://shop.timolia.de",
     "twitter": "TimoliaTeam",
-    "facebook": "timoliamc",
-    "discord": "https://discord.com/invite/Q55FujN",
-    "teamspeak": "ts.timolia.de",
-    "youtube": "https://www.youtube.com/Timolia"
+    "discord": "https://discord.gg/Q55FujN",
+    "tiktok": "timolianetwork",
+    "youtube": "https://www.youtube.com/Timolia",
+    "instagram": "timolianetwork"
   },
   "gamemodes": {
     "jumpworld": {
       "name": "JumpWorld",
       "command": "/quickjoin jumpworld",
       "url": "https://www.timolia.de/games#jumpworld",
-      "color": "#0095B0"
+      "color": "#0095B0",
+      "versions": "1.20<*"
     },
-    "1vs1": {
+    "pvp": {
       "name": "1vs1",
-      "command": "/quickjoin 1vs1",
+      "command": "/quickjoin pvp",
       "url": "https://www.timolia.de/games#pvp",
       "color": "#0095B0"
     },
-     "castles": {
-      "name": "Castles",
-      "command": "/quickjoin castles",
-      "url": "https://www.timolia.de/games#castles",
-      "color": "#0095B0"
+    "freebuild": {
+      "name": "Freebuild",
+      "command": "/quickjoin freebuild",
+      "url": "https://www.timolia.de/games#freebuild",
+      "color": "#0095B0",
+      "versions": "1.20<*"
     },
-     "uhc": {
-      "name": "UHC",
-      "color": "#0095B0"
-    },
-     "suspicious": {
-      "name": "Suspicious",
-      "color": "#0095B0"
-    },
-     "arcade": {
-      "name": "Arcade",
-      "command": "/quickjoin arcade",
-      "url": "https://www.timolia.de/games#arcade",
-      "color": "#0095B0"
-    },
-     "survivalquest": {
-      "name": "SurvivalQuest",
-      "command": "/quickjoin survivalquest",
-       "url": "https://www.timolia.de/games#survivalquest",
-      "color": "#0095B0"
-    },
-     "4rena": {
+    "4rena": {
       "name": "4rena",
       "command": "/quickjoin 4rena",
       "url": "https://www.timolia.de/games#4rena",
       "color": "#0095B0"
     },
-     "Splun": {
+    "castles": {
+      "name": "Castles",
+      "command": "/quickjoin castles",
+      "url": "https://www.timolia.de/games#castles",
+      "color": "#0095B0"
+    },
+    "survivalquest": {
+      "name": "SurvivalQuest",
+      "command": "/quickjoin survivalquest",
+      "url": "https://www.timolia.de/games#survivalquest",
+      "color": "#0095B0",
+      "versions": "1.16.5<*"
+    },
+    "splun": {
       "name": "Splun",
       "command": "/quickjoin splun",
       "url": "https://www.timolia.de/games#splun",
-      "color": "#0095B0"
-    },
-     "intime": {
-      "name": "InTime",
-      "command": "/quickjoin intime",
-      "url": "https://www.timolia.de/games#intime",
-      "color": "#0095B0"
-    },
-    "tspiele": {
-      "name": "T-Spiele",
-      "url": "https://www.timolia.de/games#tspiele",
-      "color": "#0095B0"
-    },
-     "brainbow": {
-      "name": "BrainBow",
-      "command": "/quickjoin brainbow",
-      "url": "https://www.timolia.de/games#brainbow",
-      "color": "#0095B0"
-    },
-     "dna": {
-      "name": "DNA",
-      "command": "/quickjoin dna",
-      "url": "https://www.timolia.de/games#dna",
-      "color": "#0095B0"
-    },
-     "mineception": {
-      "name": "Mineception",
-      "command": "/quickjoin mineception",
-      "url": "https://www.timolia.de/games#mineception",
-      "color": "#0095B0"
+      "color": "#0095B0",
+      "versions": "1.20<*"
     }
   },
   "discord": {
@@ -105,11 +75,11 @@
     "background": "#497cb1",
     "text": "#ffffff"
   },
-  "location": {
-     "city": "Frankfurt",
-     "country": "Germany",
-     "country_code": "DE"
-   },
+  "chat": {
+    "message_formats": [
+      "^§[a-f0-9](?<level>\\d+)( \\||§8 \\|) §[a-f0-9](?<sender>[a-zA-Z0-9_]{2,16})§r§7: §f(?<message>.*)$"
+    ]
+  },
   "yt_trailer": "vNF-ztQGnUo",
   "user_stats": "https://www.timolia.de/stats/{userName}"
 }

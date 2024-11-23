@@ -1,0 +1,17 @@
+{
+    "server_name": "bedwarspractice",
+    "nice_name": "Bedwars Practice",
+    "direct_ip": "bedwarspractice.club",
+    "server_wildcards": [
+        "%.bedwarspractice.club"
+    ],
+    "social": {
+        "web_shop": "https://store.bedwarspractice.club",
+        "twitter": "BedwarsPractice",
+        "discord": "https://discord.gg/4UszPpe"
+    },
+    "brand": {
+        "primary": "#131313",
+        "background": "#b3001b"
+    }
+}

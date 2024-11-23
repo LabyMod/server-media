@@ -1,0 +1,19 @@
+{
+  "server_name": "2b2t",
+  "nice_name": "2b2t.org",
+  "direct_ip": "2b2t.org",
+  "supported_languages": [
+    "en"
+  ],
+  "social": {
+    "web_shop": "https://shop.2b2t.org"
+  },
+  "brand": {
+    "primary": "#c4c4c4"
+  },
+  "location": {
+    "city": "Quebec",
+    "country": "Canada",
+    "country_code": "CA"
+  }
+}

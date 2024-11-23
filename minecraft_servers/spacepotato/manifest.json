@@ -1,0 +1,52 @@
+{
+    "server_name": "spacepotato",
+    "nice_name": "SpacePotato",
+    "direct_ip": "spacepotato.de",
+    "server_wildcards": [
+        "%.spacepotato.de"
+       ],
+    "supported_languages": [
+        "en",
+        "de"
+    ],
+    "social": {
+      "web": "https://spacepotato.de",
+      "tiktok": "SpacePotatoDE",
+      "instagram": "SpacePotatoDE",
+      "youtube": "https://www.youtube.com/channel/UCG2_-N5ACCb_-Utpdw9iJ1g",
+      "twitter": "SpacePotatoDE",
+      "discord": "https://discord.gg/uXEdJDs"
+    },
+    "gamemodes": {
+      "mlgrush": {
+        "name": "MLGRush",
+        "color": "#55ffff"
+      },
+      "laserbridge": {
+        "name": "Laserbridge",
+        "color": "#55ffff"
+      },
+       "blocksave": {
+        "name": "Blocksave",
+        "color": "#55ffff"
+      },
+       "sheepwars": {
+        "name": "SheepWars",
+        "color": "#55ffff"
+      }
+    },
+    "discord": {
+      "server_id": 557936782235402247,
+      "rename_to_minecraft_name": false
+    },
+    "brand": {
+       "primary": "#55ffff",
+       "background": "#55ffff",
+       "text": "#ffffff"
+    },
+    "location": {
+       "city": "Frankfurt",
+       "country": "Germany",
+       "country_code": "DE"
+     }  
+  }

@@ -17,6 +17,7 @@ function error() {
   fi
 }
 
+given_names=()
 # Find all files in the src folder
 while read image; do
     filename=$(basename "${image}")
@@ -38,10 +39,25 @@ while read image; do
     width="${properties[0]}"
     height="${properties[1]}"
     type="${properties[2]}"
+    size=$(stat --format="%s" "${image}")  # File size in bytes
+
+    # Check whether file is > 1MB
+    if (( size > 1048576 )); then
+      error "${image}" "The file ${file} is larger than 1 MB. Please compress it on https://compresspng.com"
+      continue
+    fi
 
     # Ensure file is actually a PNG file
     [[ "${type}" != "PNG" ]] \
       && error "${image}" "Invalid file type '${type}' for file"
+
+    given_names+=("${filename}")
+
+    # check for invalid file names
+    filenames=("icon.png" "icon@2x.png" "logo.png" "logo@2x.png" "background.png" "background@2x.png" "banner.png")
+    if [[ ! " ${filenames[@]} " =~ " ${filename} " && "${folderpath}" != *"gamemodes"* ]]; then
+        error "${image}" "Invalid file name ${filename}: https://github.com/LabyMod/server-media/blob/master/docs/Files.md#filestructure"
+    fi
 
     # Ensure normal version exists when hDPI image is provided
     [[ "${filename}" == "icon@2x.png" ]] \
@@ -106,10 +122,33 @@ while read image; do
       # hDPI background dimension
       [[ "${width}" -ne 1920 || "${height}" -ne 1080 ]] \
         && error "${image}" "Invalid hDPI background size! Size is ${width}x${height}px, must be 1920x1080px"
+
+
+    # check banner.png if it exists
+    elif [[ "${filename}" == "banner.png" ]]; then
+      # banner dimension
+      [[ "${width}" -ne 1280 || "${height}" -ne 256 ]] \
+        && error "${image}" "Invalid banner size! Size is ${width}x${height}px, must be 1280x256px"
+
+      # aspect ratio must be 5:1
+      aspect_ratio=$(echo "scale=2; ${width} / ${height}" | bc)
+      [[ "${aspect_ratio}" != "5.00" ]] \
+        && error "${image}" "Invalid banner aspect ratio! Aspect ratio is ${aspect_ratio}, must be 5:1"
     fi
 
     ((IMAGES++))
 done <<< $(find minecraft_servers -type f)
+
+# Check all directories for required files
+file_names=("icon.png" "icon@2x.png")
+for dir in "minecraft_servers"/*/; do
+  for file in "${file_names[@]}"; do
+    if [ ! -e "${dir}${file}" ]; then
+      nice_dir=$(echo "$dir" | sed 's/minecraft_servers\///' | sed 's/\/$//')
+      error "$nice_dir: $file is not given, but it is required."
+    fi
+  done
+done
 
 echo ""
 echo "Total of ${IMAGES} images checked, found ${ERRORS} issues."

@@ -1,0 +1,49 @@
+{
+  "server_name": "rinaorc",
+  "nice_name": "Rinaorc",
+  "direct_ip": "play.rinaorc.com",
+  "server_wildcards": [
+    "%.rinaorc.com"
+  ],
+  "supported_languages": [
+    "fr"
+  ],
+  "social": {
+    "web": "https://rinaorc.com",
+    "web_shop": "https://store.rinaorc.com",
+    "web_support": "https://discord.gg/rinaorc",
+    "twitter": "Rinaorc",
+    "discord": "https://discord.gg/rinaorc",
+    "teamspeak": "ts.rinaorc.com",
+    "tiktok": "serveur.rinaorc",
+    "youtube": "https://www.youtube.com/@RinaorcMC"
+  },
+  "gamemodes": {
+    "bedwars": {
+      "name": "BedWars"
+    },
+    "skyblock": {
+      "name": "SkyBlock"
+    },
+    "practice": {
+      "name": "Practice PvP"
+    },
+    "mini_games": {
+      "name": "MiniGames"
+    },
+    "gta": {
+      "name": "GTA"
+    },
+    "uhc": {
+      "name": "UHC"
+    },
+    "parkour": {
+      "name": "Parkour"
+    }
+  },
+  "yt_trailer": "U1s4fnIkKnQ",
+  "discord": {
+    "server_id": 561288326502416399,
+    "rename_to_minecraft_name": false
+  }
+}

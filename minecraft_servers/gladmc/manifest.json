@@ -1,0 +1,31 @@
+{
+  "server_name": "gladmc",
+  "nice_name": "GladMC",
+  "direct_ip": "jogar.gladmc.com",
+  "server_wildcards": [
+    "%.gladmc.com"
+  ],
+  "social": {
+    "web": "https://gladmc.com",
+    "twitter": "GladMC_",
+    "facebook": "100083393225242",
+    "instagram": "gladmc_",
+    "youtube": "https://www.youtube.com/c/GladMCOficial",
+    "discord": "https://discord.com/invite/gladmc"
+  },
+  "gamemodes": {
+    "duels": {
+      "name": "Duels",
+      "command": "/play duels"
+    },
+    "fullpvp": {
+      "name": "FullPvP",
+      "command": "/play fp"
+    },
+    "bedwars": {
+      "name": "BedWars",
+      "command": "/play bw"
+    }
+  },
+  "yt_trailer": "HNXUlA56wZQ"
+}

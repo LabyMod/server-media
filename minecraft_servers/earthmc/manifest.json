@@ -1,0 +1,18 @@
+{
+    "server_name": "earthmc",
+    "nice_name": "EarthMC",
+    "direct_ip": "play.earthmc.net",
+    "server_wildcards": [
+        "%.earthmc.net"
+    ],
+    "social": {
+        "web": "https://earthmc.net",
+        "web_shop": "https://store.earthmc.net",
+        "twitter": "OfficialEarthMC",
+        "discord": "https://discord.gg/TFVYpWQ"
+    },
+    "brand": {
+        "primary": "#344abd",
+        "background": "#3b8526"
+    }
+}

@@ -1,0 +1,52 @@
+{
+  "server_name": "cubecraft",
+  "nice_name": "CubeCraft",
+  "direct_ip": "play.cubecraft.net",
+  "server_wildcards": [
+    "%.cubecraft.net"
+  ],
+  "social": {
+    "web": "https://www.cubecraft.net",
+    "web_shop": "https://store.cubecraft.net",
+    "web_support": "https://help.cubecraft.net",
+    "twitter": "CubeCraftGames",
+    "tiktok": "cubecrafttiktok",
+    "facebook": "CubeCraftGames",
+    "discord": "https://discord.gg/cubecraft",
+    "youtube": "https://www.youtube.com/user/cubecraftgamesserver"
+  },
+  "gamemodes": {
+    "eggwars": {
+      "name": "EggWars"
+    },
+    "luckyislands": {
+      "name": "Lucky Islands"
+    },
+    "skywars": {
+      "name": "SkyWars"
+    },
+    "skyblock": {
+      "name": "SkyBlock"
+    },
+    "ffa": {
+      "name": "Free for All"
+    },
+    "parkour": {
+      "name": "Parkour"
+    }
+  },
+  "discord": {
+    "server_id": 174837853778345984,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#0b66a2",
+     "background": "#b1dffb",
+     "text": "#FFFFFF"
+  }, 
+  "location": {
+     "country": "Canada",
+     "country_code": "CA"
+  },
+  "yt_trailer": "N5WK_cTni2Q"
+}

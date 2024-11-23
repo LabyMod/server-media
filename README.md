@@ -1,5 +1,3 @@
-![Deploy](https://github.com/LabyMod/server-media/workflows/Deploy/badge.svg)
-
 # Server Media Files
 
 This repository holds media related to game servers. The server data that is in the repository is used for projects
@@ -18,7 +16,12 @@ like [LABY.net](https://laby.net).
 [LABY.net server page](https://laby.net/server/timolia) <br>
 [server-media directory](https://github.com/LabyMod/server-media/tree/master/minecraft_servers/timolia)
 
-<img src="https://user-images.githubusercontent.com/45363287/125622136-83dbeafd-6318-40f8-b10a-fc334c2b63d4.png">
+<img src="https://github.com/MaximFiedler/images/blob/main/Bild_2023-09-20_002646570.png?raw=true">
+
+## Publish information for contributors
+
+It is checked for repository updates hourly, so server data is updated every hour. Due to caching, it may take
+some time for updates to be applied on labymod.net and LABY.net. In case of problems, please open an issue.
 
 ## Trademark Legal Notices
 

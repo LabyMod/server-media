@@ -1,0 +1,48 @@
+{
+    "server_name": "oceanias",
+    "nice_name": "Oceanias",
+    "direct_ip": "oceanias.net",
+    "supported_languages": [
+        "en"
+    ],
+    "social": {
+        "web_shop": "https://store.oceanias.net",
+        "tiktok": "oceanias",
+        "discord": "https://discord.gg/YP3qGFP2nf",
+        "youtube": "https://www.youtube.com/@webceanias"
+    },
+    "gamemodes": {
+        "practice": {
+            "name": "Practice",
+            "color": "#4FEFFF",
+            "command": "/server practice",
+            "versions": "1.16.5<*"
+        },
+        "frog": {
+            "name": "FrogUHC",
+            "color": "#55FF55",
+            "command": "/server frog",
+            "versions": "1.16.5<*"
+        },
+        "lifesteal": {
+            "name": "Lifesteal",
+            "color": "#F20202",
+            "command": "/server lifesteal",
+            "versions": "1.18<*"
+        }
+    },
+    "discord": {
+        "server_id": 1137005706696994800,
+        "rename_to_minecraft_name": false
+    },
+    "brand": {
+        "primary": "#9D00FF",
+        "text": "#FFFFFF"
+    },
+    "location": {
+        "city": "Sydney",
+        "country": "Australia",
+        "country_code": "AU"
+    },
+    "yt_trailer": "r5aZhtonsCY"
+}

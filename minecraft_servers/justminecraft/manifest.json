@@ -1,0 +1,42 @@
+{
+  "server_name": "justminecraft",
+  "nice_name": "JustMinecraft",
+  "direct_ip": "justminecraft.net",
+  "server_wildcards": [
+    "%.justminecraft.net"
+  ],
+  "supported_languages": "en",
+  "social": {
+    "web": "https://www.justminecraft.net",
+    "web_shop": "https://justminecraft.buycraft.net",
+    "twitter": "JustMCNetwork",
+    "discord": "https://discord.gg/9yVPbah",
+    "youtube": "https://www.youtube.com/@justminecraft5483"
+  },
+  "gamemodes": {
+    "survival": {
+      "name": "Survival",
+      "command": "/survival"
+    },
+    "creative":{
+      "name": "Creative",
+      "command": "/creative"
+    },
+    "parkour": {
+      "name": "Parkour",
+      "command": "/parkour"
+    },
+    "bedwars":{
+      "name": "Bedwars",
+      "command": "/bedwars"
+    }
+  },
+  "discord": {
+    "server_id": 295429838041382912
+  },
+  "brand": {
+   "primary": "#FEA902",
+   "background": "#0b0b0b",
+   "text": "#FFFFFF"
+  }
+}

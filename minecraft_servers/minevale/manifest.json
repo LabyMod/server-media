@@ -1,0 +1,44 @@
+{
+  "server_name": "minevale",
+  "nice_name": "MineVale",
+  "direct_ip": "minevale.de",
+  "server_wildcards": [
+    "%.minevale.de",
+    "%.minevale.eu"
+  ],
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "web": "https://minevale.de",
+    "web_shop": "https://shop.minevale.de",
+    "discord": "https://discord.com/invite/vCBdMbPmc9",
+    "teamspeak": "ts.minevale.de"
+  },
+  "location": {
+    "country": "Germany",
+    "country_code": "DE"
+  },
+  "gamemodes": {
+    "citybuild1": {
+      "name": "CityBuild 1", 
+      "color": "#52ff59",
+      "command": "/queue citybuild1"
+    },
+    "citybuild2": {
+      "name": "CityBuild 2", 
+      "color": "#52ff59",
+      "command": "/queue citybuild2"
+    },
+    "citybuild3": {
+      "name": "CityBuild 3",
+      "color": "#52ff59",
+      "command": "/queue citybuild3"
+    },
+    "citybuild4": {
+      "name": "CityBuild 4", 
+      "color": "#52ff59",
+      "command": "/queue citybuild4"
+    }
+  }
+}

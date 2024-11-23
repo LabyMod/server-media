@@ -1,0 +1,50 @@
+{
+  "server_name": "gamesmc",
+  "nice_name": "GamesMC",
+  "direct_ip": "gamesmc.de",
+  "server_wildcards": [
+    "%.gamesmc.de"
+  ],
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "web": "https://gamesmc.de",
+    "web_support": "https://gamesmc.de/hilfe",
+    "twitter": "GamesMCde",
+    "facebook": "gamesmcde",
+    "instagram": "gamesmcde",
+    "youtube": "https://www.youtube.com/channel/UC2ZJba-Nf9FY8Ncg2pR43fg",
+    "discord": "https://discord.com/invite/GvCpTxcFfJ",
+    "teamspeak": "gamesmc.de"
+  },
+  "gamemodes": {
+    "bau": {
+      "name": "Bauwelt",
+      "command": "/warp bau"
+    },
+    "farm":{
+      "name": "Farmwelt",
+      "command": "/warp farm"
+    },
+    "dimensions": {
+      "name": "Dimensions",
+      "command": "/warp dimensions"
+    },
+    "creative":{
+      "name": "Creative",
+      "command": "/warp creative"
+    }
+  }, 
+  "location": {
+     "country": "Germany",
+     "country_code": "DE"
+  },
+  "command_delay": 6000,
+  "discord": {
+    "server_id": 250917173332148225,
+    "rename_to_minecraft_name": false
+  },
+  "user_stats": "https://www.gamesmc.de/api/playerInfo.php?name={userName}",
+  "yt_trailer": "ciJWpwcc-QM"
+}

@@ -1,0 +1,87 @@
+{
+    "server_name":"craftok",
+    "nice_name":"Craftok",
+    "direct_ip":"play.craftok.fr",
+    "server_wildcards":[
+      "%.craftok.fr"
+    ],
+    "supported_languages":[
+      "fr"
+    ],
+    "social":{
+      "web":"https://craftok.fr",
+      "web_shop":"https://shop.craftok.fr",
+      "twitter":"CraftokMC",
+      "tiktok":"craftokmc",
+      "instagram":"craftokmc",
+      "discord":"https://discord.gg/craftok",
+      "youtube":"https://www.youtube.com/@craftokmc"
+    },
+    "gamemodes":{
+      "bedwars":{
+        "name":"BedWars",
+        "color":"#5BC3FF",
+        "command":"/queue join BedWars2v2"
+      },
+      "1v1bed":{
+        "name":"1v1 BedWars",
+        "command":"/queue join 1v1Bed",
+        "color":"#5BC3FF"
+      },
+      "fallenkingdoms":{
+        "name":"Fallen Kingdoms",
+        "command":"/queue join FK",
+        "color":"#5BC3FF"
+      },
+      "jumpleague":{
+        "name":"JumpLeague",
+        "command":"/queue join JL",
+        "color":"#5BC3FF"
+      },
+      "blocksumo":{
+        "name":"BlockSumo",
+        "command":"/queue join BS",
+        "color":"#5BC3FF"
+      },
+      "kitpvp":{
+        "name":"KitPvP",
+        "color":"#5BC3FF"
+      },
+      "skywars":{
+        "name":"SkyWars",
+        "color":"#5BC3FF"
+      },
+      "buildtionnary":{
+        "name":"Buildtionnary",
+        "color":"#5BC3FF"
+      },
+      "deacoudre":{
+        "name":"Dé à coudre",
+        "color":"#5BC3FF"
+      },
+      "duel":{
+        "name":"Duel",
+        "color":"#5BC3FF"
+      },
+      "firespleef":{
+        "name":"FireSpleef",
+        "color":"#5BC3FF"
+      }
+    },
+    "discord":{
+      "server_id":820353166028832841,
+      "rename_to_minecraft_name":false
+    },
+    "location":{
+      "city":"Paris",
+      "country":"France",
+      "country_code":"FR"
+    },
+    "brand":{
+      "primary":"#5BC3FF",
+      "background":"#0C0B21",
+      "text":"#FFEFEF"
+    },
+    "yt_trailer": "8-bDNa4ySOQ"
+  }
+  
