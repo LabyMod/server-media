@@ -75,9 +75,9 @@ def main():
             if 'discord' in social:
                 link = social['discord']
                 if not link.startswith(('https://discord.gg', 'https://discord.com')):
-                    comment += f'Custom Discord invites are reserved for **LabyMod Partners**.\nIf you are a partner, please ignore this message.\n'
+                    comment += f'- Custom Discord invites are reserved for **LabyMod Partners**.\nIf you are a partner, please ignore this message.\n'
                 if not check_discord_invite(link):
-                    error += f'The Discord invite {link} is invalid or Discord is down.\n'
+                    error += f'- The Discord invite {link} is invalid or Discord is down.\n'
 
 
             for key in USERNAME_SOCIAL_KEYS:
