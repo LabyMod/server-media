@@ -1,0 +1,44 @@
+{
+  "server_name": "galaxycity",
+  "nice_name": "GalaxyCity",
+  "direct_ip": "galaxycity.eu",
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "web": "https://galaxycity.eu",
+    "web_shop": "https://shop.galaxycity.eu",
+    "discord": "https://discord.gg/acnWhyKU84",
+    "teamspeak": "galaxycity.eu"
+  },
+  "location": {
+    "country": "Germany",
+    "country_code": "DE"
+  },
+  "gamemodes": {
+    "bedwars": {
+      "name": "BedWars", 
+      "color": "#bd4aff",
+      "command": "/join bedwars"
+    },
+    "mlgrush": {
+      "name": "MLGRush", 
+      "color": "#bd4aff",
+      "command": "/join mlgrush"
+    },
+    "hardcore": {
+      "name": "HardCore", 
+      "color": "#bd4aff",
+      "command": "/join hardcore"
+    }
+  },
+  "discord": {
+    "server_id": 782338931609960458,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#b940ff",
+    "background": "#5e0bd6",
+    "text": "#ffffff"
+  }
+}

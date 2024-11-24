@@ -66,6 +66,19 @@ def main():
                 if social[key].endswith('/'):
                     comment += f'- Please remove **/** at the end of url (`social.{key}`)\n'
 
+                try:
+                    response = requests.get(social[key], timeout=5)
+                except requests.exceptions.RequestException as e:
+                    comment += f'- The website {social[key]} could not be reached. Please recheck whether is available.\n'
+
+            if 'discord' in social:
+                link = social['discord']
+                if not link.startswith(('https://discord.com/', ' https://discord.gg/')):
+                    comment += f'Custom Discord invites are reserved for **LabyMod Partners**.\nIf you are a partner, please ignore this message.\n'
+                if not check_discord_invite(link):
+                    comment += f'The Discord invite {link} is invalid or Discord is down.\n'
+
+
             for key in USERNAME_SOCIAL_KEYS:
                 if key in social and (social[key].startswith('http') or 'www' in social[key]):
                     comment += f'- Please use a **username**, not a link (`social.{key}`)\n'
@@ -83,7 +96,9 @@ def main():
             try:
                 int(data['discord']['server_id'])
             except ValueError:
-                comment += '- Please use a **numeric** value for your server id (`discord.server_id`)\n'
+                comment += f'- Please use a **numeric** value for your server id (`discord.server_id`)\n'
+            if 'rename_to_minecraft_name' in 'discord' in data == True:
+                comment += f'- `discord.rename_to_minecraft_name` is reserved for LabyMod Partners. Change it to `false`. If you are a partner, please ignore this message.\n'
 
         if 'user_stats' in data and ('{userName}' not in data['user_stats'] and '{uuid}' not in data['user_stats']):
             comment += '- Please use {userName} or {uuid} in your stats url (`user_stats`)\n'
@@ -168,15 +183,28 @@ def check_server_online_state(ip: str, wildcards: list):
 
     print(f"Checked server status successfully: {response['online']}")
 
-    offline_text = "In general, we only accept pull requests from servers, **that are online**. "\
-    "Please change this, otherwise we cannot review your server correctly and have to deny the pull request.\n\n"\
-    "If your server is currently online, then our api returned a wrong status, we will have a look at it :)\n\n"\
-    f"Reference: [API URL ({url})]({url})"
-
     if not response['online']:
-        post_comment(f'*Just as an information*:\nYour server {ip} **could be offline**.\n {offline_text}', 'comments')
+        print(f'Rechecking with another service')
+        url = f'https://api.mcstatus.io/v2/status/java/{ip}?query=false'
+        request = requests.get(url)
 
-    server_ip = response['ip']
+        try:
+            response = json.loads(request.text)
+        except json.JSONDecodeError:
+            print(f'Cannot get value from server API. API returned {request.status_code} - Skipping...')
+            return
+
+        print(f"Checked server status successfully: {response['online']}")
+
+        offline_text = "In general, we only accept pull requests from servers, **that are online**. " \
+                       "Please change this, otherwise we cannot review your server correctly and have to deny the pull request.\n\n" \
+                       "If your server is currently online, then our api returned a wrong status, we will have a look at it :)\n\n" \
+                       f"Reference: [API URL ({url})]({url})"
+
+        if not response['online']:
+            post_comment(f'*Just as an information*:\nYour server {ip} **could be offline**.\n {offline_text}', 'comments')
+
+    server_ip = {ip}
     wildcard_string = 'Wildcards do not resolve the same ip address:\n'
     wildcard_comment = False
     for wildcard in wildcards:
@@ -197,9 +225,9 @@ def check_server_online_state(ip: str, wildcards: list):
 
     if 'motd' in response:
         maintenance_tagged = False
-        for line in response['motd']:
+        for line in response['motd']['clean']:
             line_content = line.lower()
-            if 'maintenance' in line_content or 'wartung' in line_content:
+            if 'maintenance' in line_content or 'wartung' in line_content or 'wartungen' in line_content:
                 maintenance_tagged = True
 
         if maintenance_tagged:
@@ -228,6 +256,23 @@ def comment_needed():
 
     return False
 
+def check_discord_invite(url: str):
+    invite = url.split('/')[-1]
+    print(f'Check discord invite for {invite}')
+
+    try:
+        request = requests.get(f'https://discord.com/api/v9/invites/{invite}')
+        if request.status_code == 200:
+            print(f'Invite for {invite} was successful.')
+            return True
+        else:
+            print(f'Invite for {invite} was invalid .')
+            return False
+    except requests.exceptions.ConnectionError:
+        print(f'Discord seems to be down while checking. Please check manually\n')
+        return False
+
 
 if __name__ == '__main__':
     main()
+
