@@ -2,9 +2,6 @@
     "server_name": "noovex",
     "nice_name": "Noovex",
     "direct_ip": "beta.noovex.net",
-    "social": {
-        "discord": "https://discord.gg/rwErk49ZUQ"
-    },
     "gamemodes": {
         "wintersmp": {
             "name": "WinterSMP",
