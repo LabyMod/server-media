@@ -1,0 +1,26 @@
+{
+    "server_name": "platzilegends",
+    "nice_name": "PlatziLegends",
+    "direct_ip": "platzilegends.de",
+    "supported_languages": [
+        "de"
+    ],
+    "social": {
+        "discord": "https://discord.gg/3f4Vgj8a3X"
+    },
+    "gamemodes": {
+        "survival": {
+            "name": "CityBuild",
+            "color": "#48E863"
+        }
+    },
+    "discord": {
+        "server_id": 774004070859800616,
+        "rename_to_minecraft_name": false
+    },
+    "location": {
+        "city": "Hessen",
+        "country": "Germany",
+        "country_code": "DE"
+    }
+}
