@@ -5,7 +5,7 @@
     "gamemodes": {
         "wintersmp": {
             "name": "WinterSMP",
-            "command": "/server snowsmp",
+            "command": "/server wintersmp",
             "color": "#ffffff",
             "versions": "1.21<*"
         },
