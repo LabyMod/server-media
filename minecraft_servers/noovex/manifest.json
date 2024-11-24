@@ -15,5 +15,20 @@
             "color": "#ffffff",
             "versions": "1.21<*"
         }
+    },
+    "discord": {
+        "server_id": 1125575094555643984,
+        "rename_to_minecraft_name": false
+    },
+    "supported_languages": [
+        "de"
+    ],
+    "social": {
+        "discord": "https://discord.gg/rwErk49ZUQ",
+    },
+    "location": {
+        "city": "Münster",
+        "country": "Germany",
+        "country_code": "DE"
     }
 }
