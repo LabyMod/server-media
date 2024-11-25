@@ -39,7 +39,7 @@ while read image; do
     width="${properties[0]}"
     height="${properties[1]}"
     type="${properties[2]}"
-    size=$(stat --format="%s" "${image}")  # File size in bytes
+    size=$(stat -c %s "${image}")  # File size in bytes
 
     # Check whether file is > 1MB
     if (( size > 1048576 )); then
