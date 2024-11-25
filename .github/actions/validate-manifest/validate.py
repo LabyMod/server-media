@@ -12,6 +12,7 @@ BRAND_KEYS = ['primary', 'background', 'text']
 def main():
     error = ''
     comment = ''
+    wildcard_stop = False
 
     create_comment = comment_needed()
     if create_comment:
@@ -44,8 +45,6 @@ def main():
             error += '- One of the **required values** is missing\n'
             continue
 
-        check_server_online_state(data['direct_ip'], data['server_wildcards'] if 'server_wildcards' in data else [])
-
         server_directory = manifest_file.replace('minecraft_servers/', '').replace('/manifest.json', '')
         if server_directory != data['server_name']:
             error += '**Servername has to be directory name!**\n'
@@ -54,7 +53,13 @@ def main():
         if 'server_wildcards' in data:
             for wildcard in data['server_wildcards']:
                 if not wildcard.startswith('%.'):
+                    wildcard_stop = True
                     error += '- Invalid wildcard entry. Each entry must start with **%.**. Further information here: https://en.wikipedia.org/wiki/Wildcard_DNS_record (`server_wildcards`)\n'
+
+        check_server_online_state(
+            data['direct_ip'],
+            [] if wildcard_stop else (['server_wildcards'] if 'server_wildcards' in data else [])
+        )
 
         # Check for https
         if 'social' in data:
@@ -185,6 +190,7 @@ def check_server_online_state(ip: str, wildcards: list):
         print(f'Cannot get value from server API. API returned {request.status_code} - Skipping...')
         return
 
+    server_ip = response['ip']
     print(f"Checked server status successfully: {response['online']}")
 
     if not response['online']:
@@ -198,6 +204,7 @@ def check_server_online_state(ip: str, wildcards: list):
             print(f'Cannot get value from server API. API returned {request.status_code} - Skipping...')
             return
 
+        server_ip = response['ip_address']
         print(f"Checked server status successfully: {response['online']}")
 
         offline_text = "In general, we only accept pull requests from servers, **that are online**. " \
@@ -208,11 +215,11 @@ def check_server_online_state(ip: str, wildcards: list):
         if not response['online']:
             post_comment(f'*Just as an information*:\nYour server {ip} **could be offline**.\n {offline_text}', 'comments')
 
-    server_ip = {ip}
-    wildcard_string = 'Wildcards do not resolve the same ip address:\n'
+    wildcard_string = f'*Just as an information*:\nWildcards do not resolve the same ip address:\n'
     wildcard_comment = False
     for wildcard in wildcards:
-        request = requests.get(f'https://api.mcsrvstat.us/2/{ip}')
+        wildcard_ip = str.replace(wildcard, '%', 'testingstringwildcard')
+        request = requests.get(f'https://api.mcsrvstat.us/2/{wildcard_ip}')
 
         try:
             response = json.loads(request.text)
@@ -220,12 +227,16 @@ def check_server_online_state(ip: str, wildcards: list):
             print(f'Cannot get {wildcard} from server API. API returned {request.status_code} - Skipping...')
             continue
 
-        wildcard_string += f'*{wildcard}* => *{response["ip"]}*\n'
-        if response['ip'] != server_ip:
+        if not response['online']:
+            wildcard_string += f'Wildcard {wildcard} seems to be invalid. Server is offline with testing wildcard.\nPlease recheck wildcard for validity.'
             wildcard_comment = True
+        else:
+            wildcard_string += f'*{wildcard}* => *{response["ip"]}*\n'
+            if response['ip'] != server_ip:
+                wildcard_comment = True
 
     if wildcard_comment:
-        post_comment(wildcard_string)
+        post_comment(wildcard_string, 'comments')
 
     if 'motd' in response:
         maintenance_tagged = False
@@ -278,4 +289,3 @@ def check_discord_invite(url: str):
 
 if __name__ == '__main__':
     main()
-
