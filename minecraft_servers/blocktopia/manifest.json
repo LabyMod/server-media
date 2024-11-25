@@ -1,7 +1,10 @@
 {
     "server_name": "blocktopia",
     "nice_name": "BlocktopiaMC",
-    "direct_ip": "play.blocktopiamc.de",
+    "direct_ip": "blocktopiamc.de",
+    "server_wildcards":[
+       "mc.BlocktopiaMC.de", "play.BlocktopiaMC.de"
+    ],    
     "supported_languages": [
         "de"
     ],
@@ -11,10 +14,10 @@
         "discord": "https://discord.gg/JxbFEMWHx7"
     },
     "gamemodes": {
-        "citybuild": {
-            "name": "CityBuild",
+        "smp": {
+            "name": "SMP",
             "color": "#FFA500",
-            "command": "/warp cb1"
+            "command": "/spawn"
         }
     },
     "discord": {
