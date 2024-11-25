@@ -3,7 +3,7 @@
     "nice_name": "BlocktopiaMC",
     "direct_ip": "blocktopiamc.de",
     "server_wildcards":[
-       "mc.BlocktopiaMC.de", "play.BlocktopiaMC.de"
+       "%.BlocktopiaMC.de"
     ],    
     "supported_languages": [
         "de"
