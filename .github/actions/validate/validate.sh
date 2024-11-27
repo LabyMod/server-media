@@ -41,9 +41,9 @@ while read image; do
     type="${properties[2]}"
     size=$(stat -c %s "${image}")  # File size in bytes
 
-    # Check whether file is > 1MB
-    if (( size > 1048576 )); then
-      error "${image}" "The file ${file} is larger than 1 MB. Please compress it on https://compresspng.com"
+    # Check whether file is > 1.5MB
+    if (( size > 1572864 )); then
+      error "${image}" "The file ${file} is larger than 1.5 MB. Please compress it on https://compresspng.com"
       continue
     fi
 
