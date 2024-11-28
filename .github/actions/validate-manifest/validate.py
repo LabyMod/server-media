@@ -246,7 +246,8 @@ def check_server_online_state(ip: str, wildcards: list):
             line_content = line.lower()
             if 'maintenance' in line_content or 'wartung' in line_content or 'wartungen' in line_content:
                 maintenance_tagged = True
-
+            else:
+                print(f'No maintenance found in MOTD')
         if maintenance_tagged:
             post_comment(f'The server {ip} **is in maintenance**.\n {offline_text}')
 
