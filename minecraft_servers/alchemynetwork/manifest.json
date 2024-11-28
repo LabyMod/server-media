@@ -7,10 +7,10 @@
         "pt-PT"
     ],
     "social": {
-        "web_shop": "https://www.alchemynetwork.net"
+        "web": "https://www.alchemynetwork.net"
     },
     "gamemodes": {
-        "rankup": {
+        "blizzard": {
             "name": "Blizzard", 
             "color": "#55FFFF",
             "versions": "1.21<*"
