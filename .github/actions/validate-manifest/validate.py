@@ -236,7 +236,7 @@ def check_server_online_state(ip: str, wildcards: list):
         else:
             wildcard_string += f'*{wildcard}* => *{response["ip"]}*\n'
             if response['ip'] != server_ip:
-                wildcard_string = f'Wildcards do not resolve the same ip address\n'
+                wildcard_string += f'Wildcards do not resolve the same ip address\n'
                 wildcard_comment = True
 
     if wildcard_comment:
