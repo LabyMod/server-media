@@ -2,7 +2,6 @@
   "server_name": "wasd",
   "nice_name": "Wasd",
   "direct_ip": "wasdmc.com",
-  "server_wildcards": [],
   "supported_languages": [
     "pt-BR",
     "pt-PT"
