@@ -1,0 +1,50 @@
+{
+  "server_name": "solara",
+  "nice_name": "solara",
+  "direct_ip": "solara.gg",
+  "server_wildcards": [
+    "%.solara.gg"
+  ],
+  "supported_languages": [
+     "en",
+     "de",
+     "ru"
+  ],
+  "social": {
+    "web": "https://solara.gg",
+    "web_shop": "https://store.solara.gg",
+    "web_support": "https://solara.gg",
+    "twitter": "PlaySolara",
+    "tiktok": "solara.gg",
+    "instagram": "solara.gg",
+    "discord": "https://discord.gg/playsolara"
+  },
+  "gamemodes": {
+    "Practice": {
+      "name": "Practice"
+    },
+    "survivalgames": {
+      "name": "SurvivalGames"
+    },
+    "bedwars": {
+      "name": "BedWars"
+    },
+    "skywars": {
+      "name": "SkyWars"
+    }
+  },
+  "discord": {
+    "server_id": 1265729442551169094,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#FFFF00",
+     "background": "#a160e2",
+     "text": "#FFFFFF"
+  }, 
+  "location": {
+     "city": "Chicago",
+     "country": "United States",
+     "country_code": "US"
+  }
+}
