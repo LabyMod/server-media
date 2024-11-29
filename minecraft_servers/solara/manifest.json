@@ -3,20 +3,16 @@
   "nice_name": "solara",
   "direct_ip": "solara.gg",
   "supported_languages": [
-     "en",
-     "de",
-     "ru"
+     "en"
   ],
   "social": {
-    "web": "https://solara.gg",
     "web_shop": "https://store.solara.gg",
-    "web_support": "https://solara.gg",
     "twitter": "PlaySolara",
     "tiktok": "solara.gg",
     "instagram": "solara.gg"
   },
   "gamemodes": {
-    "Practice": {
+    "practice": {
       "name": "Practice"
     },
     "survivalgames": {
