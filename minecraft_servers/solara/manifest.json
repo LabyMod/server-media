@@ -14,7 +14,6 @@
     "twitter": "PlaySolara",
     "tiktok": "solara.gg",
     "instagram": "solara.gg",
-    "discord": "https://discord.gg/NdG5adXgwV"
   },
   "gamemodes": {
     "Practice": {
@@ -29,10 +28,6 @@
     "skywars": {
       "name": "SkyWars"
     }
-  },
-  "discord": {
-    "server_id": 1265729442551169094,
-    "rename_to_minecraft_name": false
   },
   "brand": {
      "primary": "#FFFF00",
