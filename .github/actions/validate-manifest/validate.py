@@ -218,7 +218,7 @@ def check_server_online_state(ip: str, wildcards: list):
         if not response['online']:
             post_comment(f'*Just as an information*:\nYour server {ip} **could be offline**.\n {offline_text}', 'comments')
 
-    wildcard_string = f'*Just as an information*:\nWildcards do not resolve the same ip address:\n'
+    wildcard_string = '*Just as an information*:\n'
     wildcard_comment = False
     for wildcard in wildcards:
         wildcard_ip = str.replace(wildcard, '%', 'testingstringwildcard')
@@ -231,11 +231,12 @@ def check_server_online_state(ip: str, wildcards: list):
             continue
 
         if not response['online']:
-            wildcard_string += f'Wildcard {wildcard} seems to be invalid. Server is offline with testing wildcard.\nPlease recheck wildcard for validity.'
+            wildcard_string += f'Wildcard {wildcard} seems to be invalid. Server is offline with testing wildcard.\nPlease recheck wildcard for validity.\n'
             wildcard_comment = True
         else:
             wildcard_string += f'*{wildcard}* => *{response["ip"]}*\n'
             if response['ip'] != server_ip:
+                wildcard_string = f'Wildcards do not resolve the same ip address\n'
                 wildcard_comment = True
 
     if wildcard_comment:
