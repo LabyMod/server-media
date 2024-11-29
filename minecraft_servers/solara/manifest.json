@@ -2,9 +2,6 @@
   "server_name": "solara",
   "nice_name": "solara",
   "direct_ip": "solara.gg",
-  "server_wildcards": [
-    "%.solara.gg"
-  ],
   "supported_languages": [
      "en",
      "de",
@@ -17,7 +14,7 @@
     "twitter": "PlaySolara",
     "tiktok": "solara.gg",
     "instagram": "solara.gg",
-    "discord": "https://discord.gg/playsolara"
+    "discord": "https://discord.gg/NdG5adXgwV"
   },
   "gamemodes": {
     "Practice": {
