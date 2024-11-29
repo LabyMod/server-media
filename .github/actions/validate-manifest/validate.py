@@ -134,7 +134,8 @@ def main():
                 error += f'- Please use **your own page**, not LABY.net (`user_stats`)\n'
 
     if create_comment:
-        post_comment(error + comment)
+        post_comment(error)
+        post_comment(comment, 'comments')
 
     for error in error.split('\n'):
         # Print error comments, so that the user can relate the issues even if there is no comment
