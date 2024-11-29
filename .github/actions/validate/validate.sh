@@ -43,7 +43,7 @@ while read image; do
 
     # Check whether file is > 1.5MB
     if (( size > 1572864 )); then
-      error "${image}" "The file ${file} is larger than 1.5 MB. Please compress it on https://compresspng.com"
+      error "${image}" "The file ${filename} is larger than 1.5 MB. Please compress it on https://compresspng.com"
       continue
     fi
 
