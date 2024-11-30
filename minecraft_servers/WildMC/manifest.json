@@ -1,0 +1,31 @@
+{
+  "server_name": "WildMC",
+  "nice_name": "WildMC",
+  "direct_ip": "wildmcs.com",
+  "server_wildcards": [
+    "%.wildmcs.com"
+  ],
+  "supported_languages": [
+    "ar",
+    "en"
+  ],
+  "social": {
+    "web_shop": "https://store.wildmc.net/",
+    "web_support": "https://discord.gg/wildmc",
+    "discord": "https://discord.gg/wildmc"
+  },
+  "discord": {
+    "server_id": 1228600804416684042,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#a28013",
+    "background": "#131013",
+    "text": "#ffffff"
+  },
+  "location": {
+    "city": "Riyadh",
+    "country": "Saudi Arabia",
+    "country_code": "SA"
+  }
+}
