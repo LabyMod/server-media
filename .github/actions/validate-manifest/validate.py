@@ -58,7 +58,7 @@ def main():
 
         check_server_online_state(
             data['direct_ip'],
-            [] if wildcard_stop else (['server_wildcards'] if 'server_wildcards' in data else [])
+            [] if wildcard_stop else (data['server_wildcards'] if 'server_wildcards' in data else [])
         )
 
         # Check for https
