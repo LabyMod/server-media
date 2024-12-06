@@ -10,7 +10,7 @@
             "name": "SkyPvP",
             "color": "#0d6914",
             "command": "/spawn",
-            "versions": "1.8<1.21.3"
+            "versions": "1.8<1.21.4"
         }
     },
     "brand": {
