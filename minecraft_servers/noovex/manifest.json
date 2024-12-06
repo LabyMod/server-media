@@ -2,28 +2,10 @@
     "server_name": "noovex",
     "nice_name": "Noovex",
     "direct_ip": "beta.noovex.net",
-    "supported_languages": [
-        "de"
-    ],
-    "social": {
-        "discord": "https://discord.gg/rwErk49ZUQ"
-    },
     "gamemodes": {
         "wintersmp": {
             "name": "WinterSMP",
-            "command": "/server snowsmp",
-            "color": "#ffffff",
-            "versions": "1.21<*"
-        },
-        "survival": {
-            "name": "Survival",
-            "command": "/server survival",
-            "color": "#ffffff",
-            "versions": "1.21<*"
-        },
-        "arenabox": {
-            "name": "Arenabox",
-            "command": "/server arenabox",
+            "command": "/server wintersmp",
             "color": "#ffffff",
             "versions": "1.21<*"
         },
@@ -33,5 +15,13 @@
             "color": "#ffffff",
             "versions": "1.21<*"
         }
+    },
+    "supported_languages": [
+        "de"
+    ],
+    "location": {
+        "city": "Münster",
+        "country": "Germany",
+        "country_code": "DE"
     }
 }
