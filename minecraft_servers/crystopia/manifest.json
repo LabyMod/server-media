@@ -19,6 +19,12 @@
         "color": "#FFA500",
         "command": "/smp",
         "versions": "1.20.4"
+      },
+    "craft-attack": {
+        "name": "Craft Attack", 
+        "color": "#FFD700",
+        "command": "/event",
+        "versions": "1.21.1"
       }
     },
     "chat": {

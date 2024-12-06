@@ -4,7 +4,9 @@
   "direct_ip": "craftergang.de",
   "supported_languages": [
     "de",
-    "en"
+    "en",
+    "es",
+    "it"
   ],
   "social": {
     "discord": "https://discord.gg/ThCt8Pq",
@@ -18,62 +20,61 @@
       "name": "Crafterbreak",
       "color": "#07F0E0",
       "command": "/gametp crafterbreak",
-      "versions": "1.8<1.21.1"
+      "versions": "1.8<1.21.3"
     },
     "welt-untergang": {
       "name": "Untergang",
       "color": "#0bde19",
       "command": "/gametp wu",
-      "versions": "1.8<1.21.1"
+      "versions": "1.8<1.21.3"
+    },
+    "superbreakblocks": {
+      "name": "SuperBreakBlocks",
+      "color": "#bf1077",
+      "command": "/gametp sbb",
+      "versions": "1.8<1.21.3"
     },
     "cbdesert": {
       "name": "CB Desert",
       "color": "#0d6914",
       "command": "/gametp cb1",
-      "versions": "1.8<1.21.1"
-    },
-    "cbwater": {
-      "name": "CB Water",
-      "color": "#13c7eb",
-      "command": "/gametp cb2",
-      "versions": "1.12<1.21.1"
+      "versions": "1.8<1.21.3"
     },
     "onehit": {
       "name": "OneHit",
       "color": "#f705ab",
       "command": "/gametp onehit",
-      "versions": "1.8<1.21.1"
+      "versions": "1.8<1.21.3"
     },
     "ffa": {
       "name": "FFA",
       "color": "#ed0c26",
       "command": "/gametp ffa",
-      "versions": "1.8<1.21.1"
+      "versions": "1.8<1.21.3"
     },
     "bedwars": {
       "name": "BW",
       "color": "#e3bcc1",
       "command": "/gametp bw",
-      "versions": "1.8<1.21.1"
+      "versions": "1.8<1.21.3"
     },
     "skypvp": {
       "name": "SkyPvP",
       "color": "#f7df05",
       "command": "/gametp spvp",
-      "versions": "1.8<1.21.1"
-    },
-    "gungame": {
-      "name": "Welt-Untergang",
-      "color": "#0bde19",
-      "command": "/gametp gungame",
-      "versions": "1.8<1.21.1"
+      "versions": "1.8<1.21.3"
     },
     "mlgrush": {
       "name": "MLGRush",
       "color": "#de0b39",
       "command": "/gametp mlgrush",
-      "versions": "1.8<1.21.1"
+      "versions": "1.8<1.21.3"
     }
+  },
+  "chat": {
+    "message_formats": [
+      "^§[a-f0-9](?<level>\\d+)( \\||§8 \\|) §[a-f0-9](?<sender>[a-zA-Z0-9_]{2,16}) §8» §f(?<message>.*)$"
+    ]
   },
   "discord": {
     "server_id": 251791624483373060,

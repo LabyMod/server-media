@@ -24,6 +24,12 @@
       "color": "#ff5d52",
       "versions": "1.8<*"
     },
+    "practice":{
+      "name": "Practice",
+      "command": "/practice",
+      "color": "#ff5d52",
+      "versions": "1.8<*"
+    },
     "skyblock": {
       "name": "SkyBlock",
       "command": "/skyblock",
