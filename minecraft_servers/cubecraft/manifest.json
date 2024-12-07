@@ -33,6 +33,12 @@
     },
     "parkour": {
       "name": "Parkour"
+    },
+    "pillarsoffortune": {
+      "name": "Pillars of Fortune"
+    },
+    "bedwars": {
+      "name": "BedWars"
     }
   },
   "discord": {
