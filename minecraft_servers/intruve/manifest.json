@@ -1,0 +1,27 @@
+{
+  "server_name": "intruve",
+  "nice_name": "Intruve Network",
+  "direct_ip": "intruve.net",
+  "server_wildcards": [
+    "%.intruve.net",
+    "%.intruve.com",
+    "%.intruve.de",
+    "%.intruve.eu",
+    "%.intruve.network"
+  ],
+  "supported_languages": [
+    "en", "de"
+  ],
+  "social": {
+    "discord": "https://dc.intruve.net",
+    "twitter": "intruve",
+	"instagram": "intruve",
+    "tiktok": "intruve",
+    "youtube": "https://www.youtube.com/@intruve"
+  },
+  "brand": {
+	"primary": "#D738FF",
+	"background": "#1C1538",
+	"text": "#FFFFFF"
+  }
+}
