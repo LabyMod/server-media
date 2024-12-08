@@ -2,9 +2,6 @@
   "server_name": "claynation",
   "nice_name": "ClayNation Netzwerk",
   "direct_ip": "realsnow.de",
-  "server_wildcards": [
-    "%.realsnow.de"
-  ],
   "supported_languages": [
      "en",
      "de"
