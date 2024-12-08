@@ -135,7 +135,7 @@ def main():
 
     if create_comment:
         post_comment(error)
-        post_comment(comment, 'comments')
+        post_comment(comment)
 
     for error in error.split('\n'):
         # Print error comments, so that the user can relate the issues even if there is no comment
@@ -231,14 +231,14 @@ def check_server_online_state(ip: str, wildcards: list):
             continue
 
         if not response['online']:
-            wildcard_string += f'Wildcard {wildcard} seems to be invalid. Server is offline with testing wildcard.\nPlease recheck wildcard for validity.\n'
+            wildcard_string += f'- Wildcard {wildcard} seems to be invalid. Server is offline with testing wildcard.\n'
             wildcard_comment = True
         else:
-            wildcard_string += f'*{wildcard}* => *{response["ip"]}*\n'
             if response['ip'] != server_ip:
-                wildcard_string += f'Wildcards do not resolve the same ip address\n'
+                wildcard_string += f'- Wildcard do not resolve the same ip address: *{wildcard}* => *{response["ip"]}*\n'
                 wildcard_comment = True
 
+    wildcard_string += f'\nPlease make sure it is an [actual wildcard](https://en.wikipedia.org/wiki/Wildcard_DNS_record).\n'
     if wildcard_comment:
         post_comment(wildcard_string, 'comments')
 
