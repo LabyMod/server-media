@@ -1,6 +1,6 @@
 {
   "server_name": "mccisland",
-  "nice_name": "MCCIsland",
+  "nice_name": "MCC Island",
   "direct_ip": "play.mccisland.net",
   "server_wildcards": [
     "%.mccisland.net"
@@ -28,7 +28,19 @@
       "name": "To Get to the Other Side" 
     },
     "parkourwarrior": {
-      "name": "Parkour Warrior"
+      "name": "Parkour Warrior Dojo"
+    },
+    "parkourwarriorsurvivor": {
+      "name": "Parkour Warrior Survivor" 
+    },
+    "dynaball": {
+      "name": "Dynaball" 
+    },
+    "rocketspleefrush": {
+      "name": "Rocket Spleef Rush" 
+    },
+    "fishing": {
+      "name": "Fishing" 
     }
   },
   "discord": {
