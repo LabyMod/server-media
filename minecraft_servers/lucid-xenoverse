@@ -1,0 +1,19 @@
+{
+  "server_name": "Lucid-XenoVerse",
+  "nice_name": "lucid-XenoVerse",
+  "direct_ip": "mc.lucid-xenoverse.de",
+  
+  "supported_languages": [
+     "de"
+  ],
+  "social": {
+    "web": "https://www.lucid-xenoverse.de",
+    "teamspeak": "mc.lucid-xenoverse.de",
+    "discord": "https://discord.lucid-xenoverse.de"
+  },
+  "location": {
+    "city": "Brandenburg",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}
