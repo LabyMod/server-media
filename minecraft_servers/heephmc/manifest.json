@@ -1,14 +1,14 @@
 {
-  "server_name": "wasd",
-  "nice_name": "Wasd",
-  "direct_ip": "wasdmc.com",
+  "server_name": "heephmc",
+  "nice_name": "Heeph Club",
+  "direct_ip": "heeph.club",
   "supported_languages": [
     "pt-BR",
     "pt-PT"
   ],
   "social": {
-    "web_shop": "https://loja.wasdmc.com/itens",
-    "discord": "https://discord.gg/wasdmc"
+    "web_shop": "https://loja.heeph.club/itens",
+    "discord": "https://discord.gg/heephmc"
   },
   "gamemodes": {
     "boxing": {
