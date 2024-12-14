@@ -90,6 +90,8 @@ def main():
             for key in USERNAME_SOCIAL_KEYS:
                 if key in social and (social[key].startswith('http') or 'www' in social[key]):
                     error += f'- Please use a **username**, not a link (`social.{key}`)\n'
+                if key in social and social[key].equals(''):
+                    error += f'- Please remove the empty key **{key}** or fill in information.\n'
 
             # Check facebook, because it works :)
             if 'facebook' in social:
@@ -105,7 +107,7 @@ def main():
                 int(data['discord']['server_id'])
             except ValueError:
                 error += f'- Please use a **numeric** value for your server id (`discord.server_id`)\n'
-            if 'rename_to_minecraft_name' in 'discord' in data == True:
+            if 'rename_to_minecraft_name' in data['discord'] and data['discord']['rename_to_minecraft_name'] == True:
                 comment += f'- `discord.rename_to_minecraft_name` is reserved for LabyMod Partners. Change it to `false`. If you are a partner, please ignore this message.\n'
 
         if 'user_stats' in data and ('{userName}' not in data['user_stats'] and '{uuid}' not in data['user_stats']):
