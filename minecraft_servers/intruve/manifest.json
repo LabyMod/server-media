@@ -3,17 +3,16 @@
   "nice_name": "Intruve Network",
   "direct_ip": "intruve.net",
   "server_wildcards": [
-    "%.intruve.net",
-    "%.intruve.com",
-    "%.intruve.de",
-    "%.intruve.eu",
-    "%.intruve.network"
+    "intruve.com",
+    "intruve.de",
+    "intruve.eu",
+    "intruve.network"
   ],
   "supported_languages": [
     "en", "de"
   ],
   "social": {
-    "discord": "https://dc.intruve.net",
+    "discord": "https://discord.com/invite/kadh3cYqvw",
     "twitter": "intruve",
 	"instagram": "intruve",
     "tiktok": "intruve",
