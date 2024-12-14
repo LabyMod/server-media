@@ -3,7 +3,7 @@
   "nice_name": "Phoenix",
   "direct_ip": "rainbowfurry.com",
   "server_wildcards": [
-    "%.rainbowfurry.com"
+    "rainbowfurry.com"
   ],
   "supported_languages": [
     "de",
@@ -13,11 +13,7 @@
     "web": "https://rainbowfurry.com",
     "forum": "https://forum.rainbowfurry.com",
     "web_shop": "https://rainbowfurry.com",
-    "twitter": "https://rainbowfurry.com",
     "discord": "https://rainbowfurry.com",
-    "tiktok": "https://rainbowfurry.com",
-    "youtube": "https://rainbowfurry.com",
-    "instagram": "https://rainbowfurry.com"
   },
   "gamemodes": {
     "clashofminecraft": {
@@ -41,7 +37,5 @@
     "message_formats": [
       "^§[a-f0-9](?<level>\\d+)( \\||§8 \\|) §[a-f0-9](?<sender>[a-zA-Z0-9_]{2,16})§r§7: §f(?<message>.*)$"
     ]
-  },
-  "yt_trailer": "",
-  "user_stats": "https://rainbowfurry.com"
+  }
 }
