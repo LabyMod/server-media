@@ -12,12 +12,12 @@
   "social": {
     "web": "https://rainbowfurry.com",
     "forum": "https://forum.rainbowfurry.com",
-    "web_shop": "https://shop.ponenix.net",
-    "twitter": "",
-    "discord": "",
-    "tiktok": "",
-    "youtube": "",
-    "instagram": ""
+    "web_shop": "https://rainbowfurry.com",
+    "twitter": "https://rainbowfurry.com",
+    "discord": "https://rainbowfurry.com",
+    "tiktok": "https://rainbowfurry.com",
+    "youtube": "https://rainbowfurry.com",
+    "instagram": "https://rainbowfurry.com"
   },
   "gamemodes": {
     "clashofminecraft": {
@@ -43,5 +43,5 @@
     ]
   },
   "yt_trailer": "",
-  "user_stats": "https://www.ponenix.net/stats/{userName}"
+  "user_stats": "https://rainbowfurry.com"
 }
