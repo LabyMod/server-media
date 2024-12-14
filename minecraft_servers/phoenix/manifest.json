@@ -3,7 +3,6 @@
   "nice_name": "Phoenix",
   "direct_ip": "rainbowfurry.com",
   "server_wildcards": [
-    "rainbowfurry.com"
   ],
   "supported_languages": [
     "de",
@@ -26,7 +25,7 @@
   },
   "discord": {
     "server_id": 1309574664141668393,
-    "rename_to_minecraft_name": true
+    "rename_to_minecraft_name": false
   },
   "brand": {
     "primary": "#497cb1",
@@ -37,7 +36,5 @@
     "message_formats": [
       "^§[a-f0-9](?<level>\\d+)( \\||§8 \\|) §[a-f0-9](?<sender>[a-zA-Z0-9_]{2,16})§r§7: §f(?<message>.*)$"
     ]
-  },
-  "yt_trailer": "",
-  "user_stats": ""
+  }
 }
