@@ -16,37 +16,37 @@
     "citybuild": {
       "name": "CityBuild-1", 
       "color": "#faa910",
-      "command": "/server CityBuild-1",
+      "command": "/joinqueue citybuild-1",
       "versions": "1.20.4<*"
     },
     "citybuild-2": {
       "name": "CityBuild-2", 
       "color": "#faa910",
-      "command": "/server CityBuild-2",
+      "command": "/joinqueue citybuild-2",
       "versions": "1.20.4<*"
     },
     "farmwelt-1": {
       "name": "Farmwelt-1",
       "color": "#16fa10",
-      "command": "/server Farmwelt-1",
+      "command": "/joinqueue farmwelt-1",
       "versions": "1.20.4<*"
     },
     "farmwelt-2": {
       "name": "Farmwelt-2",
       "color": "#16fa10",
-      "command": "/server Farmwelt-2",
+      "command": "/joinqueue farmwelt-2",
       "versions": "1.20.4<*"
     },
     "nether-1": {
       "name": "Nether-1",
       "color": "#f71515",
-      "command": "/server Nether-1",
+      "command": "/joinqueue nether-1",
       "versions": "1.20.4<*"
     },
     "nether-2": {
       "name": "Nether-2",
       "color": "#f71515",
-      "command": "/server Nether-2",
+      "command": "/joinqueue nether-2",
       "versions": "1.20.4<*"
     }
   },
