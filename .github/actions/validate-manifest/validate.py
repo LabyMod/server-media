@@ -90,7 +90,7 @@ def main():
             for key in USERNAME_SOCIAL_KEYS:
                 if key in social and (social[key].startswith('http') or 'www' in social[key]):
                     error += f'- Please use a **username**, not a link (`social.{key}`)\n'
-                if key in social and social[key].equals(''):
+                if key in social and social[key] == '':
                     error += f'- Please remove the empty key **{key}** or fill in information.\n'
 
             # Check facebook, because it works :)
