@@ -18,7 +18,6 @@
     "gamemodes": {
       "superpvp": {
           "name": "SuperPvP",
-          "command": "/play SuperPvP",
           "color": "#55ffff"
       },
       "survivalgames": {
@@ -33,22 +32,18 @@
       },
       "partypvp": {
         "name": "PartyPvP",
-        "command": "/play PartyPvP",
         "color": "#55ffff"
       },
       "skypvp": {
           "name": "SkyPvP",
-          "command": "/play SkyPvP",
           "color": "#ffffff"
       },
       "redstonepvp": {
           "name": "RedStonePvP",
-          "command": "/server RedstonePvP",
           "color": "#d71616"
       },
       "creative": {
           "name": "Creative",
-          "command": "/play Creative",
           "color": "#00aa00"
       },
       "timv": {
