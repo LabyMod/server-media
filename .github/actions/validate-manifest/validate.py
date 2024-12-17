@@ -184,6 +184,7 @@ def post_comment(comment: str, request_type: str = 'reviews'):
 
 
 def check_server_online_state(ip: str, wildcards: list):
+    offline_text = 'In general, we only accept pull requests from servers, **that are online**.\nPlease change this, otherwise we cannot review your server correctly and have to deny the pull request.\n\n'
     print(f'Check server status for {ip}')
 
     url = f'https://api.mcsrvstat.us/2/{ip}'
@@ -212,10 +213,7 @@ def check_server_online_state(ip: str, wildcards: list):
         server_ip = response['ip_address']
         print(f"Checked server status successfully: {response['online']}")
 
-        offline_text = "In general, we only accept pull requests from servers, **that are online**. " \
-                       "Please change this, otherwise we cannot review your server correctly and have to deny the pull request.\n\n" \
-                       "If your server is currently online, then our api returned a wrong status, we will have a look at it :)\n\n" \
-                       f"Reference: [API URL ({url})]({url})"
+        offline_text += f"Reference: [API URL ({url})]({url})"
 
         if not response['online']:
             post_comment(f'*Just as an information*:\nYour server {ip} **could be offline**.\n {offline_text}', 'comments')
