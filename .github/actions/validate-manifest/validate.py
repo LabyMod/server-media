@@ -10,7 +10,9 @@ BRAND_KEYS = ['primary', 'background', 'text']
 
 
 def main():
+    error = ''
     comment = ''
+    wildcard_stop = False
 
     create_comment = comment_needed()
     if create_comment:
@@ -32,7 +34,7 @@ def main():
                 try:
                     data = json.load(file)
                 except json.JSONDecodeError:
-                    comment += f'- JSON is invalid! Workflow is not able to check {manifest_file}\n'
+                    error += f'- JSON is invalid! Workflow is not able to check {manifest_file}\n'
                     continue
         except FileNotFoundError:
             print(f'Unable to open {manifest_file} - Continue...')
@@ -40,20 +42,24 @@ def main():
 
         # Check for required keys
         if not all(key in data for key in REQUIRED_KEYS):
-            comment += '- One of the **required values** is missing\n'
+            error += '- One of the **required values** is missing\n'
             continue
-
-        check_server_online_state(data['direct_ip'], data['server_wildcards'] if 'server_wildcards' in data else [])
 
         server_directory = manifest_file.replace('minecraft_servers/', '').replace('/manifest.json', '')
         if server_directory != data['server_name']:
-            comment += '**Servername has to be directory name!**\n'
+            error += '**Servername has to be directory name!**\n'
 
         # Validate wildcards
         if 'server_wildcards' in data:
             for wildcard in data['server_wildcards']:
                 if not wildcard.startswith('%.'):
-                    comment += '- Invalid wildcard entry. Each entry must start with **%.**. Further information here: https://en.wikipedia.org/wiki/Wildcard_DNS_record (`server_wildcards`)\n'
+                    wildcard_stop = True
+                    error += '- Invalid wildcard entry. Each entry must start with **%.**. Further information here: https://en.wikipedia.org/wiki/Wildcard_DNS_record (`server_wildcards`)\n'
+
+        check_server_online_state(
+            data['direct_ip'],
+            [] if wildcard_stop else (data['server_wildcards'] if 'server_wildcards' in data else [])
+        )
 
         # Check for https
         if 'social' in data:
@@ -62,20 +68,37 @@ def main():
                 if key not in social:
                     continue
                 if not social[key].startswith('https://'):
-                    comment += f'- Invalid url. URL has to start with **https://** (`social.{key}`)\n'
+                    error += f'- Invalid url. URL has to start with **https://** (`social.{key}`)\n'
                 if social[key].endswith('/'):
-                    comment += f'- Please remove **/** at the end of url (`social.{key}`)\n'
+                    error += f'- Please remove **/** at the end of url (`social.{key}`)\n'
+
+                try:
+                    response = requests.get(social[key], timeout=5)
+                except requests.exceptions.RequestException as e:
+                    comment += f'- The website {social[key]} **could not be reached**. Please recheck whether is available.\n'
+
+            if 'discord' in social:
+                link = social['discord']
+                if not link.startswith(('https://discord.gg', 'https://discord.com')):
+                    comment += f'- Custom Discord invites are reserved for **LabyMod Partners**.\nIf you are a partner, please ignore this message.\n'
+                    print(f'Did not check invite for validity: {link}')
+                else:
+                    if not check_discord_invite(link):
+                        error += f'- The Discord invite {link} is **invalid** or Discord is down.\n'
+
 
             for key in USERNAME_SOCIAL_KEYS:
                 if key in social and (social[key].startswith('http') or 'www' in social[key]):
-                    comment += f'- Please use a **username**, not a link (`social.{key}`)\n'
+                    error += f'- Please use a **username**, not a link (`social.{key}`)\n'
+                if key in social and social[key] == '':
+                    error += f'- Please remove the empty key **{key}** or fill in information.\n'
 
             # Check facebook, because it works :)
             if 'facebook' in social:
                 facebook_username = social['facebook']
                 request = requests.get(f'https://facebook.com/{facebook_username}')
                 if request.status_code == 404:
-                    comment += f'- Invalid facebook account: https://facebook.com/{facebook_username} ' \
+                    error += f'- Invalid facebook account: https://facebook.com/{facebook_username} ' \
                                f'(`social.facebook`)\n'
 
         # check for numeric server id (discord)
@@ -83,41 +106,47 @@ def main():
             try:
                 int(data['discord']['server_id'])
             except ValueError:
-                comment += '- Please use a **numeric** value for your server id (`discord.server_id`)\n'
+                error += f'- Please use a **numeric** value for your server id (`discord.server_id`)\n'
+            if 'rename_to_minecraft_name' in data['discord'] and data['discord']['rename_to_minecraft_name'] == True:
+                comment += f'- `discord.rename_to_minecraft_name` is reserved for LabyMod Partners. Change it to `false`. If you are a partner, please ignore this message.\n'
 
         if 'user_stats' in data and ('{userName}' not in data['user_stats'] and '{uuid}' not in data['user_stats']):
-            comment += '- Please use {userName} or {uuid} in your stats url (`user_stats`)\n'
+            error += '- Please use {userName} or {uuid} in your stats url (`user_stats`)\n'
 
         if 'location' in data and 'country_code' in data['location']:
             country_code = data['location']['country_code']
             if len(country_code) > 2 or len(country_code) <= 1:
-                comment += '- Use valid format (ISO 3166-1 alpha-2) for country code. (`location.country_code`)\n'
+                error += '- Use valid format (ISO 3166-1 alpha-2) for country code. (`location.country_code`)\n'
 
             if not country_code.isupper():
-                comment += '- Use upper-case for country code. (`location.country_code`)\n'
+                error += '- Use upper-case for country code. (`location.country_code`)\n'
 
         # check hex codes
         if 'brand' in data:
             for key in BRAND_KEYS:
                 if key in data['brand'] and '#' not in data['brand'][key]:
-                    comment += f'- Please enter a valid hex-code (`brand.{key})`\n'
+                    error += f'- Please enter a valid hex-code (`brand.{key})`\n'
 
         if 'user_stats' in data:
             stats_url = data['user_stats']
             if not stats_url.startswith('https://'):
-                comment += f'- Invalid url. URL has to start with **https://** (`user_stats`)\n'
+                error += f'- Invalid url. URL has to start with **https://** (`user_stats`)\n'
 
             if '://laby.net/' in stats_url:
-                comment += f'- Please use **your own page**, not LABY.net (`user_stats`)\n'
+                error += f'- Please use **your own page**, not LABY.net (`user_stats`)\n'
 
     if create_comment:
+        post_comment(error)
         post_comment(comment)
 
-    for error in comment.split('\n'):
+    for error in error.split('\n'):
         # Print error comments, so that the user can relate the issues even if there is no comment
         print(error)
 
-    if comment != '':
+    for comment in comment.split('\n'):
+        print(comment)
+
+    if error != '':
         # Make job fail
         sys_exit('Invalid data in manifest.json. See comments above or review in PR for more information.')
 
@@ -155,6 +184,7 @@ def post_comment(comment: str, request_type: str = 'reviews'):
 
 
 def check_server_online_state(ip: str, wildcards: list):
+    offline_text = 'In general, we only accept pull requests from servers, **that are online**.\nPlease change this, otherwise we cannot review your server correctly and have to deny the pull request.\n\n'
     print(f'Check server status for {ip}')
 
     url = f'https://api.mcsrvstat.us/2/{ip}'
@@ -166,21 +196,33 @@ def check_server_online_state(ip: str, wildcards: list):
         print(f'Cannot get value from server API. API returned {request.status_code} - Skipping...')
         return
 
+    server_ip = response['ip']
     print(f"Checked server status successfully: {response['online']}")
 
-    offline_text = "In general, we only accept pull requests from servers, **that are online**. "\
-    "Please change this, otherwise we cannot review your server correctly and have to deny the pull request.\n\n"\
-    "If your server is currently online, then our api returned a wrong status, we will have a look at it :)\n\n"\
-    f"Reference: [API URL ({url})]({url})"
-
     if not response['online']:
-        post_comment(f'*Just as an information*:\nYour server {ip} **could be offline**.\n {offline_text}', 'comments')
+        print(f'Rechecking with another service')
+        url = f'https://api.mcstatus.io/v2/status/java/{ip}?query=false'
+        request = requests.get(url)
 
-    server_ip = response['ip']
-    wildcard_string = 'Wildcards do not resolve the same ip address:\n'
+        try:
+            response = json.loads(request.text)
+        except json.JSONDecodeError:
+            print(f'Cannot get value from server API. API returned {request.status_code} - Skipping...')
+            return
+
+        server_ip = response['ip_address']
+        print(f"Checked server status successfully: {response['online']}")
+
+        offline_text += f"Reference: [API URL ({url})]({url})"
+
+        if not response['online']:
+            post_comment(f'*Just as an information*:\nYour server {ip} **could be offline**.\n {offline_text}', 'comments')
+
+    wildcard_string = '*Just as an information*:\n'
     wildcard_comment = False
     for wildcard in wildcards:
-        request = requests.get(f'https://api.mcsrvstat.us/2/{ip}')
+        wildcard_ip = str.replace(wildcard, '%', 'testingstringwildcard')
+        request = requests.get(f'https://api.mcsrvstat.us/2/{wildcard_ip}')
 
         try:
             response = json.loads(request.text)
@@ -188,20 +230,26 @@ def check_server_online_state(ip: str, wildcards: list):
             print(f'Cannot get {wildcard} from server API. API returned {request.status_code} - Skipping...')
             continue
 
-        wildcard_string += f'*{wildcard}* => *{response["ip"]}*\n'
-        if response['ip'] != server_ip:
+        if not response['online']:
+            wildcard_string += f'- Wildcard {wildcard} seems to be invalid. Server is offline with testing wildcard.\n'
             wildcard_comment = True
+        else:
+            if response['ip'] != server_ip:
+                wildcard_string += f'- Wildcard do not resolve the same ip address: *{wildcard}* => *{response["ip"]}*\n'
+                wildcard_comment = True
 
+    wildcard_string += f'\nPlease make sure it is an [actual wildcard](https://en.wikipedia.org/wiki/Wildcard_DNS_record).\n'
     if wildcard_comment:
-        post_comment(wildcard_string)
+        post_comment(wildcard_string, 'comments')
 
     if 'motd' in response:
         maintenance_tagged = False
-        for line in response['motd']:
+        for line in response['motd']['clean']:
             line_content = line.lower()
-            if 'maintenance' in line_content or 'wartung' in line_content:
+            if 'maintenance' in line_content or 'wartung' in line_content or 'wartungen' in line_content:
                 maintenance_tagged = True
-
+            else:
+                print(f'No maintenance found in MOTD')
         if maintenance_tagged:
             post_comment(f'The server {ip} **is in maintenance**.\n {offline_text}')
 
@@ -228,6 +276,21 @@ def comment_needed():
 
     return False
 
+def check_discord_invite(url: str):
+    invite = url.split('/')[-1]
+    print(f'Check discord invite for {invite}')
+
+    try:
+        request = requests.get(f'https://discord.com/api/v9/invites/{invite}')
+        if request.status_code == 200:
+            print(f'Invite for {invite} was successful.')
+            return True
+        else:
+            print(f'Invite for {invite} was invalid .')
+            return False
+    except requests.exceptions.ConnectionError:
+        print(f'Discord seems to be down while checking. Please check manually\n')
+        return False
 
 if __name__ == '__main__':
     main()
