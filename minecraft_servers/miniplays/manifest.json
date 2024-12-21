@@ -3,12 +3,14 @@
   "nice_name": "MINIPLAYS",
   "direct_ip": "miniplays.de",
   "server_wildcards": [
-    "%.miniplays.de"
+    "%.miniplays.de",
+    "%.miniplaystest.de"
   ],
   "supported_languages": [
     "de"
   ],
   "social": {
+    "web_shop": "https://miniplays.de/shop",
     "discord": "https://discord.com/invite/MXwQcXDhdR",
     "teamspeak": "miniplays.de"
   },
@@ -17,7 +19,7 @@
 		  "name": "CityBuild 1",
 		  "color": "#55FFFF",
 		  "command": "/server cb1",
-		  "versions": "1.17<"
+		  "versions": "1.17<*"
 	  }
   },
   "discord": {
@@ -27,5 +29,6 @@
     "primary": "#55FFFF",
     "background": "#0000AA",
     "text": "#ffffff"
-  }
+  },
+  "command_delay": 3000
 }
