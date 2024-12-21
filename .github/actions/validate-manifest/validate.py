@@ -90,7 +90,7 @@ def main():
             for key in USERNAME_SOCIAL_KEYS:
                 if key in social and (social[key].startswith('http') or 'www' in social[key]):
                     error += f'- Please use a **username**, not a link (`social.{key}`)\n'
-                if key in social and social[key] == '':
+                if key in social and social[key] in ('', '-'):
                     error += f'- Please remove the empty key **{key}** or fill in information.\n'
 
             # Check facebook, because it works :)
@@ -110,8 +110,6 @@ def main():
             if 'rename_to_minecraft_name' in data['discord'] and data['discord']['rename_to_minecraft_name'] == True:
                 comment += f'- `discord.rename_to_minecraft_name` is reserved for LabyMod Partners. Change it to `false`. If you are a partner, please ignore this message.\n'
 
-        if 'user_stats' in data and ('{userName}' not in data['user_stats'] and '{uuid}' not in data['user_stats']):
-            error += '- Please use {userName} or {uuid} in your stats url (`user_stats`)\n'
 
         if 'location' in data and 'country_code' in data['location']:
             country_code = data['location']['country_code']
@@ -131,9 +129,33 @@ def main():
             stats_url = data['user_stats']
             if not stats_url.startswith('https://'):
                 error += f'- Invalid url. URL has to start with **https://** (`user_stats`)\n'
+            if '{userName}' not in data['user_stats'] and '{uuid}' not in data['user_stats']:
+                error += '- Please use {userName} or {uuid} in your stats url (`user_stats`)\n'
 
             if '://laby.net/' in stats_url:
                 error += f'- Please use **your own page**, not LABY.net (`user_stats`)\n'
+
+        if 'message_formats' in data['chat']:
+            message_format = data['chat']['message_formats']
+            if message_format == '^§[a-f0-9](?<level>\\d+)( \\||§8 \\|) §[a-f0-9](?<sender>[a-zA-Z0-9_]{2,16})§r§7: §f(?<message>.*)$':
+                comment += f'- It seems you\'re using the **template regex** for chat message! Please make sure it is the right regex for **your server**!'
+            if message_format in ('', '-'):
+                error += f'- Please remove the empty key **message_formats** or fill in information.\n'
+
+
+        if 'gamemodes' in data:
+            gamemodes = data['gamemodes']
+            for key, gamemode in gamemodes.items():
+                if 'name' not in gamemode or 'color' not in gamemode or gamemode['name'] in ('', '-') or '#' not in gamemode['color']:
+                    error += f"- Please add a name or a color to the gamemode {key}\n"
+                if 'url' in gamemode and gamemode['url'] in ('', '-'):
+                    error += f"- Please remove the empty url key in gamemode **{key}** or fill in information.\n"
+                if 'versions' in gamemode and gamemode['versions'] in ('', '-'):
+                    error += f"- Please remove the empty version key in gamemode **{key}** or fill in information.\n"
+                if 'command' in gamemode and gamemode['command'] in ('', '-'):
+                    error += f"- Please remove the empty command key in gamemode **{key}** or fill in information.\n"
+
+
 
     if create_comment:
         post_comment(error)
