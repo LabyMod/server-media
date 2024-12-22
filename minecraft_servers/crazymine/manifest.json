@@ -1,7 +1,7 @@
 {
   "server_name": "crazymine",
   "nice_name": "CrazyMine",
-  "direct_ip": "",
+  "direct_ip": "crazymine.de",
   "supported_languages": [
     "de"
   ],
@@ -10,12 +10,6 @@
     "youtube": "https://www.youtube.com/@crazyminemc"
   },
   "gamemodes": {
-    "lobby": {
-      "name": "Lobby",
-      "color": "#FFA500",
-      "command": "/l",
-      "versions": "1.20<*"
-    },
     "smp": {
       "name": "CrazySMP",
       "color": "#FFA500",
@@ -44,7 +38,6 @@
     "text": "#FFFFFF"
   },
   "location": {
-    "city": "",
     "country": "Germany",
     "country_code": "DE"
   },
