@@ -15,7 +15,7 @@ def main():
     wildcard_stop = False
 
     create_comment = comment_needed()
-    if create_comment:
+    if not create_comment:
         print('No manifest file changed, comment will be skipped.')
 
     manifest_files = get_changed_manifest_files()
@@ -158,8 +158,12 @@ def main():
 
 
     if create_comment:
-        post_comment(error)
-        post_comment(comment)
+        post_comment(error, True)
+        post_comment(comment, False)
+
+    if error != '':
+        # Make job fail
+        sys_exit('Invalid data in manifest.json. See comments above or review in PR for more information.')
 
     for error in error.split('\n'):
         # Print error comments, so that the user can relate the issues even if there is no comment
@@ -167,10 +171,6 @@ def main():
 
     for comment in comment.split('\n'):
         print(comment)
-
-    if error != '':
-        # Make job fail
-        sys_exit('Invalid data in manifest.json. See comments above or review in PR for more information.')
 
 
 def get_changed_manifest_files():
@@ -186,9 +186,9 @@ def get_changed_manifest_files():
     return changed_files
 
 
-def post_comment(comment: str, request_type: str = 'reviews'):
-    if comment == '':
-        print('No issues found.')
+def post_comment(comment: str, error: bool, request_type: str = 'reviews'):
+    if not error:
+        print('No error found.')
         return
 
     if request_type == 'reviews':
@@ -238,7 +238,7 @@ def check_server_online_state(ip: str, wildcards: list):
         offline_text += f"Reference: [API URL ({url})]({url})"
 
         if not response['online']:
-            post_comment(f'*Just as an information*:\nYour server {ip} **could be offline**.\n {offline_text}', 'comments')
+            post_comment(f'*Just as an information*:\nYour server {ip} **could be offline**.\n {offline_text}', False, 'comments')
 
     wildcard_string = '*Just as an information*:\n'
     wildcard_comment = False
@@ -262,7 +262,7 @@ def check_server_online_state(ip: str, wildcards: list):
 
     wildcard_string += f'\nPlease make sure it is an [actual wildcard](https://en.wikipedia.org/wiki/Wildcard_DNS_record).\n'
     if wildcard_comment:
-        post_comment(wildcard_string, 'comments')
+        post_comment(wildcard_string, False, 'comments')
 
     if 'motd' in response:
         maintenance_tagged = False
@@ -273,7 +273,7 @@ def check_server_online_state(ip: str, wildcards: list):
             else:
                 print(f'No maintenance found in MOTD')
         if maintenance_tagged:
-            post_comment(f'The server {ip} **is in maintenance**.\n {offline_text}')
+            post_comment(f'The server {ip} **is in maintenance**.\n {offline_text}', True)
 
 
 def comment_needed():
