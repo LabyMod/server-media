@@ -277,7 +277,8 @@ def check_server_online_state(ip: str, wildcards: list):
 
 
 def comment_needed():
-    if os.getenv('PR_ACTION').endswith('opened'):
+    pr_action = os.getenv('PR_ACTION')
+    if pr_action in ['opened', 'reopened', 'synchronize']:
         print('PR opened - Write comment.')
         return True
 
