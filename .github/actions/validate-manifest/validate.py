@@ -108,7 +108,8 @@ def main():
             except ValueError:
                 error += f'- Please use a **numeric** value for your server id (`discord.server_id`)\n'
             if 'rename_to_minecraft_name' in data['discord'] and data['discord']['rename_to_minecraft_name'] == True:
-                comment += f'- `discord.rename_to_minecraft_name` is reserved for LabyMod Partners. Change it to `false`. If you are a partner, please ignore this message.\n'
+                comment += f'- `discord.rename_to_minecraft_name` is reserved for LabyMod Partners. Change it to `false`.' \
+                            'If you are a partner, please ignore this message.\n'
 
 
         if 'location' in data and 'country_code' in data['location']:
@@ -158,8 +159,10 @@ def main():
 
 
     if create_comment:
-        post_comment(error, True)
-        post_comment(comment, False)
+        if error != '':
+            post_comment(error, True)
+        if comment != '':
+            post_comment(comment, False)
 
     if error != '':
         # Make job fail
