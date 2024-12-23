@@ -2,21 +2,19 @@
   "server_name": "phoenix",
   "nice_name": "Phoenix",
   "direct_ip": "rainbowfurry.com",
-  "server_wildcards": [
-  ],
   "supported_languages": [
     "de",
     "en"
   ],
   "social": {
     "web": "https://rainbowfurry.com",
-    "web_shop": "https://rainbowfurry.com"
+    "web_shop": "https://phoenix-network-store.tebex.io"
   },
   "gamemodes": {
     "clashofclans": {
       "name": "Clash of Clans",
       "command": "/quickjoin CoM",
-      "url": "https://www.rainbowfurry.com",
+      "url": "https://www.rainbowfurry.com/ClashOfClans",
       "color": "#0095B0",
       "versions": "1.8.9 - 1.21.3*"
     }
