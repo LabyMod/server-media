@@ -45,9 +45,14 @@ def main():
             error += '- One of the **required values** is missing\n'
             continue
 
+        if data['direct_ip'] in ['', '-']:
+            error += f'- Direct IP is required\n'
+        if data['nice_name'] in ['', '-']:
+            error += f'- Nice name is required and cannot be empty!\n'
+
         server_directory = manifest_file.replace('minecraft_servers/', '').replace('/manifest.json', '')
         if server_directory != data['server_name']:
-            error += '**Servername has to be directory name!**\n'
+            error += '**Servername has to be directory name!** (all lowercase)\n'
 
         # Validate wildcards
         if 'server_wildcards' in data:
@@ -108,16 +113,21 @@ def main():
             except ValueError:
                 error += f'- Please use a **numeric** value for your server id (`discord.server_id`)\n'
             if 'rename_to_minecraft_name' in data['discord'] and data['discord']['rename_to_minecraft_name'] == True:
-                comment += f'- `discord.rename_to_minecraft_name` is reserved for LabyMod Partners. Change it to `false`. If you are a partner, please ignore this message.\n'
+                comment += f'- `discord.rename_to_minecraft_name` is reserved for LabyMod Partners. Change it to `false`.' \
+                            'If you are a partner, please ignore this message.\n'
 
 
-        if 'location' in data and 'country_code' in data['location']:
-            country_code = data['location']['country_code']
-            if len(country_code) > 2 or len(country_code) <= 1:
-                error += '- Use valid format (ISO 3166-1 alpha-2) for country code. (`location.country_code`)\n'
+        if 'location' in data:
+            if 'city' in data['location'] and data['location']['city'] in ['', '-']:
+                error += f'- Please remove the empty key **city** or fill in information.\n'
 
-            if not country_code.isupper():
-                error += '- Use upper-case for country code. (`location.country_code`)\n'
+            if 'country_code' in data['location']:
+                country_code = data['location']['country_code']
+                if len(country_code) > 2 or len(country_code) <= 1:
+                    error += '- Use valid format (ISO 3166-1 alpha-2) for country code. (`location.country_code`)\n'
+
+                if not country_code.isupper():
+                    error += '- Use upper-case for country code. (`location.country_code`)\n'
 
         # check hex codes
         if 'brand' in data:
@@ -158,8 +168,10 @@ def main():
 
 
     if create_comment:
-        post_comment(error, True)
-        post_comment(comment, False)
+        if error != '':
+            post_comment(error, True)
+        if comment != '':
+            post_comment(comment, False)
 
     if error != '':
         # Make job fail
