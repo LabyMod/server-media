@@ -1,0 +1,20 @@
+{
+  "server_name": "froschmc",
+  "nice_name": "froschmc",
+  "direct_ip": "froschmc.de",
+  "server_wildcards": [
+    "%.froschmc.de"
+  ],
+  "social": {
+    "tiktok": "froschmc",
+    "discord": "https://iostein.net/discord"
+  },
+  "discord": {
+    "server_id": 1279068490233282580,
+    "rename_to_minecraft_name": false
+  },
+  "location": {
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}
