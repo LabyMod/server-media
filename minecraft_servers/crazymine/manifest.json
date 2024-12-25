@@ -21,12 +21,6 @@
       "color": "#FFA500",
       "command": "/queue CityBuild-1",
       "versions": "1.20<*"
-    },
-    "park": {
-      "name": "CrazyPark",
-      "color": "#FFA500",
-      "command": "/queue CrazyPark-1",
-      "versions": "1.20<*"
     }
   },
   "chat": {
