@@ -1,31 +1,49 @@
 {
-  "server_name": "froschmc",
-  "nice_name": "FroschMC",
-  "direct_ip": "froschmc.de",
-  "server_wildcards": [
-    "%.froschmc.de"
-  ],
-  "supported_languages": [
-    "de"
-  ],
-  "social": {
-    "discord": "https://discord.gg/KKHWZpRZuM"
-  },
-  "chat": {
-    "message_formats": [
-      "^(|§8»\\n)(§[a-f0-9]§?l?(?<rank>\\S+))§r §8\\| §7(?<sender>[a-zA-Z0-9_]{2,16})§r §8» §7(?<message>.*)(|\\n§8»)$"
-    ]
-  },
-  "discord": {
-    "server_id": 1279068490233282580
-  },
-  "brand": {
-    "primary": "#0095ed",
-    "background": "#00182e",
-    "text": "#ffffff"
-  },
-  "location": {
-    "city": "Frankfurt",
-    "country": "Germany",
-    "country_code": "DE"
+    "server_name": "froschmc",
+    "nice_name": "FroschMC",
+    "direct_ip": "froschmc.de",
+    "server_wildcards": [
+        "%.froschmc.de"
+    ],
+    "supported_languages": [
+        "de"
+    ],
+    "social": {
+        "tiktok": "FroschMC",
+        "discord": "https://discord.gg/KKHWZpRZuM"
+    },
+    "gamemodes": {
+        "SMP": {
+            "name": "SMP",
+            "color": "#FFA500",
+            "command": "/server SMP",
+            "versions": "1.21<*"
+        },
+        "FroschMC": {
+            "name": "FroschMC",
+            "color": "#ADD8E6",
+            "command": "/server FroschMC",
+            "versions": "1.21<*"
+        }
+    },
+    "chat": {
+        "message_formats": [
+            "^§[a-f0-9](?<level>\\d+)( \\||§8 \\|) §[a-f0-9](?<sender>[a-zA-Z0-9_]{2,16})§r§7: §f(?<message>.*)$"
+        ]
+    },
+    "discord": {
+        "server_id": 1279068490233282580,
+        "rename_to_minecraft_name": false
+    },
+    "brand": {
+        "primary": "#008FE8",
+        "background": "#0A56A5",
+        "text": "#FFFFFF"
+    },
+    "location": {
+        "city": "Frankfurt",
+        "country": "Germany",
+        "country_code": "DE"
+    },
+    "command_delay": 3000
 }
