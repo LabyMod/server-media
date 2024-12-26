@@ -2,6 +2,7 @@ import json
 import os
 import requests
 from sys import exit as sys_exit
+from re import fullmatch as re_match
 
 REQUIRED_KEYS = ['server_name', 'nice_name', 'direct_ip']
 USERNAME_SOCIAL_KEYS = ['twitter', 'tiktok', 'facebook', 'instagram', 'teamspeak']
@@ -146,9 +147,10 @@ def main():
             if '://laby.net/' in stats_url:
                 error += f'- Please use **your own page**, not LABY.net (`user_stats`)\n'
 
-        if 'message_formats' in data['chat']:
+        if 'chat' in data and 'message_formats' in data['chat']:
             message_format = data['chat']['message_formats']
-            if message_format == '^§[a-f0-9](?<level>\\d+)( \\||§8 \\|) §[a-f0-9](?<sender>[a-zA-Z0-9_]{2,16})§r§7: §f(?<message>.*)$':
+            template_regex = r'^§[a-f0-9](?<level>\\d+)( \\||§8 \\|) §[a-f0-9](?<sender>[a-zA-Z0-9_]{2,16})§r§7: §f(?<message>.*)$'
+            if re_match(template_regex, message_format):
                 comment += f'- It seems you\'re using the **template regex** for chat message! Please make sure it is the right regex for **your server**!'
             if message_format in ('', '-'):
                 error += f'- Please remove the empty key **message_formats** or fill in information.\n'
@@ -200,7 +202,7 @@ def get_changed_manifest_files():
 
 
 def post_comment(comment: str, error: bool, request_type: str = 'reviews'):
-    if not error:
+    if not error and request_type != 'comment':
         print('No error found.')
         return
 
