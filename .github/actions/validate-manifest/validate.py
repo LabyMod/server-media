@@ -60,6 +60,7 @@ def main():
                 if not wildcard.startswith('%.'):
                     wildcard_stop = True
                     error += '- Invalid wildcard entry. Each entry must start with **%.**. Further information here: https://en.wikipedia.org/wiki/Wildcard_DNS_record (`server_wildcards`)\n'
+                print(f'Found valid wildcard entry: {wildcard}')
 
         check_server_online_state(
             data['direct_ip'],
@@ -255,6 +256,7 @@ def check_server_online_state(ip: str, wildcards: list):
     wildcard_string = '*Just as an information*:\n'
     wildcard_comment = False
     for wildcard in wildcards:
+        print(f'Checking wildcard "{wildcard}"')
         wildcard_ip = str.replace(wildcard, '%', 'testingstringwildcard')
         request = requests.get(f'https://api.mcsrvstat.us/2/{wildcard_ip}')
 
@@ -265,9 +267,11 @@ def check_server_online_state(ip: str, wildcards: list):
             continue
 
         if not response['online']:
+            print(f'Wildcard "{wildcard}" is offline')
             wildcard_string += f'- Wildcard {wildcard} seems to be invalid. Server is offline with testing wildcard.\n'
             wildcard_comment = True
         else:
+            print(f'Wildcard "{wildcard}" is online')
             if response['ip'] != server_ip:
                 wildcard_string += f'- Wildcard do not resolve the same ip address: *{wildcard}* => *{response["ip"]}*\n'
                 wildcard_comment = True
