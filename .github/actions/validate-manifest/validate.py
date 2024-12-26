@@ -202,7 +202,7 @@ def get_changed_manifest_files():
 
 
 def post_comment(comment: str, error: bool, request_type: str = 'reviews'):
-    if not error:
+    if not error and request_type != 'comment':
         print('No error found.')
         return
 
