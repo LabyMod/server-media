@@ -2,10 +2,6 @@
   "server_name": "minevale",
   "nice_name": "MineVale",
   "direct_ip": "minevale.de",
-  "server_wildcards": [
-    "%.minevale.de",
-    "%.minevale.eu"
-  ],
   "supported_languages": [
     "de"
   ],
@@ -35,10 +31,10 @@
       "color": "#52ff59",
       "command": "/queue citybuild3"
     },
-    "citybuild4": {
-      "name": "CityBuild 4", 
+    "citybuildmelone": {
+      "name": "CityBuild Melone", 
       "color": "#52ff59",
-      "command": "/queue citybuild4"
+      "command": "/queue citybuildmelone"
     }
   }
 }
