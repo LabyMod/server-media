@@ -329,9 +329,18 @@ def check_discord_invite(url: str):
         request = requests.get(f'https://discord.com/api/v9/invites/{invite}')
         if request.status_code == 200:
             print(f'Invite for {invite} was successful.')
+
+            response_data = request.json()
+            guild_data = response_data.get('guild', {})
+            if isinstance(guild_data, dict):
+                guild_name = guild_data.get('name', 'Unknown Guild')
+            else:
+                guild_name = 'Unknown Guild'
+            print(f'Guild name: {guild_name}')
+
             return True
         else:
-            print(f'Invite for {invite} was invalid .')
+            print(f'Invite for {invite} was invalid.')
             return False
     except requests.exceptions.ConnectionError:
         print(f'Discord seems to be down while checking. Please check manually\n')
