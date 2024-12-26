@@ -1,0 +1,42 @@
+{
+    "server_name":"redeblaze",
+    "nice_name":"Rede Blaze",
+    "direct_ip":"jogar.redeblaze.com",
+    "server_wildcards":[
+        "%.redeblaze.com"
+    ],
+    "supported_languages":[
+        "pt"
+    ],
+    "social":{
+        "web":"https://redeblaze.com/",
+        "web_shop":"https://redeblaze.com/loja/",
+        "discord":"https://discord.gg/redeblaze",
+        "youtube":"https://www.youtube.com/@RedeBlaze",
+        "instagram":"blazerede",
+        "tiktok":"@blazerede"
+    },
+    "gamemodes":{
+        "survival":{
+            "name":"Survival",
+            "color":"#FAB90A",
+            "url":"https://redeblaze.com/",
+            "versions":"1.8<*"
+        }
+    },
+    "brand":{
+        "primary":"#FAB90A",
+        "background":"#FAB90A",
+        "text":"#FFFFFF"
+    },
+    "location":{
+        "city":"São Paulo",
+        "country":"Brazil",
+        "country_code":"BR"
+    },
+    "discord":{
+        "server_id":1276297961499791443,
+        "rename_to_minecraft_name":false
+    },
+    "command_delay":3000
+}
