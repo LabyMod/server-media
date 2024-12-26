@@ -2,7 +2,6 @@ import json
 import os
 import requests
 from sys import exit as sys_exit
-from re import fullmatch as re_match
 
 REQUIRED_KEYS = ['server_name', 'nice_name', 'direct_ip']
 USERNAME_SOCIAL_KEYS = ['twitter', 'tiktok', 'facebook', 'instagram', 'teamspeak']
