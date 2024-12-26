@@ -2,7 +2,6 @@ import json
 import os
 import requests
 from sys import exit as sys_exit
-from re import fullmatch as re_match
 
 REQUIRED_KEYS = ['server_name', 'nice_name', 'direct_ip']
 USERNAME_SOCIAL_KEYS = ['twitter', 'tiktok', 'facebook', 'instagram', 'teamspeak']
@@ -154,8 +153,9 @@ def main():
                     message_format = message_format[0]
                 else:
                     error += f'**message_format** has the wrong format. Please recheck the [example manifest](https://github.com/LabyMod/server-media/blob/master/docs/Manifest.md#chat-object).'
-            template_regex = r'^§[a-f0-9](?P<level>\d+)( \||§8 \|) §[a-f0-9](?P<sender>[a-zA-Z0-9_]{2,16})§r§7: §f(?P<message>.*)$'
-            if re_match(template_regex, message_format):
+
+            template_regex = '^§[a-f0-9](?<level>\\d+)( \\||§8 \\|) §[a-f0-9](?<sender>[a-zA-Z0-9_]{2,16})§r§7: §f(?<message>.*)$'
+            if template_regex == message_format:
                 comment += f'- It seems you\'re using the **template regex** for chat message! Please make sure it is the right regex for **your server**!'
             if message_format in ('', '-'):
                 error += f'- Please remove the empty key **message_formats** or fill in information.\n'
