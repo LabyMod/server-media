@@ -179,6 +179,9 @@ def main():
         if error != '':
             post_comment(error)
         if comment != '':
+            temp_comment = comment
+            comment = '*Just as an information*:\n\n'
+            comment += temp_comment
             post_comment(comment, 'comments')
 
     if error != '':
@@ -256,7 +259,7 @@ def check_server_online_state(ip: str, wildcards: list):
         if not response['online']:
             post_comment(f'*Just as an information*:\nYour server {ip} **could be offline**.\n {offline_text}', 'comments')
 
-    wildcard_string = '*Just as an information*:\n'
+    wildcard_string = '*Just as an information regarding your wildcards*:\n'
     wildcard_comment = False
     for wildcard in wildcards:
         print(f'Checking wildcard "{wildcard}"')
