@@ -149,7 +149,7 @@ def main():
 
         if 'chat' in data and 'message_formats' in data['chat']:
             message_format = data['chat']['message_formats']
-            template_regex = r'^§[a-f0-9](?<level>\\d+)( \\||§8 \\|) §[a-f0-9](?<sender>[a-zA-Z0-9_]{2,16})§r§7: §f(?<message>.*)$'
+            template_regex = r'^§[a-f0-9](?P<level>\d+)( \||§8 \|) §[a-f0-9](?P<sender>[a-zA-Z0-9_]{2,16})§r§7: §f(?P<message>.*)$'
             if re_match(template_regex, message_format):
                 comment += f'- It seems you\'re using the **template regex** for chat message! Please make sure it is the right regex for **your server**!'
             if message_format in ('', '-'):
