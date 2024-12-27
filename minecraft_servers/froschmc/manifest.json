@@ -16,6 +16,12 @@
             "command": "/server SMP",
             "versions": "1.21<*"
         },
+        "blacksucht": {
+            "name": "Blacksucht",
+            "color": "#FFA500",
+            "command": "/server Blacksucht",
+            "versions": "1.21<*"
+        },
         "froschmc": {
             "name": "FroschMC",
             "color": "#ADD8E6",
