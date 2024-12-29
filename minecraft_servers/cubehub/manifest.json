@@ -17,7 +17,7 @@
     "server_id": 1300097283148353637
   },
   "gamemodes": {
-    "Prison": {
+    "prison": {
       "name": "Prison",
       "command": "/server Prison",
       "color": "#1bc0e7"
