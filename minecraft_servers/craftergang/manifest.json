@@ -2,12 +2,11 @@
   "server_name": "craftergang",
   "nice_name": "Craftergang",
   "direct_ip": "craftergang.de",
-  "server_wildcards": [
-    "craftergang.net",
-    "citybuild.craftergang.de"
-  ],
   "supported_languages": [
-    "de"
+    "de",
+    "en",
+    "es",
+    "it"
   ],
   "social": {
     "discord": "https://discord.gg/ThCt8Pq",
@@ -17,76 +16,73 @@
     "instagram": "craftergang"
   },
   "gamemodes": {
-    "citybuild": {
-      "name": "CityBuild",
-      "color": "#0d6914",
-      "command": "/gametp cb",
-      "versions": "1.8<1.14.4"
-    },
-    "ffa": {
-      "name": "FFA",
-      "color": "#ed0c26",
-      "command": "/gametp ffa",
-      "versions": "1.8<1.14.4"
-    },
-    "build": {
-      "name": "BuildFFA",
-      "color": "#e8a507",
-      "command": "/gametp bffa",
-      "versions": "1.8<1.14.4"
-    },
-    "bedwars": {
-      "name": "BedWars",
-      "color": "#e3bcc1",
-      "command": "/gametp bw",
-      "versions": "1.8<1.14.4"
-    },
-    "gungame": {
-      "name": "GunGame",
-      "color": "#FBB300",
-      "command": "/gametp gungame",
-      "versions": "1.8<1.14.4"
-    },
-    "mlgrush": {
-      "name": "MLGRush",
-      "color": "#de0b39",
-      "command": "/gametp mlgrush",
-      "versions": "1.8<1.14.4"
+    "crafterbreak": {
+      "name": "Crafterbreak",
+      "color": "#07F0E0",
+      "command": "/gametp crafterbreak",
+      "versions": "1.8<1.21.4"
     },
     "welt-untergang": {
-      "name": "Welt-Untergang",
+      "name": "Untergang",
       "color": "#0bde19",
       "command": "/gametp wu",
-      "versions": "1.8<1.14.4"
+      "versions": "1.8<1.21.4"
+    },
+    "superbreakblocks": {
+      "name": "SuperBreakBlocks",
+      "color": "#bf1077",
+      "command": "/gametp sbb",
+      "versions": "1.8<1.21.4"
+    },
+    "cbdesert": {
+      "name": "CB Desert",
+      "color": "#0d6914",
+      "command": "/gametp cb1",
+      "versions": "1.8<1.21.4"
     },
     "onehit": {
       "name": "OneHit",
       "color": "#f705ab",
       "command": "/gametp onehit",
-      "versions": "1.8<1.14.4"
+      "versions": "1.8<1.21.4"
+    },
+    "ffa": {
+      "name": "FFA",
+      "color": "#ed0c26",
+      "command": "/gametp ffa",
+      "versions": "1.8<1.21.4"
     },
     "skypvp": {
       "name": "SkyPvP",
       "color": "#f7df05",
       "command": "/gametp spvp",
-      "versions": "1.8<1.14.4"
+      "versions": "1.8<1.21.4"
     },
-    "survival": {
-      "name": "Survival",
-      "color": "#0d6914",
-      "command": "/gametp survive",
-      "versions": "1.12<1.14.4"
+    "mlgrush": {
+      "name": "MLGRush",
+      "color": "#de0b39",
+      "command": "/gametp mlgrush",
+      "versions": "1.8<1.21.4"
     }
+  },
+  "chat": {
+    "message_formats": [
+      "^§[a-f0-9](?<level>\\d+)( \\||§8 \\|) §[a-f0-9](?<sender>[a-zA-Z0-9_]{2,16}) §8» §f(?<message>.*)$"
+    ]
+  },
+  "discord": {
+    "server_id": 251791624483373060,
+    "rename_to_minecraft_name": false
   },
   "brand": {
     "primary": "#497cb1",
-    "background": "#245587",
-    "text": "#4646cf"
+    "background": "#d98e0d",
+    "text": "#754e0b"
   },
   "location": {
     "city": "Frankfurt",
     "country": "Germany",
     "country_code": "DE"
   },
-  "yt_trailer": "7O9dxRuZ4BQ"
+  "yt_trailer": "5gIJc4h5gPI"
 }

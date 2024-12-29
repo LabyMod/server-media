@@ -1,0 +1,48 @@
+{
+  "server_name": "trickety",
+  "nice_name": "TricketyNET",
+  "direct_ip": "trickety.net",
+  "supported_languages": [
+    "de",
+    "en",
+    "es",
+    "fr"
+  ],
+  "social": {
+    "twitter": "TricketyNetwork",
+    "discord": "https://discord.gg/trickety",
+    "teamspeak": "trickety.net",
+    "youtube": "https://www.youtube.com/@TricketyNET"
+  },
+  "discord": {
+    "server_id": 1161291998100205580,
+    "rename_to_minecraft_name": false
+  },
+  "gamemodes": {
+    "falldown": {
+      "name": "Falldown",
+      "color": "#ffaa00",
+      "versions": "1.21<*"
+    },
+    "ffa": {
+      "name": "FFA",
+      "color": "#fbfb54",
+      "versions": "1.21<*"
+    },
+    "worlds": {
+      "name": "Worlds",
+      "color": "#55ff55",
+      "versions": "1.21<*"
+    },
+    "uhcgames": {
+      "name": "UHC-Games",
+      "color": "#aa00aa",
+      "versions": "1.21<*"
+    }
+  },
+  "location": {
+    "city": "Frankfurt",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}

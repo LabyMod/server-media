@@ -1,0 +1,20 @@
+{
+    "server_name": "playinfinity",
+    "nice_name": "PlayInfinity",
+    "direct_ip": "playinfinity.net",
+    "server_wildcards": [
+      "%.playinfinity.net",
+      "%.playinfinity.de"
+    ],
+    "supported_languages": [
+      "de",
+      "en"
+    ],
+    "social": {
+      "web": "https://www.playinfinity.de",
+      "twitter": "PlayInfinityNET",
+      "discord": "https://discord.gg/SNNfWpG",
+      "teamspeak": "ts.playinfinity.net",
+      "youtube": "https://www.youtube.com/playinfinitynet"
+    }
+}

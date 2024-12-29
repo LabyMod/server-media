@@ -3,7 +3,8 @@
   "nice_name": "CreateCraft.eu",
   "direct_ip": "createcraft.eu",
   "server_wildcards": [
-    "%.createcraft.eu"
+    "%.createcraft.eu",
+    "%.minetommy.eu"
   ],
   "supported_languages": [
     "de"
@@ -20,31 +21,37 @@
       "name": "CityBuild",
       "color": "#E0A400",
       "command": "/citybuild",
-      "versions": "1.19<*"
+      "versions": "1.20<*"
+    },
+    "stoneblock-reloaded": {
+      "name": "StoneBlock Reloaded",
+      "color": "#F5683D",
+      "command": "/stoneblock",
+      "versions": "1.20<*"
     },
     "skyblock": {
       "name": "SkyBlock",
       "color": "#0BA3BA",
       "command": "/skyblock",
-      "versions": "1.19<*"
+      "versions": "1.20<*"
     },
-    "stoneblock": {
-      "name": "StoneBlock",
-      "color": "#F5683D",
-      "command": "/stoneblock",
+    "oneblock": {
+      "name": "OneBlock",
+      "color": "#0BA3BA",
+      "command": "/oneblock",
+      "versions": "1.20<*"
+    },
+    "freebuild": {
+      "name": "Freebuild",
+      "color": "#126E0A",
+      "command": "/freebuild",
       "versions": "1.19<*"
     },
     "minigames": {
       "name": "Minigames",
       "color": "#B34B62",
       "command": "/minigames",
-      "versions": "1.19<*"
-    },
-    "survival": {
-      "name": "Survival",
-      "color": "#126E0A",
-      "command": "/survival",
-      "versions": "1.19<*"
+      "versions": "1.20<*"
     }
   },
   "discord": {

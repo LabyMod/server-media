@@ -1,0 +1,37 @@
+{
+    "server_name": "commandmc",
+    "nice_name": "Commandmc",
+    "direct_ip": "commandmc.eu",
+    "server_wildcards": [
+        "%.commandmc.eu"
+    ],
+    "supported_languages": [
+        "de"
+    ],
+    "social": {
+        "youtube": "https://www.youtube.com/@commandmceu",
+        "discord": "https://discord.com/invite/fSN8JMr"
+    },
+    "gamemodes": {
+        "bedwars": {
+            "name": "Bedwars",
+            "color": "#aa2822",
+            "versions": "1.20<*"
+        },
+        "smash": {
+            "name": "Smash",
+            "color": "#8fc0aa",
+            "versions": "1.20<*"
+        },
+        "spightwars": {
+            "name": "Spightwars",
+            "color": "#12690f",
+            "versions": "1.20<*"
+        }
+    },
+    "discord": {
+        "server_id": 607504566812147762,
+        "rename_to_minecraft_name": false
+    },
+    "yt_trailer": "kh6svLFKXFI"
+}

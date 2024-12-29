@@ -1,0 +1,98 @@
+{
+  "server_name": "traidio",
+  "nice_name": "TraidioNET",
+  "direct_ip": "traidio.net",
+  "supported_languages": [
+    "de",
+    "en"
+  ],
+  "social": {
+    "twitter": "NetzwerkTraidio",
+    "discord": "https://discord.gg/xjFkW8a",
+    "teamspeak": "ts.Traidio.net",
+    "instagram": "traidionetzwerk",
+    "youtube": "https://www.youtube.com/@netzwerktraidio5853"
+  },
+  "gamemodes": {
+    "moleit": {
+      "name": "MoleIT",
+      "color": "#855D4F",
+      "versions": "1.8<*"
+    },
+    "zombies": {
+      "name": "Zombies",
+      "color": "#21a72c",
+      "versions": "1.8<*"
+    },
+    "ttt": {
+      "name": "TTT",
+      "color": "#cd0505",
+      "versions": "1.8<*"
+    },
+    "gungame": {
+      "name": "GunGame",
+      "color": "#8fce00",
+      "versions": "1.8<*"
+    },
+    "jumpwars": {
+      "name": "JumpWars",
+      "color": "#ffef00",
+      "versions": "1.8<*"
+    },
+    "traiunity": {
+      "name": "Traiunity",
+      "color": "#a400ff",
+      "versions": "1.8<*"
+    },
+    "ffa": {
+      "name": "FFA",
+      "color": "#6fa8dc",
+      "versions": "1.8<*"
+    },
+    "skywars": {
+      "name": "SkyWars",
+      "color": "#17ff00",
+      "versions": "1.8<*"
+    },
+    "knockit": {
+      "name": "KnockIT",
+      "color": "#ffa000",
+      "versions": "1.8<*"
+    },
+    "versus": {
+      "name": "Versus",
+      "color": "#00e6ff",
+      "versions": "1.8<*"
+    },
+    "bedwars": {
+      "name": "BedWars",
+      "color": "#ff0000",
+      "versions": "1.8<*"
+    },
+    "traidioparty": {
+      "name": "TraidioParty",
+      "color": "#d100ff",
+      "versions": "1.20<*"
+    },
+    "traimatch": {
+      "name": "TraiMatch",
+      "color": "#ffd966",
+      "versions": "1.8<*"
+    },
+    "endwars": {
+      "name": "EndWars",
+      "color": "#d100ff",
+      "versions": "1.8<*"
+    },
+    "citybuild": {
+      "name": "Citybuild",
+      "color": "#ffffff",
+      "versions": "1.20<*"
+    }
+  },
+  "location": {
+    "city": "Frankfurt",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}

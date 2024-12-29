@@ -1,0 +1,55 @@
+{
+  "server_name": "voasis",
+  "nice_name": "Voasis",
+  "direct_ip": "voasis.de",
+  "server_wildcards": [
+    "%.voasis.de"
+  ],
+  "supported_languages": [
+     "de"
+  ],
+  "social": {
+    "web": "https://voasis.de",
+    "discord": "https://discord.gg/Ux8zRjhNyZ"
+  },
+  "gamemodes": {
+    "thebridge": {
+      "name": "TheBridge Alt", 
+      "color": "#FFA500",
+      "command": "/warteschlange beitreten TheBridge",
+      "versions": "1.20.6"
+    },
+    "thebridgefast": {
+      "name": "TheBridge Neu",
+      "color": "#ADD8E6",
+      "command": "/warteschlange beitreten TheBridge-Fast",
+      "versions": "1.20.6"
+    },
+    "duels": {
+      "name": "Duels",
+      "color": "#6b5b95",
+      "command": "/warteschlange beitreten Duels",
+      "versions": "1.20.6"
+    }
+  },
+  "chat": {
+    "message_formats": [
+      "^§[a-f0-9](?<level>\\d+)(| §[a-f0-9](?<rank>\\S+)) §e(?<sender>[a-zA-Z0-9_]{2,16}) §f(?<message>.*)$"
+    ]
+  },
+  "discord": {
+    "server_id": 1181209057772703835,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#008FE8",
+     "background": "#0A56A5",
+     "text": "#FFFFFF"
+  }, 
+  "location": {
+     "city": "Nürnberg",
+     "country": "Germany",
+     "country_code": "DE"
+  },
+  "command_delay": 3000
+}
