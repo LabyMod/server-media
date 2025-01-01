@@ -1,0 +1,28 @@
+{
+  "server_name": "clarrymc",
+  "nice_name": "ClarryMC",
+  "direct_ip": "clarrymc.de",
+  "server_wildcards": [
+    "%.clarrymc.de"
+  ],
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "web": "https://clarymc.de",
+    "discord": "https://discord.clarrymc.de",
+  },
+  "discord": {
+    "server_id": 1256979742457069658
+  },
+  "brand": {
+    "primary": "#e305c2",
+    "background": "#00182e",
+    "text": "#ffffff"
+  },
+  "location": {
+    "city": "Frankfurt",
+    "country": "Germany",
+    "country_code": "DE"
+  },
+}
