@@ -1,0 +1,30 @@
+{
+    "server_name": "snoopysprime",
+    "nice_name": "Snoopy's Prime",
+    "direct_ip": "snoopysprime.de",
+    "supported_languages": [
+       "de",
+       "en"
+    ],
+    "social": {
+      "web_shop": "https://content-creator-snoopysprime.tebex.io",
+      "discord": "https://discord.gg/AdhC2ex7kf",
+      "youtube": "https://www.youtube.com/@snoopysprime_de"
+    },
+    "gamemodes": {
+      "citybuild1": {
+        "name": "CityBuild 1", 
+        "color": "#E8B50F",
+        "versions": "1.20<*"
+      }
+    },
+    "discord": {
+      "server_id": 1189989481290403990,
+      "rename_to_minecraft_name": false
+    },
+    "location": {
+      "city": "Frankfurt",
+      "country": "Germany",
+      "country_code": "DE"
+    },
+  }
