@@ -18,7 +18,6 @@
     "citybuild1": {
       "name": "CityBuild1", 
       "color": "#FFA500",
-      "url": "https://www.timolia.de/games#jumpworld",
       "command": "/quickjoin Citybuild1",
       "versions": "1.20<*"
     }
