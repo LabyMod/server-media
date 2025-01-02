@@ -2,14 +2,11 @@
   "server_name": "clarrymc",
   "nice_name": "ClarryMC",
   "direct_ip": "clarrymc.de",
-  "server_wildcards": [
-    "clarrymc.de"
-  ],
   "supported_languages": [
     "de"
   ],
   "social": {
-    "web": "https://web.clarrymc.de",
+    "web": "http://web.clarrymc.de",
     "discord": "https://discord.gg/QXqryx4Wcj"
   },
   "discord": {
