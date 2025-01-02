@@ -3,14 +3,14 @@
   "nice_name": "ClarryMC",
   "direct_ip": "clarrymc.de",
   "server_wildcards": [
-    "%.clarrymc.de"
+    "clarrymc.de"
   ],
   "supported_languages": [
     "de"
   ],
   "social": {
-    "web": "https://clarrymc.de",
-    "discord": "https://discord.clarrymc.de"
+    "web": "https://web.clarrymc.de",
+    "discord": "https://discord.gg/QXqryx4Wcj"
   },
   "discord": {
     "server_id": 1256979742457069658
