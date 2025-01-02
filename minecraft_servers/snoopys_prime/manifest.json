@@ -2,9 +2,7 @@
   "server_name": "snoopys_prime",
   "nice_name": "Snoopys Prime",
   "direct_ip": "snoopysprime.de",
-  "server_wildcards": [
-    "%.snoopysprime.de"
-  ],
+
   "supported_languages": [
      "en",
      "de"
