@@ -17,9 +17,10 @@
     "instagram": "craftplay.de",
     "discord": "https://discord.gg/rKm7nT9RH9",
     "youtube": "https://www.youtube.com/@craftplayDE",
+    "teamspeak": "craftplay.de"
   },
   "gamemodes": {
-    "citybuild": {
+    "spielerstädte": {
       "name": "Spielerstädte", 
       "color": "#5454FC",
       "url": "https://craftplay.de/wiki/citybuild",
@@ -51,7 +52,8 @@
       "name": "Survival", 
       "color": "#A800A8",
       "command": "/survival",
-      "versions": "1.20<*"  
+      "versions": "1.20<*"
+    }
     },
     "minigames": {
       "name": "Minigames", 
