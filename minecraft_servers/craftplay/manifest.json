@@ -15,35 +15,35 @@
     "tiktok": "craftplay.de",
     "facebook": "CraftplayDE",
     "instagram": "craftplay.de",
-    "discord": "https://discord.gg/rKm7nT9RH9",
+    "discord": "https://discord.gg/craftplayde",
     "youtube": "https://www.youtube.com/@craftplayDE",
-    "teamspeak": "craftplay.de"
+    "teamspeak": "ts.craftplay.de"
   },
   "gamemodes": {
-    "spielerstädte": {
+    "citybuild": {
       "name": "Spielerstädte", 
       "color": "#5454FC",
-      "url": "https://craftplay.de/wiki/citybuild",
+      "url": "https://www.craftplay.de/wiki/citybuild",
       "command": "/spielerstädte",
       "versions": "1.20<*"
     },
     "plotserver": {
       "name": "Plotserver",
-      "color": "#54FC54",
-      "url": "https://craftplay.de/wiki/plotserver",
+      "color": "#55FFFF",
+      "url": "https://www.craftplay.de/wiki/plotserver",
       "command": "/plotserver",
       "versions": "1.20<*"
     },
     "skygames": {
-      "name": "Skyblock",
+      "name": "SkyBlock",
       "color": "#54FC54",
-      "url": "https://craftplay.de/wiki/skyblock",
-      "command": "/skyblock",
+      "url": "https://www.craftplay.de/wiki/skygames",
+      "command": "/skygames",
       "versions": "1.20<*"
     },
     "oneblock": {
       "name": "Oneblock", 
-      "color": "#A80000",
+      "color": "#008800",
       "url": "https://craftplay.de/wiki/oneblock",
       "command": "/oneblock",
       "versions": "1.20<*"
@@ -51,9 +51,9 @@
     "survival": {
       "name": "Survival", 
       "color": "#A800A8",
+      "url": "https://www.craftplay.de/wiki/anarchie",
       "command": "/survival",
       "versions": "1.20<*"
-    }
     },
     "minigames": {
       "name": "Minigames", 
@@ -72,7 +72,7 @@
      "text": "#FFFFFF"
   }, 
   "location": {
-     "city": "Frankfurt",
+     "city": "Falkenstein",
      "country": "Germany",
      "country_code": "DE"
   },
@@ -82,4 +82,3 @@
     ]},
   "yt_trailer": "opSRr2cnSPU"
 }
-
