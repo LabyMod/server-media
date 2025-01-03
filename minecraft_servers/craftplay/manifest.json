@@ -15,50 +15,49 @@
     "tiktok": "craftplay.de",
     "facebook": "CraftplayDE",
     "instagram": "craftplay.de",
-    "discord": "https://discord.gg/craftplayde",
+    "discord": "https://discord.gg/rKm7nT9RH9",
     "youtube": "https://www.youtube.com/@craftplayDE",
-    "teamspeak": "ts.craftplay.de"
   },
   "gamemodes": {
     "citybuild": {
-      "name": "Citybuild", 
+      "name": "Spielerstädte", 
       "color": "#5454FC",
-      "url": "https://www.craftplay.de/wiki/citybuild",
-      "command": "/citybuild",
-      "versions": "1.18<*"
+      "url": "https://craftplay.de/wiki/citybuild",
+      "command": "/spielerstädte",
+      "versions": "1.20<*"
     },
     "plotserver": {
       "name": "Plotserver",
-      "color": "#55FFFF",
-      "url": "https://www.craftplay.de/wiki/plotserver",
+      "color": "#54FC54",
+      "url": "https://craftplay.de/wiki/plotserver",
       "command": "/plotserver",
-      "versions": "1.18<*"
+      "versions": "1.20<*"
     },
     "skygames": {
-      "name": "SkyGames",
+      "name": "Skyblock",
       "color": "#54FC54",
-      "url": "https://www.craftplay.de/wiki/skygames",
-      "command": "/skygames",
-      "versions": "1.18<*"
+      "url": "https://craftplay.de/wiki/skyblock",
+      "command": "/skyblock",
+      "versions": "1.20<*"
+    },
+    "oneblock": {
+      "name": "Oneblock", 
+      "color": "#A80000",
+      "url": "https://craftplay.de/wiki/oneblock",
+      "command": "/oneblock",
+      "versions": "1.20<*"
     },
     "survival": {
       "name": "Survival", 
-      "color": "#A80000",
-      "url": "https://www.craftplay.de/wiki/anarchie",
+      "color": "#A800A8",
       "command": "/survival",
-      "versions": "1.18<*"
+      "versions": "1.20<*"  
     },
     "minigames": {
       "name": "Minigames", 
       "color": "#A800A8",
       "command": "/minigames",
-      "versions": "1.18<*"
-    },
-    "themepark": {
-      "name": "Freizeitpark", 
-      "color": "#F958FF",
-      "command": "/themepark",
-      "versions": "1.18<*"
+      "versions": "1.20<*"
     }
   },
   "discord": {
@@ -71,7 +70,7 @@
      "text": "#FFFFFF"
   }, 
   "location": {
-     "city": "Falkenstein",
+     "city": "Frankfurt",
      "country": "Germany",
      "country_code": "DE"
   },
@@ -81,3 +80,4 @@
     ]},
   "yt_trailer": "opSRr2cnSPU"
 }
+
