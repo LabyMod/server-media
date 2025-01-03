@@ -54,12 +54,6 @@
       "url": "https://www.craftplay.de/wiki/anarchie",
       "command": "/survival",
       "versions": "1.20<*"
-    },
-    "minigames": {
-      "name": "Minigames", 
-      "color": "#A800A8",
-      "command": "/minigames",
-      "versions": "1.20<*"
     }
   },
   "discord": {
