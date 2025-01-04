@@ -2,16 +2,13 @@
   "server_name": "coding-area",
   "nice_name": "Coding-Area",
   "direct_ip": "coding-area.net",
-  "server_wildcards": [
-    "coding-area.net"
-  ],
   "supported_languages": [
     "de", "en"
   ],
   "social": {
-    "web": "coding-area.net",
+    "web": "https://coding-area.net",
     "twitter": "coding_area",
-    "discord": "https://dc.coding-area.net/"
+    "discord": "https://dc.coding-area.net"
   },
   "gamemodes": {
     "challenges": {
