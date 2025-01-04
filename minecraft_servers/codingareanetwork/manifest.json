@@ -1,5 +1,5 @@
 {
-  "server_name": "coding-area",
+  "server_name": "codingarea",
   "nice_name": "Coding-Area",
   "direct_ip": "coding-area.net",
   "supported_languages": [
@@ -8,7 +8,7 @@
   "social": {
     "web": "https://coding-area.net",
     "twitter": "coding_area",
-    "discord": "https://dc.coding-area.net"
+    "discord": "https://discord.com/invite/v6zzCk8"
   },
   "gamemodes": {
     "challenges": {
