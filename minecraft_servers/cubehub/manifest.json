@@ -2,9 +2,6 @@
   "server_name": "cubehub",
   "nice_name": "CubeHub",
   "direct_ip": "CubeHub.dk",
-  "server_wildcards": [
-    "%.cubehub.dk"
-  ],
   "supported_languages": [
     "dk"
   ],
