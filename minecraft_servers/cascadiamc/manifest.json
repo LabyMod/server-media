@@ -1,7 +1,7 @@
 {
-  "server_name": "CascadiaMC",
-  "nice_name": "CascadiaMC",
-  "direct_ip": "Cascadiamc.de",
+  "server_name": "cascadiamc",
+  "nice_name": "cascadiamc",
+  "direct_ip": "cascadiamc.de",
   "supported_languages": [
      "de"
   ],
