@@ -2,9 +2,6 @@
     "server_name":"redeblaze",
     "nice_name":"Rede Blaze",
     "direct_ip":"jogar.redeblaze.com",
-    "server_wildcards":[
-        "%.redeblaze.com"
-    ],
     "supported_languages":[
         "pt"
     ],
@@ -15,19 +12,6 @@
         "youtube":"https://www.youtube.com/@RedeBlaze",
         "instagram":"blazerede",
         "tiktok":"@blazerede"
-    },
-    "gamemodes":{
-        "survival":{
-            "name":"Survival",
-            "color":"#FAB90A",
-            "url":"https://redeblaze.com/",
-            "versions":"1.8<*"
-        }
-    },
-    "chat": {
-      "message_formats": [
-        "^§[a-f0-9](?<level>\\d+)( \\||§8 \\|) §[a-f0-9](?<sender>[a-zA-Z0-9_]{2,16})§r§7: §f(?<message>.*)$"
-      ]
     },
     "brand":{
         "primary":"#FAB90A",
