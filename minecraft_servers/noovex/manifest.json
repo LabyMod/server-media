@@ -1,11 +1,11 @@
 {
     "server_name": "noovex",
     "nice_name": "Noovex",
-    "direct_ip": "beta.noovex.net",
+    "direct_ip": "noovex.net",
     "gamemodes": {
-        "wintersmp": {
-            "name": "WinterSMP",
-            "command": "/server wintersmp",
+        "survival": {
+            "name": "Survival",
+            "command": "/server survival",
             "color": "#ffffff",
             "versions": "1.21<*"
         },
