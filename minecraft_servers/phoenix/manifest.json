@@ -1,10 +1,10 @@
 {
   "server_name": "phoenix",
   "nice_name": "Phoenix",
-  "direct_ip": "phoenix-network.online",
+  "direct_ip": "play.phoenix-network.online",
   "server_wildcards": [
-    "play.phoenix-network.online",
-    "rainbowfurry.com"
+    "%.phoenix-network.online",
+    "%.rainbowfurry.com"
   ],
   "supported_languages": [
     "de",
