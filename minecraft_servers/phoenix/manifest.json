@@ -1,13 +1,17 @@
 {
   "server_name": "phoenix",
   "nice_name": "Phoenix",
-  "direct_ip": "rainbowfurry.com",
+  "direct_ip": "phoenix-network.online",
+  "server_wildcards": [
+    "play.phoenix-network.online",
+    "rainbowfurry.com"
+  ],
   "supported_languages": [
     "de",
     "en"
   ],
   "social": {
-    "web": "https://rainbowfurry.com"
+    "web": "https://forum.rainbowfurry.com"
   },
   "gamemodes": {
     "clashofclans": {
