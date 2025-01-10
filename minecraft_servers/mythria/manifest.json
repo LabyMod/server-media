@@ -16,6 +16,16 @@
     "citybuild": {
       "name": "CityBuild", 
       "color": "#FFA500"
+    },
+    "mlgrush": {
+      "name": "MLGRush", 
+      "color": "#FFA500"
+      "command": "/serversend MLGRush"
+    },
+    "buildffa": {
+      "name": "BuildFFA", 
+      "color": "#FFA500",
+      "command": "/serversend BuiildFFA"
     }
   },
   "discord": {
