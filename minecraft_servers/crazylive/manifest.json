@@ -1,12 +1,11 @@
 {
-  "server_name": "CrazyLive.eu",
+  "server_name": "crazylive",
   "nice_name": "CrazyLive",
   "direct_ip": "play.crazylive.eu",
   "server_wildcards": [
     "play.crazylive.eu"
   ],
   "supported_languages": [
-     "en",
      "de"
   ],
   "social": {
@@ -20,11 +19,6 @@
       "color": "#FFA500",
       "versions": "1.21.4"
     }
-  },
-  "chat": {
-    "message_formats": [
-      "^§[a-f0-9](?<level>\\d+)( \\||§8 \\|) §[a-f0-9](?<sender>[a-zA-Z0-9_]{2,16})§r§7: §f(?<message>.*)$"
-    ]
   },
   "discord": {
     "server_id": 1313611277775536209,
