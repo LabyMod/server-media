@@ -2,22 +2,24 @@
   "server_name": "crazylive",
   "nice_name": "CrazyLive",
   "direct_ip": "play.crazylive.eu",
-  "server_wildcards": [
-    "play.crazylive.eu"
-  ],
   "supported_languages": [
-     "de"
+    "de"
   ],
   "social": {
-    "web": "https://www.crazylive.eu",
     "discord": "https://discord.gg/Hrzm2qE7Hq"
   },
   "gamemodes": {
-    "citybuild": {
-      "name": "CityBuild",
-      "command": "/warp cb",
+    "ob": {
+      "name": "OneBlock",
       "color": "#FFA500",
+      "command": "/oneblock",
       "versions": "1.21.4"
+    },
+    "cb": {
+      "name": "CityBuild",
+      "color": "#FFA500",
+      "command": "/citybuild",
+      "versions": "1.21.4*"
     }
   },
   "discord": {
@@ -25,15 +27,13 @@
     "rename_to_minecraft_name": false
   },
   "brand": {
-     "primary": "#008FE8",
-     "background": "#0A56A5",
-     "text": "#FFFFFF"
-  }, 
-  "location": {
-     "city": "Berlin",
-     "country": "Germany",
-     "country_code": "DE"
+    "primary": "#008FE8",
+    "background": "#000000",
+    "text": "#FFFFFF"
   },
-  "user_stats": "https://laby.net/@{userName}",
-  "command_delay": 3000
+  "location": {
+    "country": "Germany",
+    "country_code": "DE"
+  },
+  "command_delay": 1000
 }
