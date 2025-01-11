@@ -36,7 +36,5 @@
         "city": "Frankfurt",
         "country": "Germany",
         "country_code": "DE"
-    },
-    "user_stats": "https://laby.net/@{userName}",
-    "command_delay": 3000
+    }
 }
