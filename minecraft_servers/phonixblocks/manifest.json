@@ -1,43 +1,42 @@
 {
-	"server_name": "phonixblocks",
-	"nice_name": "PhonixBlocks",
-	"direct_ip": "PhonixBlocks.de",
-	"server_wildcards": [
-		"%.phonixblocks.de"
-	],
-	"supported_languages": [
-		"de"
-	],
-	"social": {
-		"web": "",
-		"discord": "https://discord.gg/cTSyECkTWs"
-	},
-	"gamemodes": {
-		"phonixsmp": {
-			"name": "PhonixSMP",
-			"color": "#FFA500",
-			"versions": "1.21.1<*"
-		},
-		"treasure-island": {
-			"name": "Treasure IslandSMP",
-			"color": "#ADD8E6",
-			"versions": "1.21.1<*"
-		}
-	},
-	"discord": {
-		"server_id": 1233770982926454800,
-		"rename_to_minecraft_name": false
-	},
-	"brand": {
-		"primary": "#008FE8",
-		"background": "#0A56A5",
-		"text": "#f1970c"
-	},
-	"location": {
-		"city": "Walldorf",
-		"country": "Germany",
-		"country_code": "DE"
-	},
-	"user_stats": "https://laby.net/@{userName}",
-	"command_delay": 3000
+    "server_name": "phonixblocks",
+    "nice_name": "PhonixBlocks",
+    "direct_ip": "PhonixBlocks.de",
+    "server_wildcards": [
+        "%.phonixblocks.de"
+    ],
+    "supported_languages": [
+        "de"
+    ],
+    "social": {
+        "discord": "https://discord.gg/cTSyECkTWs"
+    },
+    "gamemodes": {
+        "phonixsmp": {
+            "name": "PhonixSMP",
+            "color": "#FFA500",
+            "versions": "1.21.1<*"
+        },
+        "treasure-island": {
+            "name": "Treasure IslandSMP",
+            "color": "#ADD8E6",
+            "versions": "1.21.1<*"
+        }
+    },
+    "discord": {
+        "server_id": 1233770982926454800,
+        "rename_to_minecraft_name": false
+    },
+    "brand": {
+        "primary": "#008FE8",
+        "background": "#0A56A5",
+        "text": "#f1970c"
+    },
+    "location": {
+        "city": "Frankfurt",
+        "country": "Germany",
+        "country_code": "DE"
+    },
+    "user_stats": "https://laby.net/@{userName}",
+    "command_delay": 3000
 }
