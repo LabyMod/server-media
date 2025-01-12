@@ -2,6 +2,9 @@
   "server_name": "damacraft",
   "nice_name": "DaMa Craft",
   "direct_ip": "damacraft.minecraft.to",
+  "server_wildcards": [
+    "5.83.164.22:13200"
+  ],
   "supported_languages": [
      "de"
   ],
