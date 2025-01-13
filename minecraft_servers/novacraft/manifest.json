@@ -14,7 +14,7 @@
 		"citybuild": {
 			"name": "Citybuild", 
 			"color": "#1ED600",
-			"command": "/server CityBuild_01",
+			"command": "/server CityBuild_01"
 		}
 	},
     "location": {
