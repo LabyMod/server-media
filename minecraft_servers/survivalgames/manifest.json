@@ -1,12 +1,10 @@
 {
   "server_name": "survivalgames",
   "nice_name": "SurvivalGames",
-  "direct_ip": "play.survival-games.cz",
+  "direct_ip": "mc.survival-games.cz",
   "server_wildcards": [
     "%.survival-games.cz",
-    "%.survivalgames.eu",
-	"survival-games.cz",
-	"survivalgames.eu"
+    "%.survivalgames.eu"
   ],
   "supported_languages": [
      "cs",
@@ -35,11 +33,11 @@
       },
     "eggwars" {
       "name": "EggWars",
-      "color": "#82196d"
+      "color": "#1c1919"
       },
     "skywars" {
       "name": "SkyWars",
-      "color": "#f6e536"
+      "color": "#784f0a"
       },
     "uhcrun" {
       "name": "UHC Run",
@@ -55,7 +53,7 @@
       },
     "partygames" {
       "name": "PartyGames",
-      "color": "#234dd9"
+      "color": "#82196d"
       },
     "risinglava" {
       "name": "Rising Lava",
@@ -71,17 +69,20 @@
       },
     "bridgebuilders" {
       "name": "Bridge Builders",
-      "color": "#864300"
+      "color": "#332003"
+      },
+    "hideandseek" {
+      "name": "Hide and Seek",
+      "color": "#3e5f8a"
       },
     "palermotown" {
       "name": "Palermo Town",
       "color": "#521e38"
       },
-     },
-    "arcade" {
-      "name": "Arcade",
-      "color": "#ca8846"
-      },
+    "dragons" {
+      "name": "Dragons",
+      "color": "#212121"
+      }
     },
   "discord": {
     "server_id": 694511728691511347,
