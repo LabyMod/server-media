@@ -29,7 +29,7 @@
       "command": "/server Plot3",
       "color": "#0095B0"
     },
-    "nuildnattle": {
+    "buildbattle": {
       "name": "BuildBattle",
       "command": "/server BuildBattleXL",
       "color": "#0095B0"
