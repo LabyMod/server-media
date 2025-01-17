@@ -1,0 +1,27 @@
+{
+  "server_name": "endermine",
+  "nice_name": "EnderMine",
+  "direct_ip": "endermine.eu",
+  "supported_languages": [
+     "de"
+  ],
+  "social": {
+    "tiktok": "enderminenw",
+    "youtube": "https://www.youtube.com/channel/UCwDK5qlpWp-u-nb_bsHj_nQ",
+    "discord": "https://discord.gg/qBpawvqENT"
+  },
+  "discord": {
+    "server_id": 1327691351223042150,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#818181",
+    "background": "#ffffff",
+    "text": "#000000"
+  },
+  "location": {
+     "city": "Hessen",
+     "country": "Germany",
+     "country_code": "DE"
+   }
+}
