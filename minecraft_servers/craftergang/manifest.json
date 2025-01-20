@@ -40,7 +40,7 @@
       "command": "/gametp cb1",
       "versions": "1.8<1.21.4"
     },
-    "cbdesert": {
+    "cbwildniss": {
       "name": "CB Wildniss",
       "color": "#0d6914",
       "command": "/gametp cb2",
