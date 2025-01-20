@@ -74,7 +74,7 @@
       "name": "Survival",
       "color": "#f705ab",
       "command": "/gametp survival",
-      "versions": "1.21.4"
+      "versions": "1.21.4>*"
     }
   },
   "chat": {
