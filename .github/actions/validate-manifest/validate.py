@@ -297,6 +297,11 @@ def check_server_online_state(ip: str, wildcards: list):
         if maintenance_tagged:
             post_comment(f'The server {ip} **is in maintenance**.\n {offline_text}')
 
+    if 'version' in response:
+        version_name = response['version']['name_clean'].lower()
+        if 'maintenance' in version_name or 'wartung' in version_name or 'wartungen' in version_name:
+            post_comment(f'The server {ip} **is in maintenance**.\n {offline_text}')
+
 
 def comment_needed():
     pr_action = os.getenv('PR_ACTION')
