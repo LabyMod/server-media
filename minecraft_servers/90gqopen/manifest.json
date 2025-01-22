@@ -9,19 +9,24 @@
     },
     "gamemodes": {
         "survival": {
-            "name": "Survival"
+            "name": "Survival",
+            "color": "#55ff55"
         },
         "creative": {
-            "name": "Creative"
+            "name": "Creative",
+            "color": "#55ff55"
         },
         "parkour": {
-            "name": "Parkour"
+            "name": "Parkour",
+            "color": "#55ff55"
         },
         "uhc": {
-            "name": "UHC"
+            "name": "UHC",
+            "color": "#55ff55"
         },
         "event": {
-            "name": "Event"
+            "name": "Event",
+            "color": "#55ff55"
         }
     },
     "location": {
