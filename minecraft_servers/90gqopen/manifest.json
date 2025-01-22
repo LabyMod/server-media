@@ -1,0 +1,31 @@
+{
+    "server_name": "90gqopen",
+    "nice_name": "90gQopen",
+    "direct_ip": "90gqopen.se",
+    "supported_languages": ["sv"],
+    "social": {
+        "web_shop": "https://90gqopen.se",
+        "discord": "https://discord.com/invite/qbAHWw5kYr"
+    },
+    "gamemodes": {
+        "survival": {
+            "name": "Survival"
+        },
+        "creative": {
+            "name": "Creative"
+        },
+        "parkour": {
+            "name": "Parkour"
+        },
+        "uhc": {
+            "name": "UHC"
+        },
+        "event": {
+            "name": "Event"
+        }
+    },
+    "location": {
+        "country": "Sweden",
+        "country_code": "SE"
+    }
+}
