@@ -40,6 +40,18 @@
       "command": "/gametp cb1",
       "versions": "1.8<1.21.4"
     },
+    "cbwildniss": {
+      "name": "CB Wildniss",
+      "color": "#0d6914",
+      "command": "/gametp cb2",
+      "versions": "1.21.3<1.21.4"
+    },
+    "duels": {
+      "name": "Duels",
+      "color": "#d506b8",
+      "command": "/gametp duels",
+      "versions": "1.8<1.21.4"
+    },
     "onehit": {
       "name": "OneHit",
       "color": "#f705ab",
@@ -58,11 +70,11 @@
       "command": "/gametp spvp",
       "versions": "1.8<1.21.4"
     },
-    "mlgrush": {
-      "name": "MLGRush",
-      "color": "#de0b39",
-      "command": "/gametp mlgrush",
-      "versions": "1.8<1.21.4"
+    "survival": {
+      "name": "Survival",
+      "color": "#f705ab",
+      "command": "/gametp survival",
+      "versions": "1.21.4>*"
     }
   },
   "chat": {
@@ -84,5 +96,5 @@
     "country": "Germany",
     "country_code": "DE"
   },
-  "yt_trailer": "5gIJc4h5gPI"
+  "yt_trailer": "Iu1pZrkv6KI"
 }
