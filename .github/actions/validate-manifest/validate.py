@@ -286,20 +286,21 @@ def check_server_online_state(ip: str, wildcards: list):
     if wildcard_comment:
         post_comment(wildcard_string, 'comments')
 
-    if 'motd' in response:
+    if 'motd' in response or 'version' in response:
         maintenance_tagged = False
-        for line in response['motd']['clean']:
-            line_content = line.lower()
-            if 'maintenance' in line_content or 'wartung' in line_content or 'mantenimiento' in version_name or 'wartungen' in line_content:
+        if 'motd' in response:
+            for line in response['motd']['clean']:
+                line_content = line.lower()
+                if line_content in ['maintenance', 'wartung', 'wartungen', 'mantenimiento']:
+                    maintenance_tagged = True
+                else:
+                    print(f'No maintenance found in MOTD')
+        if 'version' in response:
+            version_name = response['version'].lower()
+            if version_name in ['maintenance', 'wartung', 'wartungen', 'mantenimiento']:
                 maintenance_tagged = True
-            else:
-                print(f'No maintenance found in MOTD')
-        if maintenance_tagged:
-            post_comment(f'The server {ip} **is in maintenance**.\n {offline_text}')
 
-    if 'version' in response:
-        version_name = response['version'].lower()
-        if 'maintenance' in version_name or 'wartung' in version_name or 'mantenimiento' in version_name or 'wartungen' in version_name:
+        if maintenance_tagged:
             post_comment(f'The server {ip} **is in maintenance**.\n {offline_text}')
 
 
