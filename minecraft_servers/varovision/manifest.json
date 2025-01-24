@@ -13,10 +13,5 @@
   },
   "brand": {
     "primary": "#ff5555"
-  },
-  "location": {
-    "city": "Landeck",
-    "country": "Austria",
-    "country_code": "AT"
   }
 }
