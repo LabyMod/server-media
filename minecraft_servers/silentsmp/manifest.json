@@ -3,13 +3,13 @@
   "nice_name": "SilentSMP",
   "direct_ip": "play.silentsmp.net",
   "server_wildcards": [
-    "%.laby.net"
+    "%.silentsmp.net"
   ],
   "supported_languages": [
      "de"
   ],
   "social": {
-    "tiktok": "https://www.tiktok.com/@xxsilentpa1nxx?is_from_webapp=1&sender_device=pc",
+    "tiktok": "xxsilentpa1nxx",
     "discord": "https://discord.gg/VshV63gm4U"
   },
   "gamemodes": {
