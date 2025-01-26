@@ -1,0 +1,35 @@
+{
+  "server_name": "silentsmp",
+  "nice_name": "SilentSMP",
+  "direct_ip": "play.silentsmp.net",
+  "server_wildcards": [
+    "%.laby.net"
+  ],
+  "supported_languages": [
+     "de"
+  ],
+  "social": {
+    "tiktok": "https://www.tiktok.com/@xxsilentpa1nxx?is_from_webapp=1&sender_device=pc",
+    "discord": "https://discord.gg/VshV63gm4U"
+  },
+  "gamemodes": {
+    "CityBuild": {
+      "name": "CityBuild", 
+      "color": "#FFA500",
+      "versions": "1.21<*"
+    }
+  },
+  "discord": {
+    "server_id": 1319448383034884116,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#f01616",
+     "background": "#989191",
+     "text": "#FFFFFF"
+  }, 
+  "location": {
+     "country": "Germany",
+     "country_code": "DE"
+  }
+}
