@@ -10,8 +10,8 @@
   "gamemodes": {
     "vulprison": {
       "name": "vulprison",
-      "color": "c5db30",
-      "versions": ["1.8.9"]
+      "color": "#c5db30",
+      "versions": "1.8<*"
     }
   },
   "location": {
@@ -20,12 +20,12 @@
     "country_code": "DK"
   },
   "brand": {
-    "primary": "c5db30",
-    "background": "c5db30",
+    "primary": "#c5db30",
+    "background": "#c5db30",
     "text": "#ffffff"
   },
   "discord": {
-    "server_id": "1278328039784059000",
+    "server_id": "1278328039784058931",
     "rename_to_minecraft_name": false
   }
 }
