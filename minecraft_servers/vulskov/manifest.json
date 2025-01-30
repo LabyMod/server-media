@@ -1,6 +1,6 @@
 {
   "server_name": "vulskov",
-  "nice_name": "vulskov",
+  "nice_name": "Vulskov",
   "direct_ip": "mc.vulskov.com",
   "supported_languages": [
     "da"
@@ -24,5 +24,8 @@
     "primary": "#c5db30",
     "background": "#c5db30",
     "text": "#ffffff"
+  },
+  "discord": {
+    "server_id": 1278328039784058931
   }
 }
