@@ -12,11 +12,8 @@
   "gamemodes": {
     "vulprison": {
       "name": "vulprison",
-      "color": "#c5db30"
-    },
-    "vulskov": {
-      "name": "Vulskov",
-      "color": "#c5db30"
+      "color": "#c5db30",
+      "versions": "1.8.9"
     }
   },
   "location": {
@@ -30,6 +27,7 @@
     "text": "#ffffff"
   },
   "discord": {
-    "server_id": 1278328039784058931
+    "server_id": 1278328039784058931,
+    "rename_to_minecraft_name": false
   }
 }
