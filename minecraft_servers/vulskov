@@ -1,0 +1,31 @@
+{
+  "server_name": "vulskov",
+  "nice_name": "Vulskov",
+  "direct_ip": "mc.vulskov.com",
+  "supported_languages": ["da"],
+  "social": {
+    "web": "https://vulskov.com/",
+    "discord": "https://discord.gg/eFmBWR6Vhb"
+  },
+  "gamemodes": {
+    "vulprison": {
+      "name": "vulprison",
+      "color": "c5db30",
+      "versions": ["1.8.9"]
+    }
+  },
+  "location": {
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "country_code": "DK"
+  },
+  "brand": {
+    "primary": "c5db30",
+    "background": "c5db30",
+    "text": "#ffffff"
+  },
+  "discord": {
+    "server_id": "1278328039784059000",
+    "rename_to_minecraft_name": false
+  }
+}
