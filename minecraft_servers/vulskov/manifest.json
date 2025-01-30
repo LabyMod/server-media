@@ -18,14 +18,11 @@
   "location": {
     "city": "Copenhagen",
     "country": "Denmark",
-    "country_code": "DA"
+    "country_code": "DK"
   },
   "brand": {
     "primary": "#c5db30",
     "background": "#c5db30",
     "text": "#ffffff"
-  },
-  "discord": {
-    "server_id": 1278328039784058931
   }
 }
