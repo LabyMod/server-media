@@ -6,6 +6,7 @@
   "social": {
     "web": "https://vulskov.com",
     "web_shop": "https://store.vulskov.com",
+    "tiktok": "vulskov.com",
     "discord": "https://discord.gg/eFmBWR6Vhb"
   },
   "gamemodes": {
@@ -13,6 +14,11 @@
       "name": "vulprison",
       "color": "#c5db30",
       "versions": "1.8<*"
+    },
+    "survival": {
+      "name": "survival",
+      "color": "#c5db30",
+      "versions": "1.21.4<*"
     }
   },
   "location": {
