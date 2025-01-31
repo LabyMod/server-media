@@ -5,13 +5,19 @@
   "supported_languages": ["da"],
   "social": {
     "web": "https://vulskov.com",
-    "discord": "https://discord.gg/eFmBWR6Vhb"
+    "discord": "https://discord.gg/eFmBWR6Vhb",
+    "tiktok": "vulskov.com"
   },
   "gamemodes": {
     "vulprison": {
       "name": "vulprison",
       "color": "#c5db30",
       "versions": "1.8<*"
+    },
+    "survival": {
+      "name": "survival",
+      "color": "#c5db30",
+      "versions": "1.21.4<*"
     }
   },
   "location": {
@@ -26,6 +32,6 @@
   },
   "discord": {
     "server_id": "1278328039784058931",
-    "rename_to_minecraft_name": false
+    "rename_to_minecraft_name": true
   }
 }
