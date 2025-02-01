@@ -1,1 +1,30 @@
-
+{
+  "server_name": "icegaming",
+  "nice_name": "ICEGAMING",
+  "direct_ip": "mc.icegaming.eu",
+  "server_wildcards": [
+  ],
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "web": ""
+  },
+  "chat": {
+    "message_formats": [
+      "^(|§8»\\n)(§[a-f0-9]§?l?(?<rank>\\S+))§r §8\\| §7(?<sender>[a-zA-Z0-9_]{2,16})§r §8» §7(?<message>.*)(|\\n§8»)$"
+    ]
+  },
+  "discord": {
+    "server_id": 1166621232276443217
+  },
+  "brand": {
+    "primary": "#0095ed",
+    "background": "#00182e",
+    "text": "#ffffff"
+  },
+  "location": {
+    "city": "Frankfurt",
+    "country": "Germany",
+    "country_code": "DE"
+  }
