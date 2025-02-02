@@ -2,7 +2,6 @@
   "server_name": "icegaming",
   "nice_name": "ICEGAMING",
   "direct_ip": "mc.icegaming.eu",
- 
   "supported_languages": [
      "de"
   ],
@@ -17,7 +16,6 @@
   },
   "discord": {
     "server_id": 260471731809
-  
   }, 
   "location": {
      "city": "Frankfurt/M",
