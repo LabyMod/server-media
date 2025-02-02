@@ -1,26 +1,26 @@
 {
-  "server_name": "icegaming",
-  "nice_name": "ICEGAMING",
-  "direct_ip": "mc.icegaming.eu",
-  "supported_languages": [
-     "de"
-  ],
-  "social": {
-    "discord": "https://discord.gg/pZc4MKkmfw",
-    "youtube": "https://youtube.com/@ice-gamingmc"
-    "instagram": "https://www.instagram.com/icegaming.eu_offiziell/"
-  },
-  "chat": {
-    "message_formats": [
-      "^§[a-f0-9](?<level>\\d+)( \\||§8 \\|) §[a-f0-9](?<sender>[a-zA-Z0-9_]{2,16})§r§7: §f(?<message>.*)$"
-    ]
-  },
-  "discord": {
-    "server_id": 260471731809
-  }, 
-  "location": {
-     "city": "Frankfurt/M",
-     "country": "Germany",
-     "country_code": "DE"
-  }
+    "server_name": "icegaming",
+    "nice_name": "ICEGAMING",
+    "direct_ip": "mc.icegaming.eu",
+    "supported_languages": [
+        "de"
+    ],
+    "social": {
+        "discord": "https://discord.gg/pZc4MKkmfw",
+        "youtube": "https://youtube.com/@ice-gamingmc",
+        "instagram": "https://www.instagram.com/icegaming.eu_offiziell/"
+    },
+    "chat": {
+        "message_formats": [
+            "^§[a-f0-9](?<level>\\d+)( \\||§8 \\|) §[a-f0-9](?<sender>[a-zA-Z0-9_]{2,16})§r§7: §f(?<message>.*)$"
+        ]
+    },
+    "discord": {
+        "server_id": 260471731809
+    },
+    "location": {
+        "city": "Frankfurt/M",
+        "country": "Germany",
+        "country_code": "DE"
+    }
 }
