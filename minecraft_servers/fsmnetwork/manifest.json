@@ -6,7 +6,7 @@
         "de"
     ],
     "social": {
-        "web": "https://fsm-network.webnode.page/",
+        "web": "https://fsm-network.webnode.page",
         "web_support": "https://labymod.net/support",
         "discord": "https://discord.gg/586SFrakqk",
         "teamspeak": "193.141.60.142:9987"
@@ -42,6 +42,6 @@
     "location": {
         "city": "Eygelshoven",
         "country": "Netherlands",
-        "country_code": "NLD"
+        "country_code": "NL"
     }
 }
