@@ -1,0 +1,50 @@
+{
+    "server_name": "fsmnetwork",
+    "nice_name": "FSM Network",
+    "direct_ip": "193.141.60.141:25580",
+    "server_wildcards": [
+        "%.fsmnetwork"
+    ],
+    "supported_languages": [
+        "de"
+    ],
+    "social": {
+        "web": "https://fsm-network.webnode.page/",
+        "web_support": "https://labymod.net/support",
+        "discord": "https://discord.gg/586SFrakqk",
+        "teamspeak": "193.141.60.142:9987"
+    },
+    "gamemodes": {
+        "createbox": {
+            "name": "CreateBox",
+            "color": "#FFA500",
+            "command": "/quickjoin createbox",
+            "versions": "1.21.1"
+        },
+        "jump and run": {
+            "name": "jump and run",
+            "color": "#ADD8E6",
+            "command": "/quickjoin jumpandrun",
+            "versions": "1.21.1"
+        }
+    },
+    "chat": {
+        "message_formats": [
+            "^§[a-f0-9](?<level>\\d+)( \\||§8 \\|) §[a-f0-9](?<sender>[a-zA-Z0-9_]{2,16})§r§7: §f(?<message>.*)$"
+        ]
+    },
+    "discord": {
+        "server_id": 802671795462209500,
+        "rename_to_minecraft_name": false
+    },
+    "brand": {
+        "primary": "#008FE8",
+        "background": "#0A56A5",
+        "text": "#FFFFFF"
+    },
+    "location": {
+        "city": "Eygelshoven",
+        "country": "Netherlands",
+        "country_code": "NLD"
+    }
+}
