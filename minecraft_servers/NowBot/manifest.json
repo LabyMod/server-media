@@ -1,7 +1,7 @@
 {
   "server_name": "NowBot",
   "nice_name": "NowBot",
-  "direct_ip": "77.90.52.189:25593",
+  "direct_ip": "",
   "server_wildcards": [
     "%.77.90.52.189:25593"
   ],
@@ -12,12 +12,12 @@
   "social": {
     "web": "https://nowbot.de",
     "web_shop": "https://nowbot.de",
-    "web_support": "https://nowbot.det",
-    "twitter": "LabyMod",
-    "tiktok": "LabyMod",
-    "facebook": "LabyMod",
-    "instagram": "LabyMod",
-    "discord": "https://discord.gg/TA3QwasQd",
+    "web_support": "https://nowbot.de",
+    "twitter": "",
+    "tiktok": "",
+    "facebook": "",
+    "instagram": "",
+    "discord": "https://discord.gg/vePUj3BG8Z",
     "youtube": "https://www.youtube.com/@nowbotmc",
     "teamspeak": "ts.labymod.net"
   },
@@ -52,7 +52,7 @@
      "text": "#FFFFFF"
   }, 
   "location": {
-     "city": "Walldorf",
+     "city": "Buchholz",
      "country": "Germany",
      "country_code": "DE"
   },
