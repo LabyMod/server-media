@@ -1,0 +1,62 @@
+{
+    "server_name": "nowbot",
+    "nice_name": "nowbot",
+    "direct_ip": "",
+    "server_wildcards": [
+        "%.77.90.52.189:25593"
+    ],
+    "supported_languages": [
+        "en",
+        "de"
+    ],
+    "social": {
+        "web": "https://nowbot.de",
+        "web_shop": "https://nowbot.de",
+        "web_support": "https://nowbot.de",
+        "twitter": "LabyMod",
+        "tiktok": "LabyMod",
+        "facebook": "LabyMod",
+        "instagram": "LabyMod",
+        "discord": "https://discord.gg/vePUj3BG8Z",
+        "youtube": "https://www.youtube.com/@nowbotmc",
+        "teamspeak": "ts.labymod.net"
+    },
+    "gamemodes": {
+        "jumpworld": {
+            "name": "JumpWorld",
+            "color": "#FFA500",
+            "url": "https://www.nowbot.de",
+            "command": "/quickjoin jumpworld16",
+            "versions": "1.8<*"
+        },
+        "dna": {
+            "name": "DNA",
+            "color": "#ADD8E6",
+            "url": "https://www.nowbot.de",
+            "command": "/quickjoin dna",
+            "versions": "1.8<*"
+        }
+    },
+    "chat": {
+        "message_formats": [
+            "^§[a-f0-9](?<level>\\d+)( \\||§8 \\|) §[a-f0-9](?<sender>[a-zA-Z0-9_]{2,16})§r§7: §f(?<message>.*)$"
+        ]
+    },
+    "discord": {
+        "server_id": 1319953783718936600,
+        "rename_to_minecraft_name": false
+    },
+    "brand": {
+        "primary": "#008FE8",
+        "background": "#0A56A5",
+        "text": "#FFFFFF"
+    },
+    "location": {
+        "city": "Walldorf",
+        "country": "Germany",
+        "country_code": "DE"
+    },
+    "yt_trailer": "https://youtu.be/y-iBnPVNPUI",
+    "user_stats": "https://laby.net/@{userName}",
+    "command_delay": 2000
+}
