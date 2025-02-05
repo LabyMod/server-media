@@ -18,37 +18,47 @@
     "gamemodes": {
       "superpvp": {
           "name": "SuperPvP",
-          "color": "#55ffff"
+          "color": "#ffffff",
+          "command": "/play superpvp",
+          "versions": "1.8<*"
       },
       "survivalgames": {
         "name": "Survival Games",
-        "color": "#55ffff",
+        "color": "#ffffff",
+        "command": "/play sg",
         "versions": "1.8<*"
       },
       "1vs1": {
         "name": "1vs1",
-        "color": "#ff5555",
+        "color": "#ffffff",
         "versions": "1.8<*"
       },
       "partypvp": {
         "name": "PartyPvP",
-        "color": "#55ffff"
+        "color": "#ffffff",
+        "command": "/play partypvp",
+        "versions": "1.8<*"
       },
       "skypvp": {
           "name": "SkyPvP",
-          "color": "#ffffff"
+          "color": "#ffffff",
+          "command": "/play skypvp",
+          "versions": "1.8<*"
       },
       "redstonepvp": {
           "name": "RedStonePvP",
-          "color": "#d71616"
+          "color": "#ffffff",
+          "versions": "1.8<*"
       },
       "creative": {
           "name": "Creative",
-          "color": "#00aa00"
+          "color": "#ffffff",
+          "command": "/play creative",
+          "versions": "1.8<*"
       },
       "timv": {
         "name": "Trouble In Mineville",
-        "color": "#ffff55",
+        "color": "#ffffff",
         "versions": "1.8<*"
       }
     },
@@ -65,5 +75,5 @@
        "primary": "#3fc4d1",
        "background": "#0c0600"
     },
-    "yt_trailer": "-oZlcake_44"
+    "yt_trailer": "8YH1Q6UVSEs"
   }
