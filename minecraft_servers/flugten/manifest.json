@@ -1,0 +1,32 @@
+{
+  "server_name": "flugten",
+  "nice_name": "Flugten",
+  "direct_ip": "Flugten.net",
+  "supported_languages": [
+    "dk"
+  ],
+  "social": {
+    "web_shop": "https://butik.flugten.net",
+    "discord": "https://discord.gg/YgZCnG5XZQ"
+  },
+  "discord": {
+    "server_id": 1265351019664248863
+  },
+  "gamemodes": {
+    "prison": {
+      "name": "Flugten",
+      "command": "/server Flugten",
+      "color": "#1be76d"
+    }
+  },
+  "brand": {
+    "primary": "#1be76d",
+    "background": "#1be76d",
+    "text": "#ffffff"
+  },
+  "location": {
+    "city": "Frankfurt",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}
