@@ -1,0 +1,26 @@
+{
+    "server_name": "citymc",
+    "nice_name": "CityMC",
+    "direct_ip": "mc.citymc.de",
+    "supported_languages": [
+        "de"
+    ],
+    "gamemodes": {
+        "skypvp": {
+            "name": "Citybuild",
+            "color": "#0d6914",
+            "command": "/spawn",
+            "versions": "1.21.4"
+        }
+    },
+    "brand": {
+        "primary": "#497cb1",
+        "background": "#245587",
+        "text": "#4646cf"
+    },
+    "location": {
+        "city": "Frankfurt",
+        "country": "Germany",
+        "country_code": "DE"
+    }
+}
