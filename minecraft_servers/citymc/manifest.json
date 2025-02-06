@@ -8,7 +8,7 @@
     "gamemodes": {
         "citybuild": {
             "name": "Citybuild",
-            "color": "#0d6914",
+            "color": "#e63900",
             "command": "/cb",
             "versions": "1.21.4"
         }
