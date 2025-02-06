@@ -3,11 +3,8 @@
   "nice_name": "AgeraPvP Club",
   "direct_ip": "mc.agerapvp.club",
   "server_wildcards": [
-    "mc.agerapvp.club",
-    "play.agerapvp.club",
-    "agerapvp.club",
-    "mc.agerapvp.net",
-    "agerapvp.net"
+    "%.agerapvp.club",
+    "%.agerapvp.net"
   ],
   "supported_languages": [
      "ru",
