@@ -14,8 +14,7 @@
     "web": "https://agerapvp.club",
     "web_shop": "https://agerapvp.club",
     "web_support": "https://support.agerapvp.club",
-    "discord": "https://discord.gg/qeV59SXJfU",
-    "youtube": "https://www.youtube.com/@Agerapark"
+    "discord": "https://discord.gg/qeV59SXJfU"
   },
   "gamemodes": {
     "bedwars": {
@@ -55,6 +54,5 @@
      "country": "Germany",
      "country_code": "DE"
   },
-  "yt_trailer": "B_ZHXU7eJNw",
   "command_delay": 1000
 }
