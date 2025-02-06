@@ -1,7 +1,7 @@
 {
   "server_name": "lastcraft",
   "nice_name": "LastCraft",
-  "direct_ip": "play.play-craft.net",
+  "direct_ip": "play.last-craft.net",
   "server_wildcards": [
     "mc.lastcraft.net",
     "play.lastcraft.net",
