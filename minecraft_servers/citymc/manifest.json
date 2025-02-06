@@ -6,10 +6,10 @@
         "de"
     ],
     "gamemodes": {
-        "skypvp": {
+        "citybuild": {
             "name": "Citybuild",
             "color": "#0d6914",
-            "command": "/spawn",
+            "command": "/cb",
             "versions": "1.21.4"
         }
     },
