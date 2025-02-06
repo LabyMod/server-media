@@ -13,11 +13,6 @@
             "versions": "1.21.4"
         }
     },
-    "brand": {
-        "primary": "#497cb1",
-        "background": "#245587",
-        "text": "#4646cf"
-    },
     "location": {
         "city": "Frankfurt",
         "country": "Germany",
