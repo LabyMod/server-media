@@ -3,8 +3,10 @@
   "nice_name": "LastCraft",
   "direct_ip": "play.play-craft.net",
   "server_wildcards": [
-    "%.lastcraft.net",
-    "%.last-craft.net"
+    "mc.lastcraft.net",
+    "play.lastcraft.net",
+    "mc.last-craft.net",
+    "play.last-craft.net"
   ],
   "social": {
     "web": "https://last-craft.net",
