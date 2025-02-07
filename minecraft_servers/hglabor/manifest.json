@@ -14,6 +14,18 @@
         "command": "/server subwaysurfers-1",
         "color": "#54fcfc",
         "versions": "1.21"
+      },
+      "duels": {
+        "name": "Duels",
+        "command": "/server Duels-1",
+        "color": "#54fcfc",
+        "versions": "1.21"
+      },
+      "hg": {
+        "name": "HG",
+        "command": "/server hg-1",
+        "color": "#54fcfc",
+        "versions": "1.21"
       }
     },
     "brand": {
