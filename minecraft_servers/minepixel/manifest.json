@@ -11,6 +11,6 @@
   },
   "discord": {
     "server_id": 1328012289571557438,
-    "rename_to_minecraft_name": true
+    "rename_to_minecraft_name": false
   }
 }
