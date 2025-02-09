@@ -2,12 +2,6 @@
   "server_name": "lastcraft",
   "nice_name": "LastCraft",
   "direct_ip": "play.last-craft.net",
-  "server_wildcards": [
-    "mc.lastcraft.net",
-    "play.lastcraft.net",
-    "mc.last-craft.net",
-    "play.last-craft.net"
-  ],
   "social": {
     "web_shop": "https://last-craft.net",
     "discord": "https://discord.com/invite/3bvCzvDf6d",

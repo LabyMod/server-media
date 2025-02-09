@@ -2,12 +2,6 @@
   "server_name": "fakepixel",
   "nice_name": "Fakepixel Network",
   "direct_ip": "mc.fakepixel.fun",
-  "server_wildcards": [
-    "play.fakepixel.fun",
-    "fakepixel.fun",
-    "reserve.fakepixel.fun",
-    "mc.fakepixel.fun"
-  ],
   "social": {
     "web": "https://fakepixel.fun",
     "web_shop": "https://world.fakepixel.shop",
