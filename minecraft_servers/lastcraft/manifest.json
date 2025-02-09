@@ -5,7 +5,8 @@
   "server_wildcards": [
     "mc.lastcraft.net",
     "play.lastcraft.net",
-    "mc.last-craft.net"
+    "mc.last-craft.net",
+    "play.last-craft.net"
   ],
   "social": {
     "web_shop": "https://last-craft.net",

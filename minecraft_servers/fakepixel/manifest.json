@@ -5,7 +5,8 @@
   "server_wildcards": [
     "play.fakepixel.fun",
     "fakepixel.fun",
-    "reserve.fakepixel.fun"
+    "reserve.fakepixel.fun",
+    "mc.fakepixel.fun"
   ],
   "social": {
     "web": "https://fakepixel.fun",
