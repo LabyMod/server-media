@@ -1,0 +1,29 @@
+{
+  "server_name": "inventorland",
+  "nice_name": "Inventor Land",
+  "direct_ip": "inventor.land",
+  "supported_languages": [
+     "en"
+  ],
+  "social": {
+    "web": "https://inventor.gg",
+    "twitter": "https://twitter.com/inventorgg",
+    "discord": "https://discord.com/invite/inventor",
+    "youtube": "https://www.youtube.com/@inventor-gg",
+  },
+  "gamemodes": {
+    "survival": {
+      "name": "Survival", 
+      "color": "#32CD32",
+    }
+  },
+  "discord": {
+    "server_id": 1124639061588582520,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#FDBD24",
+     "background": "#7D5F22",
+     "text": "#020002"
+  },
+}
