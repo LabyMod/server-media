@@ -3,15 +3,16 @@
   "nice_name": "AgeraPvP Club",
   "direct_ip": "mc.agerapvp.club",
   "server_wildcards": [
-    "%.agerapvp.club",
-    "%.agerapvp.net"
+    "agerapvp.club",
+    "play.agerapvp.club",
+    "agerapvp.net",
+    "mc.agerapvp.net"
   ],
   "supported_languages": [
      "ru",
      "en"
   ],
   "social": {
-    "web": "https://agerapvp.club",
     "web_shop": "https://agerapvp.club",
     "web_support": "https://support.agerapvp.club",
     "discord": "https://discord.gg/qeV59SXJfU"

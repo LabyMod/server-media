@@ -3,12 +3,13 @@
   "nice_name": "Fakepixel Network",
   "direct_ip": "mc.fakepixel.fun",
   "server_wildcards": [
-    "%.fakepixel.fun"
+    "play.fakepixel.fun",
+    "fakepixel.fun",
+    "reserve.fakepixel.fun"
   ],
   "social": {
     "web": "https://fakepixel.fun",
     "web_shop": "https://world.fakepixel.shop",
-    "web_support": "https://support.fakepixel.fun",
     "youtube": "https://www.youtube.com/@FakepixelServer",
     "discord": "https://discord.com/invite/fakepixel"
   },
