@@ -9,7 +9,7 @@
     "web": "https://inventor.gg",
     "twitter": "https://twitter.com/inventorgg",
     "discord": "https://discord.com/invite/inventor",
-    "youtube": "https://www.youtube.com/@inventor-gg",
+    "youtube": "https://www.youtube.com/@inventor-gg"
   },
   "discord": {
     "server_id": 1124639061588582520,
@@ -19,5 +19,5 @@
      "primary": "#FDBD24",
      "background": "#7D5F22",
      "text": "#020002"
-  },
+  }
 }
