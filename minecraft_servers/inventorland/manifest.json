@@ -11,12 +11,6 @@
     "discord": "https://discord.com/invite/inventor",
     "youtube": "https://www.youtube.com/@inventor-gg",
   },
-  "gamemodes": {
-    "survival": {
-      "name": "Survival", 
-      "color": "#32CD32",
-    }
-  },
   "discord": {
     "server_id": 1124639061588582520,
     "rename_to_minecraft_name": false
