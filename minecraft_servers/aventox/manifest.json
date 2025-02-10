@@ -2,6 +2,9 @@
     "server_name": "aventox",
     "nice_name": "Aventox",
     "direct_ip": "play.aventox.com",
+    "server_wildcards": [
+        "%.aventox.com"
+    ],
     "supported_languages": [
         "en"
     ],
