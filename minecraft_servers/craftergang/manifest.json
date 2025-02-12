@@ -46,7 +46,11 @@
       "versions": "1.8<1.21.4"
     },
     "cbwildniss": {
+
       "name": "CB Wildnis",
+
+
+
       "color": "#0d6914",
       "command": "/gametp cb2",
       "versions": "1.21.3<1.21.4"
