@@ -2,6 +2,11 @@
   "server_name": "craftergang",
   "nice_name": "Craftergang",
   "direct_ip": "craftergang.de",
+  "server_wildcards": [
+    "craftergan.net",
+    "craftergang.de",
+    "craftergang.eu"
+  ],
   "supported_languages": [
     "de",
     "en",
