@@ -16,6 +16,11 @@
       "color": "#f89900",
       "command": "/serverconnector cannon"
     },
+    "rankup": {
+      "name": "Rankup",
+      "color": "#f89900",
+      "command": "/serverconnector rankup"
+    },
     "guerra": {
       "name": "Guerra",
       "color": "#f89900",
