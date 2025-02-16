@@ -1,7 +1,7 @@
 {
   "server_name": "krypticmc",
   "nice_name": "KrypticMC",
-  "direct_ip": "krypticmc.net",
+  "direct_ip": "play.krypticmc.net",
   "yt_trailer": "0nP8tNS6VQ4",
   "user_stats": "https://krypticmc.net/players/{userName}",
   "server_wildcards": [
