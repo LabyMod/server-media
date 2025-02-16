@@ -1,15 +1,24 @@
 {
     "server_name": "citymc",
     "nice_name": "CityMC",
-    "direct_ip": "mc.citymc.de",
+    "direct_ip": "citymc.de",
+    "server_wildcards": [
+        "%.citymc.de"
+    ],
     "supported_languages": [
         "de"
     ],
     "gamemodes": {
-        "citybuild": {
+        "cbvillage": {
             "name": "Citybuild-Village",
             "color": "#FFD700",
-            "command": "/cb",
+            "command": "/cbvillage",
+            "versions": "1.21.4"
+        },
+        "cbtown": {
+            "name": "Citybuild-Town",
+            "color": "#FFD700",
+            "command": "/cbtown",
             "versions": "1.21.4"
         },
         "farming": {
