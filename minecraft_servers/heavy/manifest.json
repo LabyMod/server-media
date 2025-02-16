@@ -1,0 +1,47 @@
+{
+  "server_name": "heavy",
+  "nice_name": "Rede Heavy",
+  "direct_ip": "redeheavy.com.br",
+  "server_wildcards": [
+    "%.redeheavy.com.br"
+  ],
+  "gamemodes": {
+    "factions": {
+      "name": "Factions",
+      "color": "#f89900",
+      "command": "/serverconnector factions"
+    },
+    "cannon": {
+      "name": "Cannon",
+      "color": "#f89900",
+      "command": "/serverconnector cannon"
+    },
+    "rankup": {
+      "name": "Rankup",
+      "color": "#f89900",
+      "command": "/serverconnector rankup"
+    },
+    "guerra": {
+      "name": "Guerra",
+      "color": "#f89900",
+      "command": "/serverconnector guerra"
+    }
+  },
+  "social": {
+    "discord": "https://discord.gg/redeheavy",
+    "web_shop": "https://loja.redeheavy.com.br"
+  },
+  "discord": {
+    "server_id": 1048319082312777818,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#f89900",
+    "background": "#f9cb25",
+    "text": "#FFFFFF"
+  },
+  "location": {
+    "country": "Brazil",
+    "country_code": "BR"
+  }
+}
