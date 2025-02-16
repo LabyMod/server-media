@@ -9,16 +9,10 @@
         "de"
     ],
     "gamemodes": {
-        "cbvillage": {
+        "citybuild": {
             "name": "Citybuild-Village",
             "color": "#FFD700",
-            "command": "/cbvillage",
-            "versions": "1.21.4"
-        },
-        "cbtown": {
-            "name": "Citybuild-Town",
-            "color": "#FFD700",
-            "command": "/cbtown",
+            "command": "/cb",
             "versions": "1.21.4"
         },
         "farming": {
