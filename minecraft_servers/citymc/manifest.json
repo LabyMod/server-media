@@ -1,0 +1,27 @@
+{
+    "server_name": "citymc",
+    "nice_name": "CityMC",
+    "direct_ip": "mc.citymc.de",
+    "supported_languages": [
+        "de"
+    ],
+    "gamemodes": {
+        "citybuild": {
+            "name": "Citybuild-Village",
+            "color": "#FFD700",
+            "command": "/cb",
+            "versions": "1.21.4"
+        },
+        "farming": {
+            "name": "Farming",
+            "color": "#228B22",
+            "command": "/farming",
+            "versions": "1.21.4"
+        }
+    },
+    "location": {
+        "city": "Frankfurt",
+        "country": "Germany",
+        "country_code": "DE"
+    }
+}
