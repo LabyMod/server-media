@@ -4,6 +4,7 @@
     "direct_ip": "play.Noovex.net",
     "server_wildcards": [
       "%.noovex.net",
+      "%.noovex.dev",
       "%.noovex.de"
     ],
     "gamemodes": {
