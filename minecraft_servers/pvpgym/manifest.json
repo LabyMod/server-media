@@ -48,7 +48,7 @@
   },
   "brand": {
     "primary": "#00AAAA",
-    "background": "##005C5C",
+    "background": "#005C5C",
     "text": "#FFFFFF"
   },
   "user_stats": "https://pvpgym.net/profile/{userName}"
