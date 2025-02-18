@@ -10,33 +10,23 @@
     "gamemodes": {
         "lobby": {
           "name": "lobby", 
-          "color": "#Ff0000",
+          "color": "#83FE4B",
           "command": "/server lobby",
           "versions": "1.21.4"
     },
-    "ultimateknockout": {
-      "name": "Soon",
-      "color": "#fffff",
+    "games1": {
+      "name": "Games1",
+      "color": "#83FE4B",
       "versions": "1.21.4"
     },
-    "ultimateknockout": {
-      "name": "Soon",
-      "color": "#fffff",
+    "games2": {
+      "name": "Games2",
+      "color": "#83FE4B",
       "versions": "1.21.4"
     },
-    "ultimateknockout": {
-      "name": "Soon",
-      "color": "#fffff",
-      "versions": "1.21.4"
-    },
-    "ultimateknockout": {
-      "name": "Soon",
-      "color": "#fffff",
-      "versions": "1.21.4"
-    },
-    "ultimateknockout": {
-      "name": "Soon",
-      "color": "#fffff",
+    "games3": {
+      "name": "Games3",
+      "color": "#83FE4B",
       "versions": "1.21.4"
     }
   },
@@ -49,9 +39,7 @@
         "en"
     ],
     "social": {
-        "discord": "https://discord.gg/3UAgZZpZgz",
-        "tiktok": "",
-        "youtube": ""
+        "discord": "https://discord.gg/3UAgZZpZgz"
     },
     "location": {
         "city": "Frankfurt am Main",
