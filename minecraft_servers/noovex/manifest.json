@@ -7,27 +7,24 @@
       "%.noovex.dev",
       "%.noovex.de"
     ],
-    "gamemodes": {
-        "lobby": {
-          "name": "lobby", 
-          "color": "#83FE4B",
-          "command": "/server lobby",
-          "versions": "1.21.4"
-    },
-    "games1": {
-      "name": "Games1",
+  "gamemodes": {
+    "survival": {
+      "name": "Survival",
+      "command": "/server Survival",
       "color": "#83FE4B",
-      "versions": "1.21.4"
+      "versions": "1.21.4<*"
     },
-    "games2": {
-      "name": "Games2",
+    "skyblock": {
+      "name": "skyblock",
+      "command": "/server skyblock",
       "color": "#83FE4B",
-      "versions": "1.21.4"
+      "versions": "1.21.4<*"
     },
-    "games3": {
-      "name": "Games3",
+    "citybuild": {
+      "name": "Citybuild",
+      "command": "/server citybuild",
       "color": "#83FE4B",
-      "versions": "1.21.4"
+      "versions": "1.21.4<*"
     }
   },
     "discord": {
