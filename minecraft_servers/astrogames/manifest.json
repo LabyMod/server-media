@@ -13,14 +13,17 @@
   "gamemodes": {
     "CB NABOO": {
       "name": "CB NABOO",
+      "color": "#00A2FF",
       "command": "/server old-naboo"
     },
     "CB Asgard": {
       "name": "CB Asgard",
+      "color": "#00A2FF",
       "command": "/server old-asgard"
     },
     "CB Endor": {
       "name": "CB Endor",
+      "color": "#00A2FF",
       "command": "/server cb-endor"
     }
   },
