@@ -15,7 +15,7 @@
       "versions": "1.21.4<*"
     },
     "skyblock": {
-      "name": "skyblock",
+      "name": "Skyblock",
       "command": "/server skyblock",
       "color": "#83FE4B",
       "versions": "1.21.4<*"
