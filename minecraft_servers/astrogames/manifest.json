@@ -9,6 +9,19 @@
     "tiktok": "astrogames_net",
     "youtube": "https://www.youtube.com/@astrogamesnet",
     "discord": "https://discord.gg/exSDx9FWrg"
+ },
+  "gamemodes": {
+    "CB NABOO": {
+      "name": "CB NABOO",
+      "command": "/Server old-naboo"
+ },
+    "CB Asgard": {
+      "name": "CB Asgard",
+      "command": "/Server old-asgard "},
+},
+    "CB Endor": {
+      "name": "CB Endor",
+      "command": "/Server cb-endor"
   },
   "discord": {
     "server_id": 1284448735979507837,
