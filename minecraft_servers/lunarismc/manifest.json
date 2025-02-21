@@ -6,7 +6,8 @@
         "%.lunarismc.de"
     ],
     "supported_languages": [
-        "de"
+        "de",
+        "en"
     ],
     "social": {
         "web": "https://lunarismc.de",
