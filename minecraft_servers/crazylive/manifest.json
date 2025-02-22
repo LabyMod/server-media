@@ -19,7 +19,7 @@
       "name": "CityBuild",
       "color": "#FFA500",
       "command": "/citybuild",
-      "versions": "1.21.4*"
+      "versions": "1.21.4"
     }
   },
   "discord": {
