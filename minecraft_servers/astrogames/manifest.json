@@ -11,17 +11,17 @@
     "discord": "https://discord.gg/exSDx9FWrg"
   },
   "gamemodes": {
-    "CB NABOO": {
+    "cb_naboo": {
       "name": "CB NABOO",
       "color": "#00A2FF",
       "command": "/server old-naboo"
     },
-    "CB Asgard": {
+    "cb_asgard": {
       "name": "cb asgard",
       "color": "#00A2FF",
       "command": "/server old-asgard"
     },
-    "CB Endor": {
+    "cb_endor": {
       "name": "cb endor",
       "color": "#00A2FF",
       "command": "/server cb-endor"
