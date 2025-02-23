@@ -2,8 +2,8 @@
   "server_name": "anarchy",
   "nice_name": "Anarchy",
   "direct_ip": "anarchy.ac",
-  "server_wildcards": [
-    "%.anarchy.ac"
+  "supported_languages": [
+    "en"
   ],
   "social": {
     "web": "https://anarchy.ac",
@@ -16,31 +16,37 @@
   "gamemodes": {
     "anarchy": {
       "name": "Anarchy",
+      "color": "#D24449",
       "command": "/play anarchy"
     },
     "survival": {
       "name": "Survival",
+      "color": "#EC6641",
       "command": "/play survival"
     },
     "vanilla": {
       "name": "Vanilla",
+      "color": "#808080",
       "command": "/play vanilla"
     },
     "pvp": {
       "name": "PvP",
+      "color": "#F3A65D",
       "command": "/play pvp"
     },
     "crossplay": {
       "name": "Cross-Play",
+      "color": "#FEF28C",
       "command": "/play crossplay"
     },
     "raiding": {
       "name": "Raiding",
+      "color": "#FFD800",
       "command": "/play raiding"
     }
   },
   "discord": {
     "server_id": 411120767460311041,
-    "rename_to_minecraft_name": true
+    "rename_to_minecraft_name": false
   }
 }
