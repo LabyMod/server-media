@@ -24,6 +24,68 @@
     "server_id": 224546291663896578,
     "rename_to_minecraft_name": false
   },
+  "gamemodes": {
+    "skyblock": {
+      "name": "SkyBlock",
+      "color": "#c4a525",
+      "command": "/skyblock",
+      "versions": "1.18<*"
+    },
+    "olympus_prison": {
+      "name": "Olympus Prison",
+      "color": "#c4a525",
+      "command": "/olympus",
+      "versions": "1.19<*"
+    },
+    "survival": {
+      "name": "Survival",
+      "color": "#c4a525",
+      "command": "/survival",
+      "versions": "1.19<*"
+    },
+    "parkour": {
+      "name": "Parkour",
+      "color": "#c4a525",
+      "command": "/parkour",
+      "versions": "1.8<*"
+    },
+    "islands": {
+      "name": "Islands",
+      "color": "#c4a525",
+      "command": "/islands",
+      "versions": "1.16<*"
+    },
+    "anarchy": {
+      "name": "Anarchy",
+      "color": "#c4a525",
+      "command": "/anarchy",
+      "versions": "1.16<*"
+    },
+    "creative": {
+      "name": "Creative",
+      "color": "#c4a525",
+      "command": "/creative",
+      "versions": "1.19<*"
+    },
+    "earth_towny": {
+      "name": "Earth Towny",
+      "color": "#c4a525",
+      "command": "/earth",
+      "versions": "1.19<*"
+    },
+    "lifesteal_factions": {
+      "name": "Lifesteal Factions",
+      "color": "#c4a525",
+      "command": "/factions",
+      "versions": "1.19<*"
+    },
+    "kitpvp": {
+      "name": "KitPvP",
+      "color": "#c4a525",
+      "command": "/kitpvp",
+      "versions": "1.8<*"
+    }
+  },
   "yt_trailer": "YpNGlgZn2u4",
   "user_stats": "https://manacube.com/stats/player/{userName}"
 }

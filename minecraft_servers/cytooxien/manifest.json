@@ -22,6 +22,12 @@
   },
   "user_stats": "https://stats.cytooxien.de/player/{userName}",
   "gamemodes": {
+    "onlyup": {
+      "name": "Only Up!",
+      "command": "/server onlyup",
+      "color": "#ffc300",
+      "versions": "1.19<*"
+    },
     "skyblock": {
       "name": "Skyblock",
       "command": "/server skyblockx",
@@ -48,6 +54,54 @@
       "command": "/server factions",
       "color": "#ffc300",
       "url": "https://wiki.cytooxien.de/games/factions",
+      "versions": "1.19<*"
+    },
+    "realms": {
+      "name": "Realms",
+      "color": "#ffc300",
+      "url": "https://wiki.cytooxien.de/games/realms",
+      "versions": "1.19<*"
+    },
+    "minecraftparty": {
+      "name": "Minecraft Party",
+      "color": "#ffc300",
+      "url": "https://wiki.cytooxien.de/games/minecraft-party",
+      "versions": "1.19<*"
+    },
+    "heroes": {
+      "name": "Heroes",
+      "color": "#ffc300",
+      "url": "https://wiki.cytooxien.de/games/heroes",
+      "versions": "1.19<*"
+    },
+    "timejump": {
+      "name": "Timejump",
+      "color": "#ffc300",
+      "url": "https://wiki.cytooxien.de/games/timejump",
+      "versions": "1.19<*"
+    },
+    "smash": {
+      "name": "Smash",
+      "color": "#ffc300",
+      "url": "https://wiki.cytooxien.de/games/smash",
+      "versions": "1.19<*"
+    },
+    "bedwars": {
+      "name": "Bedwars",
+      "color": "#ffc300",
+      "url": "https://wiki.cytooxien.de/games/bedwars",
+      "versions": "1.19<*"
+    },
+    "ultimateknockout": {
+      "name": "Ultimate Knockout",
+      "color": "#ffc300",
+      "versions": "1.19<*"
+    },
+    "creative": {
+      "name": "Creative",
+      "command": "/server creative",
+      "color": "#ffc300",
+      "url": "https://wiki.cytooxien.de/games/creative",
       "versions": "1.19<*"
     }
   },

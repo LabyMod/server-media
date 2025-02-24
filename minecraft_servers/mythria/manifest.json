@@ -1,12 +1,13 @@
 {
   "server_name": "mythria",
-  "nice_name": "mythriaNET",
+  "nice_name": "MythriaNET",
   "direct_ip": "mythria.net",
   "supported_languages": [
      "de"
   ],
   "social": {
     "web": "https://mythria.net",
+    "web_shop": "https://store.mythria.net",
     "tiktok": "MythriaNET",
     "instagram": "MythriaNET",
     "discord": "https://dc.mythria.net"

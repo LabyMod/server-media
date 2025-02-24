@@ -1,0 +1,148 @@
+{
+  "server_name": "greev",
+  "nice_name": "Greev.eu",
+  "direct_ip": "mc.greev.eu",
+  "supported_languages": [
+    "de",
+    "en",
+    "es",
+    "fr",
+    "ja",
+    "pl",
+    "ru",
+    "tr"
+  ],
+  "social": {
+    "web": "https://greev.eu",
+    "twitter": "greeveu",
+    "instagram": "greev.eu",
+    "discord": "https://discord.com/invite/taAbPpq",
+    "teamspeak": "ts.greev.eu"
+  },
+  "location": {
+    "country": "Germany"
+  },
+  "brand": {
+    "primary": "#65ac68"
+  },
+  "user_stats": "https://greev.eu/stats/player/${userName}",
+  "gamemodes": {
+    "clutch": {
+      "name": "Clutch",
+      "color": "#3f3f3f"
+    },
+    "fastbridge": {
+      "name": "FastBridge",
+      "color": "#3f3f3f"
+    },
+    "freebuild": {
+      "name": "Freebuild",
+      "color": "#3f3f3f",
+      "versions": "1.20.2<*" 
+    },
+    "knockpvp": {
+      "name": "KnockPVP",
+      "color": "#3f3f3f"
+    },
+    "knockpvp-lab": {
+      "name": "KnockPVP Lab",
+      "color": "#3f3f3f"
+    },
+    "minesweeper": {
+      "name": "Minesweeper",
+      "color": "#3f3f3f"
+    },
+    "MLGRush": {
+      "name": "MLGRush",
+      "color": "#3f3f3f"
+    },
+    "plotworld": {
+      "name": "PlotWorld",
+      "color": "#3f3f3f"
+    },
+    "reduce": {
+      "name": "Reduce",
+      "color": "#3f3f3f"
+    },
+    "1vs1": {
+      "name": "1vs1",
+      "color": "#3f3f3f"
+    },
+    "bedwars": {
+      "name": "BedWars",
+      "color": "#3f3f3f"
+    },
+    "bowspleef": {
+      "name": "BowSpleef",
+      "color": "#3f3f3f"
+    },
+    "cores": {
+      "name": "Cores",
+      "color": "#3f3f3f"
+    },
+    "cwduel": {
+      "name": "CWDuel",
+      "color": "#3f3f3f"
+    },
+    "jumpleague": {
+      "name": "JumpLeague",
+      "color": "#3f3f3f"
+    },
+    "luckyblockbattle": {
+      "name": "LuckyBlockBattle",
+      "color": "#3f3f3f"
+    },
+    "mazesg": {
+      "name": "MazeSG",
+      "color": "#3f3f3f"
+    },
+    "mlgrush": {
+      "name": "MLGRush",
+      "color": "#3f3f3f"
+    },
+    "murder": {
+      "name": "Murder",
+      "color": "#3f3f3f"
+    },
+    "oneline": {
+      "name": "Oneline",
+      "color": "#3f3f3f"
+    },
+    "qsg": {
+      "name": "QSG",
+      "color": "#3f3f3f"
+    },
+    "quake": {
+      "name": "Quake",
+      "color": "#3f3f3f"
+    },
+    "rush": {
+      "name": "Rush",
+      "color": "#3f3f3f"
+    },
+    "skywars": {
+      "name": "SkyWars",
+      "color": "#3f3f3f"
+    },
+    "spleef": {
+      "name": "Spleef",
+      "color": "#3f3f3f"
+    },
+    "sumo": {
+      "name": "Sumo",
+      "color": "#3f3f3f"
+    },
+    "tntrun": {
+      "name": "TNTRun",
+      "color": "#3f3f3f"
+    },
+    "voelkerball": {
+      "name": "Völkerball",
+      "color": "#3f3f3f"
+    }
+  },
+  "discord": {
+    "server_id": 301471248393830413,
+    "rename_to_minecraft_name": false
+  }
+}

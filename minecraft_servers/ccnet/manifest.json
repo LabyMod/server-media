@@ -1,0 +1,18 @@
+{
+    "server_name": "ccnet",
+    "nice_name": "CometCraft Network",
+    "direct_ip": "play.ccnetmc.com",
+    "server_wildcards": [
+        "%.ccnetmc.com"
+    ],
+    "social": {
+        "web": "https://ccnetmc.com",
+        "web_shop": "https://ccnet.tebex.io",
+        "discord": "https://discord.com/invite/Xn35DhyPQq"
+    },
+    "brand": {
+        "primary": "#7F511C",
+        "background": "#DE8216",
+        "text": "#FFFFFF"
+    }
+}

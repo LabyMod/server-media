@@ -1,0 +1,20 @@
+{
+    "server_name": "ghiblicraft",
+    "nice_name": "GhibliCraft",
+    "direct_ip": "play.ghiblicraft.com",
+    "server_wildcards": [
+        "%.ghiblicraft.com"
+    ],
+    "social": {
+        "web": "https://ghiblicraft.com",
+        "twitter": "GhibliCraft",
+        "instagram": "GhibliCraft",
+        "youtube": "https://www.youtube.com/@AlanBeckerMinecraft"
+    },
+    "brand": {
+        "primary": "#40adf2",
+        "background": "#40adf2",
+        "text": "#000000"
+    },
+    "yt_trailer": "0HF9T67MQMI"
+}

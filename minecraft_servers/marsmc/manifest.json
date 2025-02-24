@@ -1,0 +1,79 @@
+{
+    "server_name": "marsmc",
+    "nice_name": "MarsMC",
+    "direct_ip": "marsmc.net",
+    "server_wildcards": [
+      "%.marsmc.net"
+    ],
+    "supported_languages": [
+      "ar",
+      "en"
+    ],
+    "social": {
+      "web_shop": "https://store.marsmc.net",
+      "twitter": "playmarsmc",
+      "discord": "https://discord.gg/marsmc",
+      "youtube": "https://www.youtube.com/@PlayMarsMC"
+    },
+    "gamemodes": {
+      "superpvp": {
+          "name": "SuperPvP",
+          "color": "#ffffff",
+          "command": "/play superpvp",
+          "versions": "1.8<*"
+      },
+      "survivalgames": {
+        "name": "Survival Games",
+        "color": "#ffffff",
+        "command": "/play sg",
+        "versions": "1.8<*"
+      },
+      "1vs1": {
+        "name": "1vs1",
+        "color": "#ffffff",
+        "versions": "1.8<*"
+      },
+      "partypvp": {
+        "name": "PartyPvP",
+        "color": "#ffffff",
+        "command": "/play partypvp",
+        "versions": "1.8<*"
+      },
+      "skypvp": {
+          "name": "SkyPvP",
+          "color": "#ffffff",
+          "command": "/play skypvp",
+          "versions": "1.8<*"
+      },
+      "redstonepvp": {
+          "name": "RedStonePvP",
+          "color": "#ffffff",
+          "versions": "1.8<*"
+      },
+      "creative": {
+          "name": "Creative",
+          "color": "#ffffff",
+          "command": "/play creative",
+          "versions": "1.8<*"
+      },
+      "timv": {
+        "name": "Trouble In Mineville",
+        "color": "#ffffff",
+        "versions": "1.8<*"
+      }
+    },
+    "location": {
+       "city": "Riyadh",
+       "country": "Saudi Arabia",
+       "country_code": "SA"
+    },
+    "discord": {
+      "server_id": 378184284080439309,
+      "rename_to_minecraft_name": false
+    },
+    "brand": {
+       "primary": "#3fc4d1",
+       "background": "#0c0600"
+    },
+    "yt_trailer": "8YH1Q6UVSEs"
+  }

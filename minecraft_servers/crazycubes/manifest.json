@@ -1,0 +1,45 @@
+{
+    "server_name": "crazycubes",
+    "nice_name": "CrazyCubes Network",
+    "direct_ip": "play.crazycubes.net",
+    "server_wildcards": [
+      "%.crazycubes.net"
+    ],
+    "supported_languages": [
+      "es"
+    ],
+    "social": {
+      "web": "https://www.crazycubes.net",
+      "web_shop": "https://tienda.crazycubes.net",
+      "twitter": "CrazyCubes_nt",
+      "discord": "https://discord.gg/B7tbbf2g4R"
+    },
+    "gamemodes": {
+      "survivalclasico": {
+        "name": "Survival Clasico",
+        "color": "#FFF"
+      },
+      "survivalpvp": {
+        "name": "Survival PvP",
+        "color": "#FFF"
+      },
+	  "boxpvp": {
+        "name": "BoxPvP",
+        "color": "#FFF"
+      }
+    },
+    "brand": {
+       "primary": "#FF3344",
+       "background": "#00000",
+       "text": "#FFFFFF"
+    },
+    "location": {
+      "city": "Beauharnois",
+      "country": "Canada",
+      "country_code": "CA"
+    },
+    "discord": {
+      "server_id": 988034506722250822,
+      "rename_to_minecraft_name": false
+    }
+}

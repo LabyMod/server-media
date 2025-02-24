@@ -10,26 +10,31 @@
     "en"
   ],
   "social": {
-    "twitter": "Anturnia",
+    "web": "https://anturnia.net",
+    "twitter": "anturnia",
     "discord": "https://discord.gg/gYsf49MzwH",
     "tiktok": "anturnia",
-    "youtube": "https://www.youtube.com/channel/UCC7T5dkkUHB7MGliA1YRohQ"
+    "youtube": "https://www.youtube.com/@anturnia"
   },
   "gamemodes": {
-    "oneblock": {
-      "name": "OneBlock [1.17 - 1.19]",
-      "command": "/oneblock",
-      "color": "#00aa00"
+    "smp": {
+      "name": "SMP",
+      "color": "#00aa00",
+      "versions": "1.21<*"
     },
-    "kitpvp": {
-      "name": "KitPVP [1.8 - 1.19]",
-      "command": "/kitpvp",
-      "color": "#00aa00"
+    "oneblock": {
+      "name": "OneBlock",
+      "color": "#00aa00",
+      "versions": "1.18<*"
     }
   },
   "discord": {
     "server_id": 870227603615805441,
     "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#001400",
+     "background": "#02ad02"
   },
   "location": {
     "city": "Nürnberg",

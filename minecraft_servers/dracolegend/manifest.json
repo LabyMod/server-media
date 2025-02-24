@@ -1,0 +1,21 @@
+{
+  "server_name": "dracolegend",
+  "nice_name": "DracoLegend Network",
+  "direct_ip": "dracolegend.net",
+  "server_wildcards": [
+    "%.dracolegend.net"
+  ],
+  "supported_languages": [
+     "es"
+  ],
+  "social": {
+    "web": "https://dracolegend.net",
+    "web_shop": "https://dracolegend.craftingstore.net",
+    "discord": "https://discord.com/invite/zYWqcWH",
+    "youtube": "https://www.youtube.com/channel/UCsX3cWloRSzcUXNozlGReLA"
+  },
+  "brand": {
+     "primary": "#222222",
+     "background": "#70c89e"
+  }
+}

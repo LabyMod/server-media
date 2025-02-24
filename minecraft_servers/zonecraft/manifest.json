@@ -1,60 +1,66 @@
 {
     "server_name": "zonecraft",
-    "nice_name": "ZoneCraft Network",
-    "direct_ip": "play.zonecraft.es",
+    "nice_name": "ZoneCraft",
+    "direct_ip": "zonecraft.es",
     "server_wildcards": [
       "%.zonecraft.es",
       "%.zonecn.es",
       "%.hypixel.es",
-      "%.amamarla.com",
-      "%.banananetwork.es",
-      "%.darktimes.es",
-      "%.bedwars.es",
-      "%.zonehosting.net",
-      "%.skywars.es",
-      "%.pickaxe.es"
+      "%.amamarla.com"
     ],
     "supported_languages": [
       "es",
       "en"
     ],
     "social": {
-      "web": "https://zonecraft.es",
+      "web": "https://www.zonecraft.es",
       "web_shop": "https://tienda.zonecraft.es",
       "twitter": "ZoneCraftES",
       "discord": "https://discord.gg/zonecraft",
-      "youtube": "https://www.youtube.com/c/ZoneCraftNetwork",
+      "youtube": "https://www.youtube.com/@ZoneCraftES",
       "instagram": "zonecraftes",
       "tiktok": "zonecraftes"
     },
     "gamemodes": {
       "bedwars": {
         "name": "BedWars",
-        "color": "#FFF"
+        "color": "#FFF",
+        "command": "/l bedwars"
       },
       "skywars": {
         "name": "SkyWars",
-        "color": "#FFF"
+        "color": "#FFF",
+        "command": "/l skywars"
       },
       "arenapvp": {
         "name": "ArenaPvP",
-        "color": "#FFF"
+        "color": "#FFF",
+        "command": "/l arenapvp"
       },
       "breezily": {
         "name": "Breezily",
-        "color": "#FFF"
+        "color": "#FFF",
+        "command": "/l breezily"
       },
       "knockback_ffa": {
         "name": "Knockback FFA",
-        "color": "#FFF"
-      },
-      "bedwars_practice": {
-        "name": "BedWars Practice",
-        "color": "#FFF"
+        "color": "#FFF",
+        "command": "/l kbffa"
       },
       "skypvp": {
         "name": "SkyPvP",
-        "color": "#FFF"
+        "color": "#FFF",
+        "command": "/l skypvp"
+      },
+      "arena_ffa": {
+        "name": "ArenaPvP FFA",
+        "color": "#FFF",
+        "command": "/l arena_ffa"
+      },
+      "bedwars_practice": {
+        "name": "BedWars Practice",
+        "color": "#FFF",
+        "command": "/l bw_practice"
       }
     },
     "brand": {
@@ -71,5 +77,5 @@
       "server_id": 424584809612836865,
       "rename_to_minecraft_name": false
     },
-    "yt_trailer": "NrVUUFEAij8"
+    "yt_trailer": "lxWY1GaPK54"
 }

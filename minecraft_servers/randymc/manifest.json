@@ -1,22 +1,17 @@
 {
   "server_name": "randymc",
-  "nice_name": "RandyMC.de",
+  "nice_name": "RandyMC",
   "direct_ip": "randymc.de",
-  "server_wildcards": [
-    "%.randymc.de",
-    "%.randymc.net",
-    "%.randymc.com"
+  "supported_languages": [
+    "de",
+    "en"
   ],
   "social": {
-    "web": "https://randymc.de/",
-    "twitter": "RandyMC",
-    "teamspeak": "ts.randymc.de",
-    "discord": "https://randymc.de/discord",
-    "web_shop": "https://shop.randymc.de/",
-    "web_support": "https://support.randymc.de/"
+    "web": "https://www.randymc.de",
+    "discord": "https://discord.gg/ztPyTVWVKX"
   },
   "discord": {
-    "server_id": 322498802583994370,
-    "rename_to_minecraft_name": true
+    "server_id": 1329848085580353546,
+    "rename_to_minecraft_name": false
   }
 }

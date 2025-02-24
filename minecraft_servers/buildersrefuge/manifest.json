@@ -1,0 +1,21 @@
+{
+    "server_name": "buildersrefuge",
+    "nice_name": "Builder's Refuge",
+    "direct_ip": "mc.buildersrefuge.com",
+    "server_wildcards": [
+        "%.buildersrefuge.com"
+    ],
+    "social": {
+        "web": "https://www.buildersrefuge.com",
+        "web_shop": "https://store.buildersrefuge.com",
+        "twitter": "BuildersRefuge",
+        "discord": "https://discord.com/invite/8tPxEVtB",
+        "youtube": "https://www.youtube.com/buildersrefuge"
+    },
+    "brand": {
+        "primary": "#222222",
+        "background": "#4ab7c3",
+        "text": "#000000"
+    },
+    "yt_trailer": "LnwuwqVUf0g"
+}

@@ -1,0 +1,22 @@
+{
+    "server_name": "lazerlife",
+    "nice_name": "LazerLife Netzwerk",
+    "direct_ip": "lazerlife.de",
+    "server_wildcards": [
+      "%.lazerlife.de"
+    ],
+    "social": {
+      "web": "https://lazerlife.de",
+      "web_shop": "https://lazerlife.tebex.io",
+      "discord": "https://discord.gg/3CWP89Q7CB"
+    },
+    "brand": {
+      "background": "#FFAA00",
+      "text": "#0C0F12"
+    },
+    "location": {
+      "city": "Hamburg",
+      "country": "Germany",
+      "country_code": "DE"
+    }
+  }

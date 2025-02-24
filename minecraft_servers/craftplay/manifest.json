@@ -1,0 +1,74 @@
+{
+  "server_name": "craftplay",
+  "nice_name": "Craftplay.de",
+  "direct_ip": "craftplay.de",
+  "server_wildcards": [
+    "%.craftplay.de"
+  ],
+  "supported_languages": [
+     "de"
+  ],
+  "social": {
+    "web": "https://www.craftplay.de",
+    "web_shop": "https://www.craftplay.de/shop",
+    "web_support": "https://www.craftplay.de/support",
+    "tiktok": "craftplay.de",
+    "facebook": "CraftplayDE",
+    "instagram": "craftplay.de",
+    "discord": "https://discord.gg/vYFKFgF5mH",
+    "youtube": "https://www.youtube.com/@craftplayDE",
+    "teamspeak": "ts.craftplay.de"
+  },
+  "gamemodes": {
+    "citybuild": {
+      "name": "Spielerstädte", 
+      "color": "#5454FC",
+      "url": "https://www.craftplay.de/wiki/citybuild",
+      "command": "/spielerstädte",
+      "versions": "1.20<*"
+    },
+    "plotserver": {
+      "name": "Plotserver",
+      "color": "#55FFFF",
+      "url": "https://www.craftplay.de/wiki/plotserver",
+      "command": "/plotserver",
+      "versions": "1.20<*"
+    },
+    "skygames": {
+      "name": "SkyBlock",
+      "color": "#54FC54",
+      "url": "https://www.craftplay.de/wiki/skygames",
+      "command": "/skygames",
+      "versions": "1.20<*"
+    },
+    "oneblock": {
+      "name": "Oneblock", 
+      "color": "#008800",
+      "url": "https://craftplay.de/wiki/oneblock",
+      "command": "/oneblock",
+      "versions": "1.20<*"
+    },
+    "survival": {
+      "name": "Survival", 
+      "color": "#A800A8",
+      "url": "https://www.craftplay.de/wiki/anarchie",
+      "command": "/survival",
+      "versions": "1.20<*"
+    }
+  },
+  "discord": {
+    "server_id": 861538009517654046,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#00E83C",
+     "background": "#0AA51C",
+     "text": "#FFFFFF"
+  }, 
+  "location": {
+     "city": "Falkenstein",
+     "country": "Germany",
+     "country_code": "DE"
+  },
+  "yt_trailer": "opSRr2cnSPU"
+}

@@ -15,13 +15,16 @@
 | `social.web_shop`                  | [Shop **URL**](Usages.md#links)                                                                      | `"https://labymod.net/shop"`                                                                      |
 | `social.web_support`               | [Support page **URL**](Usages.md#links), e.g. faq page                                               | `"https://labymod.net/support"`                                                                   |
 | `social.twitter`                   | [Twitter **username**](Usages.md#social)                                                             | `"LabyMod"`                                                                                       |
-| `social.discord`                   | [Discord invite **URL**](Usages.md#social)                                                           | `"https://discord.gg/labymod"` *or* `"https://discord.gg/Wbg7rArky7"` ([Read more](#discord-url)) |
-| `social.teamspeak`                 | [TeamSpeak server address](Usages.md#social)                                                         | `"ts.labymod.net"`                                                                                |
 | `social.tiktok`                    | [TikTok **username**](Usages.md#social)                                                              | `"LabyMod"`                                                                                       |
 | `social.facebook`                  | [Facebook **username**](Usages.md#social)                                                            | `"LabyMod"`                                                                                       |
-| `social.youtube`                   | [YouTube channel **URL**](Usages.md#social)                                                          | `"https://www.youtube.com/channel/UCSamgE1KYvC7qZn56T0J2yg"`                                      |
 | `social.instagram`                 | [Instagram **username**](Usages.md#social)                                                           | `"LabyMod"`                                                                                       |
-| `gamemodes`                        | [Gamemodes](Usages.md#gamemodes)                                                                     | [gamemode object](#gamemode-object)                                                               |
+| `social.discord`                   | [Discord invite **URL**](Usages.md#social)                                                           | `"https://discord.gg/labymod"` *or* `"https://discord.gg/Wbg7rArky7"` ([Read more](#discord-url)) |
+| `social.youtube`                   | [YouTube channel **URL**](Usages.md#social)                                                          | `"https://www.youtube.com/channel/UCSamgE1KYvC7qZn56T0J2yg"`                                      |
+| `social.teamspeak`                 | [TeamSpeak server address](Usages.md#social)                                                         | `"ts.labymod.net"`                                                                                |
+| `gamemodes`                        | [Gamemodes](Usages.md#gamemodes)                                                                     | [Gamemode object](#gamemode-object)                                                               |
+| `chat`                             | Chat                                                                                                 | [Chat object](#chat-object)                                                                       |
+| `discord.server_id`                | [Discord server id](Usages.md#one-click-discord-join-partner-only)                                   | `260471731809026048`                                                                              |
+| `discord.rename_to_minecraft_name` | Boolean whether the user should be renamed when joining                                              | `false` (`true` only allowed for server partners)                                                 |
 | `brand.primary`                    | [Primary brand color](Usages.md#colorize-your-page)                                                  | `"#008FE8"`                                                                                       |
 | `brand.background`                 | [Background-color](Usages.md#colorize-your-page)                                                     | `"#0A56A5"`                                                                                       |
 | `brand.text`                       | [Text color](Usages.md#colorize-your-page) (*must fit with the background color*)                    | `"#FFFFFF"`                                                                                       |
@@ -30,29 +33,38 @@
 | `location.country_code`            | [Server location: Country code](Usages.md#server-location) - Format: ISO 3166-1 alpha-2 (upper-case) | `"DE"`                                                                                            |
 | `yt_trailer`                       | [YouTube trailer **embed ID**](Usages.md#server-trailer)                                             | `"vNF-ztQGnUo"`                                                                                   |
 | `user_stats`                       | [User stats url](Usages.md#links)                                                                    | `"https://laby.net/@{userName}"` *or* `"https://laby.net/@{uuid}"`                                |
-| `discord.server_id`                | [Discord server id](Usages.md#one-click-discord-join-partner-only)                                   | `260471731809026048`                                                                              |
-| `discord.rename_to_minecraft_name` | Boolean whether the user should be renamed when joining.                                             | `false`                                                                                           |
-| `chat`                             | Chat                                                                                                 | [chat object](#chat-object)                                                                       |
+| `command_delay`                    | Delay of commands in ms when joining on the server and automatically executing a command             | `3000`                                                                                            |
 
 * Required values are: `server_name`, `nice_name` & `direct_ip`
 
 ### Chat object
 | Key               | Description                             | Example value |
 |-------------------|-----------------------------------------|---------------|
-| `message_formats` | Regex for chat messages sent by players | see below     |
+| `message_formats` | Regex for chat messages sent by players | See below     |
 ```json
 [
   "^§[a-f0-9](?<level>\\d+)(| §[a-f0-9](?<rank>\\S+)) §e(?<sender>[a-zA-Z0-9_]{2,16}) §f(?<message>.*)$"
 ]
 ```
 
+**Example color and formatting code regex:**
+
+| Description                           | Regex                                                                                                     |
+|---------------------------------------|-----------------------------------------------------------------------------------------------------------|
+| Any color code                        | `§[a-f0-9]`                                                                                               |
+| Any formatting code                   | `§[k-or]`                                                                                                 |
+| Any color or formatting code          | `§[a-fk-or0-9]`                                                                                           |
+| Any color or formatting code in a row | Zero or one: `(§[a-fk-or0-9])?`<br/>At least one: `(§[a-fk-or0-9])+`<br/>Zero or more: `(§[a-fk-or0-9])*` |
+| Player name                           | `[a-zA-Z0-9_]{2,16}`                                                                                      |
+
 ### Gamemode object
+
 | Key        | Description                                                | Example value                              |
 |------------|------------------------------------------------------------|--------------------------------------------|
 | `name`*    | Gamemode nice name                                         | `"JumpWorld"`                              |
 | `color`*   | Brand color                                                | `"#ADD8E6"`                                |
 | `url`      | Gamemode description url / website related to the gamemode | `"https://www.timolia.de/games#jumpworld"` |
-| `command`  | e.g. quickjoin-command                                     | `"/quickjoin jumpworld"`                   |
+| `command`  | E.g. quickjoin-command                                     | `"/quickjoin jumpworld"`                   |
 | `versions` | Restrict supported Minecraft versions for the gamemode     | `"1.17<1.19.1"`, `"1.8<*"`                 |
 
 * Required values are: `name` & `color`
@@ -106,6 +118,11 @@ like https://labymod.net/dc are only supported for partner servers.<br>
       "versions": "1.8<*"
     }
   },
+  "chat": {
+    "message_formats": [
+      "^§[a-f0-9](?<level>\\d+)( \\||§8 \\|) §[a-f0-9](?<sender>[a-zA-Z0-9_]{2,16})§r§7: §f(?<message>.*)$"
+    ]
+  },
   "discord": {
     "server_id": 260471731809026048,
     "rename_to_minecraft_name": false
@@ -121,6 +138,7 @@ like https://labymod.net/dc are only supported for partner servers.<br>
      "country_code": "DE"
   },
   "yt_trailer": "8asFIRe2HSw",
-  "user_stats": "https://laby.net/@{userName}"
+  "user_stats": "https://laby.net/@{userName}",
+  "command_delay": 3000
 }
 ```
