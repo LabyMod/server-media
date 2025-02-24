@@ -17,12 +17,12 @@
       "command": "/server old-naboo"
     },
     "cb_asgard": {
-      "name": "cb asgard",
+      "name": "CB Asgard",
       "color": "#00A2FF",
       "command": "/server old-asgard"
     },
     "cb_endor": {
-      "name": "cb endor",
+      "name": "CB Endor",
       "color": "#00A2FF",
       "command": "/server cb-endor"
     }
