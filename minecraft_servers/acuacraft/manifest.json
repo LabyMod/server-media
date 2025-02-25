@@ -2,9 +2,6 @@
     "server_name": "acuacraft",
     "nice_name": "AcuaCraft Network",
     "direct_ip": "mc.acuacraft.es",
-    "server_wildcards": [
-        "@.acuacraft.es"
-    ],
     "supported_languages": [
         "es"
     ],
