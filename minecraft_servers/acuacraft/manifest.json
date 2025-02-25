@@ -3,7 +3,7 @@
     "nice_name": "AcuaCraft Network",
     "direct_ip": "mc.acuacraft.es",
     "server_wildcards": [
-        "%mc.acuacraft.es"
+        "mc.acuacraft.es"
     ],
     "supported_languages": [
         "es"
