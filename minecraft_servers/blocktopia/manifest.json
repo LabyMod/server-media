@@ -1,9 +1,9 @@
 {
   "server_name": "blocktopia",
   "nice_name": "BlocktopiaMC",
-  "direct_ip": "*.blocktopiamc.de",
-  "supported_languages": [
-    "de"
+  "direct_ip": "blocktopiamc.de",
+  "server_wildcards":[
+     "%.blocktopiamc.de"
   ],
   "social": {
     "tiktok": "BlocktopiaMC.de",
