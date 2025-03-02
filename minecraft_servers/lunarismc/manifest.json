@@ -14,13 +14,13 @@
             "name": "SkyBlock",
             "color": "#5454FC",
             "command": "/server sb-1",
-            "versions": "1.19.x"
+            "versions": "1.20.4 - 1.21.1"
         },
         "cb": {
             "name": "CityBuild",
             "color": "#54FC54",
             "command": "/server cb-1",
-            "versions": "1.19.x"
+            "versions": "1.20.4 - 1.21.1"
         }
     },
     "brand": {
