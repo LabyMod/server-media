@@ -1,0 +1,27 @@
+{
+  "server_name": "endermine",
+  "nice_name": "EnderMine",
+  "direct_ip": "endermine.de",
+  "supported_languages": [
+     "de"
+  ],
+  "social": {
+    "tiktok": "alexlol.xd",
+    "youtube": "https://www.youtube.com/@stuubii",
+    "discord": "https://discord.gg/R9cajkqktM"
+  },
+  "discord": {
+    "server_id": 1323959337521254511,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#818181",
+    "background": "#ffffff",
+    "text": "#000000"
+  },
+  "location": {
+     "city": "Frankfurt",
+     "country": "Germany",
+     "country_code": "DE"
+   }
+}
