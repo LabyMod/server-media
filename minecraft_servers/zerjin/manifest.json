@@ -20,13 +20,19 @@
       "name": "City",
       "color": "#ffcc00",
       "command": "/kompass City",
-      "versions": "1.20.4<*"
+      "versions": "1.21.3<*"
     },
     "lands": {
       "name": "Lands",
       "color": "#00ad26",
       "command": "/kompass Lands",
-      "versions": "1.20.4<*"
+      "versions": "1.21.3<*"
+    },
+    "oneblock": {
+      "name": "OneBlock",
+      "color": "#08B0EE",
+      "command": "/kompass OneBlock",
+      "versions": "1.21.3<*"
     },
     "missilewars": {
       "name": "MissileWars",
@@ -43,6 +49,11 @@
     "primary": "#08B0EE",
     "background": "#08B0EE",
     "text": "#ffffff"
+  },
+  "location": {
+    "city": "Frankfurt a. M.",
+    "country": "Deutschland",
+    "country_code": "DE"
   },
   "yt_trailer": "I84EqbC-uwU"
 }
