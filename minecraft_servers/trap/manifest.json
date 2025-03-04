@@ -3,13 +3,12 @@
   "nice_name": "Trap",
   "direct_ip": "trapmc.com.br",
   "supported_languages": [
-    "pt-BR",
-    "pt-PT"
+        "pt-BR",
+        "pt-PT" 
   ],
   "social": {
-    "twitter": "RedeTrapMC",
+        "web": "https://loja.trapmc.com.br"
     "discord": "https://discord.gg/UXtNDVA6YZ",
-    "youtube": "https://www.youtube.com/@redetrapmc"
   },
   "gamemodes": {
     "fasthg": {
@@ -32,9 +31,12 @@
       "color": "#EB7A34",
       "versions": "1.8<*"
   },
+  "discord": {
+      "server_id": 1306389755256111185,
+      "rename_to_minecraft_name": false
   "location": {
     "city": "São Paulo",
-    "country": "Brazil",
+    "country": "Brasil",
     "country_code": "BR"
   }
 }
