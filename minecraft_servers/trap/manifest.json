@@ -15,12 +15,12 @@
     "fasthg": {
       "name": "FastHG",
       "color": "#EB7A34",
-      "versions": "1.7<*"
+      "versions": "1.8<*"
     },
     "academy": {
       "name": "Academy",
       "color": "#EB7A34",
-      "versions": "1.7<*"
+      "versions": "1.8<*"
     },
     "royale": {
       "name": "Royale",
@@ -30,7 +30,7 @@
     "duels": {
       "name": "Duels",
       "color": "#EB7A34",
-      "versions": "1.7<*"
+      "versions": "1.8<*"
   },
   "location": {
     "city": "São Paulo",
