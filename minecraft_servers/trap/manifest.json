@@ -2,17 +2,11 @@
     "server_name": "trap",
     "nice_name": "Trap",
     "direct_ip": "trapmc.com.br",
-    "server_wildcards": [
-      "%.trapmc.com.br"
-    ],
     "supported_languages": [
        "pt-BR"
     ],
     "social": {
       "web": "https://loja.trapmc.com.br/",
-      "web_shop": "https://loja.trapmc.com.br/",
-      "discord": "https://discord.gg/UXtNDVA6YZ",
-      "youtube": "https://www.youtube.com/@RedeTrapMC"
     },
     "discord":
       "server_id": 1306389755256111185,
