@@ -3,7 +3,8 @@
   "nice_name": "Trap",
   "direct_ip": "trapmc.com.br",
   "supported_languages": [
-    "pt_BR"
+    "pt-BR",
+    "pt-PT"
   ],
   "social": {
     "twitter": "RedeTrapMC",
