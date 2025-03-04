@@ -27,9 +27,6 @@
       "color": "#EB7A34",
       "versions": "1.8<*"
   },
-  "discord": {
-      "server_id": 1306389755256111185,
-      "rename_to_minecraft_name": false
   "location": {
     "city": "São Paulo",
     "country": "Brasil",
