@@ -1,0 +1,11 @@
+{
+  "server_name": "moonmc",
+  "nice_name": "MoonMC",
+  "direct_ip": "moonmc.de",
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "discord": "https://dc.moonmc.de/"
+  }
+}
