@@ -26,6 +26,7 @@
       "name": "Duels",
       "color": "#EB7A34",
       "versions": "1.8<*"
+    }
   },
   "location": {
     "city": "São Paulo",
