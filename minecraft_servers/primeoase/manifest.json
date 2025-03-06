@@ -1,0 +1,30 @@
+{
+    "server_name": "primeoase",
+    "nice_name": "PrimeOase",
+    "direct_ip": "PrimeOase.net",
+    "server_wildcards": [
+        "server.primeoase.net"
+    ],
+    "supported_languages": [
+        "en",
+        "de"
+    ],
+    "social": {
+        "discord": "https://discord.gg/WPnCN2zgRK"
+    },
+    "discord": {
+        "server_id": 260471731809026050,
+        "rename_to_minecraft_name": false
+    },
+    "brand": {
+        "primary": "#008FE8",
+        "background": "#0A56A5",
+        "text": "#FFFFFF"
+    },
+    "location": {
+        "city": "Frankfurt",
+        "country": "Germany",
+        "country_code": "DE"
+    },
+    "yt_trailer": "ALDVIj3adBk"
+}
