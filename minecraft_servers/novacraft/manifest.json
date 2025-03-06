@@ -1,7 +1,7 @@
 {
     "server_name": "novacraft",
     "nice_name": "NovaCraft",
-    "direct_ip": "novacraftmc.de",
+    "direct_ip": ".novacraftnc.net",
     "supported_languages": [
         "de"
     ],
