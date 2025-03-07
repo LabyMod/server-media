@@ -290,17 +290,17 @@ def check_server_online_state(ip: str, wildcards: list):
         if 'motd' in response:
             for line in response['motd']['clean']:
                 line_content = line.lower()
-                if line_content in ['maintenance', 'wartung', 'wartungen', 'mantenimiento', 'wartungsarbeiten']:
+                if any(keyword in line_content for keyword in ['maintenance', 'wartung', 'wartungen', 'mantenimiento', 'wartungsarbeiten']):
                     maintenance_tagged = True
-                else:
-                    print(f'No maintenance found in MOTD')
         if 'version' in response:
             version_name = response['version'].lower()
-            if version_name in ['maintenance', 'wartung', 'wartungen', 'mantenimiento', 'wartungsarbeiten']:
+            if any(keyword in version_name for keyword in ['maintenance', 'wartung', 'wartungen', 'mantenimiento', 'wartungsarbeiten']):
                 maintenance_tagged = True
 
         if maintenance_tagged:
             post_comment(f'The server {ip} **is in maintenance**.\n {offline_text}')
+        else:
+            print(f'No maintenance found in MOTD nor version')
 
 
 def comment_needed():
