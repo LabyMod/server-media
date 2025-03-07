@@ -285,7 +285,6 @@ def check_server_online_state(ip: str, wildcards: list):
     wildcard_string += f'\nPlease make sure it is an [actual wildcard](https://en.wikipedia.org/wiki/Wildcard_DNS_record).\n'
     if wildcard_comment:
         post_comment(wildcard_string, 'comments')
-
     if 'motd' in response or 'version' in response:
         maintenance_tagged = False
         if 'motd' in response:
@@ -293,7 +292,6 @@ def check_server_online_state(ip: str, wildcards: list):
                 line_content = line.lower()
                 if any(keyword in line_content for keyword in ['maintenance', 'wartung', 'wartungen', 'mantenimiento', 'wartungsarbeiten']):
                     maintenance_tagged = True
-
         if 'version' in response:
             version_name = response['version'].lower()
             if any(keyword in version_name for keyword in ['maintenance', 'wartung', 'wartungen', 'mantenimiento', 'wartungsarbeiten']):
