@@ -1,6 +1,6 @@
 {
   "server_name": "craftergang",
-  "nice_name": "Craftergang",
+  "nice_name": "Craftergang.DE | Bedrock & Java 1.8 Minigames",
   "direct_ip": "craftergang.de",
   "supported_languages": [
     "de",
@@ -41,7 +41,7 @@
       "versions": "1.8<1.21.4"
     },
     "cbwildniss": {
-      "name": "CB Wildniss",
+      "name": "CB Wildnis",
       "color": "#0d6914",
       "command": "/gametp cb2",
       "versions": "1.21.3<1.21.4"
