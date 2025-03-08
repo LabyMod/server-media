@@ -1,0 +1,36 @@
+{
+  "server_name": "trap",
+  "nice_name": "Trap",
+  "direct_ip": "trapmc.com.br",
+  "social": {
+    "web": "https://loja.trapmc.com.br",
+    "discord": "https://discord.gg/UXtNDVA6YZ"
+  },
+  "gamemodes": {
+    "fasthg": {
+      "name": "FastHG",
+      "color": "#EB7A34",
+      "versions": "1.8<*"
+    },
+    "academy": {
+      "name": "Academy",
+      "color": "#EB7A34",
+      "versions": "1.8<*"
+    },
+    "royale": {
+      "name": "Royale",
+      "color": "#EB7A34",
+      "versions": "1.8<*"
+    },
+    "duels": {
+      "name": "Duels",
+      "color": "#EB7A34",
+      "versions": "1.8<*"
+    }
+  },
+  "location": {
+    "city": "São Paulo",
+    "country": "Brasil",
+    "country_code": "BR"
+  }
+}
