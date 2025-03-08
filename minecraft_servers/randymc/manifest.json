@@ -1,0 +1,17 @@
+{
+  "server_name": "randymc",
+  "nice_name": "RandyMC",
+  "direct_ip": "randymc.de",
+  "supported_languages": [
+    "de",
+    "en"
+  ],
+  "social": {
+    "web": "https://www.randymc.de",
+    "discord": "https://discord.gg/ztPyTVWVKX"
+  },
+  "discord": {
+    "server_id": 1329848085580353546,
+    "rename_to_minecraft_name": false
+  }
+}
