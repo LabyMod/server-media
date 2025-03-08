@@ -1,0 +1,34 @@
+{
+  "server_name": "minefreaksde",
+  "nice_name": "MinefreaksDE Netzwerk",
+  "direct_ip": "play.minefreaks.de",
+  "server_wildcards": [
+    "minefreaks.de"
+  ],
+  "social": {
+    "web": "https://web.minefreaks.de",
+    "youtube": "https://www.youtube.com/@MinefreaksDE",
+    "discord": "https://discord.gg/mXa2YvFFyG"
+  },
+  "gamemodes": {
+    "smp": {
+      "name": "SMP",
+      "color": "#ffa800",
+      "command": "/smp"
+    },
+    "citybuild":{
+      "name": "CityBuild",
+      "color": "#ffa800",
+      "command": "/citybuild"
+    },
+    "freebuild":{
+      "name": "Freebuild",
+      "color": "#ffa800",
+      "command": "/freebuild"
+    }
+  },
+  "discord": {
+    "server_id": 1338264616832204943,
+    "rename_to_minecraft_name": false
+  }
+}
