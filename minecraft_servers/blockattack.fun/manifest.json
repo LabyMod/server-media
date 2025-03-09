@@ -1,0 +1,20 @@
+{
+  "server_name": "blockattack.fun",
+  "nice_name": "blockattack.fun",
+  "direct_ip": "blockattack.fun",
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "webseite": "https://www.blockattack.fun/",
+    "discord": "https://www.blockattack.fun/discord"
+  },
+  "brand": {
+    "primary": "#ADD8E6"
+  },
+  "location": {
+    "city": "Sachsen",
+    "country": "Deutschland",
+    "country_code": "DE"
+  }
+}
