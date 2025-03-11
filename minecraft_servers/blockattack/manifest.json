@@ -1,12 +1,12 @@
 {
-  "server_name": "blockattack.fun",
+  "server_name": "blockattack",
   "nice_name": "blockattack.fun",
   "direct_ip": "blockattack.fun",
   "supported_languages": [
     "de"
   ],
   "social": {
-    "webseite": "https://www.blockattack.fun/"
+    "website": "https://www.blockattack.fun"
   },
   "brand": {
     "primary": "#ADD8E6"
