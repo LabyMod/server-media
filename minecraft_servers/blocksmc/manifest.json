@@ -32,37 +32,31 @@
     "prison": {
       "name": "Prison",
       "command": "/server prison",
-      "color": "#FF5555",
-      "url": "https://blocksmc.com/prison"
+      "color": "#FF5555"
     },
     "pvp": {
       "name": "PvP",
       "command": "/server pvp",
-      "color": "#FF5555",
-      "url": "https://blocksmc.com/pvp"
+      "color": "#FF5555"
     },
     "skypvp": {
       "name": "SkyPvP",
       "command": "/server skypvp",
-      "color": "#FF5555",
-      "url": "https://blocksmc.com/skypvp"
+      "color": "#FF5555"
     },
     "redstonepvp": {
       "name": "RedStonePvP",
       "command": "/server redstonepvp",
-      "color": "#AA0000",
-      "url": "https://blocksmc.com/redstonepvp"
+      "color": "#AA0000"
     },
     "creative": {
       "name": "Creative",
       "command": "/server creative",
-      "color": "#55FFFF",
-      "url": "https://blocksmc.com/creative"
+      "color": "#55FFFF"
     },
     "skypvp_classic": {
       "name": "SkyPvP Classic",
-      "color": "#FF5555",
-      "url": "https://blocksmc.com/skypvp-classic"
+      "color": "#FF5555"
     },
     "bedwars_solo": {
       "name": "BedWars Solo",
@@ -71,18 +65,15 @@
     },
     "bedwars_doubles": {
       "name": "BedWars Doubles",
-      "color": "#AA0000",
-      "url": "https://blocksmc.com/bed-wars-doubles"
+      "color": "#AA0000"
     },
     "bedwars_3v3v3v3": {
       "name": "BedWars 3v3v3v3",
-      "color": "#AA0000",
-      "url": "https://blocksmc.com/bed-wars-3v3v3v3"
+      "color": "#AA0000"
     },
     "bedwars_4v4v4v4": {
       "name": "BedWars 4v4v4v4",
-      "color": "#AA0000",
-      "url": "https://blocksmc.com/bed-wars-4v4v4v4"
+      "color": "#AA0000"
     },
     "eggwars_solo": {
       "name": "EggWars Solo",
@@ -166,8 +157,7 @@
     },
     "partypvp": {
       "name": "PartyPvP",
-      "color": "#FF55FF",
-      "url": "https://blocksmc.com/party-pvp"
+      "color": "#FF55FF"
     },
     "1vs1": {
       "name": "1vs1",
@@ -176,18 +166,15 @@
     },
     "thebridge_1vs1": {
       "name": "TheBridge 1vs1",
-      "color": "#5555FF",
-      "url": "https://blocksmc.com/the-bridge-1vs1"
+      "color": "#5555FF"
     },
     "thebridge_2vs2": {
       "name": "TheBridge 2vs2",
-      "color": "#5555FF",
-      "url": "https://blocksmc.com/the-bridge-2vs2"
+      "color": "#5555FF"
     },
     "thebridge_4vs4": {
       "name": "TheBridge 4vs4",
-      "color": "#5555FF",
-      "url": "https://blocksmc.com/the-bridge-4vs4"
+      "color": "#5555FF"
     },
     "murdermystery": {
       "name": "MurderMystery",
