@@ -31,6 +31,7 @@
     "templerun": {
       "name": "TempleRun",
       "color": "#47A036",
+      "color": "#ffaa00",
       "versions": "1.21<*"
     },
     "worlds": {
