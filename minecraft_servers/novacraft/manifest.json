@@ -1,12 +1,12 @@
 {
     "server_name": "novacraft",
     "nice_name": "NovaCraft",
-    "direct_ip": "Novacraftmc.de",
+    "direct_ip": "Novacraftnc.net",
     "supported_languages": [
         "de"
     ],
     "social": {
-        "tiktok": "novacraftmc.de",
+        "tiktok": "novacraftnc.net",
         "discord": "https://discord.gg/2bjW9uhdfB",
         "youtube": "https://youtube.com/novacraftmc_de"
     },
