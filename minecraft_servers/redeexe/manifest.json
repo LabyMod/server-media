@@ -5,11 +5,13 @@
     "gamemodes": {
       "p4free": {
         "name": "P4Free",
-        "command": "/play p4free"
+        "command": "/play p4free",
+        "color": "#FF0000"
       },
       "rankup": {
         "name": "RankUP",
-        "command": "/play rankup"
+        "command": "/play rankup",
+        "color": "#9532A8"
       }
     },
     "social": {
@@ -20,8 +22,8 @@
       "rename_to_minecraft_name": false
     },
     "brand": {
-      "primary": "#db190b",
-      "background": "#db190b",
+      "primary": "#DB190B",
+      "background": "#DB190B",
       "text": "#FFFFFF"
     },
     "location": {
@@ -32,4 +34,4 @@
       "pt-BR",
       "pt-PT"
     ]
-  }
+}
