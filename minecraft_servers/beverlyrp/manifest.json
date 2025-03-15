@@ -2,13 +2,13 @@
   "server_name": "beverlyrp",
   "nice_name": "BeverlyRP.de",
   "direct_ip": "beverlyrp.de",
-  "server_wildcards": "beverlyrp.de",
+  "server_wildcards": "%*.beverlyrp.de%",
   "supported_languages": [
     "de",
     "en"
   ],
   "social": {
-    "web": "https://beverlyrp.de",
+    "web": "http://beverlyrp.de",
     "discord": "https://discord.com/invite/4QuHkRG7BU",
     "teamspeak": "BeverlyRP.de"
   },
