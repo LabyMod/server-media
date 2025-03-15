@@ -2,7 +2,6 @@
   "server_name": "beverlyrp",
   "nice_name": "BeverlyRP.de",
   "direct_ip": "beverlyrp.de",
-  "server_wildcards": "%*.beverlyrp.de%",
   "supported_languages": [
     "de",
     "en"
