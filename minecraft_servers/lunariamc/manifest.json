@@ -1,0 +1,45 @@
+{
+  "server_name": "lunariamc",
+  "nice_name": "LunariaMC",
+  "direct_ip": "mc.lunariamc.fr",
+  "server_wildcards": [
+    "%.lunariamc.fr"
+  ],
+  "supported_languages": [
+     "fr",
+     "be"
+  ],
+  "social": {
+    "web": "https://lunariamc.fr",
+    "web_shop": "https://lunariamc.fr/shop",
+    "web_support": "https://discord.gg/8dne2Fagbv",
+    "discord": "https://discord.gg/8dne2Fagbv"
+  },
+  "gamemodes": {
+    "survie": {
+      "name": "Survie", 
+      "color": "#FFA500",
+      "url": "https://www.lunariamc.fr",
+      "versions": ">1.21"
+    }
+  },
+  "chat": {
+    "message_formats": [
+      "^§[a-f0-9](?<level>\\d+)( \\||§8 \\|) §[a-f0-9](?<sender>[a-zA-Z0-9_]{2,16})§r§7: §f(?<message>.*)$"
+    ]
+  },
+  "discord": {
+    "server_id": 1248048286485708892,
+    "rename_to_minecraft_name": true
+  },
+  "brand": {
+     "primary": "#008FE8",
+     "background": "#0A56A5",
+     "text": "#FFFFFF"
+  }, 
+  "location": {
+     "city": "Paris",
+     "country": "France",
+     "country_code": "FR"
+  }
+}
