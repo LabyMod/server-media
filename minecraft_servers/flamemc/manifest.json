@@ -1,0 +1,31 @@
+{
+  "server_name": "flamemc",
+  "nice_name": "FlameMC",
+  "direct_ip": "flamemc.pl",
+  "server_wildcards": [
+    "%.flamemc.pl"
+  ],
+  "social": {
+    "web": "https://flamemc.pl",
+    "web_shop": "https://sklep.flamemc.pl",
+    "discord": "https://dc.flamemc.pl"
+  },
+  "gamemodes": {
+    "sb": {
+      "name": "Anarchia FFA",
+      "command": "/anarchiaffa"
+    },
+    "bedwars_eight_one": {
+      "name": "GenBlock",
+      "command": "/genblock"
+    },
+    "solo_normal": {
+      "name": "BoxPVP",
+      "command": "/boxpvp"
+    }
+  },
+  "discord": {
+    "server_id": 1350542785702264832,
+    "rename_to_minecraft_name": false
+  }
+}
