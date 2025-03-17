@@ -15,7 +15,7 @@
   },
   "gamemodes": {
 	"citybuild": {
-	 "name": "CityBuild", 
+	 "name": "NinjaAttack", 
 	 "color": "#FFA500",
 	 "command": "/server cb-1"
 	}
