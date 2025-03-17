@@ -2,9 +2,6 @@
   "server_name": "lunariamc",
   "nice_name": "LunariaMC",
   "direct_ip": "mc.lunariamc.fr",
-  "server_wildcards": [
-    "%.lunariamc.fr"
-  ],
   "supported_languages": [
      "fr",
      "be"
