@@ -1,0 +1,17 @@
+{
+  "server_name": "fazix",
+  "nice_name": "fazix.net",
+  "direct_ip": "fazix.net",
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "discord": "https://discord.com/invite/d5PmP2PUzm"
+  },
+  "discord": {
+    "server_id": 1308905959669633056
+  },
+  "brand": {
+    "primary": "#ff5555"
+  }
+}

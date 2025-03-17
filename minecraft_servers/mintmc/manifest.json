@@ -1,0 +1,39 @@
+{
+    "server_name": "mintmc",
+    "nice_name": "MintMC",
+    "direct_ip": "mintmc.dk",
+    "server_wildcards": [
+        "%.mintmc.dk",
+        "%.mint.superawesome.dk"
+    ],
+    "supported_languages": [
+        "da"
+    ],
+    "social": {
+        "web": "https://mintmc.dk",  
+        "web_shop": "https://butik.mintmc.dk",
+        "discord": "https://discord.gg/mintmc"
+    },
+    "gamemodes": {
+        "prison": {
+            "name": "Prison",
+            "color": "#2563EB",
+            "command": "/ms prison",
+            "versions": "1.8<*"
+        }
+    },
+    "discord": {
+        "server_id": 871443009378615388
+    },
+    "brand": {
+        "primary": "#2563EB",
+        "background": "#2563EB",
+        "text": "#ffffff"
+    },
+    "location": {
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "country_code": "DK"
+    }
+}
+  
