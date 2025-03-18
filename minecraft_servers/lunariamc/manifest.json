@@ -9,16 +9,8 @@
   "social": {
     "web": "https://lunariamc.fr",
     "web_shop": "https://lunariamc.fr/shop",
-    "web_support": "https://discord.gg/8dne2Fagbv",
+    "web_support": "https://lunariamc.fr/support",
     "discord": "https://discord.gg/8dne2Fagbv"
-  },
-  "gamemodes": {
-    "survie": {
-      "name": "Survie", 
-      "color": "#FFA500",
-      "url": "https://www.lunariamc.fr",
-      "versions": ">1.21"
-    }
   },
   "chat": {
     "message_formats": [
