@@ -18,10 +18,10 @@
         }
     },
     "location": {
-		"city": "Walldorf",
-		"country": "Germany",
-		"country_code": "DE"
-	},
+        "city": "Eygelshoven",
+        "country": "Netherlands",
+        "country_code": "NL"
+    },
     "discord": {
         "server_id": 1042377714386088000,
         "rename_to_minecraft_name": false
