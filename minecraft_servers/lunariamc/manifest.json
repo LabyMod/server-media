@@ -12,12 +12,6 @@
     "web_support": "https://lunariamc.fr/support",
     "discord": "https://discord.gg/8dne2Fagbv"
   },
-  "gamemodes": {
-    "survie": {
-      "name": "Survie",
-      "command": "/spawn"
-    }
-  },
   "chat": {
     "message_formats": [
       "^§[a-f0-9](?<sender>[a-zA-Z0-9_]{2,16})§r§7: §f(?<message>.*)$"
