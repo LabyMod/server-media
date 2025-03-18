@@ -14,10 +14,10 @@
 		"teamspeak": "ts.ninjamc.de"
   },
   "gamemodes": {
-	"citybuild": {
+	"NinjaAttack": {
 	 "name": "NinjaAttack", 
 	 "color": "#FFA500",
-	 "command": "/server cb-1"
+	 "command": "/server na"
 	}
   },
   "brand": {
