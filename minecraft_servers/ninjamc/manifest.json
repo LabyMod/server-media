@@ -11,10 +11,10 @@
   },
   "gamemodes": {
     "ninjaattack": {
-      "name": "NinjaAttack", 
+      "name": "NinjaAttack",
       "color": "#FFA500",
       "command": "/server na"
-    },
+    }
   },
   "brand": {
      "primary": "#008FE8",
@@ -25,5 +25,5 @@
      "city": "Frankfurt",
      "country": "Germany",
      "country_code": "DE"
-  },
-},
+  }
+}
