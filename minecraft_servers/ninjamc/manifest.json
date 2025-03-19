@@ -1,30 +1,33 @@
 {
   "server_name": "ninjamc",
-  "nice_name": "ninjamc",
-  "direct_ip": "ninjamc.de",
-  "server_wildcards": [
-    "%.ninjamc.de"
-  ],
+  "nice_name": "NinjaMC",
+  "direct_ip": "ninjamc.de, ninjaattack.de",
   "supported_languages": [
+     "en",
      "de"
   ],
   "social": {
-    "tiktok": "NinjaMC.de",
     "discord": "https://discord.gg/KcvXETcTzw",
-    "teamspeak": "ts.ninjamc.de"
   },
   "gamemodes": {
     "NinjaAttack": {
-    "name": "NinjaAttack", 
-    "command": "/server na"
-    },
+      "name": "NinjaAttack", 
+      "color": "#ffaa00"
+      "command": "/server na"
+    }
+  },
+  "discord": {
+    "server_id": 1083998012554084412,
+    "rename_to_minecraft_name": false
   },
   "brand": {
-		  "primary": "#c4c4c4"
-  },
+     "primary": "#ffaa00",
+     "background": "#0A56A5",
+     "text": "#FFFFFF"
+  }, 
   "location": {
      "city": "Walldorf",
      "country": "Germany",
      "country_code": "DE"
-  }
+  },
 }
