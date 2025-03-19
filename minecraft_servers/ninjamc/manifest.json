@@ -16,15 +16,6 @@
       "command": "/server na"
     }
   },
-  "discord": {
-    "server_id": 1083998012554084412,
-    "rename_to_minecraft_name": false
-  },
-  "brand": {
-     "primary": "#ffaa00",
-     "background": "#0A56A5",
-     "text": "#FFFFFF"
-  }, 
   "location": {
      "city": "Walldorf",
      "country": "Germany",
