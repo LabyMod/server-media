@@ -5,10 +5,6 @@
   "server_wildcards": [
     "%.ninjamc.de"
   ],
-  "supported_languages": [
-     "en",
-     "de"
-  ],
   "social": {
     "discord": "https://discord.gg/KcvXETcTzw",
     "teamspeak": "ts.ninjamc.de"
@@ -18,7 +14,7 @@
       "name": "NinjaAttack", 
       "color": "#FFA500",
       "command": "/server na"
-    }
+    },
   },
   "brand": {
      "primary": "#008FE8",
@@ -30,4 +26,4 @@
      "country": "Germany",
      "country_code": "DE"
   },
-}
+},
