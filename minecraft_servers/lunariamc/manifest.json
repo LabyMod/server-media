@@ -3,14 +3,19 @@
   "nice_name": "LunariaMC",
   "direct_ip": "mc.lunariamc.fr",
   "supported_languages": [
-     "fr",
-     "be"
+     "fr"
   ],
   "social": {
     "web": "https://lunariamc.fr",
     "web_shop": "https://lunariamc.fr/shop",
     "web_support": "https://lunariamc.fr/support",
     "discord": "https://discord.gg/8dne2Fagbv"
+  },
+  "gamemodes": {
+    "survie": {
+      "name": "Survie",
+      "command": "/spawn"
+    }
   },
   "chat": {
     "message_formats": [
