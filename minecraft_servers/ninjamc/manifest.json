@@ -18,7 +18,7 @@
       "name": "NinjaAttack", 
       "color": "#FFA500",
       "command": "/server na"
-    },
+    }
   },
   "brand": {
      "primary": "#008FE8",
