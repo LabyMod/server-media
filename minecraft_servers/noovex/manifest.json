@@ -1,0 +1,46 @@
+{
+    "server_name": "noovex",
+    "nice_name": "Noovex",
+    "direct_ip": "play.Noovex.net",
+    "server_wildcards": [
+      "%.noovex.net",
+      "%.noovex.dev",
+      "%.noovex.de"
+    ],
+  "gamemodes": {
+    "survival": {
+      "name": "Survival",
+      "command": "/server Survival",
+      "color": "#83FE4B",
+      "versions": "1.21.4<*"
+    },
+    "skyblock": {
+      "name": "skyblock",
+      "command": "/server skyblock",
+      "color": "#83FE4B",
+      "versions": "1.21.4<*"
+    },
+    "citybuild": {
+      "name": "Citybuild",
+      "command": "/server citybuild",
+      "color": "#83FE4B",
+      "versions": "1.21.4<*"
+    }
+  },
+    "discord": {
+        "server_id": 1125575094555643984,
+        "rename_to_minecraft_name": false
+      },
+    "supported_languages": [
+        "de",
+        "en"
+    ],
+    "social": {
+        "discord": "https://discord.gg/3UAgZZpZgz"
+    },
+    "location": {
+        "city": "Münster",
+        "country": "Germany",
+        "country_code": "DE"
+    }
+}

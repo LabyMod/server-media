@@ -1,0 +1,44 @@
+{
+  "server_name": "astrogames",
+  "nice_name": "AstroGames",
+  "direct_ip": "astrogames.net",
+  "supported_languages": [
+     "de"
+  ],
+  "social": {
+    "tiktok": "astrogames_net",
+    "youtube": "https://www.youtube.com/@astrogamesnet",
+    "discord": "https://discord.gg/exSDx9FWrg"
+  },
+  "gamemodes": {
+    "cb_naboo": {
+      "name": "CB NABOO",
+      "color": "#00A2FF",
+      "command": "/server old-naboo"
+    },
+    "cb_asgard": {
+      "name": "CB Asgard",
+      "color": "#00A2FF",
+      "command": "/server old-asgard"
+    },
+    "cb_endor": {
+      "name": "CB Endor",
+      "color": "#00A2FF",
+      "command": "/server cb-endor"
+    }
+  },
+  "discord": {
+    "server_id": 1284448735979507837,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#818181",
+    "background": "#ffffff",
+    "text": "#000000"
+  },
+  "location": {
+     "city": "Frankfurt",
+     "country": "Germany",
+     "country_code": "DE"
+   }
+}
