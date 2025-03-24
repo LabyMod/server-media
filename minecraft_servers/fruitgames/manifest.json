@@ -1,7 +1,7 @@
 {
-  "server_name": "trickety",
-  "nice_name": "TricketyNET",
-  "direct_ip": "trickety.net",
+  "server_name": "fruitgames",
+  "nice_name": "FruitGamesNET",
+  "direct_ip": "fruitgames.net",
   "supported_languages": [
     "de",
     "en",
@@ -9,10 +9,9 @@
     "fr"
   ],
   "social": {
-    "twitter": "TricketyNetwork",
+    "twitter": "FruitGamesNET",
     "discord": "https://discord.gg/trickety",
-    "teamspeak": "trickety.net",
-    "youtube": "https://www.youtube.com/@TricketyNET"
+    "teamspeak": "fruitgames.net"
   },
   "discord": {
     "server_id": 1161291998100205580,
