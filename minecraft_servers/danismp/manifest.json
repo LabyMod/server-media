@@ -16,7 +16,8 @@
     "gamemodes": {
       "smp": {
         "name": "SMP", 
-        "versions": "1.21<*"
+        "versions": "1.21<*",
+        "color": "#2ecc71"
       }
     },
     "discord": {
