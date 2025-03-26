@@ -1,0 +1,24 @@
+{
+    "server_name": "novacraft",
+    "nice_name": "NovaCraft",
+    "direct_ip": "novacraftnc.net",
+    "supported_languages": [
+        "de"
+    ],
+    "social": {
+        "tiktok": "novacraftnc.net",
+        "discord": "https://discord.gg/2bjW9uhdfB",
+        "youtube": "https://youtube.com/novacraftmc_de"
+    },
+	"gamemodes": {
+		"citybuild": {
+			"name": "Citybuild", 
+			"color": "#1ED600",
+			"command": "/switch CB"
+		}
+	},
+    "location": {
+        "city": "Falkenstein",
+        "country": "Germany"
+    }
+}

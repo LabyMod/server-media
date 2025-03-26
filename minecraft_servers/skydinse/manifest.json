@@ -10,12 +10,14 @@
     "supported_languages": [
       "en",
       "de",
-      "pt",
-      "fr",
-      "es",
-      "pl",
       "nl",
-      "tr"
+      "pt",
+      "es",
+      "fr",
+      "pl",
+      "ru",
+      "tr",
+      "ko"
     ],
     "social": {
         "web": "https://www.skydinse.net",
@@ -31,35 +33,25 @@
         "command": "/game citybuild",
         "versions": "1.20<*"
       },
-      "blockparty": {
-        "name": "BlockParty",
-        "command": "/game blockparty",
-        "versions": "1.17<*"
-      },
-      "lavarises": {
-        "name": "LavaRises",
-        "command": "/game lavarises",
-        "versions": "1.19.4<*"
+      "wheatfarm": {
+        "name": "WheatFarm",
+        "command": "/wheatfarm",
+        "versions": "1.20<*"
       },
       "duels": {
         "name": "Duels",
         "command": "/game duels",
-        "versions": "1.17<*"
+        "versions": "1.20<*"
+      },
+      "blockparty": {
+        "name": "BlockParty",
+        "command": "/game blockparty",
+        "versions": "1.20<*"
       },
       "murdermystery": {
         "name": "Murder",
         "command": "/game murdermystery",
-        "versions": "1.17<*"
-      },
-      "maze": {
-        "name": "Maze",
-        "command": "/game maze",
-        "versions": "1.17<*"
-      },
-      "sdplace": {
-        "name": "Place",
-        "command": "/nav sdplace",
-        "versions": "1.17<*"
+        "versions": "1.20<*"
       }
     },
     "discord": {

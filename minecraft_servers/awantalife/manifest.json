@@ -1,0 +1,12 @@
+{
+    "server_name": "awantalife",
+    "nice_name": "AwantaLife.de Citybuild Netzwerk",
+    "direct_ip": "awantalife.de",
+    "server_wildcards": [
+      "%.awantalife.de"
+    ],
+    "social": {
+      "youtube": "https://www.youtube.com/channel/UCB4lbrczhNp0VA6mXu_86hQ",
+      "instagram": "AwantaLife"
+    }
+  }

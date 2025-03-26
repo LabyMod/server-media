@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           ref: refs/pull/${{ github.event.number }}/merge
       - name: Validate images
@@ -18,12 +18,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           ref: refs/pull/${{ github.event.number }}/merge
       - name: Get changed files
-        #uses: lots0logs/gh-action-get-changed-files@2.1.4
-        uses: Raik0707/gh-action-get-changed-files@feature/support-pr-target-event # Remove as soon as PR is merged
+        uses: lots0logs/gh-action-get-changed-files@2.2.2
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
       - name: Add json
