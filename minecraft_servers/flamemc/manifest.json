@@ -2,9 +2,6 @@
   "server_name": "flamemc",
   "nice_name": "FlameMC",
   "direct_ip": "flamemc.pl",
-  "server_wildcards": [
-    "%.flamemc.pl"
-  ],
   "social": {
     "web": "https://flamemc.pl",
     "web_shop": "https://sklep.flamemc.pl",
