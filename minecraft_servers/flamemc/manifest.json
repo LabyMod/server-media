@@ -13,14 +13,17 @@
   "gamemodes": {
     "sb": {
       "name": "Anarchia FFA",
+      "color": "#1c81d0",
       "command": "/anarchiaffa"
     },
     "bedwars_eight_one": {
       "name": "GenBlock",
+      "color": "#1c81d0",
       "command": "/genblock"
     },
     "solo_normal": {
       "name": "BoxPVP",
+      "color": "#1c81d0",
       "command": "/boxpvp"
     }
   },
