@@ -8,17 +8,17 @@
     "discord": "https://dc.flamemc.pl"
   },
   "gamemodes": {
-    "sb": {
+    "anarchia": {
       "name": "Anarchia FFA",
       "color": "#1c81d0",
       "command": "/anarchiaffa"
     },
-    "bedwars_eight_one": {
+    "genblock": {
       "name": "GenBlock",
       "color": "#1c81d0",
       "command": "/genblock"
     },
-    "solo_normal": {
+    "boxpvp": {
       "name": "BoxPVP",
       "color": "#1c81d0",
       "command": "/boxpvp"
