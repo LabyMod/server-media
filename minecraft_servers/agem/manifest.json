@@ -2,7 +2,6 @@
   "server_name": "agem",
   "nice_name": "AgeMagic.ru",
   "direct_ip": "mc.agem.su",
-  "server_wildcards" : ["%.agem.su"],
   "supported_languages": [
     "ru",
     "ua"
