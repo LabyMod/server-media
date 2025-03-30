@@ -7,9 +7,8 @@
     "ua"
   ],
   "social": {
-    "web": "https://agemagic.net",
-	"web_shop" : "https://shop.agemagic.net",
-	"web_support": "https://t.me/agemagicsupportbot",
+    "web_shop": "https://shop.agemagic.net",
+    "web_support": "https://t.me/agemagicsupportbot",
     "discord": "https://discord.gg/dDPPReKdun",
     "youtube": "https://www.youtube.com/@McAgeMagic"
   },
@@ -19,7 +18,7 @@
       "color": "#FF006E",
       "command": "/queue survival"
     },
-	"сlassic": {
+    "сlassic": {
       "name": "Classic",
       "color": "#FF006E",
       "command": "/queue survivalbuild1"
