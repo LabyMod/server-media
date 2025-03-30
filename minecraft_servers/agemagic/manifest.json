@@ -2,7 +2,6 @@
   "server_name": "agemagic",
   "nice_name": "AgeMagic.ru",
   "direct_ip": "mc.agem.su",
-  "server_wildcards" : ["mc.agem.su", "mc.agemagic.net", "mc.agemagic.ru", "mc.lostvale.fun"],
   "supported_languages": [
     "ru",
     "ua"
@@ -20,7 +19,7 @@
       "color": "#FF006E",
       "command": "/queue survival"
     },
-	"mistland": {
+	"classic": {
       "name": "Classic",
       "color": "#FF006E",
       "command": "/queue survivalbuild1"
