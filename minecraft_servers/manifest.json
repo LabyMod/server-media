@@ -1,0 +1,28 @@
+{
+    "server_name": "EinfachSMP",
+    "direct_ip": "EinfachSMP.YuFlow.net",
+    "server_wildcards": [
+      "net"
+    ],
+    "supported_languages": [
+       "de"
+    ],
+    "social": {
+      "tiktok": "xEinfacher",
+      "discord": "https://discord.gg/PpAf5vZz3w",
+    },
+    "gamemodes": {
+      "SMP": {
+        "name": "SMP",
+        "color": "#32f011",
+        "command": "/server SMP"
+    },
+    "discord": {
+      "server_id": 1338138431347494923,
+      "rename_to_minecraft_name": false
+    }, 
+    "location": {
+       "country": "Europa",
+       "country_code": "Eu"
+    },
+  }
