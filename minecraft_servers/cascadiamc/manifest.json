@@ -1,0 +1,40 @@
+{
+  "server_name": "cascadiamc",
+  "nice_name": "CascadiaMC",
+  "direct_ip": "cascadiamc.de",
+  "server_wildcards": [
+    "%.cascadiamc.de"
+  ],
+  "supported_languages": [
+     "de"
+  ],
+  "social": {
+    "tiktok": "cascadiamc",
+    "youtube": "https://www.youtube.com/@cascadiamc",
+    "discord": "https://discord.gg/cX6gxXMd"
+  },
+  "gamemodes": {
+    "citybuild": {
+      "name": "CityBuild",
+      "color": "#0095B0"
+    },
+    "CascadiaSMP": {
+      "name": "CascadiaSMP",
+      "color": "#0095B0"
+    }
+  },
+  "discord": {
+    "server_id": 1230116733424107552,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#0BDA51",
+    "background": "#AFE1AF",
+    "text": "#ffffff"
+  },
+  "location": {
+     "city": "Frankfurt",
+     "country": "Germany",
+     "country_code": "DE"
+   }
+}
