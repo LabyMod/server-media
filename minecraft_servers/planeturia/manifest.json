@@ -1,0 +1,17 @@
+{
+  "server_name": "planeturia",
+  "nice_name": "PLANETURIA",
+  "direct_ip": "planeturia.de",
+  "social": {
+    "discord": "https://dc.planeturia.de",
+  },
+  "discord": {
+    "server_id": 1348266374924992544,
+    "rename_to_minecraft_name": false
+  },
+  "location": {
+    "city": "Limburg an der Lahn",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}
