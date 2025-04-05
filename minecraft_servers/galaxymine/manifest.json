@@ -1,0 +1,18 @@
+{
+  "server_name": "galaxymine",
+  "nice_name": "GALAXYMINE",
+  "direct_ip": "galaxymine.de",
+  "social": {
+    "discord": "https://discord.gg/hsJVXGB738",
+    "youtube": "https://www.youtube.com/@galaxymineserver5909"
+  },
+  "discord": {
+    "server_id": 1284479819031248969,
+    "rename_to_minecraft_name": false
+  },
+  "location": {
+    "city": "Frankfurt",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}
