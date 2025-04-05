@@ -5,29 +5,25 @@
     "supported_languages": [
        "de"
     ],
+    "server-wildcards":["event.castcrafter.de", "server.castcrafter.de", "play.castcrafter.de"],
     "social": {
       "web": "https://server.castcrafter.de",
       "discord": "https://discord.gg/castcrafter",
       "youtube": "https://www.youtube.com/@CastCrafter",
+      "instagram": "castagram_"
     },
     "gamemodes": {
-        "survival1": {
-          "name": "Survival 1",
-          "color": "#B29315",
-          "command": "/arcade",
-          "versions": "1.21.4"
-        },
-        "survival2": { 
-          "name": "Survival 2",
-          "color": "#B43F2A",
-          "command": "/apocalypse",
-          "versions": "1.21.4"
+        "survival": {
+          "name": "Survival",
+          "color": "#17B3AB",
+          "command": "/join survival",
+          "url":"https://server.castcrafter.de/survival-server"
         },
         "event": { 
             "name": "Event",
-            "color": "#B215A4",
-            "command": "/evolution",
-            "versions": "1.21.4"
+            "color": "#4016B3",
+            "command": "/join event",
+            "url":"https://server.castcrafter.de/event-server"
         }
     },
     "discord": {
@@ -39,4 +35,4 @@
       "background": "#343a40",
       "text": "#f8f9fa"
     }
-  }
+}
