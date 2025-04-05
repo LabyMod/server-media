@@ -1,9 +1,8 @@
 {
   "server_name": "networknougat",
   "nice_name": "NetworkNougat",
-  "direct_ip": "NetworkNougat.de",
+  "direct_ip": "play.NetworkNougat.net",
   "server_wildcards": [
-    "%.networknougat.de",
     "%.networknougat.net",
     "%.networknougat.xyz"
   ],
@@ -11,43 +10,18 @@
      "de"
   ],
   "social": {
-    "discord": "https://discord.gg/KqZCuZfpKy",
+    "discord": "https://dsc.gg/networknougat",
     "youtube": "https://www.youtube.com/@NetworkNougat"
   },
   "gamemodes": {
     "lifesteal": {
-      "name": "LifeSteal",
+      "name": "LifeStealSMP",
       "color": "#008FE8",
-      "command": "/server LifeSteal"
-    },
-    "murder": {
-      "name": "Murder",
-      "color": "#9c1111",
-      "command": "/server MurderMystery"
-    },
-    "survival": {
-      "name": "Survival",
-      "color": "#007504",
-      "command": "/server smp"
-    },
-    "citybuild": {
-      "name": "Citybuild",
-      "color": "#233157",
-      "command": "/server CB"
-    },
-    "bedwars": {
-      "name": "Bedwars",
-      "color": "#963b3b",
-      "command": "/server Bedwars"
-    },
-    "oneblock": {
-      "name": "OneBlock",
-      "color": "#002e02",
-      "command": "/server OneBlock"
+      "command": "/server LifestealSMP"
     }
   },
   "discord": {
-    "server_id": 1291781104491040880,
+    "server_id": 1331652058306314240,
     "rename_to_minecraft_name": false
   },
   "brand": {
