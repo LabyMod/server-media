@@ -2,14 +2,11 @@
     "server_name": "eindino",
     "nice_name": "einDinoNet",
     "direct_ip": "eindino.net",
-    "server_wildcards": [
-        "%.eindino.net"
-    ],
     "supported_languages": [
         "de"
     ],
     "social": {
-        "web": "https://www.eindino.net",
+        "web": "https://eindino.net",
         "web_shop": "https://shop.eindino.net",
         "twitter": "einDino_",
         "tiktok": "einDino_",
