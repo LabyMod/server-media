@@ -1,7 +1,7 @@
 {
-  "server_name": "clayz",
-  "nice_name": "ClayzDE",
-  "direct_ip": "clayz.de",
+  "server_name": "fazon",
+  "nice_name": "FazonGG",
+  "direct_ip": "fazon.gg",
   "supported_languages": [
     "de",
     "en",
@@ -9,9 +9,9 @@
     "fr"
   ],
   "social": {
-    "twitter": "ClayzNetwork",
+    "twitter": "FazonGG",
     "discord": "https://discord.gg/trickety",
-    "teamspeak": "clayz.de"
+    "teamspeak": "fazon.gg"
   },
   "discord": {
     "server_id": 1161291998100205580,
