@@ -3,8 +3,7 @@
     "nice_name": "einDinoNet",
     "direct_ip": "eindino.net",
     "server_wildcards": [
-        "%.eindino.net",
-        "%.eindino.de"
+        "%.eindino.net"
     ],
     "supported_languages": [
         "de"
