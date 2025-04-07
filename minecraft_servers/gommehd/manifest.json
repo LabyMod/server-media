@@ -43,7 +43,7 @@
       "name": "Bingo",
       "url": "https://www.gommehd.net/game/Bingo",
       "command": "/gameteleport bingo",
-      "versions": "1.20<*"
+      "versions": "1.21.4<*"
     },
     "bedwars": {
       "name": "BedWars",
@@ -54,12 +54,12 @@
       "name": "CityBuild",
       "url": "https://www.gommehd.net/game/CityBuild",
       "command": "/gameteleport citybuild",
-      "versions": "1.20<*"
+      "versions": "1.21.4<*"
     },
     "gommunity": {
       "name": "Gommunity",
       "command": "/gameteleport gommunity",
-      "versions": "1.20<*"
+      "versions": "1.21<*"
     },
     "gungame": {
       "name": "GunGame",
@@ -70,7 +70,7 @@
       "name": "Duels",
       "url": "https://www.gommehd.net/game/Duels",
       "command": "/gameteleport duelsl",
-      "versions": "1.20<*"
+      "versions": "1.21.4<*"
     },
     "kit1vs1": {
       "name": "Kit1vs1",
@@ -91,12 +91,7 @@
       "name": "JumpLeague",
       "url": "https://www.gommehd.net/game/JumpLeague",
       "command": "/gameteleport jl",
-      "versions": "1.20<*"
-    },
-    "game1vs1": {
-      "name": "Game1vs1",
-      "url": "https://www.gommehd.net/game/Game%201vs1",
-      "command": "/gameteleport game1vs1"
+      "versions": "1.21.4<*"
     },
     "buildffa": {
       "name": "BuildFFA",
@@ -112,25 +107,25 @@
       "name": "Hide'n'Seek",
       "url": "https://www.gommehd.net/game/Hide'n'Seek",
       "command": "/gameteleport hns",
-      "versions": "1.20<*"
+      "versions": "1.21.4<*"
     },
     "masterbuilders": {
       "name": "MasterBuilders",
       "url": "https://www.gommehd.net/game/MasterBuilders",
       "command": "/gameteleport mb",
-      "versions": "1.20<*"
+      "versions": "1.21.4<*"
     },
     "partygames": {
       "name": "PartyGames",
       "url": "https://www.gommehd.net/game/PartyGames",
       "command": "/gameteleport pg",
-      "versions": "1.20<*"
+      "versions": "1.21.4<*"
     },
     "ttt": {
       "name": "TTT",
       "url": "https://www.gommehd.net/game/TTT",
       "command": "/gameteleport ttt",
-      "versions": "1.20<*"
+      "versions": "1.21.4<*"
     }
   },
   "discord": {
