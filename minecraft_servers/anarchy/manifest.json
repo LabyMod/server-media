@@ -43,9 +43,4 @@
       "color": "#FFD800",
       "command": "/play raiding"
     }
-  },
-  "discord": {
-    "server_id": 411120767460311041,
-    "rename_to_minecraft_name": false
-  }
 }
