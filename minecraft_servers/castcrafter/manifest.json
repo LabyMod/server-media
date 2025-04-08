@@ -16,13 +16,11 @@
         "survival": {
           "name": "Survival",
           "color": "#17B3AB",
-          "command": "/join survival",
           "url":"https://server.castcrafter.de/survival-server"
         },
         "event": { 
             "name": "Event",
             "color": "#4016B3",
-            "command": "/join event",
             "url":"https://server.castcrafter.de/event-server"
         }
     },
