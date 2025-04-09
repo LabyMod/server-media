@@ -5,7 +5,6 @@
     "supported_languages": [
        "de"
     ],
-    "server-wildcards":["event.castcrafter.de", "server.castcrafter.de", "play.castcrafter.de"],
     "social": {
       "web": "https://server.castcrafter.de",
       "discord": "https://discord.gg/castcrafter",
