@@ -15,12 +15,12 @@
         "survival": {
           "name": "Survival",
           "color": "#17B3AB",
-          "url":"https://server.castcrafter.de/survival-server"
+          "url": "https://server.castcrafter.de/survival-server"
         },
         "event": { 
             "name": "Event",
             "color": "#4016B3",
-            "url":"https://server.castcrafter.de/event-server"
+            "url": "https://server.castcrafter.de/event-server"
         }
     },
     "discord": {
