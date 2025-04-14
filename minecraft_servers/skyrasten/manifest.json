@@ -1,0 +1,17 @@
+{
+    "server_name": "skyrasten",
+    "nice_name": "SkyRasten",
+    "direct_ip": "skyrasten.de",
+    "supported_languages": [
+        "de"
+    ],
+    "social": {
+        "web": "https://skyrasten.de",
+        "web_support": "https://forum.skyrasten.de",
+        "discord": "https://discord.gg/XqMDV65r5s"
+    },
+    "discord": {
+        "server_id": 939195439209660516,
+        "rename_to_minecraft_name": false
+    }
+}
