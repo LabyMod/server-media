@@ -3,7 +3,13 @@
     "nice_name": "Twerion Netzwerk",
     "direct_ip": "twerion.net",
     "server_wildcards": [
-        "%.twerion.net"
+        "%.twerion.net",
+        "%.twerion.de",
+        "%.twerion.com",
+        "%.twerion.eu",
+        "%.twerion.org",
+        "%.totking.de",
+        "%.totking.dev"
     ],
     "supported_languages": [
         "de",
