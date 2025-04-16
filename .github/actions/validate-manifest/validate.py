@@ -225,7 +225,7 @@ def post_comment(comment: str, request_type: str = 'reviews'):
 
 
 def check_server_online_state(ip: str, wildcards: list):
-    offline_text = 'In general, we only accept pull requests from servers, **that are online**.\nPlease change this, otherwise we cannot review your server correctly and have to deny the pull request.\n\n'
+    offline_text = 'In general, we only accept pull requests from servers, **that are online and publicly available**.\nPlease change this, otherwise we cannot review your server correctly and have to deny the pull request.\n\n'
     print(f'Check server status for {ip}')
 
     url = f'https://api.mcsrvstat.us/2/{ip}'
@@ -285,23 +285,22 @@ def check_server_online_state(ip: str, wildcards: list):
     wildcard_string += f'\nPlease make sure it is an [actual wildcard](https://en.wikipedia.org/wiki/Wildcard_DNS_record).\n'
     if wildcard_comment:
         post_comment(wildcard_string, 'comments')
-
     if 'motd' in response or 'version' in response:
         maintenance_tagged = False
         if 'motd' in response:
             for line in response['motd']['clean']:
                 line_content = line.lower()
-                if line_content in ['maintenance', 'wartung', 'wartungen', 'mantenimiento']:
+                if any(keyword in line_content for keyword in ['maintenance', 'wartung', 'wartungen', 'mantenimiento', 'wartungsarbeiten']):
                     maintenance_tagged = True
-                else:
-                    print(f'No maintenance found in MOTD')
         if 'version' in response:
             version_name = response['version'].lower()
-            if version_name in ['maintenance', 'wartung', 'wartungen', 'mantenimiento']:
+            if any(keyword in version_name for keyword in ['maintenance', 'wartung', 'wartungen', 'mantenimiento', 'wartungsarbeiten']):
                 maintenance_tagged = True
 
         if maintenance_tagged:
             post_comment(f'The server {ip} **is in maintenance**.\n {offline_text}')
+        else:
+            print(f'No maintenance found in MOTD nor version')
 
 
 def comment_needed():
