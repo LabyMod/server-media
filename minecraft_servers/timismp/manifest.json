@@ -1,0 +1,21 @@
+{
+    "server_name": "timismp",
+    "nice_name": "TimiSMP",
+    "direct_ip": "timismp.de",
+    "supported_languages": [
+       "de"
+    ],
+    "social": {
+      "discord": "https://discord.gg/JPzkRFTnA5",
+      "youtube": "https://discord.gg/JPzkRFTnA5"
+    },
+    "discord": {
+      "server_id": 1338264616832204943,
+      "rename_to_minecraft_name": false
+    },
+    "location": {
+      "city": "Frankfurt",
+      "country": "Germany",
+      "country_code": "DE"
+    }
+  }
