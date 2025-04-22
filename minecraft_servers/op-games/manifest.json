@@ -1,26 +1,26 @@
 {
-    "server_name": "lunarismc",
-    "nice_name": "LunarisMC Netzwerk",
-    "direct_ip": "lunarismc.de",
+    "server_name": "op-games",
+    "nice_name": "OP-Games Netzwerk",
+    "direct_ip": "op-games.de",
     "supported_languages": [
         "de",
         "en"
     ],
     "social": {
-        "web": "https://lunarismc.de"
+        "web": "https://op-games.de"
     },
     "gamemodes": {
         "sb": {
-            "name": "SkyBlock",
+            "name": "SMP",
             "color": "#5454FC",
-            "command": "/server sb-1",
-            "versions": "1.20.4 - 1.21.1"
+            "command": "/server smp",
+            "versions": "1.20.4 - 1.21.5"
         },
         "cb": {
             "name": "CityBuild",
             "color": "#54FC54",
-            "command": "/server cb-1",
-            "versions": "1.20.4 - 1.21.1"
+            "command": "/server cb",
+            "versions": "1.20.4 - 1.21.5"
         }
     },
     "brand": {
