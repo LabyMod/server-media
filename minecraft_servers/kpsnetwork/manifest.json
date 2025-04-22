@@ -1,0 +1,19 @@
+{
+  "server_name": "kpsnetwork",
+  "nice_name": "kps.net",
+  "direct_ip": "kps.rytamc.net",
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "social.youtube": "https://www.youtube.com/@KenjiTheWerwolf"
+  },
+  "brand": {
+    "primary": "#c4c4c4"
+  },
+  "location": {
+    "city": "Falkenstein",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}
