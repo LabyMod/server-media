@@ -10,7 +10,7 @@
         "web": "https://op-games.de"
     },
     "gamemodes": {
-        "sb": {
+        "smp": {
             "name": "SMP",
             "color": "#5454FC",
             "command": "/server smp",
