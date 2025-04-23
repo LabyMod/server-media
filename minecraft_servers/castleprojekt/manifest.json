@@ -21,7 +21,7 @@
       "command": "/join mineception4x4",
       "color": "#0095B0"
     },
-    "tetrisjoin": {
+    "tetris": {
       "name": "Tetris",
       "command": "/tetrisjoin",
       "color": "#0095B0"
