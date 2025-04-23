@@ -1,0 +1,46 @@
+{
+  "server_name": "btegermany",
+  "nice_name": "BTE Germany",
+  "direct_ip": "bte-germany.de",
+  "supported_languages": [
+    "de",
+    "en"
+  ],
+  "social": {
+    "instagram": "btegermany",
+    "discord": "https://discord.gg/GkSxGTYaAJ",
+    "youtube": "https://www.youtube.com/@BTEGermany"
+  },
+  "brand": {
+    "primary": "#497cb1",
+    "background": "#497cb1",
+    "text": "#ffffff"
+  },
+  "gamemodes": {
+    "berlin": {
+      "name": "Berlin",
+      "color": "#34BBE6",
+      "command": "/warp Berlin"
+    },
+    "dresden": {
+      "name": "Dresden",
+      "color": "#34BBE6",
+      "command": "/warp Dresden"
+    },
+    "stuttgart": {
+      "name": "Stuttgart",
+      "color": "#34BBE6",
+      "command": "/warp Stuttgart"
+    },
+    "ulm": {
+      "name": "Ulm",
+      "color": "#34BBE6",
+      "command": "/warp Ulm"
+    },
+    "frankfurt": {
+      "name": "Frankfurt (am Main)",
+      "color": "#34BBE6",
+      "command": "/warp Frankfurt/Main"
+    }
+  }
+}
