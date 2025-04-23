@@ -1,11 +1,13 @@
 {
-    "server_name": "armageddon",
+    "server_name": "armamc",
     "nice_name": "Armageddon",
     "direct_ip": "armamc.com",
     "server_wildcards": [
       "*.armamc.com.br",
       "*.armamc.com"
     ],
+    "version": "1.8 a 1.21",
+    "motd": "Mais de 6 Anos online Proporcionando Diversão",
     "supported_languages": [
       "pt"
     ],
@@ -44,4 +46,4 @@
       "rename_to_minecraft_name": false
     },
     "command_delay": 3000
-  }
+}
