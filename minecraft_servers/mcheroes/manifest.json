@@ -1,0 +1,19 @@
+{
+    "server_name": "mcheroes",
+    "nice_name": "McHeroes",
+    "direct_ip": "mcheroes.net",
+    "social": {
+        "web": "https://www.mcheroes.net",
+        "web_shop": "https://store.mcheroes.net",
+        "discord": "https://discord.gg/spmqx4kbTr",
+        "youtube": "https://www.youtube.com/@mcheroesyoutube"
+        "instagram": "McHero.es",
+        "twitter": "The_McHeroes",
+        "tiktok": "mcheroes.net",
+    },
+    "brand": {
+        "primary": "#001414",
+        "background": "#00a9ff"
+        "text": "#000000"
+    }
+}
