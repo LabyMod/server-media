@@ -3,8 +3,8 @@
     "nice_name": "Armageddon",
     "direct_ip": "armamc.com",
     "server_wildcards": [
-      "%.armamc.com.br",
-      "%.armamc.com"
+      "*.armamc.com.br",
+      "*.armamc.com"
     ],
     "supported_languages": [
       "pt"
