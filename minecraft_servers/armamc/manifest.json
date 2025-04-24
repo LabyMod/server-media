@@ -2,10 +2,6 @@
     "server_name": "armamc",
     "nice_name": "Armageddon",
     "direct_ip": "armamc.com",
-    "server_wildcards": [
-      "*.armamc.com.br",
-      "*.armamc.com"
-    ],
     "supported_languages": [
       "pt"
     ],
@@ -31,11 +27,6 @@
         "versions": "1.8-1.21"
       }
     },
-    "chat": {
-      "message_formats": [
-        "^§[a-f0-9](?<level>\\d+)( \\||§8 \\|) §[a-f0-9](?<sender>[a-zA-Z0-9_]{2,16})§r§7: §f(?<message>.*)$"
-      ]
-    },
     "discord": {
       "server_id": 602976995499966500,
       "rename_to_minecraft_name": false
@@ -50,7 +41,5 @@
       "country": "Brazil",
       "country_code": "BR"
     },
-    "motd": "Mais de 6 Anos online Proporcionando Diversão",
-    "command_delay": 3000,
-    "user_stats": "https://laby.net/@{userName}"
+    "command_delay": 3000
 }
