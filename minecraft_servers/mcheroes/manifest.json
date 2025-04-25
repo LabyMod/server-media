@@ -20,5 +20,10 @@
       "command": "/island",
       "color": "#FFFFFF"
     }
+  },
+  "location": {
+    "city": "Frankfurt",
+    "country": "Germany",
+    "country_code": "DE"
   }
 }
