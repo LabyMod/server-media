@@ -7,13 +7,14 @@
     "web": "https://lyndara.net",
     "shop": "https://shop.lyndara.net",
     "discord": "https://discord.gg/lyndara",
-    "tiktok": "https://www.tiktok.com/@lyndaranet",
+    "tiktok": "lyndaranet",
     "youtube": "https://www.youtube.com/@lyndaranet"
   },
   "gamemodes": {
     "cb": {
       "name": "CityBuild",
       "command": "/server citybuild",
+      "color": "#00AAAA",
       "versions": "1.21.4"
     }
   },
