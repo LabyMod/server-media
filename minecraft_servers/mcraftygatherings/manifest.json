@@ -1,0 +1,63 @@
+{
+  "server_name": "mcraftygatherings",
+  "nice_name": "MCraftyGatherings",
+  "direct_ip": "mcraftygatherings.mine.bz",
+  "social": {
+    "twitter": "MCGatherings",
+    "tiktok": "mcraftygatherings",
+    "discord": "https://discord.com/invite/KGDPYTzyBZ",
+    "youtube": "https://www.youtube.com/@MCraftyGatherings"
+  },
+  "gamemodes": {
+    "binguete": {
+      "name": "Binguete"
+    },
+    "thetowers": {
+      "name": "The Towers"
+    },
+    "uhc": {
+      "name": "UHC"
+    },
+    "dungeons": {
+      "name": "Dungeons"
+    },
+    "showdowncards": {
+      "name": "Showdown Cards"
+    },
+    "hungergames": {
+      "name": "Hunger Games"
+    },
+    "deadlyscape": {
+      "name": "Deadly Scape"
+    },
+    "theminedingofisaac": {
+      "name": "The Mineding of Isaac"
+    },
+    "derrocaalrey": {
+      "name": "¡Derroca al Rey!"
+    },
+    "randomania": {
+      "name": "Randomanía"
+    },
+    "warborneshooters": {
+      "name": "Warborne Shooters"
+    },
+    "dms": {
+      "name": "Dungeons Modo Supervivencia"
+    }
+  },
+  "discord": {
+    "server_id": 1190870990650089502,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#7FC8D6",
+     "background": ""#E6F4F7",
+     "text": "#FFFFFF"
+  }, 
+  "location": {
+	 "city": "Bogotá",
+     "country": "Colombia",
+     "country_code": "CO"
+  }
+}
