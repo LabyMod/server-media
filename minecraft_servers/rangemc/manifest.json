@@ -5,7 +5,7 @@
   "supported_languages": ["en", "de"],
   "social": {
     "web": "https://rangemc.net",
-    "web_shop": "https://shop.rangemc.net/",
+    "web_shop": "https://shop.rangemc.net",
     "tiktok": "rangemc.net",
     "instagram": "rangemc",
     "discord": "https://discord.gg/bjuC5abvJm",
@@ -34,6 +34,5 @@
      "country_code": "DE"
   },
   "yt_trailer": "KrwzMFJausA",
-  "user_stats": "https://laby.net/@{userName}",
   "command_delay": 3000
 }
