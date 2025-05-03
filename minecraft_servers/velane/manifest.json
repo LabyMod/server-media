@@ -1,0 +1,23 @@
+{
+    "server_name": "velane",
+    "nice_name": "Velane",
+    "direct_ip": "velane.net",
+    "supported_languages": [
+       "de"
+    ],
+    "social": {
+      "tiktok": "velane.net",
+      "youtube": "https://youtube.com/@Velanenet",
+      "discord": "https://discord.gg/wEtE9DUFgr"
+    },
+    "discord": {
+      "server_id": 1362128931112882266,
+      "rename_to_minecraft_name": false
+    },
+    "brand": {
+       "primary": "##FE7E2B",
+       "background": "#202224",
+       "text": "#FFFFFF"
+    }, 
+    "command_delay": 3000
+  }
