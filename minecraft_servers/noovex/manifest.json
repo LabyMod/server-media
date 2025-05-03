@@ -1,7 +1,7 @@
 {
     "server_name": "noovex",
     "nice_name": "Noovex",
-    "direct_ip": "Play.Noovex.net",
+    "direct_ip": "Noovex.net",
     "server_wildcards": [
       "%.noovex.net",
       "%.noovex.de"
@@ -10,7 +10,7 @@
     "survival": {
       "name": "Survival",
       "command": "/server survival",
-      "color": "#83FE4B",
+      "color": "#0973E1",
       "versions": "1.21.5<*"
     }
   },
