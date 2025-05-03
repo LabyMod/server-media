@@ -13,7 +13,7 @@
             "color": "#0973E0",
             "versions": "1.21.5<*"
         },
-        "lobby": {
+        "Lobby": {
             "name": "Lobby",
             "command": "/server lobby",
             "color": "#0973E0",
