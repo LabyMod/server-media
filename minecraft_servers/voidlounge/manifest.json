@@ -1,1 +1,32 @@
-
+{
+  "server_name": "voidlounge",
+  "nice_name": "VØłĐ ŁØɄŊƓƐ",
+  "direct_ip": "voidlounge.de",
+  "supported_languages": [
+     "de"
+  ],
+  "social": {
+    "web": "https://voidlounge.de"
+    "discord": "https://discord.gg/void-lounge"
+  },
+  "gamemodes": {
+    "freebuild": {
+      "name": "FreeBuild", 
+      "color": "#FFA500"
+    }
+  },
+  "discord": {
+    "server_id": 1276125977805721640,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#92938e",
+     "background": "#313337",
+     "text": "#FFFFFF"
+  }, 
+  "location": {
+     "city": "Frankfurt am Main",
+     "country": "Germany",
+     "country_code": "DE"
+  }
+}
