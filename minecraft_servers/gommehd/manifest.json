@@ -39,13 +39,6 @@
     "teamspeak": "GommeHD.net"
   },
   "gamemodes": {
-    "place": {
-      "name": "r/place",
-      "url": "https://www.gommehd.net/place",
-      "command": "/gameteleport place",
-      "versions": "1.21.4<*",
-      "color": "#FFFFFF"
-    },
     "bingo": {
       "name": "Bingo",
       "url": "https://www.gommehd.net/game/Bingo",

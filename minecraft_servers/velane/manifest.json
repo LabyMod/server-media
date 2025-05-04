@@ -9,15 +9,15 @@
     "gamemodes": {
       "cb": {
         "name": "CityBuild",
-        "command": "/server citybuild-1",
+        "command": "/server citybuild",
         "color": "#FE7E2B",
         "versions": "1.21.4"
       }
     },
     "social": {
       "tiktok": "velane.net",
-      "twitter": "VelaneMC",
-      "discord": "https://discord.gg/KtvC9DFc2f"
+      "youtube": "https://youtube.com/@Velanenet",
+      "discord": "https://discord.gg/wEtE9DUFgr"
     },
     "discord": {
       "server_id": 1362128931112882266,

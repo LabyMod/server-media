@@ -15,6 +15,11 @@
 			"name": "Citybuild", 
 			"color": "#1ED600",
 			"command": "/switch CB"
+                },
+                "ffa": {
+			"name": "FFA", 
+			"color": "#1ED600",
+			"command": "/ffa"
 		}
 	},
     "location": {
