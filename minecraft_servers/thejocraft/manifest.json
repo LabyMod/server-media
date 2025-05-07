@@ -42,6 +42,11 @@
             "color": "#70E81D",
             "command": "/survivalgames",
             "versions": "1.20<*"
+        },
+        "tjcattack": { 
+            "name": "TJC Attack",
+            "color": "#20e8de",
+            "versions": "1.20<*"
         }
     },
     "discord": {
