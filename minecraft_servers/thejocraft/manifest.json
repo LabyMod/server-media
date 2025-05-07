@@ -63,5 +63,10 @@
         "primary": "#d16a66",
         "background": "#343a40",
         "text": "#f8f9fa"
+    }, 
+    "location": {
+        "city": "Falkenstein",
+        "country": "Deutschland",
+        "country_code": "DE"
     }
   }
