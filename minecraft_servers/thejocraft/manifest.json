@@ -68,5 +68,6 @@
         "city": "Falkenstein",
         "country": "Deutschland",
         "country_code": "DE"
-    }
-  }
+    },
+    "command_delay": 500
+}
