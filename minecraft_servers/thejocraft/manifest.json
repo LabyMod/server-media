@@ -20,7 +20,7 @@
             "url": "https://thejocraft.net/article?id=10",
             "command": "/eventsmp",
             "versions": "1.20<*"
-        }
+        },
         "arcardegames": {
             "name": "Arcarde Games",
             "color": "#B29315",
