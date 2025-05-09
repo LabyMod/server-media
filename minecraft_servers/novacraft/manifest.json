@@ -6,15 +6,20 @@
         "de"
     ],
     "social": {
-        "tiktok": "novacraftmc.de",
+        "tiktok": "novacraftnc.net",
         "discord": "https://discord.gg/2bjW9uhdfB",
-        "youtube": "https://youtube.com/novacraftmc_de"
+        "youtube": "https://youtube.com/novacraftnc_net"
     },
 	"gamemodes": {
 		"citybuild": {
 			"name": "Citybuild", 
 			"color": "#1ED600",
-			"command": "/server CityBuild_01"
+			"command": "/switch CB"
+                },
+                "ffa": {
+			"name": "FFA", 
+			"color": "#1ED600",
+			"command": "/ffa"
 		}
 	},
     "location": {
