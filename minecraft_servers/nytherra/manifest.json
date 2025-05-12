@@ -15,7 +15,7 @@
         "command": "/server citybuild"
       },
       "bedwars": {
-        "name": "DNA",
+        "name": "BedWars",
         "color": "#ff0004",
         "command": "/server bedwars"
       }
