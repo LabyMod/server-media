@@ -1,1 +1,44 @@
-
+{
+  "server_name": "VoidCraftMC Network",
+  "nice_name": "VoidCraftMC",
+  "direct_ip": "play.voidcraftmc.net",
+  ],
+  "supported_languages": [
+     "en",
+     "de"
+  ],
+  "social": {
+    "web_shop": "https://store.voidcraftmc.net",
+    "tiktok": "voidcraftnetwork",
+    "instagram": "voidcraftnetwork",
+    "discord": "https://discord.gg/QXkNqQ7XWt",
+    "youtube": "https://www.youtube.com/@VoidCraftmcnetwork",
+  },
+  "gamemodes": {
+    "earth": {
+      "name": "Earth", 
+      "color": "#0aa517",
+      "command": "/server earth",
+      "versions": "1.21.1"
+    },
+    "bedwars": {
+      "name": "Bedwars", 
+      "color": "#a50a17",
+      "command": "/server bedwars",
+      "versions": "1.20"
+    }
+  },
+  "discord": {
+    "server_id": 1282214803280105535,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#008fe8",
+     "background": "#0a56a5",
+     "text": "#FFFFFF"
+  }, 
+  "location": {
+     "city": "Amersfoort",
+     "country": "Netherlands",
+     "country_code": "NL"
+  }
