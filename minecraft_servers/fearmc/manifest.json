@@ -7,16 +7,6 @@
     "twitter": "FearMCGames",
     "discord": "https://discord.gg/bGJu2QjC3A"
   },
-  "gamemodes": {
-    "eggwars": {
-      "name": "EggWars",
-      "command": "/play eggwars"
-    },
-    "ffa": {
-      "name": "Free for All",
-      "command": "/play ffa"
-    }
-  },
   "discord": {
     "server_id": 1202134003206066247,
     "rename_to_minecraft_name": false
