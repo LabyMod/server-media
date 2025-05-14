@@ -9,10 +9,12 @@
   },
   "gamemodes": {
     "eggwars": {
-      "name": "EggWars"
+      "name": "EggWars",
+      "command": "/play eggwars"
     },
     "ffa": {
-      "name": "Free for All"
+      "name": "Free for All",
+      "command": "/play ffa"
     }
   },
   "discord": {
