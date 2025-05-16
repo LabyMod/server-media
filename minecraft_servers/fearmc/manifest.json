@@ -4,6 +4,7 @@
     "direct_ip": "play.fearmc.net",
     "social": {
         "web": "https://www.fearmc.net",
+        "web_support": "https://www.fearmc.net/contact",
         "twitter": "FearMCGames",
         "discord": "https://discord.gg/bGJu2QjC3A"
     },
@@ -15,7 +16,7 @@
             "versions": "1.16<*"
         },
         "ffa": {
-            "name": "Free For All",
+            "name": "Free for All",
             "command": "/join ffa",
             "color": "#ffa052",
             "versions": "1.16<*"
