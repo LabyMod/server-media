@@ -29,14 +29,9 @@
       "command": "/server Plot3",
       "color": "#0095B0"
     },
-    "buildbattle1": {
+    "buildbattle": {
       "name": "BuildBattle",
-      "command": "/server BuildBattleXL1",
-      "color": "#0095B0"
-    },
-    "premiumbuild": {
-      "name": "PremiumBuild",
-      "command": "/server Premium",
+      "command": "/server BuildBattleXL",
       "color": "#0095B0"
     }
   },
