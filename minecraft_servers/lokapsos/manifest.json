@@ -1,0 +1,42 @@
+{
+    "server_name": "lokapsos",
+    "nice_name": "LOKAPSOS Network",
+    "direct_ip": "mc.lokapsos.es",
+    "supported_languages": [
+      "es"
+    ],
+    "gamemodes": {
+      "survival": {
+        "name": "Survival",
+        "color": "#8dd97d"
+      },
+      "prison": {
+        "name": "Prison",
+        "color": "#ee5d5d"
+      },
+      "creative": {
+        "name": "Creative",
+        "color": "#ff55ff"
+      }
+    },
+    "social": {
+      "web": "https://lokapsos.es",
+      "web_shop": "https://store.lokapsos.es",
+      "web_support": "https://lokapsos.es/ayuda/soporte",
+      "twitter": "mclokapsos",
+      "youtube": "https://www.youtube.com/@lokapsosnetworkmc",
+      "discord": "https://discord.gg/d4feuGDPC3"
+    },
+    "discord": {
+      "server_id": 472153211613216778,
+      "rename_to_minecraft_name": false
+    },
+    "brand": {
+      "background": "#9f4bd1"
+    },
+    "location": {
+      "city": "Madrid",
+      "country": "Spain",
+      "country_code": "ES"
+    }
+  }
