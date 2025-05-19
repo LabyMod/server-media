@@ -3,13 +3,14 @@
     "nice_name": "RedCraft Network",
     "direct_ip": "redcraft.es",
     "server_wildcards": [
-      "%.redcraft.es"
+      "play.redcraft.es",
+      "mc.redcraft.es"
     ],
     "supported_languages": [
         "es"
     ],
     "social": {
-      "web": "https://www.redcraft.es",
+      "web": "https://web.redcraft.es",
       "web_shop": "https://tienda.redcraft.es",
       "twitter": "redcraftes",
       "discord": "https://discord.gg/pmSxmYrR93"
