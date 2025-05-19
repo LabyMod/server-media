@@ -1,0 +1,40 @@
+{
+  "server_name": "kekscraft",
+  "nice_name": "Kekscraft",
+  "direct_ip": "kekscraft.g-portal.game",
+  "supported_languages": [
+    "de", "en"
+  ],
+  "social": {
+      "discord": "https://discord.gg/EbGbxv6BZZ",
+      "tiktok": "kekscraft.minecraft"
+  },
+  "gamemodes": {
+    "smp": {
+      "name": "SMP",
+      "command": "/warp Dorf",
+      "color": "#8A2BE2",
+      "versions": "1.20<*"
+    },
+    "citybuild": {
+      "name": "Citybuild",
+      "command": "/warp cb",
+      "color": "#8A2BE2",
+      "versions": "1.20<*"
+    }
+  },
+  "discord": {
+    "server_id": 1274477028686692392,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#000000",
+     "background": "#8A2BE2",
+     "text": "#FFFFFF"
+  },
+  "location": {
+    "city": "Frankfurt",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}
