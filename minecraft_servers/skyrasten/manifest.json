@@ -14,8 +14,7 @@
         "country": "Germany",
         "country_code": "DE"
     },
-    "gamemodes": {},
-    "skyblock": {
+    "gamemodes": {    "skyblock": {
         "name": "SkyBlock",
         "color": "#bd4aff",
         "command": "/join skyblock"
@@ -28,7 +27,7 @@
     "survival": {
         "name": "Survival",
         "color": "#bd4aff",
-        "command": "/join survival"
+        "command": "/join survival"},
     },
     "discord": {
         "server_id": 939195439209660500,
