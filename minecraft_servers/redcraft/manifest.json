@@ -2,10 +2,6 @@
     "server_name": "redcraft",
     "nice_name": "RedCraft Network",
     "direct_ip": "redcraft.es",
-    "server_wildcards": [
-      "play.redcraft.es",
-      "mc.redcraft.es"
-    ],
     "supported_languages": [
         "es"
     ],
