@@ -12,11 +12,11 @@
     "survival": {
       "name": "Survival", 
       "color": "#72FF6B",
-      "versions": "1.21.4>*"
+      "command": "/server Survival-1"
     }
   },
   "brand": {
-    "primary": "#a047ff"
+    "primary": "#491c2a"
   },
   "location": {
     "city": "Stuttgart",
