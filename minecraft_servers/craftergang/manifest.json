@@ -40,17 +40,11 @@
       "command": "/gametp gdownr",
       "versions": "1.8<1.21.5"
     },
-    "cbdesert": {
-      "name": "CB Desert",
+    "cb": {
+      "name": "CityBuild 1.8 & 1.21.5",
       "color": "#0d6914",
       "command": "/gametp cb1",
       "versions": "1.8<1.21.5"
-    },
-    "cbwildniss": {
-      "name": "CB Wildnis",
-      "color": "#0d6914",
-      "command": "/gametp cb2",
-      "versions": "1.21.3<1.21.5"
     },
     "duels": {
       "name": "Ultimate Duels",
