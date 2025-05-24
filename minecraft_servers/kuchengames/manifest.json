@@ -1,0 +1,31 @@
+{
+  "server_name": "kuchengames",
+  "nice_name": "KuchenGames",
+  "direct_ip": "kuchengames.de",
+
+  "supported_languages": [
+     "de"
+  ],
+
+  "social": {
+    "web": "https://kuchengames.de",
+    "web_shop": "https://shop.kuchengames.de",
+    "tiktok": "kuchengames.de",
+    "instagram": "kuchengames",
+    "discord": "https://discord.gg/4mqaGcnUyw",
+    "youtube": "https://www.youtube.com/@KuchenGames"
+  },
+
+  "discord": {
+    "server_id": 812311113374367774,
+    "rename_to_minecraft_name": false
+  },
+
+  "brand": {
+     "primary": "#fbc504",
+     "background": "#2b2c2e",
+     "text": "#FFFFFF"
+  }, 
+
+  "yt_trailer": "UhfBmVFoc80"
+}
