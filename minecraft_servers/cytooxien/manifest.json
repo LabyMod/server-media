@@ -2,19 +2,14 @@
   "server_name": "cytooxien",
   "nice_name": "Cytooxien",
   "direct_ip": "mc.cytooxien.de",
-  "server_wildcards": [
-    "%.cytooxien.de",
-    "%.cytooxien.net"
-  ],
   "supported_languages": [
     "de", "en", "fr", "es", "ru"
   ],
   "social": {
     "web": "https://www.cytooxien.de",
     "web_shop": "https://shop.cytooxien.de",
-    "web_support": "https://www.cytooxien.de/support",
     "twitter": "Cytooxien",
-    "discord": "https://cxn.link/discord",
+    "discord": "https://discord.gg/cytooxien",
     "teamspeak": "ts.cytooxien.de"
   },
   "discord": {
