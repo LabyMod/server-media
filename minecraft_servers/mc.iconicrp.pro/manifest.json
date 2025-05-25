@@ -1,0 +1,44 @@
+{
+  "server_name": "icmc",
+  "nice_name": "IconicMC",
+  "direct_ip": "mc.iconicrp.pro",
+  "supported_languages": [
+    "da"
+  ],
+  "social": {
+    "web": "https://iconicrp.pro",
+    "web_shop": "https://shop.iconicrp.pro",
+    "discord": "https://discord.gg/T8r7ctaACZ"
+  },
+  "gamemodes": {
+    "smp": {
+      "name": "Iconic SMP",
+      "command": "/server smp",
+      "color": "##BE2B2B"
+    },
+    "oneblock": {
+      "name": "Skyblock",
+      "command": "/server oneblock",
+      "color": "##BE2B2B"
+    },
+    "kitpvp": {
+      "name": "KitPvP",
+      "command": "/server kitpvp",
+      "color": "##BE2B2B"
+    }
+  },
+  "location": {
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "country_code": "DA"
+  },
+  "brand": {
+    "primary": "##BE2B2B",
+    "background": "##BE2B2B",
+    "text": "#ffffff"
+  },
+  "discord": {
+    "server_id": 952525153298939954,
+    "rename_to_minecraft_name": true
+  }
+}
