@@ -16,22 +16,27 @@
   "gamemodes": {
     "eventserver": {
       "name": "Eventserver",
+      "color": "#181848",
       "command": "/gameteleport events"
     },
     "mines": {
       "name": "Mines",
+      "color": "#181848",
       "command": "/gameteleport mines"
     },
     "getdown": {
       "name": "Getdown",
+      "color": "#181848",
       "command": "/gameteleport getdown"
     },
     "botpvp": {
       "name": "BotPVP",
+      "color": "#181848",
       "command": "/gameteleport botpvp"
     },
     "quicksurvivalgames": {
       "name": "QuickSurvivalGames",
+      "color": "#181848",
       "command": "/gameteleport qsg"
     },
     "hardcoreffa": {
@@ -40,6 +45,7 @@
     },
     "onevsone": {
       "name": "OneVsOne",
+      "color": "#181848",
       "command": "/gameteleport onevsone"
     }
   },
