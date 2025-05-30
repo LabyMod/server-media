@@ -41,6 +41,7 @@
     },
     "hardcoreffa": {
       "name": "HardcoreFFA",
+      "color": "#181848",
       "command": "/gameteleport hardcoreffa"
     },
     "onevsone": {
