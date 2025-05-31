@@ -1,0 +1,47 @@
+{
+  "server_name": "neolands",
+  "nice_name": "NeoLands",
+  "direct_ip": "neolands.de",
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "web": "https://www.neolands.de",
+    "discord": "https://neolands.de/discord",
+    "vote": "https://neolands.de/vote",
+    "tiktok": "neolands.de"
+  },
+  "discord": {
+    "server_id": 1292564031768625255,
+    "rename_to_minecraft_name": false
+  },
+  "gamemodes": {
+    "pvp": {
+      "name": "PvP",
+      "command": "/server pvp",
+      "color": "#00aa00",
+      "versions": "1.21<*"
+    },
+    "citybuild": {
+      "name": "Citybuild",
+      "command": "/server citybuild",
+      "color": "#55ff55",
+      "versions": "1.21<*"
+    }
+  },
+  "brand": {
+    "primary": "#00aa00",
+    "background": "#ff55ff",
+    "text": "#ffffff"
+  },
+  "chat": {
+    "message_formats": [
+      "<rank> • §7<sender> §8-> §7<message>"
+    ]
+  },
+  "location": {
+    "city": "Frankfurt",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+} 
