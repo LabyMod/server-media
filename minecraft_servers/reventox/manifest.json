@@ -1,0 +1,66 @@
+{
+  "server_name": "reventox",
+  "nice_name": "Reventox.net",
+  "direct_ip": "play.reventox.net",
+  "supported_languages": [
+    "de",
+    "en",
+    "pl"
+  ],
+  "social": {
+    "web_shop": "https://store.reventox.net",
+    "tiktok": "reventoxnet",
+    "youtube": "https://www.youtube.com/@Reventox",
+    "discord": "https://discord.gg/fcHQ7wGx82"
+  },
+  "gamemodes": {
+    "eventserver": {
+      "name": "Eventserver",
+      "color": "#181848",
+      "command": "/gameteleport events"
+    },
+    "mines": {
+      "name": "Mines",
+      "color": "#181848",
+      "command": "/gameteleport mines"
+    },
+    "getdown": {
+      "name": "Getdown",
+      "color": "#181848",
+      "command": "/gameteleport getdown"
+    },
+    "botpvp": {
+      "name": "BotPVP",
+      "color": "#181848",
+      "command": "/gameteleport botpvp"
+    },
+    "quicksurvivalgames": {
+      "name": "QuickSurvivalGames",
+      "color": "#181848",
+      "command": "/gameteleport qsg"
+    },
+    "hardcoreffa": {
+      "name": "HardcoreFFA",
+      "color": "#181848",
+      "command": "/gameteleport hardcoreffa"
+    },
+    "onevsone": {
+      "name": "OneVsOne",
+      "color": "#181848",
+      "command": "/gameteleport onevsone"
+    }
+  },
+  "brand": {
+    "primary": "#181848",
+    "text": "#ffffff"
+  },
+  "location": {
+    "city": "Frankfurt am Main",
+    "country": "Germany",
+    "country_code": "DE"
+  },
+  "discord": {
+    "server_id": 818115952088580116,
+    "rename_to_minecraft_name": false
+  }
+}
