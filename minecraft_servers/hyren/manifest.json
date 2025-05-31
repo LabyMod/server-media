@@ -6,8 +6,8 @@
     "pt"
   ],
   "social": {
-    "web": "https://hyren.club",
-    "web_shop": "https://hyren.club",
+    "web": "https://loja.hyren.club",
+    "web_shop": "https://loja.hyren.club",
     "twitter": "ServidorHyren",
     "tiktok": "servidorhyren",
     "discord": "https://discord.gg/hyren",
@@ -16,11 +16,13 @@
   },
   "gamemodes": {
     "bedwars": {
-      "name": "BedWars",
+      "name": "Bed Wars",
+      "color": "#FF5555",
       "command": "/play bedwars"
     },
     "practice": {
       "name": "Practice",
+      "color": "#00AAAA",
       "command": "/play duels"
     }
   },
