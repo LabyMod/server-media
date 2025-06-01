@@ -2,9 +2,6 @@
   "server_name": "redefantasy",
   "nice_name": "Rede Fantasy",
   "direct_ip": "redefantasy.com",
-  "server_wildcards": [
-    "%.redefantasy.com"
-  ],
   "gamemodes": {
     "prison_eclipse": {
       "name": "Prison Eclipse",
@@ -13,7 +10,7 @@
     }
   },
   "social": {
-    "discord": "https://discord.gg/redefantasy",
+    "discord": "https://discord.gg/RE6bbp4K9c",
     "web_shop": "https://redefantasy.com/shop",
     "tiktok": "redefantasyoficial",
     "instagram": "redefantasyoficial",
