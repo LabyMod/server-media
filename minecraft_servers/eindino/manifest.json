@@ -3,7 +3,7 @@
     "nice_name": "einDinoNet",
     "direct_ip": "eindino.net",
     "supported_languages": [
-        "de"
+        "de", "en"
     ],
     "social": {
         "web_shop": "https://shop.eindino.net",
@@ -13,13 +13,18 @@
         "discord": "https://discord.gg/eindino"
     },
     "gamemodes": {
-        "smp": {
-            "name": "SMP",
-            "color": "#5CB6C4",
-            "versions": "1.21<*"
-        },
         "knockit": {
             "name": "KnockIT",
+            "color": "#000DC4",
+            "versions": "1.21<*"
+        },
+        "citybuild": {
+            "name": "CityBuild",
+            "color": "#000DC4",
+            "versions": "1.21<*"
+        },
+        "gungame": {
+            "name": "GunGame",
             "color": "#000DC4",
             "versions": "1.21<*"
         }
