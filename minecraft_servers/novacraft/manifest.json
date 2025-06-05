@@ -21,7 +21,7 @@
 			"color": "#1ED600",
 			"command": "/ffa"
 		},
-                "Survival": {
+                "survival": {
 			"name": "Survival", 
 			"color": "#1ED600",
 			"command": "/switch Survival"
