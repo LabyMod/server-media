@@ -1,45 +1,36 @@
 {
-  "server_name": "snoopys_prime",
-  "nice_name": "Snoopy's Prime",
+  "server_name": "snoopysprime",
+  "nice_name": "Snoopys Prime",
   "direct_ip": "snoopysprime.de",
   "server_wildcards": [
     "%.snoopysprime.de"
   ],
   "supported_languages": [
-     "de"
+    "de"
   ],
   "social": {
-    "web": "https://snoopysprime.de",
-    "web_shop": "https://content-creator-snoopysprime.tebex.io/",
+    "web": "https://www.snoopysprime.de",
+    "web_shop": "https://content-creator-snoopysprime.tebex.io",
     "discord": "https://discord.gg/5besPvJNEe",
-    "youtube": "https://www.youtube.com/channel/UCSamgE1KYvC7qZn56T0J2yg"
-  },
-  "gamemodes": {
-    "citybuild": {
-      "name": "CityBuild", 
-      "color": "#FFA500"
-    }
+    "teamspeak": "snoopysprime.de"
   },
   "chat": {
     "message_formats": [
-      "^§[a-f0-9](?<level>\\d+)( \\||§8 \\|) §[a-f0-9](?<sender>[a-zA-Z0-9_]{2,16})§r§7: §f(?<message>.*)$"
+      "^(|§8»\\n)(§[a-f0-9]§?l?(?<rank>\\S+))§r §8\\| §7(?<sender>[a-zA-Z0-9_]{2,16})§r §8» §7(?<message>.*)(|\\n§8»)$"
     ]
   },
   "discord": {
-    "server_id": "1189989481290403990",
-    "rename_to_minecraft_name": false
+    "server_id": 1189989481290403990
   },
   "brand": {
-     "primary": "#008FE8",
-     "background": "#0A56A5",
-     "text": "#FFFFFF"
-  }, 
-  "location": {
-     "city": "Frankfurt",
-     "country": "Germany",
-     "country_code": "DE"
+    "primary": "#0095ed",
+    "background": "#00182e",
+    "text": "#ffffff"
   },
-  "yt_trailer": "8asFIRe2HSw",
-  "user_stats": "https://laby.net/@{userName}",
-  "command_delay": 3000
+  "location": {
+    "city": "Karlsruhe",
+    "country": "Germany",
+    "country_code": "DE"
+  },
+  "yt_trailer": "V2PxXsD3a30"
 }
