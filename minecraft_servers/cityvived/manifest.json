@@ -1,0 +1,43 @@
+"server_name": "cityvived",
+  "nice_name": "cityvived",
+  "direct_ip": "cityvived.net",
+  "supported_languages": [
+     "de"
+  ],
+  "social": {
+    "discord": "https://discord.gg/A9FNr2dS5m"
+	"YouTube": "https://www.youtube.com/@CityVived"
+	"TikTok": "https://www.tiktok.com/@cityvived"
+	"Instagram" "https://www.instagram.com/cityvived/"
+  },
+  "gamemodes": {
+    "citybuild": {
+      "name": "Citybuild", 
+      "color": "#ADD8E6",
+      "versions": "1.21* >"
+	},
+    "SMP": {
+      "name": "SMP", 
+      "color": "#FFA500",
+      "versions": "1.21.5 >"
+	},
+    "MLGRush": {
+      "name": "MLGRush", 
+      "color": "#66FE32",
+      "versions": "1.8 >"
+	  },
+      "SkyBlock": {
+      "name": "SkyBlock", 
+      "color": "#66FE32",
+      "versions": "1.21.5 >" 
+	},
+     "": {
+      "name": "BerkWerk", 
+      "color": "#66FE32",
+      "versions": "1.21.4 >"
+    },
+  "location": {
+     "country": "Germany",
+     "country_code": "DE"
+  }
+}
