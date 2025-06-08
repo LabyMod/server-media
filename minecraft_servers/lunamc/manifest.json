@@ -1,0 +1,16 @@
+{
+    "server_name": "lunamc",
+    "nice_name": "LunaMC",
+    "direct_ip": "87.106.86.134:10003",
+    "supported_languages": [
+       "de"
+    ],
+    "social": {
+      "discord": "https://discord.gg/snkgu69ntM"
+    },
+    "location": {
+      "city": "Buchholz",
+      "country": "Germany",
+      "country_code": "DE"
+    }
+  }
