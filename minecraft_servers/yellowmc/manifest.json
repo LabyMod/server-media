@@ -1,0 +1,34 @@
+{
+  "server_name": "yellowmc",
+  "nice_name": "YellowMC",
+  "direct_ip": "yellowmc.de",
+  "server_wildcards": [
+    "%.yellowmc.de"
+  ],
+  "social": {
+    "web": "https://yellowmc.de",
+    "web_shop": "https://shop.yellowmc.de",
+    "discord": "https://dc.yellowmc.de",
+    "youtube": "https://www.youtube.com/@emn4tor",
+    "tiktok": "https://www.tiktok.com/@yellowmcnetwork",
+    "gamemodes": {
+      "citybuild":  {
+        "name": "CityBuild",
+        "command": "/server citybuild",
+        "color": "#f0c040",
+        "versions": "1.17<*"
+      }
+    }
+  },
+  "location": {
+    "country": "Germany",
+    "city": "Frankfurt am Main",
+    "country_code": "DE"
+  },
+  "yt_trailer": "U6nfPKfZzWc",
+  "brand": {
+    "primary": "#E8D100FF",
+    "background": "#FFAA00FF",
+    "text": "#FFFFFF"
+  }
+}
