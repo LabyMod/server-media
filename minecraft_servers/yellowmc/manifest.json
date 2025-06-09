@@ -2,15 +2,11 @@
   "server_name": "yellowmc",
   "nice_name": "YellowMC",
   "direct_ip": "yellowmc.de",
-  "server_wildcards": [
-    "%.yellowmc.de"
-  ],
   "social": {
     "web": "https://yellowmc.de",
-    "web_shop": "https://shop.yellowmc.de",
-    "discord": "https://dc.yellowmc.de",
+    "discord": "https://discord.gg/QyJjeRdgUD",
     "youtube": "https://www.youtube.com/@emn4tor",
-    "tiktok": "https://www.tiktok.com/@yellowmcnetwork",
+    "tiktok": "@yellowmcnetwork",
     "gamemodes": {
       "citybuild":  {
         "name": "CityBuild",
