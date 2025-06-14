@@ -7,10 +7,10 @@
       "%.noovex.de"
     ],
   "gamemodes": {
-    "survival": {
-      "name": "Survival",
-      "command": "/server survival",
-      "color": "#0973E1",
+    "dungeons": {
+      "name": "Dungeons",
+      "command": "/server dungeons",
+      "color": "#75DC3F",
       "versions": "1.21.5<*"
     }
   },
@@ -23,7 +23,7 @@
         "en"
     ],
     "social": {
-        "discord": "https://discord.gg/3UAgZZpZgz"
+        "discord": "https://discord.gg/VY7bQ9Kegz"
     },
     "location": {
         "city": "Münster",
