@@ -1,7 +1,10 @@
 {
     "server_name": "mcraftygatherings",
     "nice_name": "MCraftyGatherings",
-    "direct_ip": "mcraftygatherings.mine.bz",
+    "direct_ip": "play.mcraftygatherings.com",
+    "server_wildcards": [
+      "%.mcraftygatherings.com"
+    ],
     "social": {
         "twitter": "MCGatherings",
         "tiktok": "mcraftygatherings",
