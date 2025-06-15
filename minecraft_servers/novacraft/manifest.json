@@ -17,7 +17,7 @@
 			"command": "/switch CB"
                 },
                 "ffa": {
-			"name": "FFA", 
+			"name": "SwitchFFA", 
 			"color": "#1ED600",
 			"command": "/ffa"
 		},
