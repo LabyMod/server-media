@@ -1,0 +1,16 @@
+{
+    "server_name": "marschmallowcb",
+    "nice_name": "MarschmallowCB",
+    "direct_ip": "marschmallowcb.novium.link",
+    "supported_languages": [
+        "de"
+    ],
+    "social": {
+        "discord": "https://discord.gg/V8VpmYPVFu",
+        "tiktok": "https://www.tiktok.com/@marschmallowcb",
+    },
+    "discord": {
+        "server_id": 1379493932102324296,
+        "rename_to_minecraft_name": false
+    }
+}
