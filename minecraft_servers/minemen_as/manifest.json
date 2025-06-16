@@ -3,11 +3,11 @@
     "nice_name":"Minemen Club AS",
     "direct_ip":"minemen.club",
     "server_wildcards":[
-      "as.minemen.club",
-      "as.mineman.club",
-      "as.minemenclub.com",
-      "as.zonix.us",
-      "as.pvp.bar"
+      "%.as.minemen.club",
+      "%.as.mineman.club",
+      "%.as.minemenclub.com",
+      "%.as.zonix.us",
+      "%.as.pvp.bar"
     ],
     "social":{
       "web":"https://minemen.club",
