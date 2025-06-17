@@ -124,7 +124,7 @@ while read image; do
         && error "${image}" "Invalid hDPI background size! Size is ${width}x${height}px, must be 1920x1080px"
 
 
-    # check banner.png if it exists
+    # check background@2x.png if it exists
     elif [[ "${filename}" == "banner.png" ]]; then
       # banner dimension
       [[ "${width}" -ne 1280 || "${height}" -ne 256 ]] \
