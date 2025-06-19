@@ -3,6 +3,14 @@
   "nice_name": "Drazyh",
   "direct_ip": "drazyh.com",
   "gamemodes": {
+    "fullpvp": {
+      "name": "Full PvP",
+      "command": "/play fullpvp"
+    },
+    "factions": {
+      "name": "Factions",
+      "command": "/play factions"
+    },
     "p4free": {
       "name": "P4 Free",
       "command": "/play p4free"
@@ -10,10 +18,6 @@
     "rankup": {
       "name": "RankUP",
       "command": "/play rankup"
-    },
-    "factions": {
-      "name": "Factions",
-      "command": "/play factions"
     }
   },
   "social": {
