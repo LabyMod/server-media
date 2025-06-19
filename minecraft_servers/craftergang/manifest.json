@@ -22,6 +22,12 @@
       "command": "/gametp crafterbreak",
       "versions": "1.8<1.21.5"
     },
+    "ironprotect": {
+      "name": "IRONPROTECT",
+      "color": "#2f3d4c",
+      "command": "/gametp ironprotect",
+      "versions": "1.8<1.21.5"
+    },
     "welt-untergang": {
       "name": "Untergang",
       "color": "#0bde19",
@@ -35,13 +41,13 @@
       "versions": "1.8<1.21.5"
     },
     "getdown": {
-      "name": "GetDown Reloaded",
+      "name": "GetDown",
       "color": "#07F0E0",
       "command": "/gametp gdownr",
       "versions": "1.8<1.21.5"
     },
     "cb": {
-      "name": "CityBuild 1.8 & 1.21.5",
+      "name": "CB 1.8 & 1.21.5",
       "color": "#0d6914",
       "command": "/gametp cb1",
       "versions": "1.8<1.21.5"
@@ -58,10 +64,10 @@
       "command": "/gametp onehit",
       "versions": "1.8<1.21.5"
     },
-    "ffa": {
-      "name": "FFA",
-      "color": "#ed0c26",
-      "command": "/gametp ffa",
+    "mlgrush": {
+      "name": "MLGRUSH",
+      "color": "#6badf6",
+      "command": "/gametp mlgrush",
       "versions": "1.8<1.21.5"
     },
     "skypvp": {
