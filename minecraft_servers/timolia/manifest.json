@@ -37,13 +37,7 @@
       "command": "/quickjoin freebuild",
       "url": "https://www.timolia.de/games#freebuild",
       "color": "#0095B0",
-      "versions": "1.20<*"
-    },
-    "brainbow": {
-      "name": "BrainBow",
-      "command": "/quickjoin brainbow",
-      "url": "https://howto.timolia.de/games/brainbow/",
-      "color": "#0095B0"
+      "versions": "1.21.4<*"
     },
     "4rena": {
       "name": "4rena",
@@ -56,13 +50,6 @@
       "command": "/quickjoin castles",
       "url": "https://www.timolia.de/games#castles",
       "color": "#0095B0"
-    },
-    "survivalquest": {
-      "name": "SurvivalQuest",
-      "command": "/quickjoin survivalquest",
-      "url": "https://www.timolia.de/games#survivalquest",
-      "color": "#0095B0",
-      "versions": "1.16.5<*"
     },
     "splun": {
       "name": "Splun",
