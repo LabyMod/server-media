@@ -5,19 +5,23 @@
   "gamemodes": {
     "fullpvp": {
       "name": "Full PvP",
-      "command": "/play fullpvp"
+      "command": "/play fullpvp",
+      "color": "#FFFFFF"
     },
     "factions": {
       "name": "Factions",
-      "command": "/play factions"
+      "command": "/play factions",
+      "color": "#FFFFFF"
     },
     "p4free": {
       "name": "P4 Free",
-      "command": "/play p4free"
+      "command": "/play p4free",
+      "color": "#FFFFFF"
     },
     "rankup": {
       "name": "RankUP",
-      "command": "/play rankup"
+      "command": "/play rankup",
+      "color": "#FFFFFF"
     }
   },
   "social": {
@@ -28,8 +32,8 @@
     "rename_to_minecraft_name": false
   },
   "brand": {
-    "primary": "#007bff",
-    "background": "#f9cb25",
+    "primary": "#0055ff",
+    "background": "#003399",
     "text": "#FFFFFF"
   },
   "location": {
