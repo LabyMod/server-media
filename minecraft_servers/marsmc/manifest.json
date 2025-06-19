@@ -1,0 +1,94 @@
+{
+    "server_name": "marsmc",
+    "nice_name": "MarsMC",
+    "direct_ip": "marsmc.net",
+    "server_wildcards": [
+      "%.marsmc.net"
+    ],
+    "supported_languages": [
+      "ar",
+      "en"
+    ],
+    "social": {
+      "web_shop": "https://store.marsmc.net",
+      "twitter": "playmarsmc",
+      "instagram": "playmarsmc",
+      "tiktok": "playmarsmc",
+      "discord": "https://discord.gg/marsmc",
+      "youtube": "https://www.youtube.com/@PlayMarsMC"
+    },
+    "gamemodes": {
+      "superpvp": {
+          "name": "PvP",
+          "color": "#ffffff",
+          "command": "/play superpvp",
+          "versions": "1.8<*"
+      },
+      "survivalgames": {
+        "name": "Survival Games",
+        "color": "#ffffff",
+        "command": "/play sg",
+        "versions": "1.8<*"
+      },
+      "practice": {
+        "name": "Practice",
+        "color": "#ffffff",
+        "command": "/play practice",
+        "versions": "1.8<*"
+      },
+      "1vs1": {
+        "name": "Duels",
+        "color": "#ffffff",
+        "command": "/play practice",
+        "versions": "1.8<*"
+      },
+      "pof": {
+          "name": "Pillars of Fortune",
+          "color": "#ffffff",
+          "command": "/play pof",
+          "versions": "1.8<*"
+      },
+      "creative": {
+          "name": "Creative",
+          "color": "#ffffff",
+          "command": "/play creative",
+          "versions": "1.8<*"
+      },
+      "blockparty": {
+          "name": "BlockParty",
+          "color": "#ffffff",
+          "versions": "1.8<*"
+      },
+      "gravity": {
+          "name": "Gravity",
+          "color": "#ffffff",
+          "command": "/play gravity",
+          "versions": "1.8<*"
+      },
+      "survival": {
+          "name": "Survival",
+          "color": "#ffffff",
+          "command": "/play survival",
+          "versions": "1.21<*"
+      },
+      "timv": {
+        "name": "TTT",
+        "color": "#ffffff",
+        "command": "/play timv",
+        "versions": "1.8<*"
+      }
+    },
+    "location": {
+       "city": "Riyadh",
+       "country": "Saudi Arabia",
+       "country_code": "SA"
+    },
+    "discord": {
+      "server_id": 378184284080439309,
+      "rename_to_minecraft_name": false
+    },
+    "brand": {
+       "primary": "#001414",
+       "background": "#ffa321"
+    }
+  }
