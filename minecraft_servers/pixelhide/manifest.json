@@ -3,10 +3,9 @@
     "nice_name": "PixelHide Network",
     "direct_ip": "pixelhide.de",
     "server_wildcards": [
-        "mc.pixelhide.de"
+        "%.pixelhide.de"
     ],
     "supported_languages": [
-        "en",
         "de"
     ],
     "social": {
@@ -17,7 +16,7 @@
         "jumpworld": {
             "name": "BedWars",
             "color": "#d000ff",
-            "command": "/bw join Duo01",
+            "command": "/server Minigames",
             "versions": "1.21.4"
         },
         "dna": {}
