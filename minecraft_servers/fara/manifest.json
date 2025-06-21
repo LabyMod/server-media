@@ -2,15 +2,12 @@
   "server_name": "fara",
   "nice_name": "FaraMC",
   "direct_ip": "faramc.uk",
-  "server_wildcards": [
-    "%.faramc.uk"
   ],
   "supported_languages": [
     "en"
   ],
   "social": {
     "web": "https://faramc.uk",
-    "web_shop": "https://store.faramc.uk",
     "twitter": "FaraMCX",
     "tiktok": "faramctt",
     "discord": "https://discord.com/invite/2H5Z66StvM",
@@ -18,7 +15,6 @@
   },
   "chat": {
     "message_formats": [
-      "^§[a-f0-9](?<level>\\d+)( \\||§8 \\|) §[a-f0-9](?<sender>[a-zA-Z0-9_]{2,16})§r§7: §f(?<message>.*)$"
     ]
   },
   "discord": {
