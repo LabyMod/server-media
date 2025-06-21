@@ -13,10 +13,6 @@
     "discord": "https://discord.com/invite/2H5Z66StvM",
     "youtube": "https://www.youtube.com/channel/UCJaYN5CussEXCF7zZMMR76g"
   },
-  "chat": {
-    "message_formats": [
-    ]
-  },
   "discord": {
     "server_id": 1334294944185319457,
     "rename_to_minecraft_name": false
