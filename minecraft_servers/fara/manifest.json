@@ -6,7 +6,7 @@
     "%.faramc.uk"
   ],
   "supported_languages": [
-     "en"
+    "en"
   ],
   "social": {
     "web": "https://faramc.uk",
@@ -14,8 +14,7 @@
     "twitter": "FaraMCX",
     "tiktok": "faramctt",
     "discord": "https://discord.com/invite/2H5Z66StvM",
-    "youtube": "https://www.youtube.com/channel/UCJaYN5CussEXCF7zZMMR76g",
-    }
+    "youtube": "https://www.youtube.com/channel/UCJaYN5CussEXCF7zZMMR76g"
   },
   "chat": {
     "message_formats": [
@@ -27,14 +26,14 @@
     "rename_to_minecraft_name": false
   },
   "brand": {
-     "primary": "#800080",
-     "background": "#6a5acd",
-     "text": "#FFFFFF"
-  }, 
+    "primary": "#800080",
+    "background": "#6a5acd",
+    "text": "#FFFFFF"
+  },
   "location": {
-     "city": "London",
-     "country": "United Kingdom",
-     "country_code": "GB"
+    "city": "London",
+    "country": "United Kingdom",
+    "country_code": "GB"
   },
   "command_delay": 3000
 }
