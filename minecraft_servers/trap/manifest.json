@@ -2,35 +2,83 @@
   "server_name": "trap",
   "nice_name": "Trap",
   "direct_ip": "trapmc.com.br",
+  "server_wildcards": [
+    "%.trapmc.com.br",
+    "%.trapmc.com",
+    "%.trap.com.br"
+  ],
+  "supported_languages": [
+    "pt"
+  ],
   "social": {
-    "web": "https://loja.trapmc.com.br",
-    "discord": "https://discord.gg/UXtNDVA6YZ"
+    "web": "https://trapmc.com.br",
+    "web_shop": "https://loja.trapmc.com.br ",
+    "twitter": "RedeTrapMC",
+    "tiktok": "trap.games",
+    "facebook": "RedeTrapMC",
+    "instagram": "trap.games",
+    "discord": "https://discord.gg/trapmc",
+    "youtube": "https://www.youtube.com/@RedeTrapMC"
   },
   "gamemodes": {
     "fasthg": {
       "name": "FastHG",
-      "color": "#EB7A34",
-      "versions": "1.8<*"
+      "color": "#ff7400",
+      "command": "/play fasthg"
     },
-    "academy": {
-      "name": "Academy",
-      "color": "#EB7A34",
-      "versions": "1.8<*"
+    "bedwars": {
+      "name": "Bed Wars",
+      "color": "#ff0000",
+      "command": "/play bedwars"
     },
-    "royale": {
-      "name": "Royale",
-      "color": "#EB7A34",
-      "versions": "1.8<*"
+    "skywars": {
+      "name": "Sky Wars",
+      "color": "#77FF00",
+      "command": "/play skywars"
     },
     "duels": {
       "name": "Duels",
-      "color": "#EB7A34",
-      "versions": "1.8<*"
+      "color": "#FFEA00",
+      "command": "/play duels"
+    "party": {
+      "name": "Party",
+      "color": "#A600FF",
+      "command": "/play party"
+    },
+    "hg": {
+      "name": "HG",
+      "color": "#00FF94",
+      "command": "/play hg"
+    },
+    "pvp": {
+      "name": "PvP",
+      "color": "#ED00FF",
+      "command": "/play pvp"
     }
+    "battleroyale": {
+      "name": "Battle Royale",
+      "color": "#e9d600",
+      "command": "/play battleroyale"
+    }
+    "royale": {
+      "name": "Royale",
+      "color": "#ff8300",
+      "command": "/royale"
+    }
+  },
+  "discord": {
+    "server_id": 1306389755256111185,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#ffbe00",
+    "background": "#d1d300",
+    "text": "#FFFFFF"
   },
   "location": {
     "city": "São Paulo",
     "country": "Brasil",
     "country_code": "BR"
-  }
+  },
+  "user_stats": "https://mush.com.br/player/{userName}"
 }
