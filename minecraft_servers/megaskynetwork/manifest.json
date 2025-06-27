@@ -1,0 +1,52 @@
+
+{
+  "server_name": "MegaSky",
+  "nice_name": "MegaSky Network",
+  "direct_ip": "megaskynetwork.com.br",
+  "server_wildcards": [
+    "%.megaskynetwork.com.br"
+  ],
+  "supported_languages": [
+     "pt-BR",
+     "pt-PT"
+  ],
+  "social": {
+    "web": "https://megaskynetwork.com.br/",
+    "web_shop": "https://megaskynetwork.com.br/",
+    "web_support": "https://megaskynetwork.com.br/",
+    "twitter": "MegaSkyNetwork",
+    "tiktok": "megaskynetwork",
+    "facebook": "megaskynetwork",
+    "instagram": "megaskynetworkk",
+    "discord": "https://discord.gg/wcMWVa5TBF",
+    "youtube": "https://www.youtube.com/@MegaSkyNetwork"
+  },
+  "gamemodes": {
+    "jumpworld": {
+      "name": "Criativo", 
+      "color": "#FFA500",
+      "command": "/server Criativo",
+      "versions": "1.8x - 1.21x*"
+    },
+    "dna": {
+      "name": "BedWars",
+      "color": "#ADD8E6",
+      "command": "/server Bedwars",
+      "versions": "1.8x - 1.21x*"
+    }
+  },
+  "discord": {
+    "server_id": 1237165094702547075,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#008FE8",
+     "background": "#0A56A5",
+     "text": "#FFFFFF"
+  }, 
+  "location": {
+     "city": "Miami",
+     "country": "United States of América",
+     "country_code": "USA"
+  }
+}
