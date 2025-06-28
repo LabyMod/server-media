@@ -2,9 +2,6 @@
   "server_name": "slimemc",
   "nice_name": "SlimeMC",
   "direct_ip": "SlimeMC.de",
-  "server_wildcards": [
-    "SlimeMC.de"
-  ],
   "supported_languages": [
      "en",
      "de"
