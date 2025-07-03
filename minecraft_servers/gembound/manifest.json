@@ -12,7 +12,8 @@
     "skyblock": {
       "name": "Skyblock",
       "command": "/server skyblock",
-      "versions": "1.20<*"
+      "versions": "1.20<*",
+      "color": "#b6ff38"
     }
   },
   "discord": {
