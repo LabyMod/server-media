@@ -1,4 +1,3 @@
-
 {
   "server_name": "gembound",
   "nice_name": "GemBound",
@@ -17,7 +16,7 @@
     }
   },
   "discord": {
-    "server_id": 1340463126482784256,
+    "server_id": 1340463126482784256
   },
   "location": {
     "city": "Toronto",
