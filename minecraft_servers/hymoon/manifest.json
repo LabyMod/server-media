@@ -1,0 +1,49 @@
+{
+  "server_name": "hymoon",
+  "nice_name": "HyMoon",
+  "direct_ip": "play.hymoon.es",
+  "server_wildcards": [
+    "%.hymoon.es"
+  ],
+  "supported_languages": [
+     "es",
+     "en"
+  ],
+  "social": {
+    "web_shop": "https://hymoon-tienda.tebex.io",
+    "twitter": "HyMoonES",
+    "discord": "https://discord.com/invite/X2TqtMYgcP",
+    "youtube": "https://www.youtube.com/channel/UC5kgXeyBdJdZmAvtAyyjxSg"
+  },
+  "gamemodes": {
+      "knockbackffa": {
+        "name": "KnockbackFFA",
+        "color": "#ffff55",
+        "command": "/play kbffa"
+      },
+      "swsolo": {
+        "name": "SkyWars Solo",
+        "color": "#ff5555",
+        "command": "/play sws"
+      },
+      "arenapvp": {
+        "name": "ArenaPvP",
+        "color": "#aa00aa",
+        "command": "/play apvp"
+      }
+  },
+  "discord": {
+    "server_id": 724357358851194961,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#008FE8",
+     "background": "#0A56A5",
+     "text": "#FFFFFF"
+  }, 
+  "location": {
+    "city": "Orangeburg",
+    "country": "United States",
+    "country_code": "US"
+  }
+}
