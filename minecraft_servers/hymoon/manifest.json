@@ -2,9 +2,6 @@
   "server_name": "hymoon",
   "nice_name": "HyMoon",
   "direct_ip": "play.hymoon.es",
-  "server_wildcards": [
-    "%.hymoon.es"
-  ],
   "supported_languages": [
      "es",
      "en"
