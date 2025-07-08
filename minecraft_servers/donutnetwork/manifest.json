@@ -46,8 +46,7 @@
   },
   "brand": {
      "primary": "#ff7b00",
-     "background": "#535353",
-     "text": "#ffffff"
+     "background": "#535353"
   },
   "location": {
     "city": "Frankfurt",
