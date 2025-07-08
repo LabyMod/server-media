@@ -3,7 +3,7 @@
   "nice_name": "DonutNetwork",
   "direct_ip": "donutnetwork.eu",
   "server_wildcards": [
-    "donutnetwork.eu"
+    "%.donutnetwork.eu"
   ],
   "supported_languages": [
     "en"
