@@ -1,0 +1,43 @@
+{
+  "server_name": "gamerherz",
+  "nice_name": "Gamerherz.eu",
+  "direct_ip": "Gamerherz.eu",
+  "supported_languages": [
+     "de"
+  ],
+  "social": {
+    "web": "https://gamerherz.eu",
+    "web_support": "https://gamerherz.eu/contact.html",
+    "twitter": "Gamerherz.eu",
+    "tiktok": "Gamerherz.eu",
+    "discord": "https://discord.gg/Z3rrqYSpUE",
+    "youtube": "https://www.youtube.com/channel/UCoPAhhSl7Y3sek7qXkQCqWw"
+  },
+  "gamemodes": {
+    "paintball": {
+      "name": "Paintball", 
+      "command": "/server Paintball-1",
+      "versions": "1.8<*"
+    },
+    "duels_1.8": {
+      "name": "Duels 1.8", 
+      "command": "/server Duels_8-1",
+      "versions": "1.8<*"
+    },
+    "build_attack_4": {
+      "name": "Build Attack 4", 
+      "command": "/server Build-Attack-1",
+      "versions": "1.20<*"
+    },
+    "duels_1.20": {
+      "name": "Duels 1.20", 
+      "command": "/server Duels_16-1",
+      "versions": "1.16<*"
+    },
+    "schach": {
+      "name": "Schach",
+      "command": "/server Schach-1",
+      "versions": "1.8<*"
+    }
+  }
+}
