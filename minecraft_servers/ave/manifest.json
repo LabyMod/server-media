@@ -1,0 +1,67 @@
+{
+  "server_name": "ave",
+  "nice_name": "AVE",
+  "direct_ip": "ave.rip",
+  "server_wildcards": [
+    "%.ave.rip",
+    "%.nythera.com"
+  ],
+  "supported_languages": [
+     "en",
+     "de"
+  ],
+  "social": {
+    "web": "https://ave.rip",
+    "web_shop": "https://store.ave.rip",
+    "twitter": "ave_rip",
+    "discord": "https://discord.gg/HXSgxcVYtB",
+    "youtube": "https://www.youtube.com/c/shvquu",
+    "teamspeak": "ts.ave.rip"
+  },
+  "gamemodes": {
+    "skywars": {
+      "name": "SkyWars", 
+      "color": "#FFA500",
+      "url": "https://www.ave.rip/games#sw",
+      "command": "/quickjoin sw",
+      "versions": "1.7<*"
+    },
+    "skywarsffa": {
+      "name": "SkyWarsFFA",
+      "color": "#ADD8E6",
+      "url": "https://www.ave.rip/games#swffa",
+      "command": "/quickjoin SWFFA",
+      "versions": "1.7<*"
+    },
+    "bedwars": {
+      "name": "BedWars",
+      "color": "#ADD8E6",
+      "url": "https://www.ave.rip/games#bedwars",
+      "command": "/quickjoin bw",
+      "versions": "1.7<*"
+    },
+    "practice": {
+      "name": "Practice",
+      "color": "#ADD8E6",
+      "url": "https://www.ave.rip/games#practice",
+      "command": "/quickjoin Practice",
+      "versions": "1.7<*"
+    }
+  },
+  "discord": {
+    "server_id": 1193988253712400487,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#aa0000",
+     "background": "#ff5555",
+     "text": "#FFFFFF"
+  }, 
+  "location": {
+     "city": "Frankfurt am Main",
+     "country": "Germany",
+     "country_code": "DE"
+  },
+  "user_stats": "https://laby.net/@{userName}",
+  "command_delay": 3000
+}
