@@ -2,10 +2,6 @@
   "server_name": "ave",
   "nice_name": "AVE",
   "direct_ip": "ave.rip",
-  "server_wildcards": [
-    "%.ave.rip",
-    "%.nythera.com"
-  ],
   "supported_languages": [
      "en",
      "de"
