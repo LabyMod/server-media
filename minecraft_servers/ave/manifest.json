@@ -62,6 +62,6 @@
      "country": "Germany",
      "country_code": "DE"
   },
-  "user_stats": "https://laby.net/@{userName}",
+  "user_stats": "https://ave.rip/stats/@{userName}",
   "command_delay": 3000
 }
