@@ -1,6 +1,6 @@
 {
-  "server_name": "TheMania",
-  "nice_name": "TheMania Network",
+  "server_name": "themania",
+  "nice_name": "themania network",
   "direct_ip": "themania.de",
   "server_wildcards": [
     "themania.de"
@@ -14,11 +14,6 @@
     "web_shop": "https://themania.de",
     "web_support": "https://themania.de",
     "discord": "https://discord.gg/C2aDyVVVAD"
-  },
-  "chat": {
-    "message_formats": [
-      "^§[a-f0-9](?<level>\\d+)( \\||§8 \\|) §[a-f0-9](?<sender>[a-zA-Z0-9_]{2,16})§r§7: §f(?<message>.*)$"
-    ]
   },
   "discord": {
     "server_id": 1388648233651142756,
