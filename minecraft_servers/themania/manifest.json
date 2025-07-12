@@ -2,9 +2,6 @@
   "server_name": "themania",
   "nice_name": "themania network",
   "direct_ip": "themania.de",
-  "server_wildcards": [
-    "themania.de"
-  ],
   "supported_languages": [
      "en",
      "de"
