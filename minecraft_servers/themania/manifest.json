@@ -1,15 +1,12 @@
 {
   "server_name": "themania",
-  "nice_name": "themania network",
+  "nice_name": "TheMania Network",
   "direct_ip": "themania.de",
   "supported_languages": [
      "en",
      "de"
   ],
   "social": {
-    "web": "https://themania.de",
-    "web_shop": "https://themania.de",
-    "web_support": "https://themania.de",
     "discord": "https://discord.gg/C2aDyVVVAD"
   },
   "discord": {
