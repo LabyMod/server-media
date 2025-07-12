@@ -13,29 +13,7 @@
     "web": "https://themania.de",
     "web_shop": "https://themania.de",
     "web_support": "https://themania.de",
-    "twitter": "TheMania Network",
-    "tiktok": "TheMania Network",
-    "facebook": "TheMania Network",
-    "instagram": "TheMania Network",
-    "discord": "https://discord.gg/C2aDyVVVAD",
-    "youtube": "https://www.youtube.com/channel/UCSamgE1KYvC7qZn56T0J2yg",
-    "teamspeak": "ts.themania.de"
-  },
-  "gamemodes": {
-    "jumpit": {
-      "name": "JumpIT", 
-      "color": "#FFA500",
-      "url": "https://themania.de/games#jumpworld",
-      "command": "/quickjoin jumpit-1",
-      "versions": "1.17<*"
-    },
-    "bedwars": {
-      "name": "BedWars",
-      "color": "#ADD8E6",
-      "url": "https://www.themania.de/games#bedwars",
-      "command": "/quickjoin dna",
-      "versions": "1.8<*"
-    }
+    "discord": "https://discord.gg/C2aDyVVVAD"
   },
   "chat": {
     "message_formats": [
