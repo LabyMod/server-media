@@ -10,36 +10,36 @@
     "web": "https://ave.rip",
     "web_shop": "https://store.ave.rip",
     "twitter": "ave_rip",
-    "discord": "https://discord.gg/HXSgxcVYtB",
-    "youtube": "https://www.youtube.com/c/shvquu",
+    "discord": "https://discord.gg/averip",
+    "youtube": "https://www.youtube.com/@ave_network",
     "teamspeak": "ts.ave.rip"
   },
   "gamemodes": {
     "skywars": {
       "name": "SkyWars", 
       "color": "#FFA500",
-      "url": "https://www.ave.rip/games#sw",
+      "url": "https://www.ave.rip/games_sw",
       "command": "/quickjoin sw",
       "versions": "1.7<*"
     },
     "skywarsffa": {
       "name": "SkyWarsFFA",
       "color": "#ADD8E6",
-      "url": "https://www.ave.rip/games#swffa",
+      "url": "https://www.ave.rip/games_swffa",
       "command": "/quickjoin SWFFA",
       "versions": "1.7<*"
     },
     "bedwars": {
       "name": "BedWars",
       "color": "#ADD8E6",
-      "url": "https://www.ave.rip/games#bedwars",
+      "url": "https://www.ave.rip/games_bedwars",
       "command": "/quickjoin bw",
       "versions": "1.7<*"
     },
     "practice": {
       "name": "Practice",
       "color": "#ADD8E6",
-      "url": "https://www.ave.rip/games#practice",
+      "url": "https://www.ave.rip/games_practice",
       "command": "/quickjoin Practice",
       "versions": "1.7<*"
     }
@@ -58,6 +58,6 @@
      "country": "Germany",
      "country_code": "DE"
   },
-  "user_stats": "https://ave.rip/stats/@{userName}",
+  "user_stats": "https://ave.rip/profile/@{userName}",
   "command_delay": 3000
 }
