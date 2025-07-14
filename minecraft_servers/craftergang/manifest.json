@@ -46,6 +46,12 @@
       "command": "/gametp gdownr",
       "versions": "1.8<1.21.7"
     },
+    "switchffa": {
+      "name": "SFFA",
+      "color": "#07F0E0",
+      "command": "/gametp sffa",
+      "versions": "1.8<1.21.7"
+    },
     "cb": {
       "name": "CB 1.8 & 1.21.5",
       "color": "#0d6914",
