@@ -14,7 +14,7 @@
       "discord":"https://discord.gg/G3qr5dpadU",
       "youtube":"https://www.youtube.com/channel/UCEhzB2xkBtEPaIjD1LpxGpA",
       "web":"https://endertime.net",
-      "web_support":"https://endertime.net/SUPPORT.html"
+      "web_support":"https://endertime.net/support"
    },
    "discord":{
       "server_id":1104040356204523641,
@@ -34,49 +34,21 @@
       "terra":{
          "name":"Terra",
          "color":"#84ff6c",
-         "command": "/quickjoin Terra",
          "versions":"1.20<*"
       },
       "kbffa":{
          "name":"KBFFA",
          "color":"#ffac63",
-         "command": "/quickjoin KBFFA",
-         "versions":"1.20<*"
-      },
-      "destruction":{
-         "name":"Destruction",
-         "color":"#ff3838",
-         "command": "/quickjoin Destruction",
-         "versions":"1.20<*"
-      },
-      "dungeons":{
-         "name":"Dungeons",
-         "color":"#ffd800",
-         "command": "/quickjoin Dungeons",
-         "versions":"1.20<*"
-      },
-      "treewars":{
-         "name":"TreeWars",
-         "color":"#e2ff6c",
-         "command": "/quickjoin TreeWars",
          "versions":"1.20<*"
       },
       "creative":{
          "name":"Creative",
          "color":"#73c2ff",
-         "command": "/quickjoin Creative",
-         "versions":"1.20<*"
-      },
-      "battlebox":{
-         "name":"BattleBox",
-         "color":"#ffd800",
-         "command": "/quickjoin BattleBox",
          "versions":"1.20<*"
       },
       "oitc":{
          "name":"OITC",
          "color":"#ffac63",
-         "command": "/quickjoin OITC",
          "versions":"1.20<*"
       }
    }

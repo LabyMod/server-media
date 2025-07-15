@@ -1,0 +1,46 @@
+{
+  "server_name": "vulskov",
+  "nice_name": "Vulskov",
+  "direct_ip": "mc.vulskov.com",
+  "supported_languages": ["da"],
+  "social": {
+    "web": "https://vulskov.com",
+    "web_shop": "https://store.vulskov.com",
+    "tiktok": "vulskov.com",
+    "discord": "https://discord.gg/eFmBWR6Vhb"
+  },
+  "gamemodes": {
+    "prison": {
+      "name": "Prison",
+      "command": "/server prison",
+      "color": "#c5db30",
+      "versions": "1.8<*"
+    },
+    "survival": {
+      "name": "Survival",
+      "command": "/server survival",
+      "color": "#c5db30",
+      "versions": "1.21.6<*"
+    },
+    "bedwars": {
+      "name": "Bedwars",
+      "command": "/server bedwars",
+      "color": "#c5db30",
+      "versions": "1.8<*"
+    }
+  },
+  "location": {
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "country_code": "DA"
+  },
+  "brand": {
+    "primary": "#c5db30",
+    "background": "#c5db30",
+    "text": "#ffffff"
+  },
+  "discord": {
+    "server_id": "1278328039784058931",
+    "rename_to_minecraft_name": false
+  }
+}

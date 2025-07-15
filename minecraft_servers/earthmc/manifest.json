@@ -1,12 +1,12 @@
 {
     "server_name": "earthmc",
     "nice_name": "EarthMC",
-    "direct_ip": "play.earthmc.net",
+    "direct_ip": "laby.earthmc.net",
     "server_wildcards": [
         "%.earthmc.net"
     ],
     "social": {
-        "web": "https://earthmc.net",
+        "web": "https://earthmc.net?ip=laby",
         "web_shop": "https://store.earthmc.net",
         "twitter": "OfficialEarthMC",
         "discord": "https://discord.gg/TFVYpWQ"
