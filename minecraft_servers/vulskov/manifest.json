@@ -10,8 +10,8 @@
     "discord": "https://discord.gg/eFmBWR6Vhb"
   },
   "gamemodes": {
-    "vulprison": {
-      "name": "vulprison",
+    "prison": {
+      "name": "prison",
       "command": "/server prison",
       "color": "#c5db30",
       "versions": "1.8<*"
@@ -26,7 +26,7 @@
       "name": "bedwars",
       "command": "/server bedwars",
       "color": "#c5db30",
-      "versions": "1.8.8<*"
+      "versions": "1.8<*"
     }
   },
   "location": {
