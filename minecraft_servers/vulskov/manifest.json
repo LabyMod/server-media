@@ -12,13 +12,21 @@
   "gamemodes": {
     "vulprison": {
       "name": "vulprison",
+      "command": "/server prison",
       "color": "#c5db30",
       "versions": "1.8<*"
     },
     "survival": {
       "name": "survival",
+      "command": "/server survival",
       "color": "#c5db30",
-      "versions": "1.21.4<*"
+      "versions": "1.21.6<*"
+    },
+    "bedwars": {
+      "name": "bedwars",
+      "command": "/server bedwars",
+      "color": "#c5db30",
+      "versions": "1.8.8<*"
     }
   },
   "location": {
