@@ -10,29 +10,29 @@
     "discord": "https://discord.gg/eFmBWR6Vhb"
   },
   "gamemodes": {
-    "vulprison": {
-      "name": "vulprison",
+    "prison": {
+      "name": "Prison",
       "command": "/server prison",
       "color": "#c5db30",
       "versions": "1.8<*"
     },
     "survival": {
-      "name": "survival",
+      "name": "Survival",
       "command": "/server survival",
       "color": "#c5db30",
       "versions": "1.21.6<*"
     },
     "bedwars": {
-      "name": "bedwars",
+      "name": "Bedwars",
       "command": "/server bedwars",
       "color": "#c5db30",
-      "versions": "1.8.8<*"
+      "versions": "1.8<*"
     }
   },
   "location": {
     "city": "Copenhagen",
     "country": "Denmark",
-    "country_code": "DK"
+    "country_code": "DA"
   },
   "brand": {
     "primary": "#c5db30",
