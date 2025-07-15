@@ -48,7 +48,7 @@
     },
     "switchffa": {
       "name": "SFFA",
-      "color": "#07F0E0",
+      "color": "#07F0E1",
       "command": "/gametp sffa",
       "versions": "1.8<1.21.7"
     },
