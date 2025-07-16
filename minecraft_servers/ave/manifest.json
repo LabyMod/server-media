@@ -17,30 +17,22 @@
   "gamemodes": {
     "skywars": {
       "name": "SkyWars", 
-      "color": "#FFA500",
-      "url": "https://ave.rip/games_sw",
-      "command": "/quickjoin sw",
+      "command": "/play sw",
       "versions": "1.7<*"
     },
     "skywarsffa": {
       "name": "SkyWarsFFA",
-      "color": "#ADD8E6",
-      "url": "https://ave.rip/games_swffa",
-      "command": "/quickjoin SWFFA",
+      "command": "/play swffa",
       "versions": "1.7<*"
     },
     "bedwars": {
       "name": "BedWars",
-      "color": "#ADD8E6",
-      "url": "https://ave.rip/games_bedwars",
-      "command": "/quickjoin bw",
+      "command": "/play bedwars",
       "versions": "1.7<*"
     },
     "practice": {
       "name": "Practice",
-      "color": "#ADD8E6",
-      "url": "https://ave.rip/games_practice",
-      "command": "/quickjoin Practice",
+      "command": "/play practice",
       "versions": "1.7<*"
     }
   },
