@@ -16,22 +16,26 @@
   },
   "gamemodes": {
     "skywars": {
-      "name": "SkyWars", 
+      "name": "SkyWars",
+      "color": "#FFA500",
       "command": "/play sw",
       "versions": "1.7<*"
     },
     "skywarsffa": {
       "name": "SkyWarsFFA",
+      "color": "#FFA500",
       "command": "/play swffa",
       "versions": "1.7<*"
     },
     "bedwars": {
       "name": "BedWars",
+      "color": "#FFA500",
       "command": "/play bedwars",
       "versions": "1.7<*"
     },
     "practice": {
       "name": "Practice",
+      "color": "#FFA500",
       "command": "/play practice",
       "versions": "1.7<*"
     }
