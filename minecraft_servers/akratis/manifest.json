@@ -9,12 +9,11 @@
     "de"
   ],
   "social": {
-    "web": "https://akratis.de",
     "discord": "https://discord.gg/chuYqZXTDf"
   },
   "discord": {
     "server_id": 1394829363601739950,
-    "rename_to_minecraft_name": true
+    "rename_to_minecraft_name": false
   },
   "location": {
     "city": "Nordhorn",
