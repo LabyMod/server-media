@@ -1,35 +1,32 @@
 {
-  "id": "veinmc",
-  "name": "VeinMC",
-  "description": "VeinMC is a PvP and minigames server supporting Arabic & English players.",
-  "addresses": [
-    "veinmc.com"
-  ],
-  "primaryAddress": "play.veinmc.com",
-  "minecraftVersions": [
-    "1.8.*",
-    "1.20.*"
-  ],
-  "primaryMinecraftVersion": "1.8.9",
-  "primaryColor": "#8B5CF6",
-  "secondaryColor": "#A855F7",
-  "primaryLanguage": "ar",
-  "languages": [
-    "ar",
-    "en"
-  ],
-  "primaryRegion": "AS",
-  "regions": [
-    "AS",
-    "EU"
-  ],
-  "gameTypes": [
-    "PvP",
-    "Minigames"
-  ],
-  "website": "https://veinmc.tebex.io",
-  "socials": {
-    "discord": "https://discord.gg/veinmc"
+  "server_name": "veinmc",
+  "nice_name": "VeinMC",
+  "direct_ip": "play.veinmc.com",
+  "server_wildcards": [],
+  "modes": {
+    "minigames": {
+      "name": "Minigames",
+      "color": "#FFA500",
+      "versions": "1.8<*"
+    },
+    "survival": {
+      "name": "Survival",
+      "color": "#FFD700",
+      "versions": "1.8<*"
+    }
   },
-  "crossplay": false
+  "discord": {
+    "server_id": 1228600804416684042,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#FFAA00",
+    "background": "#FFAA00",
+    "text": "#0C0F12"
+  },
+  "location": {
+    "city": "Jubail",
+    "country": "Saudi Arabia",
+    "country_code": "SA"
+  }
 }
