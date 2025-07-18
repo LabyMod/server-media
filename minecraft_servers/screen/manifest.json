@@ -14,6 +14,22 @@
     "rankup": {
       "name": "Rank UP", 
       "color": "#FFFFFF"
+    },
+    "smp": {
+      "name": "SMP", 
+      "color": "#FFFFFF"
+    },
+    "events": {
+      "name": "Eventos", 
+      "color": "#FFFFFF"
+    },
+    "prison": {
+      "name": "Prison", 
+      "color": "#FFFFFF"
+    },
+    "Tycoon": {
+      "name": "Tycoon", 
+      "color": "#FFFFFF"
     }
   },
   "social": {
