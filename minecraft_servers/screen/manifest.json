@@ -2,10 +2,6 @@
   "server_name": "screen",
   "nice_name": "Screen Network",
   "direct_ip": "redescreen.com",
-  "server_wildcards": [
-    "redereset.net",
-    "luper.redescreen.net"
-  ],
   "supported_languages": [
     "pt-BR",
     "pt-PT"
