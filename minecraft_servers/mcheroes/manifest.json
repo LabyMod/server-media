@@ -12,8 +12,8 @@
   },
   "gamemodes": {
     "island": {
-      "name": "My Island",
-      "command": "/island",
+      "name": "My Home",
+      "command": "/home",
       "color": "#FFFFFF"
     }
   },
