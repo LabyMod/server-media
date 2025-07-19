@@ -2,16 +2,52 @@
   "server_name": "veinmc",
   "nice_name": "VeinMC",
   "direct_ip": "play.veinmc.com",
-  "server_wildcards": [],
-  "modes": {
-    "minigames": {
-      "name": "Minigames",
-      "color": "#FFA500",
+  "server_wildcards": [
+    "%.veinmc.com"
+  ],
+  "supported_languages": [
+    "ar",
+    "en"
+  ],
+  "social": {
+    "web_shop": "https://veinmc.tebex.io",
+    "discord": "https://discord.gg/veinmc"
+  },
+  "gamemodes": {
+    "pvp": {
+      "name": "PvP",
+      "color": "#8B5CF6",
+      "command": "/play pvp",
       "versions": "1.8<*"
     },
-    "survival": {
-      "name": "Survival",
-      "color": "#FFD700",
+    "survival_games": {
+      "name": "Survival Games",
+      "color": "#A855F7",
+      "command": "/play survival_games",
+      "versions": "1.8<*"
+    },
+      "1vs1": {
+      "name": "1vs1",
+      "color": "#8B5CF6",
+      "command": "/play 1vs1",
+      "versions": "1.8<*"
+    },
+      "PillarsOfFortune": {
+      "name": "Pillars Of Fortune",
+      "color": "#8B5CF6",
+      "command": "/play pillars_of_fortune",
+      "versions": "1.8<*"
+    },
+      "OneInTheChamber": {
+      "name": "One In The Chamber",
+      "color": "#8B5CF6",
+      "command": "/play one_in_the_chamber",
+      "versions": "1.8<*"
+    },
+      "DeathMatch": {
+      "name": "Death Match",
+      "color": "#8B5CF6",
+      "command": "/play death_match",
       "versions": "1.8<*"
     }
   },
@@ -20,13 +56,14 @@
     "rename_to_minecraft_name": false
   },
   "brand": {
-    "primary": "#FFAA00",
-    "background": "#FFAA00",
-    "text": "#0C0F12"
+    "primary": "#8B5CF6",
+    "background": "#0c0600",
+    "text": "#FFFFFF"
   },
   "location": {
-    "city": "Jubail",
-    "country": "Saudi Arabia",
+    "city": "Buraydah",
+    "country": "SaudiArabia",
     "country_code": "SA"
-  }
+  },
+  "command_delay": 3000
 }
