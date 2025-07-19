@@ -11,7 +11,7 @@
     "text": "#000000"
   },
   "gamemodes": {
-    "island": {
+    "home": {
       "name": "My Home",
       "command": "/home",
       "color": "#FFFFFF"
