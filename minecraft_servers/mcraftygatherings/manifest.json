@@ -1,0 +1,90 @@
+{
+    "server_name": "mcraftygatherings",
+    "nice_name": "MCraftyGatherings",
+    "direct_ip": "play.mcraftygatherings.com",
+    "server_wildcards": [
+      "%.mcraftygatherings.com"
+    ],
+    "social": {
+        "twitter": "MCGatherings",
+        "tiktok": "mcraftygatherings",
+        "discord": "https://discord.com/invite/KGDPYTzyBZ",
+        "youtube": "https://www.youtube.com/@MCraftyGatherings"
+    },
+    "gamemodes": {
+        "binguete": {
+            "name": "Binguete",
+            "color": "#FFB347",
+            "versions": "1.20.1>*"
+        },
+        "thetowers": {
+            "name": "The Towers",
+            "color": "#1E90FF",
+            "versions": "1.20.1>*"
+        },
+        "uhc": {
+            "name": "UHC",
+            "color": "#FF4500",
+            "versions": "1.20.1>*"
+        },
+        "dungeons": {
+            "name": "Dungeons",
+            "color": "#8A2BE2",
+            "versions": "1.20.1>*"
+        },
+        "showdowncards": {
+            "name": "Showdown Cards",
+            "color": "#FFD700",
+            "versions": "1.20.1>*"
+        },
+        "hungergames": {
+            "name": "Hunger Games",
+            "color": "#228B22",
+            "versions": "1.20.1>*"
+        },
+        "deadlyscape": {
+            "name": "Deadly Scape",
+            "color": "#DC143C",
+            "versions": "1.20.1>*"
+        },
+        "theminedingofisaac": {
+            "name": "The Mineding of Isaac",
+            "color": "#708090",
+            "versions": "1.20.1>*"
+        },
+        "derrocaalrey": {
+            "name": "¡Derroca al Rey!",
+            "color": "#DAA520",
+            "versions": "1.20.1>*"
+        },
+        "randomania": {
+            "name": "Randomanía",
+            "color": "#FF69B4",
+            "versions": "1.20.1>*"
+        },
+        "warborneshooters": {
+            "name": "Warborne Shooters",
+            "color": "#2F4F4F",
+            "versions": "1.20.1>*"
+        },
+        "dms": {
+            "name": "Dungeons Modo Supervivencia",
+            "color": "#20B2AA",
+            "versions": "1.20.1>*"
+        }
+    },
+    "discord": {
+        "server_id": 1190870990650089500,
+        "rename_to_minecraft_name": false
+    },
+    "brand": {
+        "primary": "#7FC8D6",
+        "background": "#E6F4F7",
+        "text": "#FFFFFF"
+    },
+    "location": {
+        "city": "Bogotá",
+        "country": "Colombia",
+        "country_code": "CO"
+    }
+}
