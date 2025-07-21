@@ -3,11 +3,7 @@
   "nice_name": "VeinMC",
   "direct_ip": "play.veinmc.com",
   "server_wildcards": [
-    "veinmc.com",
-    "play.veinmc.com",
-    "premium.veinmc.com",
-    "mc.veinmc.com",
-    "cracked.veinmc.com"
+    "%veinmc.com"
   ],
   "supported_languages": [
     "ar",
@@ -30,25 +26,25 @@
       "command": "/play survival_games",
       "versions": "1.8<*"
     },
-      "1vs1": {
+    "1vs1": {
       "name": "1vs1",
       "color": "#8B5CF6",
       "command": "/play 1vs1",
       "versions": "1.8<*"
     },
-      "PillarsOfFortune": {
+    "PillarsOfFortune": {
       "name": "Pillars Of Fortune",
       "color": "#8B5CF6",
       "command": "/play pillars_of_fortune",
       "versions": "1.8<*"
     },
-      "OneInTheChamber": {
+    "OneInTheChamber": {
       "name": "One In The Chamber",
       "color": "#8B5CF6",
       "command": "/play one_in_the_chamber",
       "versions": "1.8<*"
     },
-      "DeathMatch": {
+    "DeathMatch": {
       "name": "Death Match",
       "color": "#8B5CF6",
       "command": "/play death_match",
@@ -66,8 +62,7 @@
   },
   "location": {
     "city": "Buraydah",
-    "country": "SaudiArabia",
+    "country": "Saudi Arabia",
     "country_code": "SA"
   },
   "command_delay": 3000
-}
