@@ -1,0 +1,47 @@
+{
+  "server_name": "krypticmc",
+  "nice_name": "KrypticMC",
+  "direct_ip": "play.krypticmc.net",
+  "yt_trailer": "0nP8tNS6VQ4",
+  "user_stats": "https://krypticmc.net/players/{userName}",
+  "server_wildcards": [
+    "%.krypticmc.net"
+  ],
+  "supported_languages": [
+     "en"
+  ],
+  "social": {
+    "web": "https://krypticmc.net",
+    "web_shop": "https://krypticmc.net/store",
+    "discord": "https://discord.com/invite/KnSFDA9EGS",
+    "youtube": "https://www.youtube.com/@KrypticMC"
+  },
+  "discord": {
+    "server_id": 588820222811701248,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#CB44AC",
+     "background": "#A543A6"
+  },
+  "gamemodes": {
+     "minigames": {
+          "name": "Minigames",
+          "color": "#deb212",
+          "command": "/minigames",
+          "versions": "1.8<*"
+     },
+     "kitpvp": {
+          "name": "KitPvP",
+          "color": "#d712de",
+          "command": "/kitpvp",
+          "versions": "1.8<*"
+     },
+     "duels": {
+          "name": "Duels",
+          "color": "#d712de",
+          "command": "/duels",
+          "versions": "1.8<*"
+     }
+  }
+}

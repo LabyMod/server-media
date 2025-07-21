@@ -1,0 +1,45 @@
+{
+    "server_name": "armamc",
+    "nice_name": "Armageddon",
+    "direct_ip": "armamc.com",
+    "supported_languages": [
+      "pt"
+    ],
+    "social": {
+      "web": "https://armamc.com",
+      "web_shop": "https://loja.armamc.com",
+      "discord": "https://discord.gg/armamc",
+      "youtube": "https://www.youtube.com/@armarealms",
+      "instagram": "armarealms",
+      "tiktok": "armarealms"
+    },
+    "gamemodes": {
+      "survival-gen": {
+        "name": "Gênesis",
+        "color": "#FF0055",
+        "command": "/genesis",
+        "versions": "1.8-1.21"
+      },
+      "survival-apoc": {
+        "name": "Apocalipse",
+        "color": "#FF0055",
+        "command": "/apocalipse",
+        "versions": "1.8-1.21"
+      }
+    },
+    "discord": {
+      "server_id": 602976995499966500,
+      "rename_to_minecraft_name": false
+    },
+    "brand": {
+      "primary": "#FAB90A",
+      "background": "#FAB90A",
+      "text": "#FFFFFF"
+    },
+    "location": {
+      "city": "São Paulo",
+      "country": "Brazil",
+      "country_code": "BR"
+    },
+    "command_delay": 3000
+}

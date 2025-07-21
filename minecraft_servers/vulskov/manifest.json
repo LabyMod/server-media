@@ -18,7 +18,7 @@
     "survival": {
       "name": "Survival",
       "color": "#c5db30",
-      "versions": "1.21.6<*"
+      "versions": "1.21<*"
     },
     "bedwars": {
       "name": "Bedwars",
