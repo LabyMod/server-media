@@ -12,19 +12,16 @@
   "gamemodes": {
     "prison": {
       "name": "Prison",
-      "command": "/server prison",
       "color": "#c5db30",
       "versions": "1.8<*"
     },
     "survival": {
       "name": "Survival",
-      "command": "/server survival",
       "color": "#c5db30",
-      "versions": "1.21.6<*"
+      "versions": "1.21<*"
     },
     "bedwars": {
       "name": "Bedwars",
-      "command": "/server bedwars",
       "color": "#c5db30",
       "versions": "1.8<*"
     }
