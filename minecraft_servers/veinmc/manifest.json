@@ -3,7 +3,7 @@
   "nice_name": "VeinMC",
   "direct_ip": "play.veinmc.com",
   "server_wildcards": [
-    "%veinmc.com"
+    "%.veinmc.com"
   ],
   "supported_languages": [
     "ar",
