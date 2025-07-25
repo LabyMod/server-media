@@ -6,6 +6,9 @@
         "de",
         "en"
     ],
+    "social": {
+        "web": "https://lunarismc.de"
+    },
     "gamemodes": {
         "sb": {
             "name": "SkyBlock",
