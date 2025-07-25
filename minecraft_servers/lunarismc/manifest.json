@@ -10,16 +10,16 @@
         "web": "https://lunarismc.eu"
     },
     "gamemodes": {
-        "sb": {
-            "name": "SkyBlock",
-            "color": "#5454FC",
-            "command": "/server sb-1",
+        "cb01": {
+            "name": "CityBuild-01",
+            "color": "#54FC54",
+            "command": "/server cb01",
             "versions": "1.20.4 - 1.21.1"
         },
-        "cb": {
-            "name": "CityBuild",
+        "cb02": {
+            "name": "CityBuild-02",
             "color": "#54FC54",
-            "command": "/server cb-1",
+            "command": "/server cb02",
             "versions": "1.20.4 - 1.21.1"
         }
     },
