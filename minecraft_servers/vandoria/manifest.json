@@ -10,13 +10,6 @@
         "discord": "https://discord.gg/2bjW9uhdfB",
         "youtube": "https://youtube.com/vandoria_net"
     },
-	"gamemodes": {
-		"citybuild": {
-			"name": "CityBuild", 
-			"color": "#1ED600",
-			"command": "/server CityBuild"
-		}
-	},
     "location": {
         "city": "Falkenstein",
         "country": "Germany"
