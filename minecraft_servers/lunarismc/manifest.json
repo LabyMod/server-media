@@ -6,9 +6,6 @@
         "de",
         "en"
     ],
-    "social": {
-        "web": "https://lunarismc.eu/"
-    },
     "gamemodes": {
         "cb01": {
             "name": "CityBuild-01",
