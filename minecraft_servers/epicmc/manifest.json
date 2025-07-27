@@ -1,5 +1,5 @@
 {
-  "server_name": "epicmc"
+  "server_name": "epicmc",
   "nice_name": "EpicMC",
   "direct_ip": "epicmc.errexe.xyz",
   "Bedrock_ip": "epicmc.errexe.xyz",
@@ -19,23 +19,23 @@
       "name": "SMP",
       "color": "#FFA500",
       "command": "/server SMP",
-      "versions": "1.21.4+"
+      "versions": ["1.21.4"]
     },
     "Citybuild": {
       "name": "Citybuild",
       "color": "#ADD8E6",
       "command": "/server Citybuild",
-      "versions": "1.21.4+"
+      "versions": ["1.21.4"]
     },
     "MiniGames": {
       "name": "MiniGames",
       "color": "#ADD8E6",
       "command": "/server MiniGames",
-      "versions": "1.21.4+"
+      "versions": ["1.21.4"]
     }
   },
   "discord_settings": {
-    "server_id": 1394395387971899584,
+    "server_id": "1394395387971899584",
     "rename_to_minecraft_name": false
   },
   "brand": {
