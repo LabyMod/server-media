@@ -3,9 +3,9 @@
   "nice_name": "NuviraMC",
   "direct_ip": "nuviramc.net",
   "server_wildcards":[
-     "nuviramc.net",
-      "nuviramc.de",
-      "nuvirahost.de"
+     "%.nuviramc.net",
+      "%.nuviramc.de",
+      "%.nuvirahost.de"
   ],
   "social": {
     "tiktok": "nuviramc",
