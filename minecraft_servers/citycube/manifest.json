@@ -15,12 +15,6 @@
       "color": "#0091ff",
       "command": "/server CityBuild",
       "versions": "1.21.1<1.21.5"
-    },
-    "backrooms": {
-      "name": "Backrooms",
-      "color": "#660000",
-      "command": "/server Backrooms",
-      "versions": "1.21.1"
     }
   },
   "discord": {
