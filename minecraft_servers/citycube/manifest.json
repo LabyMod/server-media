@@ -14,7 +14,7 @@
             "name": "CityBuild",
             "color": "#0091ff",
             "command": "/server CityBuild",
-            "versions": "1.21.1<1.21.5"
+            "versions": "1.21.1<*"
         }
     },
     "discord": {
