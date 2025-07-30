@@ -1,1 +1,36 @@
-
+{
+  "server_name": "citycube",
+  "nice_name": "CityCube",
+  "direct_ip": "citycube.net",
+  "supported_languages": [
+     "de"
+  ],
+  "social": {
+    "discord": "https://discord.gg/E5ht3SKyE8",
+    "youtube": "https://youtube.com/channel/UCT4J7_V9sv3BydQKyLCrlTw"
+  },
+  "gamemodes": {
+    "citybuild": {
+      "name": "CityBuild", 
+      "color": "#0091ff",
+      "command": "/server CityBuild",
+      "versions": "1.21.1<1.21.5"
+    }
+  },
+  "discord": {
+    "server_id": 1387118565039144970,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#0091ff",
+     "background": "#0091ff",
+     "text": "#FFFFFF"
+  }, 
+  "location": {
+     "city": "Frankfurt",
+     "country": "Germany",
+     "country_code": "DE"
+  },
+  "user_stats": "https://laby.net/@{userName}",
+  "command_delay": 3000
+}
