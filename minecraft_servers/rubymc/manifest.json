@@ -1,14 +1,14 @@
 {
    "server_name":"rubymc",
    "nice_name":"RubyMC",
-   "direct_ip":"rubymc.net",
+   "direct_ip":"rubymc.de",
    "supported_languages":[
       "de",
       "en"
    ],
    "social":{
       "web_shop":"https://shop.rubymc.de",
-      "discord":"https://discord.gg/Wu4PSKaQA2",
+      "discord":"https://discord.gg/hDTN3Xnwqz",
       "youtube":"https://www.youtube.com/channel/UCdP40AdmG_ZMM6A19dJN8fw"
    },
    "gamemodes":{
