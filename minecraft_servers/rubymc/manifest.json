@@ -1,7 +1,7 @@
 {
    "server_name":"rubymc",
    "nice_name":"RubyMC",
-   "direct_ip":"rubymc.net",
+   "direct_ip":"rubymc.de",
    "supported_languages":[
       "de",
       "en"
