@@ -2,6 +2,9 @@
     "server_name": "labymod",
     "nice_name": "LabyMod",
     "direct_ip": "labymod.net",
+    "server_wildcards": [
+        "laby.net"
+    ],
     "supported_languages": [
         "en",
         "de"
