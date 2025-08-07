@@ -10,10 +10,10 @@
     "primary": "#84518f",
     "background": "#141414",
     "text": "#ffffff"
-  ],
+  },
   "social": {
     "web_shop": "minehavn-shop.tebex.io",
-    "discord": "discord.gg/minehavn",
+    "discord": "discord.gg/minehavn"
   },
   "gamemodes": {
     "SkyWars": {
