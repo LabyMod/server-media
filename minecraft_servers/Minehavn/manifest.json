@@ -1,6 +1,6 @@
 {
-  "server_name": "Minehavn",
-  "nice_name": "Minehavn",
+  "server_name": "minehavn",
+  "nice_name": "minehavn",
   "direct_ip": "play.minehavn.de",
   "supported_languages": [
      "en",
@@ -15,40 +15,40 @@
     "discord": "https://discord.gg/minehavn"
   },
   "gamemodes": {
-    "SkyWars": {
-      "name": "SkyWars", 
+    "skywars": {
+      "name": "skywars", 
       "color": "#FFA500",
-      "versions": "1.8-1.21.x"
+      "versions": "1.8-1.21.*"
     },
-    "Survival": {
-      "name": "Survival", 
+    "survival": {
+      "name": "survival", 
       "color": "#FFA500",
-      "versions": "1.21.3-1.21.8"
+      "versions": "1.21.3-1.21.*"
     },
-    "SkyBlock": {
-      "name": "SkyBlock", 
+    "skyblock": {
+      "name": "skyblock", 
       "color": "#FFA500",
-      "versions": "1.21.3-1.21.8"
+      "versions": "1.21.3-1.21.*"
     },
-    "SkyPvP": {
-      "name": "SkyPvP", 
+    "skypvp": {
+      "name": "skypvp", 
       "color": "#FFA500",
-      "versions": "1.8-1.21.x"
+      "versions": "1.8-1.21.*"
     },
-    "BedWars": {
-      "name": "BedWars",
+    "bedwars": {
+      "name": "bedwars",
       "color": "#ADD8E6",
-      "versions": "1.8-1.21.x"
+      "versions": "1.8-1.21.*"
     },
-    "BuildBattle": {
-      "name": "BuildBattle",
+    "buildbattle": {
+      "name": "buildbattle",
       "color": "#ADD8E6",
-      "versions": "1.8-1.21.x"
+      "versions": "1.8-1.21.*"
      },
-    "CityBuild": {
-      "name": "CityBuild",
+    "citybuild": {
+      "name": "citybuild",
       "color": "#ADD8E6",
-      "versions": "1.8-1.21.x"
+      "versions": "1.8-1.21.*"
     }
   },
   "discord": {
@@ -57,7 +57,7 @@
 
   }, 
   "location": {
-     "country": "Germany",
+     "country": "germany",
      "country_code": "DE"
   }
 }
