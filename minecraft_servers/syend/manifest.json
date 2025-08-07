@@ -1,0 +1,63 @@
+{
+  "server_name": "syend",
+  "nice_name": "Syend",
+  "direct_ip": "mc.syend.de",
+  "server_wildcards": [
+    "%.syend.de"
+  ],
+  "supported_languages": [
+     "en",
+     "de"
+  ],
+  "social": {
+    "discord": "https://discord.gg/5xycNV8DPp",
+    "youtube": "https://www.youtube.com/@Syend_de"
+  },
+  "gamemodes": {
+    "OneBlock": {
+      "name": "OneBlock", 
+      "color": "#98F5FF",
+      "command": "/server oneblock",
+      "versions": "1.12<1.21.8"
+    },
+    "Skywars": {
+      "name": "Skywars",
+      "color": "#98F5FF",
+      "command": "/server skywars",
+      "versions": "1.12<1.21.8"
+    },
+    "Bedwars": {
+      "name": "Bedwars",
+      "color": "#98F5FF",
+      "command": "/server bedwars",
+      "versions": "1.12<1.21.8"
+    },
+    "Survival": {
+      "name": "Survival",
+      "color": "#98F5FF",
+      "command": "/server survival",
+      "versions": "1.12<1.21.8"
+    }
+  },
+  "chat": {
+    "message_formats": [
+      "^§[a-f0-9](?<level>\\d+)( \\||§8 \\|) §[a-f0-9](?<sender>[a-zA-Z0-9_]{2,16})§r§7: §f(?<message>.*)$"
+    ]
+  },
+  "discord": {
+    "server_id": 1393919612420231218,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#008FE8",
+     "background": "#98F5FA",
+     "text": "#FFFFFF"
+  }, 
+  "location": {
+     "city": "Hamburg",
+     "country": "Germany",
+     "country_code": "DE"
+  },
+  "user_stats": "https://laby.net/@{userName}",
+  "command_delay": 0
+}
