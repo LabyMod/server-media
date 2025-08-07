@@ -3,7 +3,7 @@
   "nice_name": "Minehavn",
   "direct_ip": "play.minehavn.de",
   "server_wildcards": [
-    "%Minehavn.de"
+    "%.minehavn.de"
   ],
   "supported_languages": [
      "en",
@@ -12,14 +12,7 @@
   "social": {
     "web": "",
     "web_shop": "minehavn-shop.tebex.io",
-    "web_support": "discord.gg/minehavn",
-    "twitter": "",
-    "tiktok": "",
-    "facebook": "",
-    "instagram": "",
     "discord": "discord.gg/minehavn",
-    "youtube": "",
-    "teamspeak": ""
   },
   "gamemodes": {
     "SkyWars": {
@@ -91,7 +84,6 @@
      "country": "Germany",
      "country_code": "DE"
   },
-  "yt_trailer": "",
   "user_stats": "https://laby.net/@{userName}",
   "command_delay": 3000
 }
