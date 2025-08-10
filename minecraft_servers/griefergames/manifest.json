@@ -2,9 +2,6 @@
   "server_name": "griefergames",
   "nice_name": "GrieferGames",
   "direct_ip": "griefergames.net",
-  "server_wildcards": [
-    "cloud.griefergames.net"
-  ],
   "supported_languages": [
     "de"
   ],
