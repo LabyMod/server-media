@@ -2,7 +2,9 @@
   "server_name": "griefergames",
   "nice_name": "GrieferGames",
   "direct_ip": "griefergames.net",
-  "server_wildcards": "cloud.griefergames.net",
+  "server_wildcards": [
+    "cloud.griefergames.net"
+  ],
   "supported_languages": [
     "de"
   ],
@@ -30,22 +32,26 @@
     "cb": {
       "name": "CityBuild 1-22",
       "url": "https://wiki.griefergames.net/grundlagen/spielmodus-citybuild/citybuild-1-22",
-      "command": "/switch cb1"
+      "command": "/switch cb1",
+      "color": "#FFFFFF"
     },
     "cbevil": {
       "name": "CityBuild Evil",
       "url": "https://wiki.griefergames.net/grundlagen/spielmodus-citybuild/citybuild-evil",
-      "command": "/switch cbevil"
+      "command": "/switch cbevil",
+      "color": "#FFFFFF"
     },
     "nature": {
       "name": "CityBuild Nature",
       "url": "https://wiki.griefergames.net/grundlagen/spielmodus-citybuild/citybuild-nature-and-extreme",
-      "command": "/switch nature"
+      "command": "/switch nature",
+      "color": "#FFFFFF"
     },
     "extreme": {
       "name": "CityBuild Extreme",
       "url": "https://wiki.griefergames.net/grundlagen/spielmodus-citybuild/citybuild-nature-and-extreme",
-      "command": "/switch extreme"
+      "command": "/switch extreme",
+      "color": "#FFFFFF"
     }
   },
   "brand": {
