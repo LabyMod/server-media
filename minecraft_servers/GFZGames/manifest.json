@@ -1,50 +1,45 @@
 {
-    "server_name": "GFZGames",
-    "nice_name": "GFZGames",
-    "direct_ip": "gfzgames.de",
-    "server_wildcards": [
-        "gfzgames.de"
-    ],
-    "supported_languages": [
-        "de"
-    ],
-    "social": {
-        "web": "https://gfzgames.de",
-        "web_shop": "",
-        "web_support": "",
-        "twitter": "",
-        "tiktok": "gfzgamesde",
-        "facebook": "",
-        "instagram": "",
-        "discord": "https://discord.gg/D74DEef2nq",
-        "youtube": "https://youtube.com/@gfzgamesde?si=OgPkldzgpt2x1PPu",
-        "teamspeak": "ts.gfzgames.de"
-    },
-    "CB": {
-        "citybuild": {
-            "name": "CityBuild",
-            "color": "#FFA500"
-        }
-    },
-    "chat": {
-        "message_formats": [
-            "^§[a-f0-9](?<level>\\d+)( \\||§8 \\|) §[a-f0-9](?<sender>[a-zA-Z0-9_]{2,16})§r§7: §f(?<message>.*)$"
-        ]
-    },
-    "discord": {
-        "server_id": 1271754199608070100,
-        "rename_to_minecraft_name": false
-    },
-    "brand": {
-        "primary": "#333cff",
-        "background": "#ff5233",
-        "text": "#33ff39"
-    },
-    "location": {
-        "city": "Frankfurt am Main",
-        "country": "Germany",
-        "country_code": "DE"
-    },
-    "user_stats": "https://laby.net/@{userName}",
-    "command_delay": 3000
+  "server_name": "GFZGames",
+  "nice_name": "GFZGames",
+  "direct_ip": "gfzgames.de",
+  "server_wildcards": [
+    "%.gfzgames.de"
+  ],
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "web": "https://gfzgames.de",
+    "tiktok": "gfzgamesde",
+    "discord": "https://discord.gg/D74DEef2nq",
+    "youtube": "https://youtube.com/@gfzgamesde?si=OgPkldzgpt2x1PPu",
+    "teamspeak": "ts.gfzgames.de"
+  },
+  "CB": {
+    "citybuild": {
+      "name": "CityBuild",
+      "color": "#FFA500"
+    }
+  },
+  "chat": {
+    "message_formats": [
+      "^§[a-f0-9](?<level>\\d+)( \\||§8 \\|) §[a-f0-9](?<sender>[a-zA-Z0-9_]{2,16})§r§7: §f(?<message>.*)$"
+    ]
+  },
+  "discord": {
+    "server_id": "1271754199608070100",
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#333cff",
+    "background": "#ff5233",
+    "text": "#33ff39"
+  },
+  "location": {
+    "city": "Frankfurt am Main",
+    "country": "Germany",
+    "country_code": "DE"
+  },
+  "command_delay": 3000
 }
+
