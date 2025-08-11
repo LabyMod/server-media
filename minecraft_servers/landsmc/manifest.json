@@ -13,8 +13,7 @@
         "tiktok": "servidoreslands",
         "discord": "https://discord.gg/landsmc",
         "youtube": "https://www.youtube.com/@LandsMCOFICIAL"
-	},
-	
+    },
     "gamemodes": {
         "bedwars": {
             "name": "BedWars",
@@ -27,8 +26,7 @@
         "duels": {
             "name": "Duels",
             "command": "/play duels"
-        },
-        
+        }
     },
     "discord": {
         "server_id": 1068075327533887518,
