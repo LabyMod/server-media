@@ -31,7 +31,7 @@
         "command": "/game timesmp",
         "versions": "1.21.4<*"
       },
-      "mineattack": {
+      "murder": {
         "name": "Murder",
         "color": "#face05",
         "command": "/game murdermystery",
@@ -66,3 +66,4 @@
       "country_code": "DE"
     }
   }
+
