@@ -13,6 +13,8 @@
         "tiktok": "servidoreslands",
         "discord": "https://discord.gg/landsmc",
         "youtube": "https://www.youtube.com/@LandsMCOFICIAL"
+	},
+	
     "gamemodes": {
         "bedwars": {
             "name": "BedWars",
