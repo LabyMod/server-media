@@ -1,0 +1,45 @@
+{
+    "server_name": "landsmc",
+    "nice_name": "LandsMC",
+    "direct_ip": "landsmc.com",
+    "supported_languages": [
+        "pt-BR",
+        "pt-PT",
+        "en-US"
+    ],
+    "social": {
+        "web_shop": "https://landsmc.com",
+        "twitter": "RedeLandsMC",
+        "tiktok": "servidoreslands",
+        "discord": "https://discord.gg/landsmc",
+        "youtube": "https://www.youtube.com/@LandsMCOFICIAL"
+    "gamemodes": {
+        "bedwars": {
+            "name": "BedWars",
+            "command": "/play bedwars"
+        },
+        "water_fight": {
+            "name": "WaterFight",
+            "command": "/play aquatic"
+        },
+        "duels": {
+            "name": "Duels",
+            "command": "/play duels"
+        },
+        
+    },
+    "discord": {
+        "server_id": 1068075327533887518,
+        "rename_to_minecraft_name": false
+    },
+    "brand": {
+        "primary": "#FFAA00",
+        "background": "#FFFF55",
+        "text": "#000000"
+    },
+    "location": {
+        "city": "São Paulo",
+        "country": "Brazil",
+        "country_code": "BR"
+    }
+}
