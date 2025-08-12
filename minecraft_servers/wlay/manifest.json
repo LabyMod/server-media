@@ -1,0 +1,47 @@
+{
+   "server_name": "wlay",
+   "nice_name": "Wlay Network",
+   "direct_ip": "mc.wlay.cz",
+   "server_wildcards": [
+      "%.wlay.cz",
+      "wlay.cz"
+   ],
+   "supported_languages": [
+      "cs",
+      "sk",
+      "en"
+   ],
+   "social": {
+      "web": "https://wlay.cz",
+      "web_shop": "https://store.wlay.cz",
+      "youtube": "https://www.youtube.com/@WlayServer",
+      "discord": "https://discord.gg/pJ7hnqKKHw"
+   },
+   "gamemodes": {
+      "thepit": {
+         "name": "Survival",
+         "color": "#4F7942"
+      },
+      "skywars": {
+         "name": "SkyWars",
+         "color": "#784f0a"
+      },
+      "minianni": {
+         "name": "MiniAnni",
+         "color": "#9c6933"
+      },
+      "duels": {
+         "name": "Duels",
+         "color": "#37227a"
+      }
+   },
+   "discord": {
+      "server_id": 1343980673504903179,
+      "rename_to_minecraft_name": false
+   },
+   "location": {
+      "city": "Prague",
+      "country": "Czechia",
+      "country_code": "CZ"
+   }
+}
