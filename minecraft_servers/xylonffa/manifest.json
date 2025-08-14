@@ -1,0 +1,19 @@
+{
+  "server_name": "Xylon FFA",
+  "nice_name": "xylon.gg",
+  "direct_ip": "xylon.gg",
+  "supported_languages": [
+    "en"
+  ],
+  "social": {
+    "web_shop": "https://store.xylon.gg"
+  },
+  "brand": {
+    "primary": "#3ea359"
+  },
+  "location": {
+    "city": "Kerkrade",
+    "country": "Netherlands",
+    "country_code": "NL"
+  }
+}
