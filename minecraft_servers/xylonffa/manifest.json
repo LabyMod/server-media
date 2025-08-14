@@ -1,9 +1,9 @@
 {
   "server_name": "xylonffa",
   "nice_name": "xylon.gg",
-  "direct_ip": "eu.xylon.gg",
+  "direct_ip": "xylon.gg",
   "server_wildcards": [
-    "%.xylon.gg"
+    "eu.xylon.gg"
   ],
   "supported_languages": [
     "en"
