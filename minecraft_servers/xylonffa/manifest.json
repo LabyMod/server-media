@@ -3,7 +3,7 @@
   "nice_name": "xylon.gg",
   "direct_ip": "xylon.gg",
   "server_wildcards": [
-    "eu.xylon.gg"
+    "%.xylon.gg"
   ],
   "supported_languages": [
     "en"
