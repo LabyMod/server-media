@@ -1,16 +1,15 @@
 {
   "server_name": "xylonffa",
-  "nice_name": "xylon.gg",
+  "nice_name": "Xylon FFA",
   "direct_ip": "xylon.gg",
   "server_wildcards": [
-    "%.xylon.gg"
+    "eu.xylon.gg"
   ],
   "supported_languages": [
     "en"
   ],
   "social": {
     "web": "https://xylon.gg",
-    "web_shop": "https://store.xylon.gg",
     "discord": "https://discord.gg/bvV7Hz9W5P"
   },
   "brand": {
