@@ -3,7 +3,6 @@
   "nice_name": "Xylon FFA",
   "direct_ip": "xylon.gg",
   "server_wildcards": [
-    "eu.xylon.gg",
     "%.xylon.gg"
   ],
   "supported_languages": [
