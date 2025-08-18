@@ -1,0 +1,16 @@
+{
+  "server_name": "block_topia",
+  "nice_name": "BlockTopia",
+  "direct_ip": "116.202.215.79:25660",
+  "server_wildcards": [
+    "blocktopia.de"
+  ],
+  "supported_languages": [
+    "de"
+  ],
+  "brand": {
+    "primary": "#008FE8",
+    "background": "#0A56A5",
+    "text": "#FFFFFF"
+  }
+}
