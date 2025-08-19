@@ -23,7 +23,7 @@
   },
   "chat": {
     "message_formats": [
-      "^§[a-f0-9](?<level>\\d+)( \\||§8 \\|) §[a-f0-9](?<sender>[a-zA-Z0-9_]{2,16})§r§7: §f(?<message>.*)$"
+      "^\\[(?<level>[A-Z]+)\\] (?<sender>[a-zA-Z0-9_]{2,16}): (?<message>.*)$"
     ]
   },
   "discord": {
