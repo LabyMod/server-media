@@ -13,21 +13,21 @@
   ],
   "social": {
     "twitter": "craftportal_net",
-    "discord": "https://discord.gg/bJVeqhdsK6",
+    "discord": "https://discord.gg/JNgaGA6Wgv",
     "tiktok": "craftportal_net",
     "youtube": "https://youtube.com/@craftportal_net"
   },
   "gamemodes": {
-    "battleground": {
-      "name": "Construct & Conquer",
-      "command": "/battleground",
-      "color": "#22D2FC",
+    "citybuild": {
+      "name": "Citybuild",
+      "command": "/citybuild",
+      "color": "#00bf00",
       "versions": "1.21<*"
     },
-    "realms": {
-      "name": "Shattered Realms",
-      "command": "/shattered-realms",
-      "color": "#22D2FC",
+    "freebuild": {
+      "name": "Freebuild",
+      "command": "/freebuild",
+      "color": "#00bf00",
       "versions": "1.21<*"
     }
   },
@@ -37,7 +37,7 @@
   },
   "brand": {
     "primary": "#000000",
-    "background": "#22D2FC",
+    "background": "#00bf00",
     "text": "#FFFFFF"
   },
   "location": {
