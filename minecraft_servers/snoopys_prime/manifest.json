@@ -10,9 +10,6 @@
     "de"
   ],
   "social": {
-    "web": "https://snoopysprime.de",
-    "web_shop": "https://content-creator-snoopysprime.tebex.io",
-    "web_support": "https://snoopysprime.de/support",
     "twitter": "snoopysprime", 
     "tiktok": "snoopysprime",
     "facebook": "snoopysprime",
@@ -34,7 +31,4 @@
     "city": "Frankfurt",
     "country": "Germany",
     "country_code": "DE"
-  },
-  "yt_trailer": "",
-  "command_delay": 3000
 }
