@@ -21,11 +21,6 @@
     "youtube": "https://www.youtube.com/@snoopysprime_de",
     "teamspeak": "ts3.snoopysprime.de"
   },
-  "chat": {
-    "message_formats": [
-      "^\\[(?<level>[A-Z]+)\\] (?<sender>[a-zA-Z0-9_]{2,16}): (?<message>.*)$"
-    ]
-  },
   "discord": {
     "server_id": 1189989481290403990,
     "rename_to_minecraft_name": false
