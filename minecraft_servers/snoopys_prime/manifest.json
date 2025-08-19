@@ -3,23 +3,23 @@
   "nice_name": "Snoopy's Prime",
   "direct_ip": "snoopysprime.de",
   "server_wildcards": [
-    "snoopysprime.de"
+    "%.snoopysprime.de"
   ],
   "supported_languages": [
-     "en",
-     "de"
+    "en",
+    "de"
   ],
   "social": {
-    "web": "",
-    "web_shop": "https://content-creator-snoopysprime.tebex.io/",
-    "web_support": "",
-    "twitter": "",
-    "tiktok": "snoopysprime.de",
-    "facebook": "",
-    "instagram": "",
+    "web": "https://snoopysprime.de",
+    "web_shop": "https://content-creator-snoopysprime.tebex.io",
+    "web_support": "https://snoopysprime.de/support",
+    "twitter": "https://twitter.com/deinaccount",
+    "tiktok": "https://www.tiktok.com/@snoopysprime",
+    "facebook": "https://facebook.com/deinaccount",
+    "instagram": "https://instagram.com/deinaccount",
     "discord": "https://discord.gg/AdhC2ex7kf",
     "youtube": "https://www.youtube.com/@snoopysprime_de",
-    "teamspeak": ""
+    "teamspeak": "ts3.snoopysprime.de"
   },
   "chat": {
     "message_formats": [
@@ -31,16 +31,15 @@
     "rename_to_minecraft_name": false
   },
   "brand": {
-     "primary": "#008FE8",
-     "background": "#0A56A5",
-     "text": "#FFFFFF"
-  }, 
+    "primary": "#008FE8",
+    "background": "#0A56A5",
+    "text": "#FFFFFF"
+  },
   "location": {
-     "city": "Frankfurt",
-     "country": "Germany",
-     "country_code": "DE"
+    "city": "Frankfurt",
+    "country": "Germany",
+    "country_code": "DE"
   },
   "yt_trailer": "",
-  "user_stats": "https://laby.net/@{userName}",
   "command_delay": 3000
 }
