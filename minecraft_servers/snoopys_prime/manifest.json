@@ -10,25 +10,10 @@
      "de"
   ],
   "social": {
-    "web": "",
     "web_shop": "https://content-creator-snoopysprime.tebex.io/",
-    "web_support": "",
-    "twitter": "",
-    "tiktok": "snoopysprime.de",
-    "facebook": "",
-    "instagram": "",
+    "tiktok": "https://www.tiktok.com/@snoopysprime",
     "discord": "https://discord.gg/AdhC2ex7kf",
-    "youtube": "https://www.youtube.com/@snoopysprime_de",
-    "teamspeak": ""
-  },
-  "gamemodes": {
-    "jumpworld": {
-      "name": "", 
-      "color": "",
-      "url": "",
-      "command": "",
-      "versions": ""
-    }
+    "youtube": "https://www.youtube.com/@snoopysprime_de"
   },
   "chat": {
     "message_formats": [
@@ -49,7 +34,6 @@
      "country": "Germany",
      "country_code": "DE"
   },
-  "yt_trailer": "",
   "user_stats": "https://laby.net/@{userName}",
   "command_delay": 3000
 }
