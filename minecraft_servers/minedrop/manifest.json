@@ -3,7 +3,8 @@
     "nice_name": "Minedrop Network",
     "direct_ip": "play.minedrop.net",
     "supported_languages": [
-        "de"
+        "de",
+        "en"
     ],
     "social": {
         "tiktok": "minedrop.net",
