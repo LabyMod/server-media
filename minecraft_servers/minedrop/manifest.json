@@ -1,9 +1,10 @@
 {
     "server_name": "minedrop",
     "nice_name": "minedrop",
-    "direct_ip": "minedrop.net",
+    "direct_ip": "play.minedrop.net",
     "server_wildcards": [
-        "play.minedrop.net"
+        "*.minedrop.net",
+        "*.minedrop.de"
     ],
     "supported_languages": [
         "de"
