@@ -1,13 +1,13 @@
 {
-  "server_name": "lucid-xenoverse",
-  "nice_name": "Lucid-XenoVerse",
-  "direct_ip": "xd.lucid-xenoverse.de",
+  "server_name": "xenoverse-roleplay",
+  "nice_name": "XenoVerse Roleplay",
+  "direct_ip": "xenovacity.de",
   "supported_languages": [
      "de"
   ],
   "social": {
     "web": "https://www.lucid-xenoverse.de",
-    "discord": "https://discord.gg/74VrynWM5K"
+    "discord": "https://discord.gg/upmaVT84J4"
   },
   "location": {
     "city": "Berlin",
