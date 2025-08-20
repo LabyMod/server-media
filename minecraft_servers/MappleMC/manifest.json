@@ -10,7 +10,7 @@
   ],
   "social": {
     "web": "https://www.mapplemc.net",
-    "web_shop": "https://store.mapplemc.net",
+    "web_shop": "https://mapplemc.tebex.io",
     "web_support": "https://www.mapplemc.net/soporte",
     "discord": "https://discord.gg/eZyVqVsw7M",
     "youtube": "https://www.youtube.com/@maplemc.network"
@@ -28,7 +28,4 @@
     "city": "Monterrey",
     "country": "Mexico",
     "country_code": "MX"
-  },
-  "user_stats": "https://status.mapplemc.net",
-  "command_delay": 3000
 }
