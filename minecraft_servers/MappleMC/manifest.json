@@ -29,6 +29,6 @@
     "country": "Mexico",
     "country_code": "MX"
   },
-  "user_stats": "https://laby.net/@{userName}",
+  "user_stats": "https://status.mapplemc.net",
   "command_delay": 3000
 }
