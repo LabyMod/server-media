@@ -1,0 +1,18 @@
+{
+  "server_name": "xenoverseroleplay",
+  "nice_name": "XenovaCity",
+  "direct_ip": "xenovacity.de",
+  "supported_languages": [
+     "de"
+  ],
+  "social": {
+    "web": "https://www.lucid-xenoverse.de",
+    "discord": "https://discord.gg/upmaVT84J4"
+    "instagram": "xenoverse_roleplay"
+  },
+  "location": {
+    "city": "Berlin",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}
