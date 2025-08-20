@@ -1,0 +1,57 @@
+{
+    "server_name": "minedrop",
+    "nice_name": "minedrop",
+    "direct_ip": "play.minedrop.net",
+    "server_wildcards": [
+        "*.minedrop.net",
+        "*.minedrop.de"
+    ],
+    "supported_languages": [
+        "de"
+    ],
+    "social": {
+        "tiktok": "minedrop.net",
+        "youtube": "https://www.youtube.com/@MinedropOfficial"
+    },
+    "gamemodes": {
+        "lobby": {
+            "name": "Lobby",
+            "color": "#FFA500",
+            "command": "/spawn",
+            "versions": "1.20<*"
+        },
+        "citybuild": {
+            "name": "CityBuild",
+            "color": "#FFA500",
+            "command": "/server citybuild-1",
+            "versions": "1.20<*"
+        },
+        "farmwelt": {
+            "name": "Farmwelt",
+            "color": "#FFA500",
+            "command": "/server farmwelt-1",
+            "versions": "1.20<*"
+        },
+        "pvp": {
+            "name": "PVP",
+            "color": "#ADD8E6",
+            "command": "/quickjoin dna",
+            "versions": "1.20<*"
+        }
+    },
+    "discord": {
+        "server_id": 1351549334075736000,
+        "rename_to_minecraft_name": false
+    },
+    "brand": {
+        "primary": "#008FE8",
+        "background": "#0A56A5",
+        "text": "#FFFFFF"
+    },
+    "location": {
+        "city": "Munich",
+        "country": "Germany",
+        "country_code": "DE"
+    },
+    "command_delay": 0
+}
