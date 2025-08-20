@@ -1,6 +1,6 @@
 {
   "server_name": "akratis",
-  "nice_name": "Akratis",
+  "nice_name": "AkratisDE",
   "direct_ip": "Akratis.de",
   "server_wildcards": [
     "%.akratis.de"
@@ -9,11 +9,10 @@
     "de"
   ],
   "social": {
-    "web": "https://akratis.de",
-    "discord": "https://discord.gg/mjfpcV3g9M"
+    "discord": "https://discord.gg/chuYqZXTDf"
   },
   "discord": {
-    "server_id": 1275921226396602378,
+    "server_id": 1394829363601739950,
     "rename_to_minecraft_name": false
   },
   "location": {
