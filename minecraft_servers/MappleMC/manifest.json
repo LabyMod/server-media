@@ -1,10 +1,7 @@
 {
-  "server_name": "MappleMC Network",
-  "nice_name": "MappleMC",
+  "server_name": "mapplemc",
+  "nice_name": "MappleMC Network",
   "direct_ip": "play.mapplemc.net",
-  "server_wildcards": [
-    "%.mapplemc.net"
-  ],
   "supported_languages": [
     "es"
   ],
