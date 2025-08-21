@@ -1,6 +1,6 @@
 {
   "server_name": "craftplay",
-  "nice_name": "Craftplay.de",
+  "nice_name": "Craftplay",
   "direct_ip": "craftplay.de",
   "server_wildcards": [
     "%.craftplay.de"
