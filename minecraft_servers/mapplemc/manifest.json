@@ -1,0 +1,29 @@
+{
+  "server_name": "mapplemc",
+  "nice_name": "MappleMC Network",
+  "direct_ip": "play.mapplemc.net",
+  "supported_languages": [
+    "es"
+  ],
+  "social": {
+    "web": "https://www.mapplemc.net",
+    "web_shop": "https://mapplemc.tebex.io",
+    "web_support": "https://www.mapplemc.net/soporte",
+    "discord": "https://discord.gg/eZyVqVsw7M",
+    "youtube": "https://www.youtube.com/@maplemc.network"
+  },
+  "discord": {
+    "server_id": 1394557176143679589,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#ED8204",
+    "background": "#E33F16",
+    "text": "#FFFFFF"
+  },
+  "location": {
+    "city": "Monterrey",
+    "country": "Mexico",
+    "country_code": "MX"
+  }
+}
