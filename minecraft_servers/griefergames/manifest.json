@@ -22,7 +22,7 @@
   "user_stats": "https://profile.griefergames.live/minecraft/{uuid}",
   "gamemodes": {
     "cloud": {
-      "name": "GGCloud",
+      "name": "GGCloud (1.21.4)",
       "url": "https://wiki.griefergames.live/was-ist-die-cloud",
       "color": "#FEB511"
     },
