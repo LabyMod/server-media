@@ -1,0 +1,50 @@
+{
+    "server_name": "flipsyy",
+    "nice_name": "Flipsyy Community",
+    "direct_ip": "flipsyy.de",
+    "server_wildcards": [
+        "%.flipsyy.de"
+    ],
+    "supported_languages": [
+        "de"
+    ],
+    "social": {
+        "web": "https://flipsyy.det",
+        "discord": "https://discord.gg/XcMBEkRDzt",
+        "youtube": "https://www.youtube.com/@FIipsy"
+    },
+    "gamemodes": {
+        "smp": {
+            "name": "SMP",
+            "color": "#Fff0000"
+        },
+        "pvp": {
+            "name": "PVP ARENA",
+            "color": "#0000ff",
+            "command": "/pvp",
+            "versions": "1.20<1.21.8"
+        }
+    },
+    "chat": {
+        "message_formats": [
+            "^§[a-f0-9](?<level>\\d+)( \\||§8 \\|) §[a-f0-9](?<sender>[a-zA-Z0-9_]{2,16})§r§7: §f(?<message>.*)$"
+        ]
+    },
+    "discord": {
+        "server_id": 1350225235844272400,
+        "rename_to_minecraft_name": false
+    },
+    "brand": {
+        "primary": "#ADD8E6",
+        "background": "#ADD8E6",
+        "text": "#00008B"
+    },
+    "location": {
+        "city": "Frankfurt",
+        "country": "Germany",
+        "country_code": "DE"
+    },
+    "yt_trailer": "8asFIRe2HSw",
+    "user_stats": "https://laby.net/@{userName}",
+    "command_delay": 0
+}
