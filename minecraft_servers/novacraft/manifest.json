@@ -17,9 +17,14 @@
 			"command": "/switch CB"
                 },
                 "ffa": {
-			"name": "FFA", 
+			"name": "SwitchFFA", 
 			"color": "#1ED600",
 			"command": "/ffa"
+		},
+                "survival": {
+			"name": "Survival", 
+			"color": "#1ED600",
+			"command": "/switch Survival"
 		}
 	},
     "location": {
