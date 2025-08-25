@@ -10,13 +10,6 @@
         "tiktok": "minedrop.net",
         "youtube": "https://www.youtube.com/@MinedropOfficial"
     },
-    "gamemodes": {
-        "lobby": {
-            "name": "Lobby",
-            "color": "#FFA500",
-            "command": "/spawn",
-            "versions": "1.20<*"
-        },
         "citybuild": {
             "name": "CityBuild",
             "color": "#FFA500",
@@ -32,7 +25,7 @@
         "pvp": {
             "name": "PVP",
             "color": "#ADD8E6",
-            "command": "/quickjoin dna",
+            "command": "/server pvp-1",
             "versions": "1.20<*"
         }
     },
