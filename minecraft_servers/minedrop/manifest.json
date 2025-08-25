@@ -10,17 +10,18 @@
         "tiktok": "minedrop.net",
         "youtube": "https://www.youtube.com/@MinedropOfficial"
     },
+    "gamemodes": {
         "citybuild": {
             "name": "CityBuild",
             "color": "#FFA500",
             "command": "/server citybuild-1",
-            "versions": "1.20<*"
+            "versions": "1.20<"
         },
         "farmwelt": {
             "name": "Farmwelt",
             "color": "#FFA500",
             "command": "/server farmwelt-1",
-            "versions": "1.20<*"
+            "versions": "1.20<"
         },
         "pvp": {
             "name": "PVP",
