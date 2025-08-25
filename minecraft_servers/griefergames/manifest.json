@@ -22,32 +22,14 @@
   "user_stats": "https://profile.griefergames.live/minecraft/{uuid}",
   "gamemodes": {
     "cloud": {
-      "name": "GGCloud",
+      "name": "GGCloud (1.21.4)",
       "url": "https://wiki.griefergames.live/was-ist-die-cloud",
       "color": "#FEB511"
     },
     "cb": {
-      "name": "CityBuild 1-22",
+      "name": "CityBuild 1.8",
       "url": "https://wiki.griefergames.net/grundlagen/spielmodus-citybuild/citybuild-1-22",
-      "command": "/switch cb1",
-      "color": "#FFFFFF"
-    },
-    "cbevil": {
-      "name": "CityBuild Evil",
-      "url": "https://wiki.griefergames.net/grundlagen/spielmodus-citybuild/citybuild-evil",
-      "command": "/switch cbevil",
-      "color": "#FFFFFF"
-    },
-    "nature": {
-      "name": "CityBuild Nature",
-      "url": "https://wiki.griefergames.net/grundlagen/spielmodus-citybuild/citybuild-nature-and-extreme",
-      "command": "/switch nature",
-      "color": "#FFFFFF"
-    },
-    "extreme": {
-      "name": "CityBuild Extreme",
-      "url": "https://wiki.griefergames.net/grundlagen/spielmodus-citybuild/citybuild-nature-and-extreme",
-      "command": "/switch extreme",
+      "command": "/portal",
       "color": "#FFFFFF"
     }
   },
