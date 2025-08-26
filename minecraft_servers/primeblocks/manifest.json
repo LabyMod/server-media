@@ -14,12 +14,12 @@
       "cb1": {
         "name": "CB-1",
         "color": "#E8B50F",
-        "command": "/servers cb3"
+        "command": "/servers cb1"
       },
       "cb2": {
         "name": "CB-2",
         "color": "#E8B50F",
-        "command": "/servers cb3"
+        "command": "/servers cb2"
       },
       "cb3": {
         "name": "CB-3",
