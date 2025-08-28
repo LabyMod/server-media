@@ -24,8 +24,9 @@
       "primary":"#2ca7f3"
    },
    "gamemodes":{
-      "privateserver":{
-         "name":"Private-Server",
+      "subgames":{
+         "name":"Subgames",
+         "command":"/subserver",
          "color":"#2ca7f3"
       },
       "allegegenmelvin":{
@@ -48,16 +49,12 @@
          "name":"OneBlockRace",
          "color":"#2ca7f3"
       },
-      "uhc":{
-         "name":"UHC",
-         "color":"#2ca7f3"
-      },
       "speedrun":{
          "name":"Speedrun",
          "color":"#2ca7f3"
       },
-      "bomberman":{
-         "name":"Bomberman",
+      "manhunt":{
+         "name":"ManHunt",
          "color":"#2ca7f3"
       }
    }
