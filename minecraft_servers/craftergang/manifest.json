@@ -1,6 +1,6 @@
 {
   "server_name": "craftergang",
-  "nice_name": "Craftergang",
+  "nice_name": "Craftergang.DE | Bedrock & Java 1.8 Minigames",
   "direct_ip": "craftergang.de",
   "supported_languages": [
     "de",
@@ -20,61 +20,85 @@
       "name": "Crafterbreak",
       "color": "#07F0E0",
       "command": "/gametp crafterbreak",
-      "versions": "1.8<1.21.4"
+      "versions": "1.8<1.21.8"
+    },
+    "ironprotect": {
+      "name": "IRONPROTECT",
+      "color": "#2f3d4c",
+      "command": "/gametp ironprotect",
+      "versions": "1.8<1.21.8"
     },
     "welt-untergang": {
       "name": "Untergang",
       "color": "#0bde19",
       "command": "/gametp wu",
-      "versions": "1.8<1.21.4"
+      "versions": "1.8<1.21.8"
+    },
+    "getdown": {
+      "name": "GetDown",
+      "color": "#07F0E0",
+      "command": "/gametp getdown",
+      "versions": "1.8<1.21.8"
+    },
+    "cookies": {
+      "name": "Cookies",
+      "color": "#07F0E0",
+      "command": "/gametp cookies",
+      "versions": "1.8<1.21.8"
     },
     "superbreakblocks": {
       "name": "SuperBreakBlocks",
       "color": "#bf1077",
       "command": "/gametp sbb",
-      "versions": "1.8<1.21.4"
+      "versions": "1.8<1.21.8"
     },
-    "cbdesert": {
-      "name": "CB Desert",
+    "switchffa": {
+      "name": "SFFA",
+      "color": "#07F0E1",
+      "command": "/gametp sffa",
+      "versions": "1.8<1.21.8"
+    },
+    "switchffa": {
+      "name": "SFFA",
+      "color": "#07F0E1",
+      "command": "/gametp sffa",
+      "versions": "1.8<1.21.7"
+    },
+    "cb": {
+      "name": "CB 1.8 & 1.21.5",
       "color": "#0d6914",
       "command": "/gametp cb1",
-      "versions": "1.8<1.21.4"
-    },
-    "cbwildniss": {
-      "name": "CB Wildniss",
-      "color": "#0d6914",
-      "command": "/gametp cb2",
-      "versions": "1.21.3<1.21.4"
+      "versions": "1.8<1.21.8"
     },
     "duels": {
-      "name": "Duels",
+      "name": "Ultimate Duels",
       "color": "#d506b8",
       "command": "/gametp duels",
-      "versions": "1.8<1.21.4"
+      "versions": "1.8<1.21.8"
     },
     "onehit": {
       "name": "OneHit",
       "color": "#f705ab",
       "command": "/gametp onehit",
-      "versions": "1.8<1.21.4"
+      "versions": "1.8<1.21.8"
     },
-    "ffa": {
-      "name": "FFA",
-      "color": "#ed0c26",
-      "command": "/gametp ffa",
-      "versions": "1.8<1.21.4"
+    "mlgrush": {
+      "name": "MLGRUSH",
+      "color": "#6badf6",
+      "command": "/gametp mlgrush",
+      "versions": "1.8<1.21.8"
     },
     "skypvp": {
       "name": "SkyPvP",
       "color": "#f7df05",
       "command": "/gametp spvp",
-      "versions": "1.8<1.21.4"
+      "versions": "1.8<1.21.8"
     },
     "survival": {
       "name": "Survival",
       "color": "#f705ab",
       "command": "/gametp survival",
-      "versions": "1.21.4>*"
+      "versions": "1.21.8"
     }
   },
   "chat": {
@@ -98,3 +122,4 @@
   },
   "yt_trailer": "Iu1pZrkv6KI"
 }
+
