@@ -1,0 +1,54 @@
+{
+  "server_name": "spot",
+  "nice_name": "Spot Games",
+  "direct_ip": "spotgames.net",
+  "supported_languages": [
+    "pt",
+    "pt-BR",
+    "pt-PT"
+  ],
+  "social": {
+    "web": "https://spotgames.net",
+    "web_shop": "https://loja.spotgames.net",
+    "web_support": "https://wiki.spotgames.net",
+    "twitter": "spotgames_net",
+    "tiktok": "spotgames.net",
+    "instagram": "spotgames_net",
+    "discord": "https://discord.gg/spotgames",
+    "youtube": "https://www.youtube.com/@spotgamesoficial"
+  },
+  "gamemodes": {
+    "survival-valley": {
+      "name": "Survival Valley",
+      "color": "#FFFFFF",
+      "command": "/fila valley"
+    },
+    "skyblock": {
+      "name": "Skyblock",
+      "color": "#FFFFFF"
+    },
+    "rankup": {
+      "name": "RankUP",
+      "color": "#FFFFFF"
+    },
+    "bedwars": {
+      "name": "Bedwars",
+      "color": "#FFFFFF"
+    }
+  },
+  "discord": {
+    "server_id": 835179730004082779,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#9772F2",
+    "background": "#101010",
+    "text": "#FFFFFF"
+  },
+  "location": {
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  "yt_trailer": "3QzJ5VaA-uI",
+  "command_delay": 3000
+}
