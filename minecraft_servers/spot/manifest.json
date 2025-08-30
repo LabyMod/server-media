@@ -7,9 +7,7 @@
     "spotgames.gg"
   ],
   "supported_languages": [
-    "pt",
-    "pt-BR",
-    "pt-PT"
+    "pt"
   ],
   "social": {
     "web": "https://spotgames.net",
@@ -24,20 +22,20 @@
   "gamemodes": {
     "survival-valley": {
       "name": "Survival Valley",
-      "color": "#FFFFFF",
+      "color": "#4CAF50",
       "command": "/fila valley"
     },
     "skyblock": {
       "name": "Skyblock",
-      "color": "#FFFFFF"
+      "color": "#2196F3"
     },
     "rankup": {
       "name": "RankUP",
-      "color": "#FFFFFF"
+      "color": "#FF9800"
     },
     "bedwars": {
       "name": "Bedwars",
-      "color": "#FFFFFF"
+      "color": "#F44336"
     }
   },
   "discord": {
