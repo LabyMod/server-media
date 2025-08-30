@@ -2,10 +2,6 @@
   "server_name": "spot",
   "nice_name": "Spot Games",
   "direct_ip": "spotgames.net",
-  "server_wildcards": [
-    "%.spotgames.com.br",
-    "%.spotgames.gg"
-  ],
   "supported_languages": [
     "pt",
     "pt-BR",
