@@ -1,0 +1,39 @@
+{
+  "server_name": "nuviramc",
+  "nice_name": "NuviraMC",
+  "direct_ip": "nuviramc.net",
+  "server_wildcards":[
+     "%.nuviramc.net",
+      "%.nuviramc.de",
+      "%.nuvirahost.de"
+  ],
+  "social": {
+    "tiktok": "nuviramc",
+    "discord": "https://discord.gg/GdxxTmVNJU"
+  },
+  "gamemodes": {
+    "citybuild": {
+      "name": "CityBuild",
+      "color": "#34BBE6",
+      "command": "/joinq Citybuild"
+    },
+    "tradeguru": {
+      "name": "TradeGuru",
+      "color": "#34BBE6",
+      "command": "/joinq TradeGuru"
+    },
+    "prison": {
+      "name": "Prison",
+      "color": "#34BBE6",
+      "command": "/joinq Prison"
+    }
+  },
+  "discord": {
+    "server_id": 1309938438027612200,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#34BBE6",
+    "background": "#4D85FF"
+  }
+}
