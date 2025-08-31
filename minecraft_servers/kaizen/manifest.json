@@ -2,14 +2,11 @@
   "server_name": "kaizen",
   "nice_name": "KaizenMC",
   "direct_ip": "kaizenmc.gg",
-  "server_wildcards": [
-    "%.kaizenmc.gg"
-  ],
   "supported_languages": [
      "pt"
   ],
   "social": {
-    "web": "https://kaizenmc.gg/",
+    "web": "https://kaizenmc.gg",
     "web_shop": "https://kaizenmc.gg/category/6lW9zF5tnW",
     "twitter": "RedeKaizenMC",
     "tiktok": "redekaizenmc",
