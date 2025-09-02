@@ -3,7 +3,9 @@
 	"nice_name": "MCHub",
 	"direct_ip": "mchub.com",
 	"server_wildcards": [
-	  "%.mchub.com"
+	  "%.mchub.com",
+	  "%.skyblocky.com",
+	  "%.mcprison.com"
 	],
 	"social": {
 	  "web": "https://mchub.com",
@@ -17,8 +19,8 @@
 	  "skyblock": {
 		"name": "Skyblock"
 	  },
-	  "survival": {
-		"name": "Survival"
+	  "dungeons": {
+		"name": "Dungeons"
 	  }
 	},
 	"discord": {
