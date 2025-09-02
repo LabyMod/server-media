@@ -1,0 +1,36 @@
+{
+    "server_name": "danismp",
+    "nice_name": "DaniSMP",
+    "direct_ip": "danismp.net",
+    "server_wildcards": [
+      "%.danismp.net"
+    ],
+    "supported_languages": [
+       "en",
+       "de"
+    ],
+    "social": {
+      "discord": "https://discord.gg/danismp"
+    },
+    "gamemodes": {
+      "smp": {
+        "name": "SMP", 
+        "versions": "1.21<*",
+        "color": "#2ecc71"
+      }
+    },
+    "discord": {
+      "server_id": 1170093841924239513,
+      "rename_to_minecraft_name": false
+    },
+    "brand": {
+       "primary": "#08a8f8",
+       "background": "#7F00FF",
+       "text": "#FFFFFF"
+    }, 
+    "location": {
+       "city": "Frankfurt am Main",
+       "country": "Germany",
+       "country_code": "DE"
+    }
+  }

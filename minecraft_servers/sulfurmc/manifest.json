@@ -1,0 +1,35 @@
+{
+  "server_name": "sulfurmc",
+  "nice_name": "SulfurMC",
+  "direct_ip": "play.sulfurmc.eu",
+  "social": {
+    "web": "https://store.sulfurmc.eu",
+    "discord": "https://discord.gg/ZuN7FscCXC",
+    "tiktok": "sulfurmcofficial_eu",
+    "instagram": "sulfurmc.eu"
+  },
+  "gamemodes": {
+    "hyperlands": {
+      "name": "Hyperlands",
+      "color": "#F548ED"
+    },
+    "exiled": {
+      "name": "Exiled Hardcore",
+      "color": "#F548ED"
+    }
+  },
+  "discord": {
+    "server_id": 1177720568448032888,
+    "rename_to_minecraft_name": false
+  },
+"brand": {
+  "primary": "#FFA500",  
+  "background": "#CC7000",   
+  "text": "#FFFFFF"          
+},
+  "location": {
+    "city": "Eygelshoven",
+    "country": "Netherlands",
+    "country_code": "NL"
+  }
+}
