@@ -1,7 +1,10 @@
 {
   "server_name": "falchus",
   "nice_name": "Falchus.com",
-  "direct_ip": "falchus.com",
+  "direct_ip": "mc.falchus.com",
+  "server_wildcards": [
+    "%.falchus.com"
+  ],
   "supported_languages": [
     "en",
     "de"
@@ -19,8 +22,7 @@
      "text": "#FFFFFF"
   },
   "location": {
-    "city": "Quebec",
-    "country": "Canada",
-    "country_code": "CA"
+    "country": "Austria",
+    "country_code": "AT"
   }
 }
