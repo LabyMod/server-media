@@ -1,0 +1,17 @@
+{
+    "server_name": "vandoria",
+    "nice_name": "vandoria",
+    "direct_ip": "vandoria.net",
+    "supported_languages": [
+        "de"
+    ],
+    "social": {
+        "tiktok": "vandoria.net",
+        "discord": "https://discord.gg/2bjW9uhdfB",
+        "youtube": "https://youtube.com/vandoria_net"
+    },
+    "location": {
+        "city": "Falkenstein",
+        "country": "Germany"
+    }
+}
