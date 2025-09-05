@@ -3,7 +3,9 @@
 	"nice_name": "MCHub",
 	"direct_ip": "mchub.com",
 	"server_wildcards": [
-	  "%.mchub.com"
+	  "%.mchub.com",
+	  "skyblocky.com",
+	  "mcprison.com"
 	],
 	"social": {
 	  "web": "https://mchub.com",
@@ -12,13 +14,16 @@
 	},
 	"gamemodes": {
 	  "prison": {
-		"name": "Prison"
+		"name": "Prison",
+		"color": "#00BFFF"
 	  },
 	  "skyblock": {
-		"name": "Skyblock"
+		"name": "Skyblock",
+		"color": "#28A745"
 	  },
-	  "survival": {
-		"name": "Survival"
+	  "dungeons": {
+		"name": "Dungeons",
+		"color": "#9415E6"
 	  }
 	},
 	"discord": {
