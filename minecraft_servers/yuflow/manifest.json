@@ -13,7 +13,7 @@
     "discord": "https://discord.gg/YuFlow"
   },
   "gamemodes": {
-    "PartyGames": {
+    "partygames": {
       "name": "partygames", 
       "color": "#0600AB",
       "command": "/server partygames",
