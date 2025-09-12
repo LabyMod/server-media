@@ -2,9 +2,6 @@
   "server_name": "blockrealmssmp",
   "nice_name": "BlockRealms SMP",
   "direct_ip": "blockreams.serverlist.dk",
-  "server_wildcards": [
-    "%.blockreams.serverlist.dk"
-  ],
   "supported_languages": [
     "da"
   ],
