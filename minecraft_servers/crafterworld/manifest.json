@@ -1,0 +1,47 @@
+{
+  "server_name": "crafterworld",
+  "nice_name": "CrafterWorld",
+  "direct_ip": "crafterworld.de",
+  "server_wildcards": [
+    "%.crafterworld.de"
+  ],
+  "supported_languages": [
+     "de"
+  ],
+  "social": {
+    "web": "https://crafterworld.de",
+    "tiktok": "https://www.tiktok.com/@crafterworld",
+    "instagram": "https://instagram.com/crafterworld.de",
+    "discord": "https://discord.gg/s4YZ9RbH3a",
+    "youtube": "https://www.youtube.com/@CrafterWorld-de",
+    "teamspeak": "ts.crafterworld.de"
+  },
+  "gamemodes": {
+    "citybuild": {
+      "name": "CityBuild", 
+      "color": "#29943C",
+      "url": "https://crafterworld.de",
+      "versions": "1.17<*"
+    }
+  },
+  "chat": {
+    "message_formats": [
+      "^§[a-f0-9](?<level>\\d+)( \\||§8 \\|) §[a-f0-9](?<sender>[a-zA-Z0-9_]{2,16})§r§7: §f(?<message>.*)$"
+    ]
+  },
+  "discord": {
+    "server_id": 1262124425164230727,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#29943C",
+     "background": "#1E7CD4",
+     "text": "#FFFFFF"
+  }, 
+  "location": {
+     "city": "Falkenstein",
+     "country": "Germany",
+     "country_code": "DE"
+  },
+  "command_delay": 3000
+}
