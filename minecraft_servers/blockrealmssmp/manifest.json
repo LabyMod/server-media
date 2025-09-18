@@ -6,6 +6,7 @@
     "*.blockrealms.serverlist.dk",
     "*.brmc.dk"
   ],
+  "direct_ip": "blockrealms.serverlist.dk",
   "supported_languages": [
     "da"
   ],
