@@ -1,7 +1,11 @@
 {
   "server_name": "blockrealmssmp",
   "nice_name": "BlockRealms SMP",
-  "direct_ip": "blockrealms.serverlist.dk",
+  "direct_ip": "play.brmc.dk",
+  "server_wildcards": [
+    "*.blockrealms.serverlist.dk",
+    "*.brmc.dk"
+  ],
   "supported_languages": [
     "da"
   ],
