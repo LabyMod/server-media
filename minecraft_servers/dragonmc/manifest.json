@@ -1,12 +1,12 @@
 {
-    "server_name": "fambosyt",
-    "nice_name": "FambosYT",
-    "direct_ip": "fambosyt.de",
+    "server_name": "dragonmc",
+    "nice_name": "DragonMC",
+    "direct_ip": "dragonmc.minefreaks.de",
     "supported_languages": [
        "de"
     ],
     "social": {
-      "discord": "https://discord.gg/ApTAGtHsvj"
+      "discord": "https://discord.gg/seMCQcJYCE"
     },
     "location": {
       "city": "Frankfurt",
