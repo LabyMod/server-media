@@ -1,6 +1,6 @@
 {
     "server_name": "zflockii",
-    "nice_name": "zFlockii | Event Netzwerk",
+    "nice_name": "zFlockii.de | Event Netzwerk",
     "direct_ip": "zflockii.de",
     "supported_languages": [
       "de"
@@ -11,13 +11,8 @@
       "youtube": "https://www.youtube.com/@zFlockii"
     },
     "brand": {
-       "primary": "#4ccc49",
+       "primary": "#00d945",
        "background": "#00000",
-       "text": "#FFFFFF"
-    },
-    "location": {
-      "city": "Frankfurt",
-      "country": "Germany",
-      "country_code": "DE"
+       "text": "#8C939C"
     }
 }

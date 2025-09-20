@@ -27,10 +27,20 @@
     "teamspeak": "Dyhntastic.net"
   },
   "gamemodes": {
-    "mlgrush": {
-      "name": "MLGRush",
+    "citybuild": {
+      "name": "CityBuild",
+      "color": "#00AA00",
+      "command": "/gamejoin citybuild"
+    },
+    "smp": {
+      "name": "SMP",
+      "color": "#00AA00",
+      "command": "/gamejoin smp"
+    },
+    "duels": {
+      "name": "Duels",
       "color": "#FFAA00",
-      "command": "/gamejoin mlgrush"
+      "command": "/gamejoin duels"
     },
     "tntball": {
       "name": "TNTBall",
@@ -42,30 +52,30 @@
       "color": "#5555FF",
       "command": "/gamejoin knockit"
     },
-    "ffa": {
-      "name": "FFA",
-      "color": "#A80000",
-      "command": "/gamejoin ffa"
+    "capture": {
+      "name": "Capture",
+      "color": "#FFAA00",
+      "command": "/gamejoin capture"
     },
-    "citybuild": {
-      "name": "CityBuild",
-      "color": "#00AA00",
-      "command": "/gamejoin citybuild"
-    },
-    "oneblock": {
-      "name": "OneBlock",
-      "color": "#00AA00",
-      "command": "/gamejoin oneblock"
+    "itemchaos": {
+      "name": "ItemChaos",
+      "color": "#AA00AA",
+      "command": "/gamejoin itemchaos"
     },
     "bedwars": {
       "name": "Bedwars",
       "color": "#FF5555",
       "command": "/gamejoin bedwars"
     },
-    "soccer": {
-      "name": "Soccer",
-      "color": "#0000AA",
-      "command": "/gamejoin Soccer"
+    "skywars": {
+      "name": "SkyWars",
+      "color": "#00AA00",
+      "command": "/gamejoin skywars"
+    },
+    "blockparty": {
+      "name": "BlockParty",
+      "color": "#FF55FF",
+      "command": "/gamejoin blockparty"
     }
   },
   "discord": {

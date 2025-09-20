@@ -12,12 +12,14 @@
     "social": {
       "web_shop": "https://store.marsmc.net",
       "twitter": "playmarsmc",
+      "instagram": "playmarsmc",
+      "tiktok": "playmarsmc",
       "discord": "https://discord.gg/marsmc",
       "youtube": "https://www.youtube.com/@PlayMarsMC"
     },
     "gamemodes": {
       "superpvp": {
-          "name": "SuperPvP",
+          "name": "PvP",
           "color": "#ffffff",
           "command": "/play superpvp",
           "versions": "1.8<*"
@@ -28,26 +30,22 @@
         "command": "/play sg",
         "versions": "1.8<*"
       },
+      "practice": {
+        "name": "Practice",
+        "color": "#ffffff",
+        "command": "/play practice",
+        "versions": "1.8<*"
+      },
       "1vs1": {
-        "name": "1vs1",
+        "name": "Duels",
         "color": "#ffffff",
+        "command": "/play practice",
         "versions": "1.8<*"
       },
-      "partypvp": {
-        "name": "PartyPvP",
-        "color": "#ffffff",
-        "command": "/play partypvp",
-        "versions": "1.8<*"
-      },
-      "skypvp": {
-          "name": "SkyPvP",
+      "pof": {
+          "name": "Pillars of Fortune",
           "color": "#ffffff",
-          "command": "/play skypvp",
-          "versions": "1.8<*"
-      },
-      "redstonepvp": {
-          "name": "RedStonePvP",
-          "color": "#ffffff",
+          "command": "/play pof",
           "versions": "1.8<*"
       },
       "creative": {
@@ -56,9 +54,27 @@
           "command": "/play creative",
           "versions": "1.8<*"
       },
+      "blockparty": {
+          "name": "BlockParty",
+          "color": "#ffffff",
+          "versions": "1.8<*"
+      },
+      "gravity": {
+          "name": "Gravity",
+          "color": "#ffffff",
+          "command": "/play gravity",
+          "versions": "1.8<*"
+      },
+      "survival": {
+          "name": "Survival",
+          "color": "#ffffff",
+          "command": "/play survival",
+          "versions": "1.21<*"
+      },
       "timv": {
-        "name": "Trouble In Mineville",
+        "name": "TTT",
         "color": "#ffffff",
+        "command": "/play timv",
         "versions": "1.8<*"
       }
     },
@@ -72,8 +88,7 @@
       "rename_to_minecraft_name": false
     },
     "brand": {
-       "primary": "#3fc4d1",
-       "background": "#0c0600"
-    },
-    "yt_trailer": "8YH1Q6UVSEs"
+       "primary": "#001414",
+       "background": "#ffa321"
+    }
   }

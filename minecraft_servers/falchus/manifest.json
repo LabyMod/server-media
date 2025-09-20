@@ -1,0 +1,28 @@
+{
+  "server_name": "falchus",
+  "nice_name": "Falchus.com",
+  "direct_ip": "mc.falchus.com",
+  "server_wildcards": [
+    "%.falchus.com"
+  ],
+  "supported_languages": [
+    "en",
+    "de"
+  ],
+  "social": {
+    "discord": "https://discord.gg/xnmnrbJrt6"
+  },
+  "discord": {
+    "server_id": 1404969341148991498,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#FFFFFF",
+     "background": "#000000",
+     "text": "#FFFFFF"
+  },
+  "location": {
+    "country": "Austria",
+    "country_code": "AT"
+  }
+}
