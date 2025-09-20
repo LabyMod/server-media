@@ -1,0 +1,25 @@
+{
+  "server_name": "mcheroes",
+  "nice_name": "McHeroes",
+  "direct_ip": "mcheroes.net",
+  "social": {
+    "discord": "https://discord.gg/spmqx4kbTr"
+  },
+  "brand": {
+    "primary": "#001414",
+    "background": "#00a9ff",
+    "text": "#000000"
+  },
+  "gamemodes": {
+    "home": {
+      "name": "My Home",
+      "command": "/home",
+      "color": "#FFFFFF"
+    }
+  },
+  "location": {
+    "city": "Frankfurt",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}

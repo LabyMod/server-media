@@ -1,0 +1,63 @@
+{
+    "server_name": "froglight",
+    "nice_name": "Froglight.net",
+    "direct_ip": "froglight.net",
+    "supported_languages": [
+       "de"
+    ],
+    "social": {
+      "web": "https://froglight.net",
+      "web_shop": "https://shop.froglight.net",
+      "discord": "https://discord.gg/JrM9eTbxe2",
+      "youtube": "https://www.youtube.com/@froglightnet",
+      "twitter": "froglightnet"
+    },
+    "gamemodes": {
+      "frogattack": {
+        "name": "Frog Attack",
+        "color": "#20e8de",
+        "url": "https://thejocraft.net/article?id=10",
+        "command": "/eventsmp",
+        "versions": "1.21<*"
+      },
+        "arcardegames": {
+          "name": "Arcarde Games",
+          "color": "#B29315",
+          "command": "/arcade",
+          "versions": "1.21<*"
+        },
+        "apocalypse": { 
+          "name": "Apocalypse",
+          "color": "#B43F2A",
+          "command": "/apocalypse",
+          "versions": "1.21<*"
+        },
+        "evolution": { 
+            "name": "Evolution",
+            "color": "#B215A4",
+            "command": "/evolution",
+            "versions": "1.21<*"
+        },
+        "hideandseek": {
+          "name": "Hide&Seek",
+          "color": "#E8E51D",
+          "command": "/hideandseek",
+          "versions": "1.21<*"
+        },
+        "survivalgames": { 
+            "name": "Survival Games",
+            "color": "#70E81D",
+            "command": "/survivalgames",
+            "versions": "1.21<*"
+        }
+    },
+    "discord": {
+      "server_id": 992878935761236008,
+      "rename_to_minecraft_name": false
+    },
+    "brand": {
+      "primary": "#6DA5C0",
+      "background": "#343a40",
+      "text": "#f8f9fa"
+    }
+  }
