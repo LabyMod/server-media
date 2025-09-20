@@ -2,9 +2,6 @@
   "server_name": "sulfurmc",
   "nice_name": "SulfurMC Network",
   "direct_ip": "play.sulfurmc.eu",
-  "server_wildcards": [
-    "%.sulfurmc.eu"
-  ],
   "supported_languages": ["it"],
   "social": {
     "web": "https://store.sulfurmc.eu",
