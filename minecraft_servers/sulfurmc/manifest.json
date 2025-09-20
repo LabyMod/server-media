@@ -1,21 +1,32 @@
 {
   "server_name": "sulfurmc",
-  "nice_name": "SulfurMC",
+  "nice_name": "SulfurMC Network",
   "direct_ip": "play.sulfurmc.eu",
+  "server_wildcards": [
+    "%.sulfurmc.eu"
+  ],
+  "supported_languages": ["it"],
   "social": {
     "web": "https://store.sulfurmc.eu",
-    "discord": "https://discord.gg/ZuN7FscCXC",
+    "discord": "discord.sulfurmc.eu",
     "tiktok": "sulfurmcofficial_eu",
     "instagram": "sulfurmc.eu"
   },
   "gamemodes": {
     "hyperlands": {
       "name": "Hyperlands",
-      "color": "#F548ED"
+      "color": "#FFA500",
+      "command": "/server hyperlands"
     },
-    "exiled": {
-      "name": "Exiled Hardcore",
-      "color": "#F548ED"
+    "krothasium": {
+      "name": "krothasium",
+      "color": "#32CD32",
+      "command": "/server krothasium"
+    },
+     "lifesteal": {
+      "name": "lifesteal",
+      "color": "#FF4500",
+      "command": "/server lifesteal"
     }
   },
   "discord": {
@@ -26,10 +37,5 @@
   "primary": "#FFA500",  
   "background": "#CC7000",   
   "text": "#FFFFFF"          
-},
-  "location": {
-    "city": "Eygelshoven",
-    "country": "Netherlands",
-    "country_code": "NL"
-  }
+}
 }
