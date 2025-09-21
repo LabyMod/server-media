@@ -6,11 +6,11 @@
     "de"
   ],
   "social": {
-    "discord": "https://discord.gg/fwEGbn8VgQ",
+    "discord": "https://discord.gg/UaQVER3UXy",
     "tiktok": "townymc_de"
   },
   "discord": {
-    "server_id": 1226637161349120030
+    "server_id": 1419250290036838490
   },
   "brand": {
     "primary": "#ECAD5E",
@@ -21,19 +21,5 @@
     "city": "Hessen",
     "country": "Germany",
     "country_code": "DE"
-  },
-  "gamemodes": {
-    "citybuild": {
-      "name": "Citybuild",
-      "command": "/citybuild"
-    },
-    "goldjagd": {
-      "name": "Goldjagd",
-      "command": "/goldjagd"
-    },
-    "punsh": {
-      "name": "Punsh",
-      "command": "/punsh"
-    }
   }
 }
