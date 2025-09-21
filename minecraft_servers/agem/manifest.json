@@ -1,0 +1,37 @@
+{
+  "server_name": "agem",
+  "nice_name": "AgeMagic.ru",
+  "direct_ip": "mc.agem.su",
+  "supported_languages": [
+    "ru",
+    "ua"
+  ],
+  "social": {
+    "web_shop": "https://shop.agemagic.net",
+    "discord": "https://discord.gg/dDPPReKdun",
+    "youtube": "https://www.youtube.com/@McAgeMagic"
+  },
+  "gamemodes": {
+    "mistland": {
+      "name": "MistLand",
+      "color": "#FF006E",
+      "command": "/queue survival"
+    },
+    "сlassic": {
+      "name": "Classic",
+      "color": "#FF006E",
+      "command": "/queue survivalbuild1"
+    }
+  },
+  "discord": {
+    "server_id": "1080036759414509639"
+  },
+  "brand": {
+    "primary": "#FF006E"
+  },
+  "yt_trailer": "vnVisa8LAaA",
+  "location": {
+    "country": "Russia",
+    "country_code": "RU"
+  }
+}

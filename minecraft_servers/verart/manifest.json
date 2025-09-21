@@ -1,0 +1,64 @@
+{
+    "server_name": "verart",
+    "nice_name": "Verart",
+    "direct_ip": "verart.org",
+    "server_wildcards": [
+        "%.verart.org"
+    ],
+    "supported_languages": [
+        "en"
+    ],
+    "social": {
+        "web": "https://verart.org",
+        "twitter": "verartteam",
+        "tiktok": "verartteam",
+        "instagram": "verartteam",
+        "discord": "https://discord.gg/GsWQsTMPjq",
+        "youtube": "https://www.youtube.com/@verartteam"
+    },
+    "gamemodes": {
+        "graveyardrumble": {
+            "name": "Graveyard Rumble",
+            "color": "#50C878",
+            "versions": "1.21<*"
+        },
+        "maze": {
+            "name": "Maze",
+            "color": "#FF9494",
+            "versions": "1.20.4"
+        },
+        "ffa": {
+            "name": "FFA",
+            "color": "#cdb4db",
+            "versions": "1.20.4"
+        },
+        "projectastro": {
+            "name": "Project Astro",
+            "color": "#bde0fe",
+            "versions": "1.21"
+        },
+        "twinstale": {
+            "name": "Twins Tale",
+            "color": "#cff1e7",
+            "versions": "1.20.4"
+        },
+        "pizzatime": {
+            "name": "Pizza Time",
+            "color": "#bcbf0f",
+            "versions": "1.21"
+        },
+        "event": {
+            "name": "Event",
+            "color": "#f3e0d3",
+            "versions": "1.21"
+        }
+    },
+    "discord": {
+        "server_id": 1043500595581038622,
+        "rename_to_minecraft_name": false
+    },
+    "brand": {
+        "primary": "#00FFFF",
+        "text": "#FFFFFF"
+    }
+}

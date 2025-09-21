@@ -8,11 +8,6 @@
       "discord":"https://discord.com/invite/vwmMusV",
       "tiktok":"melvin501.tiktok"
    },
-   "server_wildcards":[
-      "play.melvin501.de",
-      "mc.melvin501.de",
-      "501Media.de"
-   ],
    "supported_languages":[
       "de"
    ],
@@ -29,45 +24,37 @@
       "primary":"#2ca7f3"
    },
    "gamemodes":{
-      "privateserver":{
-         "name":"Private-Server",
-         "command":"/cs",
+      "subgames":{
+         "name":"Subgames",
+         "command":"/subserver",
          "color":"#2ca7f3"
       },
       "allegegenmelvin":{
          "name":"AlleGegenMelvin",
-         "command":"/cs AlleGegenMelvin",
          "color":"#2ca7f3"
       },
       "allegegenalle2":{
          "name":"AlleGegenAlle 2.0",
-         "command":"/cs AlleGegenAlle2",
          "color":"#2ca7f3"
       },
       "fangen":{
          "name":"Fangen",
-         "command":"/cs Fangen",
          "color":"#2ca7f3"
       },
       "getdown":{
          "name":"GetDown",
-         "command":"/cs GetDown",
-         "color":"#2ca7f3"
-      },
-      "bodenistlava":{
-         "name":"BodenIstLava",
          "color":"#2ca7f3"
       },
       "onblockrace":{
          "name":"OneBlockRace",
          "color":"#2ca7f3"
       },
-      "uhc":{
-         "name":"UHC",
-         "color":"#2ca7f3"
-      },
       "speedrun":{
          "name":"Speedrun",
+         "color":"#2ca7f3"
+      },
+      "manhunt":{
+         "name":"ManHunt",
          "color":"#2ca7f3"
       }
    }
