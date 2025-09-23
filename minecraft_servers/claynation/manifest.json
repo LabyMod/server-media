@@ -1,7 +1,7 @@
 {
   "server_name": "solacemc",
   "nice_name": "SOLACEMC Netzwerk",
-  "direct_ip": "realsnow.de",
+  "direct_ip": "mc.realsnow.de",
   "supported_languages": [
      "en",
      "de"
