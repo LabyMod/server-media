@@ -2,19 +2,14 @@
   "server_name": "cytooxien",
   "nice_name": "Cytooxien",
   "direct_ip": "mc.cytooxien.de",
-  "server_wildcards": [
-    "%.cytooxien.de",
-    "%.cytooxien.net"
-  ],
   "supported_languages": [
     "de", "en", "fr", "es", "ru"
   ],
   "social": {
     "web": "https://www.cytooxien.de",
     "web_shop": "https://shop.cytooxien.de",
-    "web_support": "https://www.cytooxien.de/support",
     "twitter": "Cytooxien",
-    "discord": "https://cxn.link/discord",
+    "discord": "https://discord.gg/cytooxien",
     "teamspeak": "ts.cytooxien.de"
   },
   "discord": {
@@ -26,83 +21,84 @@
       "name": "Only Up!",
       "command": "/server onlyup",
       "color": "#ffc300",
-      "versions": "1.19<*"
+      "url": "https://cytooxien.de/de/only-up-2",
+      "versions": "1.21<*"
+    },
+    "cactustycoon": {
+      "name": "Cactus Tycoon",
+      "command": "/server kakiklicker",
+      "color": "#ffc300",
+      "url": "https://cytooxien.de/de/cactus-tycoon-s3",
+      "versions": "1.21<*"
     },
     "skyblock": {
       "name": "Skyblock",
       "command": "/server skyblockx",
       "color": "#ffc300",
       "url": "https://wiki.cytooxien.de/games/skyblock",
-      "versions": "1.19<*"
+      "versions": "1.21<*"
     },
     "reallife": {
       "name": "Reallife",
       "command": "/server reallife",
       "color": "#ffc300",
       "url": "https://wiki.cytooxien.de/games/reallife",
-      "versions": "1.19<*"
+      "versions": "1.21<*"
     },
     "citybuild": {
       "name": "Citybuild",
       "command": "/server citybuild",
       "color": "#ffc300",
       "url": "https://wiki.cytooxien.de/games/citybuild",
-      "versions": "1.19<*"
-    },
-    "factions": {
-      "name": "Factions",
-      "command": "/server factions",
-      "color": "#ffc300",
-      "url": "https://wiki.cytooxien.de/games/factions",
-      "versions": "1.19<*"
+      "versions": "1.21<*"
     },
     "realms": {
       "name": "Realms",
       "color": "#ffc300",
       "url": "https://wiki.cytooxien.de/games/realms",
-      "versions": "1.19<*"
+      "versions": "1.21<*"
     },
     "minecraftparty": {
       "name": "Minecraft Party",
       "color": "#ffc300",
       "url": "https://wiki.cytooxien.de/games/minecraft-party",
-      "versions": "1.19<*"
+      "versions": "1.21<*"
     },
     "heroes": {
       "name": "Heroes",
       "color": "#ffc300",
       "url": "https://wiki.cytooxien.de/games/heroes",
-      "versions": "1.19<*"
+      "versions": "1.21<*"
     },
     "timejump": {
       "name": "Timejump",
       "color": "#ffc300",
       "url": "https://wiki.cytooxien.de/games/timejump",
-      "versions": "1.19<*"
+      "versions": "1.21<*"
     },
     "smash": {
       "name": "Smash",
       "color": "#ffc300",
       "url": "https://wiki.cytooxien.de/games/smash",
-      "versions": "1.19<*"
+      "versions": "1.21<*"
     },
     "bedwars": {
       "name": "Bedwars",
       "color": "#ffc300",
       "url": "https://wiki.cytooxien.de/games/bedwars",
-      "versions": "1.19<*"
+      "versions": "1.21<*"
     },
     "ultimateknockout": {
       "name": "Ultimate Knockout",
       "color": "#ffc300",
-      "versions": "1.19<*"
+      "versions": "1.21<*"
     },
     "creative": {
       "name": "Creative",
       "command": "/server creative",
       "color": "#ffc300",
       "url": "https://wiki.cytooxien.de/games/creative",
-      "versions": "1.19<*"
+      "versions": "1.21<*"
     }
   },
   "brand": {

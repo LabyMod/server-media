@@ -30,11 +30,11 @@
       "color": "#ff5d52",
       "versions": "1.8<*"
     },
-    "skyblock": {
-      "name": "SkyBlock",
-      "command": "/skyblock",
+    "skymine": {
+      "name": "SkyMine",
+      "command": "/skymine",
       "color": "#ff5d52",
-      "versions": "1.8<*"
+      "versions": "1.12<*"
     },
     "survival":{
       "name": "Survival",
@@ -77,6 +77,18 @@
       "command": "/parkour",
       "color": "#ff5d52",
       "versions": "1.8<*"
+    },
+    "prison":{
+      "name": "Prison",
+      "command": "/prison",
+      "color": "#ff5d52",
+      "versions": "1.12<*"
+    },
+    "miaplays":{
+      "name": "MiaPlays",
+      "command": "/miaplays",
+      "color": "#ff5d52",
+      "versions": "1.18<*"
     }
   },
   "brand": {

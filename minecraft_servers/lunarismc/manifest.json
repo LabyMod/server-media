@@ -1,0 +1,33 @@
+{
+    "server_name": "lunarismc",
+    "nice_name": "LunarisMC Netzwerk",
+    "direct_ip": "lunarismc.eu",
+    "supported_languages": [
+        "de",
+        "en"
+    ],
+    "gamemodes": {
+        "cb01": {
+            "name": "CityBuild-01",
+            "color": "#54FC54",
+            "command": "/server cb01",
+            "versions": "1.20.4 - 1.21.1"
+        },
+        "cb02": {
+            "name": "CityBuild-02",
+            "color": "#54FC54",
+            "command": "/server cb02",
+            "versions": "1.20.4 - 1.21.1"
+        }
+    },
+    "brand": {
+        "primary": "#e8b600",
+        "background": "#a5810a",
+        "text": "#FFFFFF"
+    },
+    "location": {
+        "city": "Frankfurt",
+        "country": "Germany",
+        "country_code": "DE"
+    }
+}

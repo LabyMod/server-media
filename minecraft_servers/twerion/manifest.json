@@ -51,11 +51,11 @@
             "command": "/play lifestealsmp",
             "versions": "1.21<*"
         },
-        "oppvp": {
-            "name": "OPPvP",
-            "color": "#00AA00",
-            "command": "/play oppvp",
-            "versions": "1.8<*"
+        "elytrapvp": {
+            "name": "ElytraPvP",
+            "color": "#AA00AA",
+            "command": "/play elytrapvp",
+            "versions": "1.21<*"
         },
         "bedwars": {
             "name": "BedWars",
@@ -84,7 +84,7 @@
     },
     "discord": {
         "server_id": 326789496525815800,
-        "rename_to_minecraft_name": true
+        "rename_to_minecraft_name": false
     },
     "brand": {
         "primary": "#FFAA00",

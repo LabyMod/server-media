@@ -1,26 +1,32 @@
 {
     "server_name": "noovex",
     "nice_name": "Noovex",
-    "direct_ip": "beta.noovex.net",
-    "gamemodes": {
-        "wintersmp": {
-            "name": "WinterSMP",
-            "command": "/server wintersmp",
-            "color": "#ffffff",
-            "versions": "1.21<*"
-        },
-        "lobby": {
-            "name": "Lobby",
-            "command": "/server lobby",
-            "color": "#ffffff",
-            "versions": "1.21<*"
-        }
-    },
-    "supported_languages": [
-        "de"
+    "direct_ip": "Noovex.net",
+    "server_wildcards": [
+      "%.noovex.net",
+      "%.noovex.de"
     ],
+  "gamemodes": {
+    "dungeons": {
+      "name": "Dungeons",
+      "command": "/server dungeons",
+      "color": "#75DC3F",
+      "versions": "1.21.6<*"
+    }
+  },
+    "discord": {
+        "server_id": 1125575094555643984,
+        "rename_to_minecraft_name": false
+      },
+    "supported_languages": [
+        "de",
+        "en"
+    ],
+    "social": {
+        "discord": "https://discord.gg/VY7bQ9Kegz"
+    },
     "location": {
-        "city": "Münster",
+        "city": "Frankfurt am Main",
         "country": "Germany",
         "country_code": "DE"
     }

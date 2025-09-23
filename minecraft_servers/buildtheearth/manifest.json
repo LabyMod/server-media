@@ -1,0 +1,22 @@
+{
+  "server_name": "buildtheearth",
+  "nice_name": "BuildTheEarth",
+  "direct_ip": "buildtheearth.net",
+  "supported_languages": [
+    "en"
+  ],
+  "social": {
+    "twitter": "BuildTheEarth_",
+    "discord": "https://discord.com/invite/buildtheearth-net-690908396404080650"
+  },
+  "discord": {
+    "server_id": 690908396404080650,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#497cb1",
+    "background": "#497cb1",
+    "text": "#ffffff"
+  },
+  "yt_trailer": "yge606ivgls"
+}

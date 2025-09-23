@@ -60,6 +60,7 @@ def main():
                 if not wildcard.startswith('%.'):
                     wildcard_stop = True
                     error += '- Invalid wildcard entry. Each entry must start with **%.**. Further information here: https://en.wikipedia.org/wiki/Wildcard_DNS_record (`server_wildcards`)\n'
+                print(f'Found valid wildcard entry: {wildcard}')
 
         check_server_online_state(
             data['direct_ip'],
@@ -145,9 +146,16 @@ def main():
             if '://laby.net/' in stats_url:
                 error += f'- Please use **your own page**, not LABY.net (`user_stats`)\n'
 
-        if 'message_formats' in data['chat']:
+        if 'chat' in data and 'message_formats' in data['chat']:
             message_format = data['chat']['message_formats']
-            if message_format == '^§[a-f0-9](?<level>\\d+)( \\||§8 \\|) §[a-f0-9](?<sender>[a-zA-Z0-9_]{2,16})§r§7: §f(?<message>.*)$':
+            if isinstance(message_format, list):
+                if len(message_format) == 1:
+                    message_format = message_format[0]
+                else:
+                    error += f'**message_format** has the wrong format. Please recheck the [example manifest](https://github.com/LabyMod/server-media/blob/master/docs/Manifest.md#chat-object).'
+
+            template_regex = '^§[a-f0-9](?<level>\\d+)( \\||§8 \\|) §[a-f0-9](?<sender>[a-zA-Z0-9_]{2,16})§r§7: §f(?<message>.*)$'
+            if template_regex == message_format:
                 comment += f'- It seems you\'re using the **template regex** for chat message! Please make sure it is the right regex for **your server**!'
             if message_format in ('', '-'):
                 error += f'- Please remove the empty key **message_formats** or fill in information.\n'
@@ -169,9 +177,12 @@ def main():
 
     if create_comment:
         if error != '':
-            post_comment(error, True)
+            post_comment(error)
         if comment != '':
-            post_comment(comment, False)
+            temp_comment = comment
+            comment = '*Just as an information*:\n\n'
+            comment += temp_comment
+            post_comment(comment, 'comments')
 
     if error != '':
         # Make job fail
@@ -198,11 +209,7 @@ def get_changed_manifest_files():
     return changed_files
 
 
-def post_comment(comment: str, error: bool, request_type: str = 'reviews'):
-    if not error:
-        print('No error found.')
-        return
-
+def post_comment(comment: str, request_type: str = 'reviews'):
     if request_type == 'reviews':
         comment += '\nPlease fix the issues by pushing **one** commit to the pull ' \
                    'request to prevent too many automatic reviews.'
@@ -214,11 +221,11 @@ def post_comment(comment: str, error: bool, request_type: str = 'reviews'):
         headers={'Accept': 'application/vnd.github.v3+json', 'Authorization': f"Token {os.getenv('GH_TOKEN')}"}
     )
 
-    print(f'Github request returned {request.status_code}')
+    print(f'Github request returned {request.status_code}, posted into {request_type}.')
 
 
 def check_server_online_state(ip: str, wildcards: list):
-    offline_text = 'In general, we only accept pull requests from servers, **that are online**.\nPlease change this, otherwise we cannot review your server correctly and have to deny the pull request.\n\n'
+    offline_text = 'In general, we only accept pull requests from servers, **that are online and publicly available**.\nPlease change this, otherwise we cannot review your server correctly and have to deny the pull request.\n\n'
     print(f'Check server status for {ip}')
 
     url = f'https://api.mcsrvstat.us/2/{ip}'
@@ -250,11 +257,12 @@ def check_server_online_state(ip: str, wildcards: list):
         offline_text += f"Reference: [API URL ({url})]({url})"
 
         if not response['online']:
-            post_comment(f'*Just as an information*:\nYour server {ip} **could be offline**.\n {offline_text}', False, 'comments')
+            post_comment(f'*Just as an information*:\nYour server {ip} **could be offline**.\n {offline_text}', 'comments')
 
-    wildcard_string = '*Just as an information*:\n'
+    wildcard_string = '*Just as an information regarding your wildcards*:\n'
     wildcard_comment = False
     for wildcard in wildcards:
+        print(f'Checking wildcard "{wildcard}"')
         wildcard_ip = str.replace(wildcard, '%', 'testingstringwildcard')
         request = requests.get(f'https://api.mcsrvstat.us/2/{wildcard_ip}')
 
@@ -265,27 +273,40 @@ def check_server_online_state(ip: str, wildcards: list):
             continue
 
         if not response['online']:
+            print(f'Wildcard "{wildcard}" is offline')
             wildcard_string += f'- Wildcard {wildcard} seems to be invalid. Server is offline with testing wildcard.\n'
             wildcard_comment = True
         else:
+            print(f'Wildcard "{wildcard}" is online')
             if response['ip'] != server_ip:
                 wildcard_string += f'- Wildcard do not resolve the same ip address: *{wildcard}* => *{response["ip"]}*\n'
                 wildcard_comment = True
 
     wildcard_string += f'\nPlease make sure it is an [actual wildcard](https://en.wikipedia.org/wiki/Wildcard_DNS_record).\n'
     if wildcard_comment:
-        post_comment(wildcard_string, False, 'comments')
-
-    if 'motd' in response:
+        post_comment(wildcard_string, 'comments')
+    if 'motd' in response or 'version' in response:
         maintenance_tagged = False
-        for line in response['motd']['clean']:
-            line_content = line.lower()
-            if 'maintenance' in line_content or 'wartung' in line_content or 'wartungen' in line_content:
+        if 'motd' in response:
+            for line in response['motd']['clean']:
+                line_content = line.lower()
+                if any(keyword in line_content for keyword in ['maintenance', 'wartung', 'wartungen', 'mantenimiento', 'wartungsarbeiten']):
+                    maintenance_tagged = True
+        if 'version' in response:
+            version_name = response['version']
+
+            if isinstance(version_name, str):
+                version_name = version_name.lower()
+            if isinstance(version_name, dict) and 'name_clean' in version_name:
+                version_name = version_name['name_clean'].lower()
+
+            if any(keyword in version_name for keyword in ['maintenance', 'wartung', 'wartungen', 'mantenimiento', 'wartungsarbeiten']):
                 maintenance_tagged = True
-            else:
-                print(f'No maintenance found in MOTD')
+
         if maintenance_tagged:
-            post_comment(f'The server {ip} **is in maintenance**.\n {offline_text}', True)
+            post_comment(f'The server {ip} **is in maintenance**.\n {offline_text}')
+        else:
+            print(f'No maintenance found in MOTD nor version')
 
 
 def comment_needed():
@@ -319,9 +340,18 @@ def check_discord_invite(url: str):
         request = requests.get(f'https://discord.com/api/v9/invites/{invite}')
         if request.status_code == 200:
             print(f'Invite for {invite} was successful.')
+
+            response_data = request.json()
+            guild_data = response_data.get('guild', {})
+            if isinstance(guild_data, dict):
+                guild_name = guild_data.get('name', 'Unknown Guild')
+            else:
+                guild_name = 'Unknown Guild'
+            print(f'Guild name: {guild_name}')
+
             return True
         else:
-            print(f'Invite for {invite} was invalid .')
+            print(f'Invite for {invite} was invalid.')
             return False
     except requests.exceptions.ConnectionError:
         print(f'Discord seems to be down while checking. Please check manually\n')
