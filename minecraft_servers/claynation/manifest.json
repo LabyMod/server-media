@@ -1,6 +1,6 @@
 {
-  "server_name": "claynation",
-  "nice_name": "ClayNation Netzwerk",
+  "server_name": "solacemc",
+  "nice_name": "SOLACEMC Netzwerk",
   "direct_ip": "realsnow.de",
   "supported_languages": [
      "en",
@@ -8,46 +8,22 @@
   ],
   "social": {
     "twitter": "CLAYNATIONMCDE",
-    "discord": "https://discord.gg/R9Ra5WruEM",
+    "discord": "https://discord.gg/jHxBKXf6",
     "youtube": "https://www.youtube.com/@CLAYNATIONMC/videos",
     "teamspeak": "realsnow.de"
   },
   "gamemodes": {
-    "citybuild": {
-      "name": "CityBuild-1", 
+    "bw2x1": {
+      "name": "BW 2x1", 
       "color": "#faa910",
-      "command": "/joinqueue citybuild-1",
-      "versions": "1.20.4<*"
+      "command": "/teleport bedwars2x1",
+      "versions": "1.8<*"
     },
-    "citybuild-2": {
-      "name": "CityBuild-2", 
+    "bw8x1": {
+      "name": "BW 8x1", 
       "color": "#faa910",
-      "command": "/joinqueue citybuild-2",
-      "versions": "1.20.4<*"
-    },
-    "farmwelt-1": {
-      "name": "Farmwelt-1",
-      "color": "#16fa10",
-      "command": "/joinqueue farmwelt-1",
-      "versions": "1.20.4<*"
-    },
-    "farmwelt-2": {
-      "name": "Farmwelt-2",
-      "color": "#16fa10",
-      "command": "/joinqueue farmwelt-2",
-      "versions": "1.20.4<*"
-    },
-    "nether-1": {
-      "name": "Nether-1",
-      "color": "#f71515",
-      "command": "/joinqueue nether-1",
-      "versions": "1.20.4<*"
-    },
-    "nether-2": {
-      "name": "Nether-2",
-      "color": "#f71515",
-      "command": "/joinqueue nether-2",
-      "versions": "1.20.4<*"
+      "command": "/teleport bedwars8x1",
+      "versions": "1.8<*"
     }
   },
   "chat": {
