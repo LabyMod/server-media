@@ -1,0 +1,24 @@
+{
+    "server_name": "labymod",
+    "nice_name": "LabyMod",
+    "direct_ip": "labymod.net",
+    "supported_languages": [
+        "en",
+        "de"
+    ],
+    "social": {
+        "web": "https://labymod.net",
+        "twitter": "labymod",
+        "tiktok": "labymod",
+        "discord": "https://discord.gg/labymod"
+    },
+    "discord": {
+        "server_id": 260471731809026048,
+        "renamed_to_minecraft_name": false
+    },
+    "brand": {
+        "primary": "#45a1f7",
+        "background": "#6ffc97",
+        "text": "#FFFFFF"
+    }
+}

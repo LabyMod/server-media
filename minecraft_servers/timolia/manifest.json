@@ -35,15 +35,8 @@
     "freebuild": {
       "name": "Freebuild",
       "command": "/quickjoin freebuild",
-      "url": "https://www.timolia.de/games#freebuild",
       "color": "#0095B0",
       "versions": "1.20<*"
-    },
-    "brainbow": {
-      "name": "BrainBow",
-      "command": "/quickjoin brainbow",
-      "url": "https://howto.timolia.de/games/brainbow/",
-      "color": "#0095B0"
     },
     "4rena": {
       "name": "4rena",
