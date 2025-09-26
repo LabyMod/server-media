@@ -17,27 +17,27 @@
     "tiktok": "therapiecz",
     "instagram": "therapie.cz",
     "discord": "https://discord.therapie.cz/",
-    "youtube": "https://www.youtube.com/@TherapieMinecraft",
+    "youtube": "https://www.youtube.com/@TherapieMinecraft"
   },
   "gamemodes": {
     "Survival": {
-      "name": "Survival RPG", 
+      "name": "Survival RPG",
       "color": "#2ECC71",
       "url": "https://therapie.cz/",
       "command": "/survival",
-      "versions": "1.21.4<*"
+      "versions": ["1.21.4<*"]
     },
     "Oneblock": {
       "name": "Oneblock",
       "color": "#ADD8E6",
       "url": "https://therapie.cz/",
       "command": "/oneblock",
-      "versions": "1.21.4<*"
+      "versions": ["1.21.4<*"]
     }
   },
   "chat": {
     "message_formats": [
-      "^\§[a-f0-9k-or]*\[(?<rank>[A-Z]+)\] \§[a-f0-9k-or]*(?<sender>[a-zA-Z0-9_]{2,16}) \§[a-f0-9k-or]*➤ \§[a-f0-9k-or]*(?<message>.*)$"
+      "^§[a-f0-9k-or]*\\[(?<rank>[A-Z]+)\\] §[a-f0-9k-or]*(?<sender>[a-zA-Z0-9_]{2,16}) §[a-f0-9k-or]*➤ §[a-f0-9k-or]*(?<message>.*)$"
     ]
   },
   "discord": {
@@ -45,16 +45,15 @@
     "rename_to_minecraft_name": false
   },
   "brand": {
-    "primary": "#FF8C00", 
-    "background": "#FF4500", 
+    "primary": "#FF8C00",
+    "background": "#FF4500",
     "text": "#FFFFFF"
-}
+  },
   "location": {
-     "city": "Prag",
-     "country": "Czechia",
-     "country_code": "cz"
+    "city": "Prag",
+    "country": "Czechia",
+    "country_code": "cz"
   },
   "yt_trailer": "gNk0uMGb478",
   "command_delay": 3000
-
 }
