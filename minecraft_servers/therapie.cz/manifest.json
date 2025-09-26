@@ -1,5 +1,5 @@
 {
-  "server_name": "therapie",
+  "server_name": "therapie.cz",
   "nice_name": "Therapie.cz",
   "direct_ip": "mc.therapie.cz",
   "server_wildcards": [
@@ -57,3 +57,4 @@
   "yt_trailer": "gNk0uMGb478",
   "command_delay": 3000
 }
+
