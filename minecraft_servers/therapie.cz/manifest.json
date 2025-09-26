@@ -1,9 +1,9 @@
 {
-  "server_name": "Therapie",
+  "server_name": "therapie",
   "nice_name": "Therapie.cz",
   "direct_ip": "mc.therapie.cz",
   "server_wildcards": [
-    "*.therapie.cz"
+    "%.therapie.cz"
   ],
   "supported_languages": [
     "cs",
@@ -12,27 +12,27 @@
   ],
   "social": {
     "web": "https://therapie.cz",
-    "web_shop": "https://store.therapie.cz/",
-    "web_support": "https://wiki.therapie.cz/",
+    "web_shop": "https://store.therapie.cz",
+    "web_support": "https://wiki.therapie.cz",
     "tiktok": "therapiecz",
     "instagram": "therapie.cz",
-    "discord": "https://discord.therapie.cz/",
+    "discord": "https://discord.gg/therapiecz",
     "youtube": "https://www.youtube.com/@TherapieMinecraft"
   },
   "gamemodes": {
-    "Survival": {
+    "survival": {
       "name": "Survival RPG",
       "color": "#2ECC71",
-      "url": "https://therapie.cz/",
+      "url": "https://therapie.cz",
       "command": "/survival",
-      "versions": ["1.21.4<*"]
+      "versions": "1.21.4<*"
     },
-    "Oneblock": {
+    "oneblock": {
       "name": "Oneblock",
       "color": "#ADD8E6",
-      "url": "https://therapie.cz/",
+      "url": "https://therapie.cz",
       "command": "/oneblock",
-      "versions": ["1.21.4<*"]
+      "versions": "1.21.4<*"
     }
   },
   "chat": {
@@ -52,7 +52,7 @@
   "location": {
     "city": "Prag",
     "country": "Czechia",
-    "country_code": "cz"
+    "country_code": "CZ"
   },
   "yt_trailer": "gNk0uMGb478",
   "command_delay": 3000
