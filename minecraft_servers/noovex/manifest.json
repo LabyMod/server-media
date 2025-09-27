@@ -1,5 +1,5 @@
 {
-    "server_name": "noovex",
+    "server_name": "Noovex",
     "nice_name": "Noovex",
     "direct_ip": "Noovex.net",
     "server_wildcards": [
@@ -10,8 +10,8 @@
     "dungeons": {
       "name": "Dungeons",
       "command": "/server dungeons",
-      "color": "#75DC3F",
-      "versions": "1.21.6<*"
+      "color": "#FFFFFF",
+      "versions": "1.21.8<*"
     }
   },
     "discord": {
@@ -23,7 +23,7 @@
         "en"
     ],
     "social": {
-        "discord": "https://discord.gg/VY7bQ9Kegz"
+        "discord": "https://discord.gg/sfZjARA9"
     },
     "location": {
         "city": "Frankfurt am Main",
