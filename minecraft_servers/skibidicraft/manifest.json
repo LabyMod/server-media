@@ -14,7 +14,7 @@
     },
     "gamemodes": {
         "pvpnetzwerk": {
-            "name": "PVP Netzwerk",
+            "name": "PVP-Netzwerk",
             "color": "#bd4aff"
         },
         "duels": {
@@ -40,5 +40,6 @@
         }
     }
 }
+
 
 
