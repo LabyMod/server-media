@@ -2,10 +2,6 @@
     "server_name": "skydinse",
     "nice_name": "Skydinse",
     "direct_ip": "skydinse.net",
-    "server_wildcards": [
-      "%.skydinse.net",
-      "%.skydinse.de"
-    ],
     "supported_languages": [
       "en",
       "de",
@@ -66,3 +62,4 @@
       "country_code": "DE"
     }
   }
+
