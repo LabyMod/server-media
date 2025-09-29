@@ -6,9 +6,11 @@
         "de"
     ],
     "social": {
+        "web": "https://skibidicraft.de/",
         "discord": "https://discord.gg/skibidicraft"
     },
     "location": {
+        "city": "Hessen",
         "country": "Germany",
         "country_code": "DE"
     },
@@ -30,7 +32,7 @@
             "color": "#bd4aff"
         },
         "discord": {
-            "server_id": 1392954889306509493,
+            "server_id": 1392954889306509600,
             "rename_to_minecraft_name": false
         },
         "brand": {
