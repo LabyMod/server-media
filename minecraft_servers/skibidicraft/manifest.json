@@ -1,47 +1,15 @@
 {
-  "server_name": "skibidicraft",
-  "nice_name": "SkibidiCraft",
-  "ip": "skibidicraft.de",
-  "port": 25565,
-  "version": "1.21.4",
-  "maintenance": false,
-  "supported_languages": ["de"],
-  "social": {
-    "discord": "https://discord.gg/skibidicraft"
-  },
-  "location": {
-    "country": "Germany",
-    "country_code": "DE"
-  },
-  "gamemodes": {
-    "pvpnetzwerk": {
-      "name": "PvP-Netzwerk",
-      "color": "#bd4aff",
-      "command": ""
+    "server_name": "skibidicraft",
+    "nice_name": "SkibidiCraft",
+    "direct_ip": "skibidicraft.de",
+    "supported_languages": [
+        "de"
+    ],
+    "social": {
+        "discord": "https://discord.gg/skibidicraft"
     },
-    "helden": {
-      "name": "Helden",
-      "color": "#bd4aff",
-      "command": ""
-    },
-    "youtuberinsel": {
-      "name": "Youtuberinsel",
-      "color": "#bd4aff",
-      "command": ""
-    },
-    "duels": {
-      "name": "Duels",
-      "color": "#bd4aff",
-      "command": ""
+    "discord": {
+        "server_id": 1392954889306509493,
+        "rename_to_minecraft_name": false
     }
-  },
-  "discord": {
-    "server_id": 1392954889306509600,
-    "rename_to_minecraft_name": false
-  },
-  "brand": {
-    "primary": "#b940ff",
-    "background": "#5e0bd6",
-    "text": "#ffffff"
-  }
 }
