@@ -23,14 +23,14 @@
     "survival": {
       "name": "Survival RPG",
       "color": "#2ECC71",
-      "url": "https://therapie.cz",
+      "url": "https://wiki.therapie.cz/dungeony-a-bossland",
       "command": "/survival",
       "versions": "1.21.4<*"
     },
     "oneblock": {
       "name": "Oneblock",
       "color": "#ADD8E6",
-      "url": "https://therapie.cz",
+      "url": "https://wiki.therapie.cz/pyrofishing",
       "command": "/oneblock",
       "versions": "1.21.4<*"
     }
@@ -57,4 +57,5 @@
   "yt_trailer": "gNk0uMGb478",
   "command_delay": 3000
 }
+
 
