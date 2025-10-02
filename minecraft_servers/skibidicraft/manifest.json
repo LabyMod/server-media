@@ -1,0 +1,15 @@
+{
+    "server_name": "skibidicraft",
+    "nice_name": "SkibidiCraft",
+    "direct_ip": "skibidicraft.de",
+    "supported_languages": [
+        "de"
+    ],
+    "social": {
+        "discord": "https://discord.gg/skibidicraft"
+    },
+    "discord": {
+        "server_id": 1392954889306509493,
+        "rename_to_minecraft_name": false
+    }
+}
