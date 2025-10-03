@@ -6,14 +6,15 @@
     "%.arkiu.de"
   ],
   "supported_languages": [
-     "de"
+    "de"
   ],
   "social": {
-    "tiktok": "Arkiu.de",
+    "tiktok": "arkiu.de",
     "discord": "https://discord.com/invite/q8pkr4gTkp",
-    "youtube": "https://youtube.com/@arkiude?si=sW2RWp9QEtMzweR2",
+    "youtube": "https://youtube.com/@arkiude?si=sW2RWp9QEtMzweR2"
   },
   "discord": {
     "server_id": 1400941891310063726,
     "rename_to_minecraft_name": false
+  }
 }
