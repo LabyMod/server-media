@@ -1,0 +1,55 @@
+{
+  "server_name": "realmi",
+  "nice_name": "Realmi",
+  "direct_ip": "realmi.fi",
+  "supported_languages": ["fi"],
+  "social": {
+    "web": "https://realmi.fi/",
+    "web_shop": "https://kauppa.realmi.fi/",
+    "web_support": "http://realmi.fi/discord",
+    "tiktok": "realmi.fi",
+    "instagram": "officialrealmi",
+    "discord": "https://discord.gg/realmi",
+    "youtube": "https://www.youtube.com/@realmi"
+  },
+  "gamemodes": {
+    "survival": {
+      "name": "Survival",
+      "command": "/survival",
+      "color": "#15ff49"
+    },
+	"kahakka": {
+      "name": "Kahakka",
+      "command": "/kahakka",
+      "color": "#ff5f2c"
+    },
+	"creative": {
+      "name": "Creative",
+      "command": "/creative",
+      "color": "#ffce13"
+    },
+	"tyrma": {
+      "name": "Tyrmä",
+      "command": "/tyrmä",
+      "color": "#00ccaa"
+    },
+	"liitotaisto": {
+      "name": "Liitotaisto",
+      "command": "/liitotaisto",
+      "color": "#fb7fcf"
+    }
+  },
+  "discord": {
+    "server_id": 609855695772188672,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#ffa800",
+     "background": "#272b30",
+     "text": "#FFFFFF"
+  }, 
+  "location": {
+     "country": "Finland",
+     "country_code": "FI"
+  }
+}
