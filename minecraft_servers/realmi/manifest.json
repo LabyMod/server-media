@@ -4,9 +4,9 @@
   "direct_ip": "realmi.fi",
   "supported_languages": ["fi"],
   "social": {
-    "web": "https://realmi.fi/",
-    "web_shop": "https://kauppa.realmi.fi/",
-    "web_support": "http://realmi.fi/discord",
+    "web": "https://realmi.fi",
+    "web_shop": "https://kauppa.realmi.fi",
+    "web_support": "https://realmi.fi/discord",
     "tiktok": "realmi.fi",
     "instagram": "officialrealmi",
     "discord": "https://discord.gg/realmi",
