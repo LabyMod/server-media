@@ -7,16 +7,30 @@
     ],
     "social": {
         "web": "https://phonixblocks.de",
-        "web_support": "https://forum.phonixblocks.de",
         "discord": "https://discord.gg/PwjQzAC7C8"
+
+    },
+  "gamemodes": {
+    "phonix-insel": {
+      "name": "Phonix-Insel", 
+      "color": "#ff6121"
+    },
+    "survival": {
+      "name": "Survival",
+      "color": "#ADD8E6"
+    },
+    "phonixsmp": {
+      "name": "PhonixSMP",
+      "color": "#ff6121"
+    }
     },
     "discord": {
         "server_id": 1233770982926454800,
         "rename_to_minecraft_name": false
     },
     "brand": {
-        "primary": "#e67e22",
-        "background": "#e67e22",
+        "primary": "#ff6121",
+        "background": "#e14d19",
         "text": "#FFFFFF"
     },
     "location": {
