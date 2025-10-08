@@ -6,18 +6,19 @@
     "%.syend.de"
   ],
   "supported_languages": [
-     "en",
-     "de"
+    "en",
+    "de"
   ],
   "social": {
     "web": "https://web.syend.de",
     "web_support": "https://web.syend.de/support",
     "discord": "https://discord.gg/5xycNV8DPp",
-    "youtube": "https://www.youtube.com/@Syend_de",
+    "youtube": "https://www.youtube.com/@Syend_de"
+    
   },
   "gamemodes": {
     "Smp": {
-      "name": "Smp", 
+      "name": "Smp",
       "color": "#FFA500",
       "command": "/server smp",
       "versions": "1.17<*"
@@ -33,14 +34,14 @@
     "rename_to_minecraft_name": false
   },
   "brand": {
-     "primary": "#f0ffff",
-     "background": "#f0ffff",
-     "text": "#FFFFFF"
-  }, 
+    "primary": "#f0ffff",
+    "background": "#f0ffff",
+    "text": "#FFFFFF"
+  },
   "location": {
-     "city": "Hamburg",
-     "country": "Germany",
-     "country_code": "DE"
+    "city": "Hamburg",
+    "country": "Germany",
+    "country_code": "DE"
   },
   "yt_trailer": "fhvshzL80Qo",
   "command_delay": 0
