@@ -2,6 +2,10 @@
   "server_name": "fara",
   "nice_name": "FaraMC",
   "direct_ip": "faramc.uk",
+  "server_wildcards": [
+    "%.faramc.uk",
+    "faramc.uk"
+  ],
   "supported_languages": [
     "en"
   ],
@@ -9,7 +13,7 @@
     "web": "https://faramc.uk",
     "twitter": "FaraMCX",
     "tiktok": "faramctt",
-    "discord": "https://discord.com/invite/2H5Z66StvM",
+    "discord": "https://discord.gg/2H5Z66StvM",
     "youtube": "https://www.youtube.com/channel/UCJaYN5CussEXCF7zZMMR76g"
   },
   "discord": {
@@ -18,7 +22,7 @@
   },
   "brand": {
     "primary": "#800080",
-    "background": "#6a5acd",
+    "background": "#008000",
     "text": "#FFFFFF"
   },
   "location": {
@@ -26,5 +30,7 @@
     "country": "United Kingdom",
     "country_code": "GB"
   },
+  "yt_trailer": "https://www.youtube.com/watch?v=aA9AK8gC4L8",
+  "user_stats": "https://faramc.uk/api/stats",
   "command_delay": 3000
 }
