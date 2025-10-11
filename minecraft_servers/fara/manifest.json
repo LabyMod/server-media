@@ -2,9 +2,6 @@
   "server_name": "fara",
   "nice_name": "FaraMC",
   "direct_ip": "faramc.uk",
-  "server_wildcards": [
-    "%.faramc.uk",
-    "faramc.uk"
   ],
   "supported_languages": [
     "en"
@@ -31,6 +28,5 @@
     "country_code": "GB"
   },
   "yt_trailer": "https://www.youtube.com/watch?v=aA9AK8gC4L8",
-  "user_stats": "",
   "command_delay": 3000
 }
