@@ -31,6 +31,6 @@
     "country_code": "GB"
   },
   "yt_trailer": "https://www.youtube.com/watch?v=aA9AK8gC4L8",
-  "user_stats": "https://faramc.uk/api/stats",
+  "user_stats": "",
   "command_delay": 3000
 }
