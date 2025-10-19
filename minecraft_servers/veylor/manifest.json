@@ -3,20 +3,16 @@
   "nice_name": "Veylor.NET",
   "direct_ip": "veylor.net",
   "server_wildcards": [
-    "mc.varilx.de",
-    "dev.varilx.de",
-    "content.varilx.de",
-    "bau.varilx.de",
-    "varilx.de",
     "dev.veylor.net",
-    "mc.veylor.net"
+    "mc.veylor.net",
+    "bau.veylor.net"
   ],
   "supported_languages": [
      "de"
   ],
   "social": {
     "web": "https://veylor.net",
-    "discord": "https://dc.veylor.net",
+    "discord": "https://discord.gg/ekx52Rbk7R",
     "youtube": "https://www.youtube.com/@ayont"
   },
   "discord": {
