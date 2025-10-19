@@ -1,0 +1,50 @@
+{
+  "server_name": "veylor",
+  "nice_name": "Veylor.NET",
+  "direct_ip": "veylor.net",
+  "server_wildcards": [
+    "mc.varilx.de",
+    "dev.varilx.de",
+    "content.varilx.de",
+    "bau.varilx.de",
+    "varilx.de",
+    "dev.veylor.net",
+    "mc.veylor.net"
+  ],
+  "supported_languages": [
+     "de"
+  ],
+  "social": {
+    "web": "https://veylor.net",
+    "discord": "https://dc.veylor.net",
+    "youtube": "https://www.youtube.com/@ayont"
+  },
+  "discord": {
+    "server_id": 886262410489520168
+  },
+  "gamemodes": {
+    "survivallegacy": {
+      "name": "Survival Legacy", 
+      "color": "#8995FF",
+      "versions": "1.12<1.21",
+      "url": "https://wiki.varilx.de/varilx.de-or-wiki/varilx-survival/",
+      "command": "/server Survival"
+    },
+    "survivalrewind": {
+      "name": "Survival Rewind", 
+      "color": "#ba03fc",
+      "versions": "1.12<1.21",
+      "command": "/server SurvivalRewind"
+    }
+  },
+  "brand": {
+     "primary": "#9119bd",
+     "background": "#b60bff",
+     "text": "#D8D8D8"
+  }, 
+  "location": {
+     "city": "Nürnberg",
+     "country": "Germany",
+     "country_code": "DE"
+  }
+}
