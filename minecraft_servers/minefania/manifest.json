@@ -1,0 +1,24 @@
+{
+    "server_name": "minefania",
+    "nice_name": "MineFania Network",
+    "direct_ip": "minefania.lol",
+    "supported_languages": [
+        "en",
+        "de"
+    ],
+    "social": {
+        "web": "https://www.minefania.lol",
+        "twitter": "minefanianw",
+        "tiktok": "minefanianw",
+        "discord": "https://discord.minefania.lol"
+    },
+    "discord": {
+        "server_id": 1423462977432064070,
+        "renamed_to_minecraft_name": false
+    },
+    "brand": {
+        "primary": "#45a1f7",
+        "background": "#6ffc97",
+        "text": "#FFFFFF"
+    }
+}
