@@ -3,7 +3,7 @@
   "nice_name": "Veylor.NET",
   "direct_ip": "veylor.net",
   "server_wildcards": [
-    "*.veylor.net"
+    "%.veylor.net"
   ],
   "supported_languages": [
      "de"
