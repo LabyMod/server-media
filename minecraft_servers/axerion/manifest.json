@@ -3,7 +3,7 @@
   "nice_name": "Axerion",
   "direct_ip": "axerion.de",
   "server_wildcards": [
-    "%.axerion.de"
+    "*.axerion.de"
   ],
   "supported_languages": [
     "de"
