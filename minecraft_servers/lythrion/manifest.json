@@ -1,0 +1,24 @@
+{
+  "server-address": ["lythrion.net"],
+  "pretty-name": "Lythrion Netzwerk",
+  "categorys": ["SKYBLOCK", "RPG"],
+  "gamemodes": {
+    "Citybuild": {
+      "name": "SKYBLOCK",
+      "versions": "1.21 -> 1.21.8",
+      "description": "Experience an island with an abundance of RPG elements"
+    },
+    "Survival": {
+      "name": "RPG",
+      "versions": "1.21 ->",
+      "description": "Experience rich RPG gameplay"
+    }
+  },
+  "socials": {
+    "website": "https://Lythrion.net/"
+  },
+  "assets": {
+    "icon": "./icon.png",
+    "background": "./bg.png"
+  }
+}
