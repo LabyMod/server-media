@@ -9,6 +9,7 @@
     "website": "https://minecraft.camicko.fr"
   },
   "discord": {
+    "server_id": 1415189095721734176,
     "rename_to_minecraft_name": false
   },
   "brand": {
@@ -23,3 +24,4 @@
   },
   "description": "A French mini-games server for everyone"
 }
+
