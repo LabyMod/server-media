@@ -4,10 +4,9 @@
   "website": "https://minecraft.camicko.fr",
   "discord": "https://discord.gg/m9wwxPaFBx",
   "youtube": "https://www.youtube.com/@camicko_mc",
-  "tiktok": "https://www.tiktok.com/@camicko_",
   "description": "A French mini-games server for everyone",
-  "version": "1.8.9",
-  "region": "EU",
+  "languages": ["fr"],
+  "region": "eu",
   "primary_color": "#00BFFF",
   "secondary_color": "#0000FF"
 }
