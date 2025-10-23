@@ -8,5 +8,6 @@
   "languages": ["fr"],
   "region": "eu",
   "primary_color": "#00BFFF",
-  "secondary_color": "#0000FF"
+  "secondary_color": "#0000FF",
+  "categories": ["minigames", "pvp"]
 }
