@@ -1,7 +1,7 @@
 {
     "server_name": "phonixblocks",
     "nice_name": "PhonixBlocks",
-    "direct_ip": "Phonixblocks.de",
+    "direct_ip": "phonixblocks.de",
     "supported_languages": [
        "de"
     ],
@@ -10,20 +10,20 @@
       "discord": "https://discord.gg/PwjQzAC7C8"
     },
     "gamemodes": {
-      "survival": {
-        "name": "Survival",
+      "survivel": {
+        "name": "survival",
         "color": "#E8B50F",
-        "command": "null"
-      },
-      "phonixinsel": {
-        "name": "Phonix-Insel",
-        "color": "#E8B50F",
-        "command": "null"
+        "command": "/servers Survival-1"
       },
       "phonixsmp": {
         "name": "PhonixSMP",
         "color": "#E8B50F",
-        "command": "null"
+        "command": "/servers PhonixSMP-1"
+      },
+      "smp": {
+        "name": "SMP",
+        "color": "#E8B50F",
+        "command": "/servers SMP-1"
       }
     },
     "discord": {
@@ -35,4 +35,5 @@
       "country": "Germany",
       "country_code": "DE"
     }
+
   }
