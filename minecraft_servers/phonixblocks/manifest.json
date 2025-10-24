@@ -20,10 +20,10 @@
         "color": "#E8B50F",
         "command": "/servers PhonixSMP-1"
       },
-      "smp": {
-        "name": "SMP",
+      "phonixcb": {
+        "name": "PhonixCB",
         "color": "#E8B50F",
-        "command": "/servers SMP-1"
+        "command": "/servers PhonixCB-1"
       }
     },
     "discord": {
