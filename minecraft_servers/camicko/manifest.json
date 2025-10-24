@@ -3,7 +3,7 @@
   "nice_name": "Camicko",
   "direct_ip": "play.camicko.fr",
   "server_wildcards": [
-    "*.camicko.fr"
+    "%.camicko.fr"
   ],
   "supported_languages": [
     "fr"
