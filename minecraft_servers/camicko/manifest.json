@@ -4,7 +4,6 @@
   "direct_ip": "play.camicko.fr",
   "server_wildcards": [
     "camicko.fr"
-    "play.camicko.fr"
   ],
   "supported_languages": [
     "fr"
@@ -48,4 +47,5 @@
   },
   "yt_trailer": "k5rtJIDN1RM"
 }
+
 
