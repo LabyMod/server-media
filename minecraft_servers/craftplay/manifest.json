@@ -20,40 +20,39 @@
     "teamspeak": "ts.craftplay.de"
   },
   "gamemodes": {
-    "citybuild": {
-      "name": "Spielerstädte", 
-      "color": "#5454FC",
-      "url": "https://www.craftplay.de/wiki/citybuild",
-      "command": "/spielerstädte",
-      "versions": "1.20<*"
-    },
     "plotserver": {
       "name": "Plotserver",
       "color": "#55FFFF",
       "url": "https://www.craftplay.de/wiki/plotserver",
       "command": "/plotserver",
-      "versions": "1.20<*"
+      "versions": "1.21.6<*"
     },
     "skygames": {
       "name": "SkyBlock",
       "color": "#54FC54",
       "url": "https://www.craftplay.de/wiki/skygames",
       "command": "/skygames",
-      "versions": "1.20<*"
+      "versions": "1.21.6<*"
     },
     "oneblock": {
       "name": "Oneblock", 
       "color": "#008800",
       "url": "https://craftplay.de/wiki/oneblock",
       "command": "/oneblock",
-      "versions": "1.20<*"
+      "versions": "1.21.6<*"
     },
     "survival": {
       "name": "Survival", 
       "color": "#A800A8",
       "url": "https://www.craftplay.de/wiki/anarchie",
       "command": "/survival",
-      "versions": "1.20<*"
+      "versions": "1.21.6<*"
+    },
+    "minigames": {
+      "name": "Minigames", 
+      "color": "#A800A8",
+      "command": "/minigames",
+      "versions": "1.20.2<*"
     }
   },
   "discord": {
@@ -72,3 +71,4 @@
   },
   "yt_trailer": "opSRr2cnSPU"
 }
+
