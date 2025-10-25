@@ -1,0 +1,22 @@
+{
+    "server_name": "zockiicraft.de",
+    "nice_name": "zockiicraft",
+    "direct_ip": "zockiicraft.de",
+    "supported_languages": [
+        "en",
+        "de"
+    ],
+    "social": {
+        "tiktok": "zockermaster_",
+        "discord": "https://discord.gg/QpkKxNrDex"
+    },
+    "discord": {
+        "server_id": 388782844627124234,
+        "renamed_to_minecraft_name": false
+    },
+    "brand": {
+        "primary": "#45a1f7",
+        "background": "#6ffc97",
+        "text": "#FFFFFF"
+    }
+}
