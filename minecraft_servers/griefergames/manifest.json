@@ -1,19 +1,42 @@
 {
-    "server_name": "griefergames",
-    "nice_name": "GrieferGames Netzwerk",
-    "direct_ip": "griefergames.net",
-    "social": {
-      "web": "https://griefergames.net",
-      "web_shop": "https://store.griefergames.net",
-      "web_support": "https://forum.griefergames.de",
-      "twitter": "GrieferGamesNW",
-      "facebook": "GrieferGamesNW",
-      "instagram": "griefergamesnw",
-      "discord": "https://discord.com/invite/abge",
-      "teamspeak": "ts.griefergames.net"
+  "server_name": "griefergames",
+  "nice_name": "GrieferGames",
+  "direct_ip": "griefergames.net",
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "web": "https://griefergames.de",
+    "web_shop": "https://store.griefergames.net",
+    "web_support": "https://ticket.griefergames.de",
+    "twitter": "GrieferGamesNW",
+    "facebook": "GrieferGamesNW",
+    "instagram": "griefergamesnw",
+    "discord": "https://discord.gg/abge",
+    "teamspeak": "ts.griefergames.net"
+  },
+  "discord": {
+    "server_id": 325017098592059392,
+    "rename_to_minecraft_name": false
+  },
+  "user_stats": "https://profile.griefergames.live/minecraft/{uuid}",
+  "gamemodes": {
+    "cloud": {
+      "name": "GGCloud (1.21.4)",
+      "url": "https://wiki.griefergames.live/was-ist-die-cloud",
+      "command": "/cloud",
+      "color": "#FEB511"
     },
-    "discord": {
-      "server_id": 325017098592059392,
-      "rename_to_minecraft_name": false
+    "cb": {
+      "name": "CityBuild 1.8",
+      "url": "https://wiki.griefergames.net/grundlagen/spielmodus-citybuild/citybuild-1-22",
+      "command": "/portal",
+      "color": "#FFFFFF"
     }
+  },
+  "brand": {
+    "primary": "#FEB511",
+    "background": "#FEC911",
+    "text": "#FFFFFF"
   }
+}

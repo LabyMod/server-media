@@ -1,0 +1,55 @@
+{
+   "server_name":"endertime",
+   "nice_name":"EnderTime",
+   "direct_ip":"endertime.net",
+   "supported_languages":[
+      "en",
+      "de"
+   ],
+   "yt_trailer": "rE_Dqakp8NM",
+   "command_delay": 3000,
+   "social":{
+      "twitter":"EnderTimeNET",
+      "tiktok":"endertimenetwork",
+      "discord":"https://discord.gg/G3qr5dpadU",
+      "youtube":"https://www.youtube.com/channel/UCEhzB2xkBtEPaIjD1LpxGpA",
+      "web":"https://endertime.net",
+      "web_support":"https://endertime.net/support"
+   },
+   "discord":{
+      "server_id":1104040356204523641,
+      "rename_to_minecraft_name":false
+   },
+   "location":{
+      "city":"Frankfurt",
+      "country":"Germany",
+      "country_code":"DE"
+   },
+   "brand": {
+      "primary": "#4a2770",
+      "background": "#4a2770",
+      "text": "#FFFFFF"
+  },
+   "gamemodes":{
+      "terra":{
+         "name":"Terra",
+         "color":"#84ff6c",
+         "versions":"1.20<*"
+      },
+      "kbffa":{
+         "name":"KBFFA",
+         "color":"#ffac63",
+         "versions":"1.20<*"
+      },
+      "creative":{
+         "name":"Creative",
+         "color":"#73c2ff",
+         "versions":"1.20<*"
+      },
+      "oitc":{
+         "name":"OITC",
+         "color":"#ffac63",
+         "versions":"1.20<*"
+      }
+   }
+}

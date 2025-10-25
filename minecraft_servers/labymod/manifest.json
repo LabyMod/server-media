@@ -1,20 +1,24 @@
 {
     "server_name": "labymod",
-    "nice_name": "LabyMod.net",
+    "nice_name": "LabyMod",
     "direct_ip": "labymod.net",
-    "server_wildcards": [
-        "%.labymod.net",
-        "%.laby.net"
+    "supported_languages": [
+        "en",
+        "de"
     ],
     "social": {
-        "twitter": "LabyMod",
-        "instagram": "labymod",
+        "web": "https://labymod.net",
+        "twitter": "labymod",
         "tiktok": "labymod",
-        "discord": "https://discord.gg/labymod",
-        "youtube": "https://www.youtube.com/LabyMod"
+        "discord": "https://discord.gg/labymod"
     },
     "discord": {
         "server_id": 260471731809026048,
-        "rename_to_minecraft_name": false
+        "renamed_to_minecraft_name": false
+    },
+    "brand": {
+        "primary": "#45a1f7",
+        "background": "#6ffc97",
+        "text": "#FFFFFF"
     }
 }

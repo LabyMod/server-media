@@ -30,27 +30,37 @@
         "skypvp": {
             "name": "SkyPvP",
             "color": "#AA0000",
+            "command": "/play skypvp",
             "versions": "1.8<*"
         },
         "citybuild": {
             "name": "CityBuild SMP",
             "color": "#00AAAA",
-            "versions": "1.8<*"
+            "command": "/play citybuild",
+            "versions": "1.21<*"
         },
         "oneblock": {
             "name": "OneBlock",
             "color": "#5555FF",
-            "versions": "1.8<*"
+            "command": "/play oneblock",
+            "versions": "1.21<*"
         },
-        "oppvp": {
-            "name": "OPPvP",
-            "color": "#00AA00",
-            "versions": "1.8<*"
+        "lifesteal": {
+            "name": "Lifesteal SMP",
+            "color": "#FF0000",
+            "command": "/play lifestealsmp",
+            "versions": "1.21<*"
+        },
+        "elytrapvp": {
+            "name": "ElytraPvP",
+            "color": "#AA00AA",
+            "command": "/play elytrapvp",
+            "versions": "1.21<*"
         },
         "bedwars": {
             "name": "BedWars",
             "color": "#FF5555",
-            "command": "/play bw-solo",
+            "command": "/play bw",
             "versions": "1.8<*"
         },
         "fastbuilders": {
@@ -65,16 +75,10 @@
             "command": "/play buildffa",
             "versions": "1.8<*"
         },
-        "mlgrush": {
-            "name": "MLGRush",
-            "color": "#55FFFF",
-            "command": "/play mlgrush",
-            "versions": "1.8<*"
-        },
-        "clutches": {
-            "name": "Clutches",
+        "practice": {
+            "name": "Practice",
             "color": "#FF55FF",
-            "command": "/play clutches",
+            "command": "/play practice",
             "versions": "1.8<*"
         }
     },

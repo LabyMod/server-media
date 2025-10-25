@@ -1,0 +1,16 @@
+{
+    "server_name": "blockgermany",
+    "nice_name": "BlockGermany",
+    "direct_ip": "blockgermany.de",
+    "supported_languages": [
+       "de"
+    ],
+    "social": {
+      "discord": "https://discord.gg/ApTAGtHsvj"
+    },
+    "location": {
+      "city": "Frankfurt",
+      "country": "Germany",
+      "country_code": "DE"
+    }
+  }

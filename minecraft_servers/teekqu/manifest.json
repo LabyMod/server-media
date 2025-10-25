@@ -1,0 +1,20 @@
+{
+    "server_name": "teekqu",
+    "nice_name": "Teekqu",
+    "direct_ip": "Teekqu.de",
+    "supported_languages": "de",
+    "social": {
+      "discord": "https://discord.gg/F45qksG27m"
+    },
+    "discord": {
+      "server_id": 1172980894697537586
+    },
+    "brand": {
+      "primary": "#00ffff"
+    },
+    "location": {
+      "city": "Frankfurt",
+      "country": "Germany",
+      "country_code": "DE"
+    }
+  }
