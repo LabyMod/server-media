@@ -2,9 +2,6 @@
   "server_name": "plantaria",
   "nice_name": "Plantaria",
   "direct_ip": "plantaria.net",
-  "server_wildcards": [
-    "%.plantaria.net"
-  ],
   "supported_languages": [
      "de",
      "en"
@@ -40,8 +37,3 @@
   "user_stats": "https://plantaria.net/stats/@{userName}",
   "command_delay": 3000
 }
-
-
-
-
-
