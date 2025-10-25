@@ -10,6 +10,8 @@
      "en"
   ],
   "social": {
+    "web": "https://plantaria.net",
+    "web_shop": "https://plantaria.net/store",
     "twitter": "PlantariaNET",
     "discord": "https://discord.gg/plantaria",
     "tiktok": "plantarianet"
@@ -38,6 +40,7 @@
   "user_stats": "https://plantaria.net/stats/@{userName}",
   "command_delay": 3000
 }
+
 
 
 
