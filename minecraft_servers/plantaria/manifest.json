@@ -15,6 +15,18 @@
     "discord": "https://discord.gg/plantaria",
     "tiktok": "plantarianet"
   },
+  "gamemodes": {
+    "myfarm": {
+      "name": "MyFarm", 
+      "color": "#FFF",
+      "command": "/gamemode myfarm"
+    },
+    "playground": {
+      "name": "PlayGround",
+      "color": "#FFF",
+      "command": "/gamemode playground"
+    }
+  },
   "discord": {
     "server_id": 960218560716763176,
     "rename_to_minecraft_name": false
@@ -23,5 +35,8 @@
      "primary": "#57af13",
      "background": "#fef917",
      "text": "#FFFFFF"
-  }
+  },
+  "user_stats": "https://plantaria.net/stats/@{userName}",
+  "command_delay": 3000
 }
+
