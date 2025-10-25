@@ -16,7 +16,7 @@
         "youtube": "https://www.youtube.com/@Syend_de"
     },
     "gamemodes": {
-        "Smp": {
+        "smp": {
             "name": "smp",
             "color": "#FFA500",
             "command": "/server smp",
