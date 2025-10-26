@@ -49,6 +49,7 @@
      "background": "#fcc800",
      "text": "#27272a"
   },
-  "user_stats": "https://plantaria.net/stats/@{userName}",
+  "user_stats": "https://plantaria.net/stats/{userName}",
   "command_delay": 3000
 }
+
