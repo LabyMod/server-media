@@ -31,9 +31,10 @@
   },
   "brand": {
      "primary": "#57af13",
-     "background": "#fef917",
-     "text": "#FFFFFF"
+     "background": "#fcc800",
+     "text": "#27272a"
   },
   "user_stats": "https://plantaria.net/stats/@{userName}",
   "command_delay": 3000
 }
+
