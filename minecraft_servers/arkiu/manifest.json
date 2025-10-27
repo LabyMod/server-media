@@ -1,0 +1,31 @@
+{
+  "server_name": "arkiu",
+  "nice_name": "Arkiu",
+  "direct_ip": "arkiu.de",
+  "supported_languages": [
+    "de",
+    "en"
+  ],
+  "social": {
+    "discord": "https://discord.gg/CQaxfrHFr6",
+    "tiktok": "arkiu.de",
+    "youtube": "https://www.youtube.com/@arkiude"
+  },
+  "gamemodes": {
+    "fishing": {
+      "name": "Fishing",
+      "color": "#00fffb",
+      "versions": "1.21.5<*"
+    },
+    "smp": {
+      "name": "SMP",
+      "color": "#55ff00",
+      "versions": "1.21.5<*"
+    }
+  },
+  "discord": {
+    "server_id": 1400941891310063726,
+    "rename_to_minecraft_name": true
+  },
+  "user_stats": "https://laby.net/@{userName}",
+}
