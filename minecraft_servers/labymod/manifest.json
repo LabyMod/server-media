@@ -1,7 +1,7 @@
 {
     "server_name": "labymod",
-    "nice_name": "LabyMod",
-    "direct_ip": "labymod.net",
+    "nice_name": "Laby World",
+    "direct_ip": "laby.net",
     "supported_languages": [
         "en",
         "de"
