@@ -2,13 +2,9 @@
   "server_name": "blockbande",
   "nice_name": "BlockBande",
   "direct_ip": "blockbande.de",
-  "server_wildcards": [
-    "%.blockbande.net",
-    "%.blockbande.de"
-  ],
   "social": {
     "web": "https://blockbande.net",
-    "web_shop": "https://https://www.blockbande.net/shop/",
+    "web_shop": "https://www.blockbande.net/shop",
     "tiktok": "blockbande",
     "discord": "https://discord.gg/bmDEa6TJT6"
   },
