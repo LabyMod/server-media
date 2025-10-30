@@ -23,6 +23,11 @@
       "color": "#FFFFFF",
       "command": "/fila valley"
     },
+    "p4free": {
+      "name": "P4Free",
+      "color": "#FFFFFF",
+      "command": "/fila p4free"
+    },
     "skyblock": {
       "name": "Skyblock",
       "color": "#FFFFFF"
