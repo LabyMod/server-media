@@ -7,16 +7,13 @@
     "%.iostein.de"
   ],
   "social": {
-    "web": "https://iostein.net",
-    "web_shop": "https://iostein.net/credits",
-    "twitter": "iostein",
-    "tiktok": "iostein",
-    "instagram": "iosteinde",
-    "discord": "https://iostein.net/discord",
-    "teamspeak": "iostein.net"
+    "web": "https://blockbande.net",
+    "web_shop": "https://www.blockbande.net/shop",
+    "tiktok": "blockbande",
+    "discord": "https://discord.gg/bmDEa6TJT6"
   },
   "discord": {
-    "server_id": 787349516885557286,
+    "server_id": 1200205859318419456,
     "rename_to_minecraft_name": false
   },
   "location": {
