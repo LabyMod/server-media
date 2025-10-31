@@ -9,12 +9,6 @@
     "discord": "https://discord.gg/3aHdTzzaPz"
   },
   "gamemodes": {
-    "lobby": {
-      "name": "Lobby", 
-      "color": "#2596be",
-      "command": "/server Lobby-1",
-      "versions": "1.21.8"
-    },
     "smp": {
       "name": "SMP",
       "color": "#2596be",
