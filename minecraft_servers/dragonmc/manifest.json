@@ -1,7 +1,7 @@
 {
     "server_name": "dragonmc",
     "nice_name": "DragonMC",
-    "direct_ip": "dragonmc.minefreaks.de",
+    "direct_ip": "play-dragonmc.org",
     "supported_languages": [
        "de"
     ],
