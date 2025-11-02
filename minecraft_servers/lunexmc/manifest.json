@@ -2,10 +2,6 @@
   "server_name": "lunexmc",
   "nice_name": "LunexMC.net",
   "direct_ip": "lunexmc.net",
-  "server_wildcards": [
-    "%.lunexmc.net",
-    "%.lunexmc.de"
-  ],
   "supported_languages": [
     "de"
   ],
