@@ -20,7 +20,7 @@
     "citybuild2": {
       "name": "CityBuild-2",
       "command": "/server cb02"
-    },      
+    }      
   },
   "discord": {
     "server_id": 1434244633646465047,
