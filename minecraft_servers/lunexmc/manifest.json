@@ -1,16 +1,29 @@
 {
-    "server_name": "lunexmc",
-    "nice_name": "LunexMC",
-    "direct_ip": "lunexmc.net",
-    "supported_languages": [
-       "de"
-    ],
-    "social": {
-      "discord": "https://discord.gg/wnTWpA8u42"
+  "server_name": "lunexmc",
+  "nice_name": "LunexMC.net",
+  "direct_ip": "lunexmc.net",
+  "server_wildcards": [
+    "%.lunexmc.net",
+    "%.lunexmc.de"
+  ],
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "discord": "https://discord.gg/bHeEYASs3c"
+  },
+  "gamemodes": {
+    "citybuild1": {
+      "name": "CityBuild-1",
+      "command": "/server cb01"
     },
-    "location": {
-      "city": "Frankfurt",
-      "country": "Germany",
-      "country_code": "DE"
-    }
+    "citybuild2": {
+      "name": "CityBuild-2",
+      "command": "/server cb02"
+    },      
+  },
+  "discord": {
+    "server_id": 1434244633646465047,
+    "rename_to_minecraft_name": false
   }
+}
