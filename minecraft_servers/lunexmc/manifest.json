@@ -11,11 +11,13 @@
   "gamemodes": {
     "citybuild1": {
       "name": "CityBuild-1",
-      "command": "/server cb01"
+      "command": "/server cb01",
+      "color": "#FFFFFF"
     },
     "citybuild2": {
       "name": "CityBuild-2",
-      "command": "/server cb02"
+      "command": "/server cb02",
+      "color": "#FFFFFF"
     }      
   },
   "discord": {
