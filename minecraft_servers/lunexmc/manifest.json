@@ -9,10 +9,6 @@
       "discord": "https://discord.gg/wnTWpA8u42"
     },
   "gamemodes": {
-    "lobby": {
-      "name": "Lobby",
-      "command": "/server lobby"
-    },
     "cb01": {
       "name": "CityBuild-01",
       "command": "/server cb01"
