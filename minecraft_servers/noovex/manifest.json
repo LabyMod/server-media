@@ -7,10 +7,10 @@
         "%.noovex.de"
     ],
     "gamemodes": {
-        "lobby": {
-            "name": "Lobby",
+        "ffa": {
+            "name": "FFA",
             "color": "#FFFFFF",
-            "command": "/l",
+            "command": "/server ffa",
             "versions": "1.21.10"
         },
         "wintersmp": {
