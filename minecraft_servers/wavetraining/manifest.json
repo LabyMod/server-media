@@ -1,0 +1,15 @@
+{
+  "server_name": "wavetraining",
+  "nice_name": "WaveTraining",
+  "direct_ip": "wavetraining.net",
+  "supported_languages": [
+     "de"
+  ],
+  "social": {
+    "discord": "https://discord.gg/wavetraining"
+  },
+  "location": {
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}
