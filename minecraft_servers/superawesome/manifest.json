@@ -16,12 +16,6 @@
     "youtube": "https://www.youtube.com/channel/UClhOqD9GXk2zGHZRluDLIBQ"
   },
   "gamemodes": {
-    "larmelobby": {
-      "name": "Larmelobby",
-      "command": "/server larmelobby",
-      "color": "#306fdb",
-      "versions": "1.20.6<*"
-    },
     "shoppylobby": {
       "name": "Shoppylobby",
       "command": "/server shoppylobby",
