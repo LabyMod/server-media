@@ -19,7 +19,7 @@
     "citybuild": {
       "name": "CityBuild",
       "color": "#55FF55",
-      "versions": "1.8<1.20.1"
+      "versions": "1.21.4"
     }
   },
   "location": {
