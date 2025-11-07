@@ -1,0 +1,56 @@
+{
+    "server_name": "badgames",
+    "nice_name": "BadGames",
+    "direct_ip": "badgames.de",
+    "server_wildcars": [
+        "%.badgames.de",
+        "%.zestgames.de",
+        "%.schlechte-spiele.de",
+        "%.onlywiff.com"
+    ],
+    "supported_languages": [
+        "en"
+    ],
+    "social": {
+        "web": "https://badgames.de",
+        "web_support": "https://support.badgames.de",
+        "discord": "https://discord.gg/DrmAWdeQyY"
+    },
+    "gamemodes": {
+        "bedwars": {
+            "name": "BedWars",
+            "color": "#FF0000"
+        },
+        "cores": {
+            "name": "Cores",
+            "color": "#00F2F5"
+        },
+        "vampires": {
+            "name": "Vampires",
+            "color": "#F72F2F"
+        },
+        "skywars": {
+            "name": "Skywars",
+            "color": "#00B024"
+        },
+        "ragemode": {
+            "name": "Ragemode",
+            "color": "#B00700"
+        },
+        "snowballfight": {
+            "name": "Snowball Fight",
+            "color": "#FFFFFF"
+        },
+        "elfhunt": {
+            "name": "Elfhunt",
+            "color": "#38FF00"
+        }
+    },
+    "discord": {
+        "id": "1056030462616817694"
+    },
+    "brand": {
+        "primary": "#FF55FF",
+        "background": "#AA00AA"
+    }
+}
