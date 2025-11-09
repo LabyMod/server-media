@@ -6,24 +6,7 @@
        "de"
     ],
     "social": {
-      "discord": "https://discord.gg/ApTAGtHsvj",
-      "youtube": "https://youtube.com/@BlockGermanyDE"
-    },
-    "gamemodes": {
-      "citybuild-1": {
-        "name": "CB-1", 
-        "color": "#E8B50F",
-        "versions": "1.21<*"
-      },
-      "smp-1": {
-        "name": "SMP", 
-        "color": "#E8B50F",
-        "versions": "1.21<*"
-      }
-    },
-    "discord": {
-      "server_id": 1333113607411728495,
-      "rename_to_minecraft_name": false
+      "discord": "https://discord.gg/ApTAGtHsvj"
     },
     "location": {
       "city": "Frankfurt",
