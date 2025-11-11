@@ -10,9 +10,9 @@
     "web": "https://ave.rip",
     "web_shop": "https://store.ave.rip",
     "twitter": "ave_rip",
-    "discord": "https://discord.gg/averip",
+    "discord": "https://discord.gg/HXSgxcVYtB",
     "youtube": "https://www.youtube.com/@ave_network",
-    "teamspeak": "ts.ave.rip"
+    "teamspeak": "ave.rip"
   },
   "gamemodes": {
     "skywars": {
@@ -21,22 +21,16 @@
       "command": "/play sw",
       "versions": "1.7<*"
     },
-    "skywarsffa": {
-      "name": "SkyWarsFFA",
+    "gungame": {
+      "name": "GunGame",
       "color": "#FFA500",
-      "command": "/play swffa",
+      "command": "/play gungame",
       "versions": "1.7<*"
     },
-    "bedwars": {
-      "name": "BedWars",
+    "capture": {
+      "name": "Capture",
       "color": "#FFA500",
-      "command": "/play bedwars",
-      "versions": "1.7<*"
-    },
-    "practice": {
-      "name": "Practice",
-      "color": "#FFA500",
-      "command": "/play practice",
+      "command": "/play capture",
       "versions": "1.7<*"
     }
   },
