@@ -1,7 +1,7 @@
 {
-    "server_name": "lunarismc",
+    "server_name": "op-games",
     "nice_name": "OP-Games Netzwerk",
-    "direct_ip": "lunarismc.de",
+    "direct_ip": "op-games.de",
     "supported_languages": [
         "de",
         "en"
