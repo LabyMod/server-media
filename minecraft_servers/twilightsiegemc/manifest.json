@@ -1,0 +1,23 @@
+{
+   "server_name":"twilightsiege",
+   "nice_name":"TwilightSiege",
+   "direct_ip":"twilightsiegemc.de",
+   "supported_languages":[
+      "de"
+   ],
+   "social":{
+      "discord":"https://discord.gg/byRzyjvuVn",
+      "youtube":"https://youtube.com/@twilightsiege5145?si=zXv4eK8TFs5BWnbM"
+   },
+   "brand":{
+      "primary":"#B439E9",
+      "background":"#D71DBB"
+   },
+   "discord":{
+      "server_id":978664981212065832
+   },
+   "location":{
+      "country":"Germany",
+      "country_code":"DE"
+   }
+}
