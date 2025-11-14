@@ -16,16 +16,6 @@
       "name": "CityBuild",
       "color": "#34BBE6",
       "command": "/joinq Citybuild"
-    },
-    "tradeguru": {
-      "name": "TradeGuru",
-      "color": "#34BBE6",
-      "command": "/joinq TradeGuru"
-    },
-    "prison": {
-      "name": "Prison",
-      "color": "#34BBE6",
-      "command": "/joinq Prison"
     }
   },
   "discord": {
