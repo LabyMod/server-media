@@ -2,18 +2,11 @@
     "server_name": "badgames",
     "nice_name": "BadGames",
     "direct_ip": "badgames.de",
-    "server_wildcars": [
-        "%.badgames.de",
-        "%.zestgames.de",
-        "%.schlechte-spiele.de",
-        "%.onlywiff.com"
-    ],
     "supported_languages": [
         "en"
     ],
     "social": {
         "web": "https://badgames.de",
-        "web_support": "https://support.badgames.de",
         "discord": "https://discord.gg/DrmAWdeQyY"
     },
     "gamemodes": {
@@ -47,7 +40,7 @@
         }
     },
     "discord": {
-        "id": "1056030462616817694"
+        "server_id": "1056030462616817694"
     },
     "brand": {
         "primary": "#FF55FF",
