@@ -1,9 +1,9 @@
 {
   "server_name": "donutnetwork",
   "nice_name": "DonutNetwork",
-  "direct_ip": "donutnetwork.eu",
+  "direct_ip": "donutnetwork.xyz",
   "server_wildcards": [
-    "%.donutnetwork.eu"
+    "%.donutnetwork.xyz"
   ],
   "supported_languages": [
     "en"

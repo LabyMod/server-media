@@ -1,0 +1,16 @@
+{
+    "server_name": "dragonmc",
+    "nice_name": "DragonMC",
+    "direct_ip": "dragonmc.minefreaks.de",
+    "supported_languages": [
+       "de"
+    ],
+    "social": {
+      "discord": "https://discord.gg/seMCQcJYCE"
+    },
+    "location": {
+      "city": "Frankfurt",
+      "country": "Germany",
+      "country_code": "DE"
+    }
+  }
