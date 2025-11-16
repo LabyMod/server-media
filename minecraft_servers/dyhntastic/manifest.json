@@ -47,6 +47,11 @@
       "color": "#A80000",
       "command": "/gamejoin ffa"
     },
+	"smp": {
+      "name": "SMP",
+      "color": "#00AA00",
+      "command": "/gamejoin smp"
+    },
     "citybuild": {
       "name": "CityBuild",
       "color": "#00AA00",
