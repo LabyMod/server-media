@@ -1,40 +1,37 @@
 
 {
-  "server_name": "pvpgym",
-  "nice_name": "PvPGym",
-  "direct_ip": "pvpgym.net",
+  "server_name": "pvprivals",
+  "nice_name": "Rivals",
+  "direct_ip": "pvprivals.net",
   "supported_languages": [
-    "de",
     "en"
   ],
   "social": {
-    "web": "https://pvpgym.net",
-    "web_shop": "https://store.pvpgym.net",
-    "discord": "https://discord.gg/pvpgym",
-    "twitter": "PvPGymOfficial",
-    "tiktok": "PvPGym",
-    "youtube": "https://www.youtube.com/@PvPGymOfficial"
+    "web": "https://pvprivals.net",
+    "web_shop": "https://store.pvprivals.net",
+    "discord": "https://discord.gg/pvprivals",
+    "twitter": "PvPRivalsNet"
   },
   "gamemodes": {
     "practice": {
       "name": "Practice",
       "color": "#FFAA00",
-      "url": "https://pvpgym.net/leaderboards"
+      "url": "https://pvprivals.net/leaderboards"
     },
     "sgcw": {
       "name": "SGCW",
       "color": "#FFAA00",
-      "url": "https://pvpgym.net/leaderboards"
+      "url": "https://pvprivals.net/leaderboards"
     },
     "uhc": {
       "name": "UHC",
       "color": "#FFAA00",
-      "url": "https://pvpgym.net/leaderboards"
+      "url": "https://pvprivals.net/leaderboards"
     },
     "meetup": {
       "name": "Meetup",
       "color": "#FFAA00",
-      "url": "https://pvpgym.net/leaderboards"
+      "url": "https://pvprivals.net/leaderboards"
     }
   },
   "discord": {
@@ -50,6 +47,5 @@
     "primary": "#00AAAA",
     "background": "#005C5C",
     "text": "#FFFFFF"
-  },
-  "user_stats": "https://pvpgym.net/profile/{userName}"
+  }
 }
