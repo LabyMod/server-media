@@ -2,6 +2,10 @@
   "server_name": "foxxi",
   "nice_name": "FoxxiNET",
   "direct_ip": "foxxi.net",
+  "supported_languages": [
+     "de",
+     "en"
+  ],  
   "social": {
     "web": "https://foxxi.net",
     "web_shop": "https://store.foxxi.net",

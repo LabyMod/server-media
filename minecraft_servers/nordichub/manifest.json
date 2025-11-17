@@ -10,21 +10,30 @@
     ],
     "social": {
       "web": "https://portal.nordichub.dk",
-      "web_shop": "https://butik.nordichub.dk",
+      "web_shop": "https://nordichubdk.tebex.io",
       "discord": "https://discord.gg/t8Wwzmu67Y"
     },
     "gamemodes": {
       "prison": {
         "name": "Prison", 
         "color": "#389EDC",
-        "command": "/prison",
-        "versions": "1.8.9"
+        "command": "/prison"
       },
       "skyblock": {
         "name": "Skyblock", 
         "color": "#389EDC",
-        "command": "/skyblock",
-        "versions": "1.8.9"
+        "command": "/skyblock"
+      },
+      "jumper": {
+        "name": "Jumper", 
+        "color": "#389EDC",
+        "command": "/jumper"
+      },
+      "smp": {
+        "name": "SMP", 
+        "versions": "1.20>*",
+        "color": "#389EDC",
+        "command": "/smp"
       }
     },
     "discord": {
