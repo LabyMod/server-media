@@ -3,11 +3,13 @@
   "nice_name": "GladMC",
   "direct_ip": "jogar.gladmc.com",
   "server_wildcards": [
-    "%.gladmc.com"
+    "%.gladmc.com",
+    "%.gladmc.com.br"
   ],
   "social": {
     "web": "https://gladmc.com",
     "twitter": "GladMC_",
+    "tiktok": "GladMC_",
     "facebook": "100083393225242",
     "instagram": "gladmc_",
     "youtube": "https://www.youtube.com/c/GladMCOficial",
@@ -25,7 +27,11 @@
     "bedwars": {
       "name": "BedWars",
       "command": "/play bw"
+    },
+    "kitpvp": {
+      "name": "KitPvP",
+      "command": "/play kp"
     }
   },
-  "yt_trailer": "HNXUlA56wZQ"
+  "yt_trailer": "C2FD-hfKMdw"
 }
