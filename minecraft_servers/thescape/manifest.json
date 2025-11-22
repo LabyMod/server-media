@@ -11,23 +11,7 @@
   "social": {
     "web": "https://thescape.de",
     "tiktok": "thescapemc",
-    "discord": "https://discord.gg/labymod"
-  },
-  "gamemodes": {
-    "craftattack": {
-      "name": "CA1", 
-      "color": "#FFA500",
-      "url": "https://thescape.de",
-      "command": "/joinq craftattack",
-      "versions": "1.21.10"
-    },
-    "craftattack2": {
-      "name": "CA2",
-      "color": "#ADD8E6",
-      "url": "https://thescape.de",
-      "command": "/joinq craftattack2",
-      "versions": "1.21.10"
-    }
+    "discord": "https://discord.com/invite/2zjPvq2Bvy"
   },
   "discord": {
     "server_id": 699337885631119360,
