@@ -16,16 +16,22 @@
     "instagram": "craftergang"
   },
   "gamemodes": {
-    "crafterbreak": {
-      "name": "Crafterbreak",
-      "color": "#07F0E0",
-      "command": "/gametp crafterbreak",
+    "cb": {
+      "name": "CB 1.8 & 1.21.5",
+      "color": "#0d6914",
+      "command": "/gametp cb1",
       "versions": "1.8<1.21.10"
     },
     "ironprotect": {
       "name": "IRONPROTECT",
       "color": "#2f3d4c",
       "command": "/gametp ironprotect",
+      "versions": "1.8<1.21.10"
+    },
+    "blockhunt": {
+      "name": "BlockHunt",
+      "color": "#07F0E0",
+      "command": "/gametp blockhunt",
       "versions": "1.8<1.21.10"
     },
     "getdown": {
@@ -38,6 +44,12 @@
       "name": "Cookies",
       "color": "#07F0E0",
       "command": "/gametp cookies",
+      "versions": "1.8<1.21.10"
+    },
+    "crafterbreak": {
+      "name": "Crafterbreak",
+      "color": "#07F0E0",
+      "command": "/gametp crafterbreak",
       "versions": "1.8<1.21.10"
     },
     "minefighter": {
@@ -68,12 +80,6 @@
       "name": "SFFA",
       "color": "#07F0E1",
       "command": "/gametp sffa",
-      "versions": "1.8<1.21.10"
-    },
-    "cb": {
-      "name": "CB 1.8 & 1.21.5",
-      "color": "#0d6914",
-      "command": "/gametp cb1",
       "versions": "1.8<1.21.10"
     },
     "duels": {
@@ -128,6 +134,7 @@
   },
   "yt_trailer": "Iu1pZrkv6KI"
 }
+
 
 
 
