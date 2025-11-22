@@ -1,48 +1,55 @@
 {
     "server_name": "skydinse",
     "nice_name": "Skydinse",
-    "direct_ip": "skydinse.de",
-    "server_wildcards": [
-      "%.skydinse.net",
-      "%.skydinse.de",
-      "%.skydinse.tk"
-    ],
+    "direct_ip": "skydinse.net",
     "supported_languages": [
+      "en",
       "de",
-      "en"
+      "pt",
+      "es",
+      "fr",
+      "ru",
+      "tr",
+      "ko"
     ],
     "social": {
-        "web": "https://skydinse.de",
-        "twitter": "mc_skydinse",
-        "tiktok": "skydinse_de",
-        "discord": "https://discord.gg/5VQhvzWF",
+        "web": "https://www.skydinse.net",
+        "web_support": "https://www.skydinse.net/contact",
+        "tiktok": "skydinsenet",
+        "instagram": "skydinse",
+        "discord": "https://discord.gg/cdWsMjfnea",
         "youtube": "https://www.youtube.com/@skydinse"
     },
     "gamemodes": {
-      "mineattack": {
-        "name": "MineAttack",
-        "command": "/game mineattack",
-        "versions": "1.19<*"
+      "timesmp": {
+        "name": "TimeSMP",
+        "color": "#face05",
+        "command": "/game timesmp",
+        "versions": "1.21.4<*"
+      },
+      "murder": {
+        "name": "Murder",
+        "color": "#face05",
+        "command": "/game murdermystery",
+        "versions": "1.21.4<*"
       },
       "blockparty": {
         "name": "BlockParty",
+        "color": "#face05",
         "command": "/game blockparty",
-        "versions": "1.17<*"
+        "versions": "1.21.4<*"
       },
       "duels": {
         "name": "Duels",
+        "color": "#face05",
         "command": "/game duels",
-        "versions": "1.17<*"
+        "versions": "1.21.4<*"
       },
-      "murdermystery": {
-        "name": "Murder Mystery",
-        "command": "/game murdermystery",
-        "versions": "1.17<*"
-      },
-      "maze": {
-        "name": "Maze",
-        "command": "/game maze",
-        "versions": "1.17<*"
+      "jumpandrun": {
+        "name": "Jump and Run",
+        "color": "#face05",
+        "command": "/game jumpandrun",
+        "versions": "1.21.4<*"
       }
     },
     "discord": {
@@ -55,3 +62,4 @@
       "country_code": "DE"
     }
   }
+

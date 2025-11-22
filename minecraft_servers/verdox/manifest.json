@@ -1,0 +1,45 @@
+{
+    "server_name": "verdox",
+    "nice_name": "VerdoxNET",
+    "direct_ip": "verdox.net",
+    "server_wildcards": [
+      "%.verdox.net"
+    ],
+    "supported_languages": [
+       "en",
+       "de"
+    ],
+    "social": {
+      "web": "https://verdox.net",
+      "discord": "https://discord.gg/2QVV8XxrrE"
+    },
+    "gamemodes": {
+      "survival": {
+        "name": "Survival", 
+        "color": "#FFA500",
+        "command": "/survival",
+        "versions": "1.21<*"
+      },
+      "smash": {
+        "name": "SMASH",
+        "color": "#ADD8E6",
+        "command": "/quickjoin smash",
+        "versions": "1.20<*"
+      }
+    },
+    "chat": {
+      "message_formats": [
+        "^§[a-f0-9](?<level>\\d+)( \\||§8 \\|) §[a-f0-9](?<sender>[a-zA-Z0-9_]{2,16})§r§7: §f(?<message>.*)$"
+      ]
+    },
+    "discord": {
+      "server_id": 1208885832598028369,
+      "rename_to_minecraft_name": false
+    },
+    "brand": {
+       "primary": "#335df5",
+       "background": "#0580f2",
+       "text": "#FFFFFF"
+    },
+    "command_delay": 3000
+  }

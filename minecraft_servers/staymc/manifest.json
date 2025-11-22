@@ -2,13 +2,23 @@
   "server_name": "staymc",
   "nice_name": "StayMC",
   "direct_ip": "staymc.net",
+  "server_wildcards": [
+    "%.staymc.net",
+    "%.staymc.de",
+    "%.staymc.eu",
+    "%.staymc.xyz"
+  ],
+  "supported_languages": [
+    "de"
+  ],
   "social": {
     "web": "https://staymc.net",
     "web_shop": "https://shop.staymc.net",
     "twitter": "StayMCNET",
     "discord": "https://discord.gg/K8xb5B9kuT",
     "teamspeak": "staymc.net",
-    "tiktok": "staymcnet"
+    "tiktok": "staymcnet",
+    "youtube": "https://www.youtube.com/@staymcnet"
   },
   "discord": {
     "server_id": "587207563066474556",
@@ -20,28 +30,39 @@
     "country_code": "DE"
   },
   "brand": {
-    "primary": "#2ca7f3"
+    "primary": "#29a7f7"
   },
   "gamemodes": {
     "survivalgames": {
-      "name": "1.16 SurvivalGames",
-      "color": "#FFFF55"
+      "name": "SurvivalGames",
+      "color": "#29a7f7",
+      "command": "/qtp survivalgames"
     },
-    "spleef": {
-      "name": "Spleef",
-      "color": "#FFFF55"
+    "manhunt": {
+      "name": "ManHunt",
+      "color": "#29a7f7",
+      "command": "/qtp events"
     },
-    "freebuild": {
-      "name": "Freebuild",
-      "color": "#FFFF55"
+    "firstplayerchallenge": {
+      "name": "FirstPlayerChallenge",
+      "color": "#29a7f7",
+      "command": "/qtp events"
     },
-    "ffa": {
-      "name": "FFA",
-      "color": "#FFFF55"
+    "allegegeneinen": {
+      "name": "AlleGegenEinen",
+      "color": "#29a7f7",
+      "command": "/qtp events"
     },
-    "jumpduel": {
-      "name": "JumpDuel",
-      "color": "#FFFF55"
+    "deathswap": {
+      "name": "DeathSwap",
+      "color": "#29a7f7",
+      "command": "/qtp events"
+    },
+    "oneblockrace": {
+      "name": "OneBlockRace",
+      "color": "#29a7f7",
+      "command": "/qtp events"
     }
-  }
+  },
+  "yt_trailer": "TBiWxyE78rU"
 }

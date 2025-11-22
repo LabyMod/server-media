@@ -1,0 +1,61 @@
+{
+    "server_name": "ascalter",
+    "nice_name": "Ascalter",
+    "direct_ip": "ascalter.de",
+    "server_wildcards": [
+      "%.ascalter.de"
+    ],
+    "supported_languages": [
+       "de",
+       "en"
+    ],
+    "social": {
+      "web": "https://forum.ascalter.de",
+      "web_shop": "https://ascalterde.buycraft.net",
+      "twitter": "AscalterDE",
+      "tiktok": "AscalterDE",
+      "instagram": "ascalterserver",
+      "discord": "https://discord.gg/MhYWKYNbR3"
+    },
+    "gamemodes": {
+      "freebuild": {
+        "name": "Freebuild", 
+        "color": "#55FF55",
+        "versions": "1.8<1.20.1"
+      },
+      "creative": {
+        "name": "Creative",
+        "color": "#00AAAA",
+        "versions": "1.8<1.20.1"
+      },
+      "knockit": {
+        "name": "KnockIT",
+        "color": "#FF55FF",
+        "versions": "1.8<1.20.1"
+      },
+      "buildffa": {
+        "name": "BuildFFA",
+        "color": "#FFFF55",
+        "versions": "1.8<1.20.1"
+      }
+    },
+    "chat": {
+      "message_formats": [
+        "^§[a-f0-9](?<level>\\d+)( \\||§8 \\|) §[a-f0-9](?<sender>[a-zA-Z0-9_]{2,16}) §8» §f(?<message>.*)$"
+      ]
+    },
+    "discord": {
+      "server_id": 668554256810508308,
+      "rename_to_minecraft_name": false
+    },
+    "brand": {
+       "primary": "#AA0000",
+       "background": "#FF5555",
+       "text": "#FFFFFF"
+    }, 
+    "location": {
+       "city": "Frankfurt am Main",
+       "country": "Germany",
+       "country_code": "DE"
+    }
+  }

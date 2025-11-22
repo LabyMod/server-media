@@ -1,0 +1,25 @@
+{
+  "server_name": "hielkemapsnetwork",
+  "nice_name": "Hielke Maps Network",
+  "direct_ip": "play.hielkemaps.com",
+  "server_wildcards": [
+    "play.hielkemaps.com"
+  ],
+  "social": {
+    "web": "https://hielkemaps.com",
+    "twitter": "HielkeMaps",
+    "discord": "https://discord.com/invite/6RzKxbH",
+    "youtube": "https://www.youtube.com/@HielkeMinecraft"
+  },
+  "gamemodes": {
+    "parkour": {
+      "name": "Parkour",
+      "color": "#add8e6"
+    }
+  },
+  "discord": {
+    "server_id": 550454189482835997,
+    "rename_to_minecraft_name": false
+  },
+  "yt_trailer": "NGpFMYO-_oo"
+}

@@ -2,7 +2,9 @@
     "server_name": "nektax",
     "nice_name": "Nektax Network",
     "direct_ip": "nektax.net",
-    "server_wildcards": ["play.nektax.net"],
+    "server_wildcards": [
+        "%.nektax.net"
+    ],
     "supported_languages": [
         "de",
         "en",
@@ -10,8 +12,8 @@
     ],
     "social": {
         "web_shop": "https://nektax.tebex.io",
-        "web_support": "https://discord.gg/zY7X4rVWEb",
-        "discord": "https://discord.gg/hCvQYmSp7M"
+        "discord": "https://discord.gg/hCvQYmSp7M",
+        "tiktok": "official_nektax"
     },
     "brand": {
         "primary": "#897edc",

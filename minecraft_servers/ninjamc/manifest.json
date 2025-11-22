@@ -1,0 +1,31 @@
+{
+  "server_name": "ninjamc",
+  "nice_name": "NinjaMC",
+  "direct_ip": "ninjamc.de",
+  "server_wildcards": [
+    "%.ninjamc.de"
+  ],
+  "social": {
+    "discord": "https://discord.gg/KcvXETcTzw",
+    "teamspeak": "ts.ninjamc.de"
+  },
+  "gamemodes": {
+    "ninjaattack": {
+      "name": "NinjaAttack",
+      "color": "#FFA500",
+      "command": "/server na"
+    }
+  },
+  "brand": {
+     "primary": "#008FE8",
+     "background": "#0A56A5",
+     "text": "#FFFFFF"
+  }, 
+  "location": {
+     "city": "Frankfurt",
+     "country": "Germany",
+     "country_code": "DE"
+  }
+}
+
+

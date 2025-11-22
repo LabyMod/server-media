@@ -39,6 +39,13 @@ while read image; do
     width="${properties[0]}"
     height="${properties[1]}"
     type="${properties[2]}"
+    size=$(stat -c %s "${image}")  # File size in bytes
+
+    # Check whether file is > 1.5MB
+    if (( size > 1572864 )); then
+      error "${image}" "The file ${filename} is larger than 1.5 MB. Please compress it on https://compresspng.com"
+      continue
+    fi
 
     # Ensure file is actually a PNG file
     [[ "${type}" != "PNG" ]] \
@@ -132,9 +139,16 @@ while read image; do
     ((IMAGES++))
 done <<< $(find minecraft_servers -type f)
 
-if [[ ! "${given_names[@]}" =~ "icon.png" || ! "${given_names[@]}" =~ "icon@2x.png" ]]; then
-  error "At least one of the required files is not given (icon.png or icon@2x.png)"
-fi
+# Check all directories for required files
+file_names=("icon.png" "icon@2x.png")
+for dir in "minecraft_servers"/*/; do
+  for file in "${file_names[@]}"; do
+    if [ ! -e "${dir}${file}" ]; then
+      nice_dir=$(echo "$dir" | sed 's/minecraft_servers\///' | sed 's/\/$//')
+      error "$nice_dir: $file is not given, but it is required."
+    fi
+  done
+done
 
 echo ""
 echo "Total of ${IMAGES} images checked, found ${ERRORS} issues."
