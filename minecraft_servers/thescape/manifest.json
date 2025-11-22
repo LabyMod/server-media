@@ -3,7 +3,7 @@
   "nice_name": "TheScape.de",
   "direct_ip": "thescape.de",
   "server_wildcards": [
-    "mc.thescape.de"
+    "%.thescape.de"
   ],
   "supported_languages": [
      "de"
