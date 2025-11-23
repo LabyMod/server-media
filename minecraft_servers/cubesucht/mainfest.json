@@ -1,11 +1,8 @@
 {
   "server_name": "cubesucht",
   "nice_name": "CubeSucht",
-  "direct_ip": "162.55.92.133:25933",
+  "direct_ip": "cubesucht.wlabs.zip",
   "supported_languages": [
     "de"
-  ],
-  "social": {
-    "youtube": "https://www.youtube.com/@CubeSucht"
-  }
+  ]
 }
