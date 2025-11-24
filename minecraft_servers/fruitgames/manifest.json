@@ -1,6 +1,6 @@
 {
   "server_name": "fruitgames",
-  "nice_name": "FruitGamesNET",
+  "nice_name": "FruitGames",
   "direct_ip": "fruitgames.net",
   "supported_languages": [
     "de",
@@ -23,8 +23,8 @@
       "color": "#FFAA00",
       "versions": "1.21<*"
     },
-    "guessit": {
-      "name": "GuessIT",
+    "speedguessr": {
+      "name": "SpeedGuessr",
       "color": "#FFFF55",
       "versions": "1.21<*"
     },
@@ -41,6 +41,11 @@
     "uhcgames": {
       "name": "UHC-Games",
       "color": "#AA00AA",
+      "versions": "1.21<*"
+    },
+    "duels": {
+      "name": "Duels",
+      "color": "#FFAA00",
       "versions": "1.21<*"
     }
   },
