@@ -3,26 +3,32 @@
   "nice_name": "Craftportal",
   "direct_ip": "craftportal.net",
   "supported_languages": [
-    "de", "en"
+    "de",
+    "at",
+    "ch",
+    "en",
+    "ru",
+    "es",
+    "it"
   ],
   "social": {
-      "twitter": "craftportal_net",
-      "discord": "https://discord.gg/SkuXHDxX2C",
-      "tiktok": "craftportal_net",
-      "youtube": "https://www.youtube.com/@craftportal_net"
+    "twitter": "craftportal_net",
+    "discord": "https://discord.gg/JNgaGA6Wgv",
+    "tiktok": "craftportal_net",
+    "youtube": "https://youtube.com/@craftportal_net"
   },
   "gamemodes": {
-    "battleground": {
-      "name": "Construct & Conquer",
-      "command": "/quickjoin battleground",
-      "color": "#7d0084",
-      "versions": "1.8>*"
+    "citybuild": {
+      "name": "Citybuild",
+      "command": "/citybuild",
+      "color": "#00bf00",
+      "versions": "1.21<*"
     },
-    "gungame": {
-      "name": "GunGame",
-      "command": "/quickjoin gungame",
-      "color": "#7d0084",
-      "versions": "1.8>*"
+    "freebuild": {
+      "name": "Freebuild",
+      "command": "/freebuild",
+      "color": "#00bf00",
+      "versions": "1.21<*"
     }
   },
   "discord": {
@@ -30,12 +36,12 @@
     "rename_to_minecraft_name": false
   },
   "brand": {
-     "primary": "#000000",
-     "background": "#7d0084",
-     "text": "#FFFFFF"
+    "primary": "#000000",
+    "background": "#00bf00",
+    "text": "#FFFFFF"
   },
   "location": {
-    "city": "Bielefeld",
+    "city": "Frankfurt",
     "country": "Germany",
     "country_code": "DE"
   },
