@@ -3,7 +3,7 @@
   "nice_name": "SuperAwesome",
   "direct_ip": "superawesome.dk",
   "server_wildcards": [
-    "%.superawesome.dk"
+    "mc.superawesome.dk"
   ],
   "supported_languages": [
     "da"
