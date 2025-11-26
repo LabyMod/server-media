@@ -1,0 +1,35 @@
+{
+  "server_name": "donutnetwork",
+  "nice_name": "DonutNetwork",
+  "direct_ip": "donutnetwork.xyz",
+  "server_wildcards": [
+    "%.donutnetwork.xyz"
+  ],
+  "supported_languages": [
+    "en"
+  ],
+  "social": {
+    "discord": "https://discord.gg/sayzAZSSBS",
+    "youtube": "https://www.youtube.com/@DonutNetworkXYZ"
+  },
+  "gamemodes": {
+    "lifesteal": {
+      "name": "Lifesteal",
+      "color": "#ff7b00",
+      "versions": "1.21<*"
+    }
+  },
+  "discord": {
+    "server_id": 1441307129679188041,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#ff7b00",
+     "background": "#535353"
+  },
+  "location": {
+    "city": "Frankfurt",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}

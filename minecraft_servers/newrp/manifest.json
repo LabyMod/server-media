@@ -1,0 +1,21 @@
+{
+  "server_name": "newrp",
+  "nice_name": "NewRP",
+  "direct_ip": "new-roleplay.de",
+  "supported_languages": [
+     "de"
+  ],
+  "social": {
+    "web": "https://www.new-roleplay.de",
+    "web_shop": "https://shop.new-roleplay.de",
+    "instagram": "newroleplay.de",
+    "teamspeak": "new-roleplay.de",
+    "tiktok": "newrpde",
+    "discord": "https://discord.gg/NPGFU3MUn8"
+  },
+  "location": {
+    "city": "Frankfurt am Main",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}

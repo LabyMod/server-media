@@ -1,0 +1,24 @@
+{
+    "server_name": "unitysmp",
+    "nice_name": "UnitySMP",
+    "direct_ip": "unitysmp.de",
+    "supported_languages": [
+        "de"
+    ],
+    "social": {
+        "web_shop": "https://store.unitysmp.de",
+        "discord": "https://discord.gg/unitysmp",
+        "youtube": "https://www.youtube.com/@unitysmpde",
+        "tiktok": "unitysmp.de"
+    },
+    "gamemodes": {
+        "survival": {
+            "name": "Survival", 
+            "color": "#48E863"
+        }
+    },
+    "discord": {
+        "server_id": 1238427052688937030,
+        "rename_to_minecraft_name": false
+    }
+}

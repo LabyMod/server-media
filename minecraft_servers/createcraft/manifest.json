@@ -3,7 +3,8 @@
   "nice_name": "CreateCraft.eu",
   "direct_ip": "createcraft.eu",
   "server_wildcards": [
-    "%.createcraft.eu"
+    "%.createcraft.eu",
+    "%.minetommy.eu"
   ],
   "supported_languages": [
     "de"
@@ -11,40 +12,47 @@
   "social": {
     "web": "https://www.createcraft.eu",
     "web_shop": "https://www.createcraft.eu/store",
+    "web_support": "https://www.createcraft.eu/support",
     "tiktok": "createcrafteu",
     "instagram": "createcraft.eu",
-    "discord": "https://discord.gg/RZTtybbH4R"
+    "discord": "https://discord.gg/createcraft"
   },
   "gamemodes": {
     "citybuild": {
       "name": "CityBuild",
       "color": "#E0A400",
       "command": "/citybuild",
-      "versions": "1.19<*"
-    },
-    "skyblock": {
-      "name": "SkyBlock",
-      "color": "#0BA3BA",
-      "command": "/skyblock",
-      "versions": "1.19<*"
+      "versions": "1.21.5<*"
     },
     "stoneblock": {
       "name": "StoneBlock",
       "color": "#F5683D",
       "command": "/stoneblock",
-      "versions": "1.19<*"
+      "versions": "1.21.5<*"
+    },
+    "skyblock": {
+      "name": "SkyBlock",
+      "color": "#0BA3BA",
+      "command": "/skyblock",
+      "versions": "1.21.5<*"
+    },
+    "oneblock": {
+      "name": "OneBlock",
+      "color": "#0BA3BA",
+      "command": "/oneblock",
+      "versions": "1.21.5<*"
+    },
+    "freebuild": {
+      "name": "Freebuild",
+      "color": "#126E0A",
+      "command": "/freebuild",
+      "versions": "1.21.5<*"
     },
     "minigames": {
       "name": "Minigames",
       "color": "#B34B62",
       "command": "/minigames",
-      "versions": "1.19<*"
-    },
-    "survival": {
-      "name": "Survival",
-      "color": "#126E0A",
-      "command": "/survival",
-      "versions": "1.19<*"
+      "versions": "1.21.5<*"
     }
   },
   "discord": {

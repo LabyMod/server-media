@@ -1,0 +1,38 @@
+{
+	"server_name": "mchub",
+	"nice_name": "MCHub",
+	"direct_ip": "mchub.com",
+	"server_wildcards": [
+	  "%.mchub.com"
+	],
+	"social": {
+	  "web": "https://mchub.com",
+	  "web_shop": "https://buy.mchub.com",
+	  "discord": "https://discord.gg/mchub"
+	},
+	"gamemodes": {
+	  "prison": {
+		"name": "Prison"
+	  },
+	  "skyblock": {
+		"name": "Skyblock"
+	  },
+	  "survival": {
+		"name": "Survival"
+	  }
+	},
+	"discord": {
+	  "server_id": 905833685977272371,
+	  "rename_to_minecraft_name": false
+	},
+	"brand": {
+	   "primary": "#78b36f",
+	   "background": "#249fc9",
+	   "text": "#FFFFFF"
+	}, 
+	"location": {
+	   "country": "United States",
+	   "country_code": "US"
+	}
+  }
+  

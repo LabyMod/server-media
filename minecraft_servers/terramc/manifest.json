@@ -2,6 +2,9 @@
    "server_name":"terramc",
    "nice_name":"TerraMC",
    "direct_ip":"terramc.net",
+   "server_wildcards": [
+      "%.terramc.net"
+   ],
    "supported_languages":[
       "de",
       "en"

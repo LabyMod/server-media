@@ -1,16 +1,36 @@
 {
     "server_name": "opinsel",
     "nice_name": "OpInsel",
-    "direct_ip": "mc.opinsel.de",
+    "direct_ip": "mc.opinsel.net",
+    "server_wildcards": [
+      "%.opinsel.net",
+      "%.opinsel.com"
+    ],
+    "gamemodes": {
+        "skyblock": {
+          "name": "Skyblock", 
+          "color": "#Ff0000",
+          "command": "/server skyblock",
+          "versions": "1.21<*"
+        }
+    },
+    "discord": {
+        "server_id": 954852149882388550,
+        "rename_to_minecraft_name": false
+      },
     "supported_languages": [
-        "de"
+        "de",
+        "en"
     ],
     "social": {
-        "web": "https://opinsel.de",
-        "web_shop": "https://opinsel.de/shop",
-        "discord": "https://discord.gg/Mn9drhfaDQ"
+        "web": "https://opinsel.net",
+        "web_shop": "https://opinsel.net/shop",
+        "discord": "https://discord.gg/YW9CSJC6VB",
+        "tiktok": "opinsel",
+        "youtube": "https://www.youtube.com/@opinsel"
     },
     "location": {
+        "city": "Eygelshoven",
         "country": "Germany",
         "country_code": "DE"
     }

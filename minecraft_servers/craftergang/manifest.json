@@ -1,13 +1,12 @@
 {
   "server_name": "craftergang",
-  "nice_name": "Craftergang",
+  "nice_name": "Craftergang.DE | Bedrock & Java 1.8 Minigames",
   "direct_ip": "craftergang.de",
-  "server_wildcards": [
-    "craftergang.net",
-    "citybuild.craftergang.de"
-  ],
   "supported_languages": [
-    "de"
+    "de",
+    "en",
+    "es",
+    "it"
   ],
   "social": {
     "discord": "https://discord.gg/ThCt8Pq",
@@ -17,76 +16,118 @@
     "instagram": "craftergang"
   },
   "gamemodes": {
-    "citybuild": {
-      "name": "CityBuild",
-      "color": "#0d6914",
-      "command": "/gametp cb",
-      "versions": "1.8<1.20.4"
+    "crafterbreak": {
+      "name": "Crafterbreak",
+      "color": "#07F0E0",
+      "command": "/gametp crafterbreak",
+      "versions": "1.8<1.21.10"
     },
-    "ffa": {
-      "name": "FFA",
-      "color": "#ed0c26",
-      "command": "/gametp ffa",
-      "versions": "1.8<1.20.4"
+    "ironprotect": {
+      "name": "IRONPROTECT",
+      "color": "#2f3d4c",
+      "command": "/gametp ironprotect",
+      "versions": "1.8<1.21.10"
     },
-    "build": {
-      "name": "BFFA",
-      "color": "#e8a507",
-      "command": "/gametp bffa",
-      "versions": "1.8<1.20.4"
+    "getdown": {
+      "name": "GetDown",
+      "color": "#07F0E0",
+      "command": "/gametp getdown",
+      "versions": "1.8<1.21.10"
     },
-    "bedwars": {
-      "name": "BW",
-      "color": "#e3bcc1",
-      "command": "/gametp bw",
-      "versions": "1.8<1.20.4"
+    "cookies": {
+      "name": "Cookies",
+      "color": "#07F0E0",
+      "command": "/gametp cookies",
+      "versions": "1.8<1.21.10"
     },
-    "gungame": {
-      "name": "GunGame",
-      "color": "#FBB300",
-      "command": "/gametp gungame",
-      "versions": "1.8<1.20.4"
-    },
-    "mlgrush": {
-      "name": "MLGRush",
-      "color": "#de0b39",
-      "command": "/gametp mlgrush",
-      "versions": "1.8<1.20.4"
+    "minefighter": {
+      "name": "Minefighter",
+      "color": "#785117",
+      "command": "/gametp minefighter",
+      "versions": "1.8<1.21.10"
     },
     "welt-untergang": {
-      "name": "Welt-Untergang",
+      "name": "Untergang",
       "color": "#0bde19",
       "command": "/gametp wu",
-      "versions": "1.8<1.20.4"
+      "versions": "1.8<1.21.10"
+    },
+    "superbreakblocks": {
+      "name": "SuperBreakBlocks",
+      "color": "#bf1077",
+      "command": "/gametp sbb",
+      "versions": "1.8<1.21.10"
+    },
+    "switchffa": {
+      "name": "SFFA",
+      "color": "#07F0E1",
+      "command": "/gametp sffa",
+      "versions": "1.8<1.21.10"
+    },
+    "switchffa": {
+      "name": "SFFA",
+      "color": "#07F0E1",
+      "command": "/gametp sffa",
+      "versions": "1.8<1.21.10"
+    },
+    "cb": {
+      "name": "CB 1.8 & 1.21.5",
+      "color": "#0d6914",
+      "command": "/gametp cb1",
+      "versions": "1.8<1.21.10"
+    },
+    "duels": {
+      "name": "Ultimate Duels",
+      "color": "#d506b8",
+      "command": "/gametp duels",
+      "versions": "1.8<1.21.10"
     },
     "onehit": {
       "name": "OneHit",
       "color": "#f705ab",
       "command": "/gametp onehit",
-      "versions": "1.8<1.20.4"
+      "versions": "1.8<1.21.10"
+    },
+    "mlgrush": {
+      "name": "MLGRUSH",
+      "color": "#6badf6",
+      "command": "/gametp mlgrush",
+      "versions": "1.8<1.21.10"
     },
     "skypvp": {
       "name": "SkyPvP",
       "color": "#f7df05",
       "command": "/gametp spvp",
-      "versions": "1.8<1.20.4"
+      "versions": "1.8<1.21.10"
     },
     "survival": {
       "name": "Survival",
-      "color": "#0d6914",
-      "command": "/gametp survive",
-      "versions": "1.12<1.20.4"
+      "color": "#f705ab",
+      "command": "/gametp survival",
+      "versions": "1.21.8<1.21.10"
     }
+  },
+  "chat": {
+    "message_formats": [
+      "^§[a-f0-9](?<level>\\d+)( \\||§8 \\|) §[a-f0-9](?<sender>[a-zA-Z0-9_]{2,16}) §8» §f(?<message>.*)$"
+    ]
+  },
+  "discord": {
+    "server_id": 251791624483373060,
+    "rename_to_minecraft_name": false
   },
   "brand": {
     "primary": "#497cb1",
-    "background": "#245587",
-    "text": "#4646cf"
+    "background": "#d98e0d",
+    "text": "#754e0b"
   },
   "location": {
     "city": "Frankfurt",
     "country": "Germany",
     "country_code": "DE"
   },
-  "yt_trailer": "Fzf-sy60V7U"
+  "yt_trailer": "Iu1pZrkv6KI"
 }
+
+
+

@@ -2,63 +2,54 @@
     "server_name": "skydinse",
     "nice_name": "Skydinse",
     "direct_ip": "skydinse.net",
-    "server_wildcards": [
-      "%.skydinse.net",
-      "%.skydinse.de",
-      "%.skydinse.tk",
-      "cattack.de"
-    ],
     "supported_languages": [
       "en",
       "de",
       "pt",
-      "fr",
       "es",
-      "tr"
+      "fr",
+      "ru",
+      "tr",
+      "ko"
     ],
     "social": {
-        "web": "https://skydinse.net",
-        "web_support": "https://skydinse.net/contact",
-        "twitter": "skydinse",
-        "tiktok": "skydinse_net",
+        "web": "https://www.skydinse.net",
+        "web_support": "https://www.skydinse.net/contact",
+        "tiktok": "skydinsenet",
+        "instagram": "skydinse",
         "discord": "https://discord.gg/cdWsMjfnea",
         "youtube": "https://www.youtube.com/@skydinse"
     },
     "gamemodes": {
-      "mineattack": {
-        "name": "MineAttack IV",
-        "command": "/game mineattackiv",
-        "versions": "1.20<*"
+      "timesmp": {
+        "name": "TimeSMP",
+        "color": "#face05",
+        "command": "/game timesmp",
+        "versions": "1.21.4<*"
       },
-      "sdplace": {
-        "name": "Place",
-        "command": "/nav sdplace",
-        "versions": "1.17<*"
-      },
-      "lavarises": {
-        "name": "LavaRises",
-        "command": "/game lavarises",
-        "versions": "1.19.4<*"
-      },
-      "duels": {
-        "name": "Duels",
-        "command": "/game duels",
-        "versions": "1.17<*"
+      "murder": {
+        "name": "Murder",
+        "color": "#face05",
+        "command": "/game murdermystery",
+        "versions": "1.21.4<*"
       },
       "blockparty": {
         "name": "BlockParty",
+        "color": "#face05",
         "command": "/game blockparty",
-        "versions": "1.17<*"
+        "versions": "1.21.4<*"
       },
-      "murdermystery": {
-        "name": "Murder",
-        "command": "/game murdermystery",
-        "versions": "1.17<*"
+      "duels": {
+        "name": "Duels",
+        "color": "#face05",
+        "command": "/game duels",
+        "versions": "1.21.4<*"
       },
-      "maze": {
-        "name": "Maze",
-        "command": "/game maze",
-        "versions": "1.17<*"
+      "jumpandrun": {
+        "name": "Jump and Run",
+        "color": "#face05",
+        "command": "/game jumpandrun",
+        "versions": "1.21.4<*"
       }
     },
     "discord": {
@@ -71,3 +62,4 @@
       "country_code": "DE"
     }
   }
+
