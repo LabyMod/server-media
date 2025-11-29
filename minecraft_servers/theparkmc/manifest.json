@@ -1,7 +1,7 @@
 {
-  "server_name": "trickety",
-  "nice_name": "Trickety",
-  "direct_ip": "trickety.net",
+  "server_name": "theparkmc",
+  "nice_name": "TheParkMC",
+  "direct_ip": "theparkmc.com",
   "supported_languages": [
     "de",
     "en",
@@ -9,10 +9,9 @@
     "fr"
   ],
   "social": {
-    "twitter": "TricketyNetwork",
+    "twitter": "ParkMCNetwork",
     "discord": "https://discord.gg/trickety",
-    "teamspeak": "trickety.net",
-    "youtube": "https://www.youtube.com/@TricketyNET"
+    "teamspeak": "theparkmc.com"
   },
   "discord": {
     "server_id": 1161291998100205580,
