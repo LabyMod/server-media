@@ -52,6 +52,16 @@
       "color": "#5555FF",
       "command": "/gamejoin knockit"
     },
+    "oneblock": {
+      "name": "OneBlock",
+      "color": "#00AA00",
+      "command": "/gamejoin oneblock"
+    },
+    "bedwars": {
+      "name": "Bedwars",
+      "color": "#FF5555",
+      "command": "/gamejoin bedwars"
+    },
     "capture": {
       "name": "Capture",
       "color": "#FFAA00",
@@ -61,11 +71,6 @@
       "name": "ItemChaos",
       "color": "#AA00AA",
       "command": "/gamejoin itemchaos"
-    },
-    "bedwars": {
-      "name": "Bedwars",
-      "color": "#FF5555",
-      "command": "/gamejoin bedwars"
     },
     "skywars": {
       "name": "SkyWars",
