@@ -22,11 +22,11 @@
     },
     "skypvp_classic": {
       "name": "SkyPvP Classic",
-      "command": "/server skypvwp",
+      "command": "/server skypvp",
       "color": "#FF5555"
     },
     "redstonepvp": {
-      "name": "RedStonePvP",
+      "name": "RedstonePvP",
       "command": "/server redstonepvp",
       "color": "#AA0000"
     },
