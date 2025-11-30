@@ -40,6 +40,12 @@
       "command": "/gametp cookies",
       "versions": "1.8<1.21.10"
     },
+    "blockhunt": {
+      "name": "BlockHunt",
+      "color": "#27E0F5",
+      "command": "/gametp blockhunt",
+      "versions": "1.8<1.21.10"
+    },
     "minefighter": {
       "name": "Minefighter",
       "color": "#785117",
@@ -128,6 +134,7 @@
   },
   "yt_trailer": "Iu1pZrkv6KI"
 }
+
 
 
 
