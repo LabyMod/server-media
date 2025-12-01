@@ -1,0 +1,19 @@
+{
+  "server_name": "BetaMC",
+  "nice_name": "betamc.org",
+  "direct_ip": "betamc.org",
+  "supported_languages": [
+    "en"
+  ],
+  "social": {
+    "server_site": "https://betamc.org/about.html"
+  },
+  "brand": {
+    "primary": "#c4c4c4"
+  },
+  "location": {
+    "city": "Virginia",
+    "country": "United States",
+    "country_code": "US"
+  }
+}
