@@ -2,19 +2,12 @@
     "server_name": "skydinse",
     "nice_name": "Skydinse",
     "direct_ip": "skydinse.net",
-    "server_wildcards": [
-      "%.skydinse.net",
-      "%.skydinse.de",
-      "cattack.de"
-    ],
     "supported_languages": [
       "en",
       "de",
-      "nl",
       "pt",
       "es",
       "fr",
-      "pl",
       "ru",
       "tr",
       "ko"
@@ -22,36 +15,41 @@
     "social": {
         "web": "https://www.skydinse.net",
         "web_support": "https://www.skydinse.net/contact",
-        "tiktok": "skydinse_net",
+        "tiktok": "skydinsenet",
         "instagram": "skydinse",
         "discord": "https://discord.gg/cdWsMjfnea",
         "youtube": "https://www.youtube.com/@skydinse"
     },
     "gamemodes": {
-      "citybuild": {
-        "name": "CityBuild",
-        "command": "/game citybuild",
-        "versions": "1.20<*"
+      "timesmp": {
+        "name": "TimeSMP",
+        "color": "#face05",
+        "command": "/game timesmp",
+        "versions": "1.21.4<*"
       },
-      "wheatfarm": {
-        "name": "WheatFarm",
-        "command": "/wheatfarm",
-        "versions": "1.20<*"
-      },
-      "duels": {
-        "name": "Duels",
-        "command": "/game duels",
-        "versions": "1.20<*"
+      "murder": {
+        "name": "Murder",
+        "color": "#face05",
+        "command": "/game murdermystery",
+        "versions": "1.21.4<*"
       },
       "blockparty": {
         "name": "BlockParty",
+        "color": "#face05",
         "command": "/game blockparty",
-        "versions": "1.20<*"
+        "versions": "1.21.4<*"
       },
-      "murdermystery": {
-        "name": "Murder",
-        "command": "/game murdermystery",
-        "versions": "1.20<*"
+      "duels": {
+        "name": "Duels",
+        "color": "#face05",
+        "command": "/game duels",
+        "versions": "1.21.4<*"
+      },
+      "jumpandrun": {
+        "name": "Jump and Run",
+        "color": "#face05",
+        "command": "/game jumpandrun",
+        "versions": "1.21.4<*"
       }
     },
     "discord": {
@@ -64,3 +62,4 @@
       "country_code": "DE"
     }
   }
+

@@ -1,0 +1,35 @@
+{
+    "server_name": "castcrafter",
+    "nice_name": "CastCrafter Community Server",
+    "direct_ip": "castcrafter.de",
+    "supported_languages": [
+       "de"
+    ],
+    "social": {
+      "web": "https://server.castcrafter.de",
+      "discord": "https://discord.gg/castcrafter",
+      "youtube": "https://www.youtube.com/@CastCrafter",
+      "instagram": "castagram_"
+    },
+    "gamemodes": {
+        "survival": {
+          "name": "Survival",
+          "color": "#17B3AB",
+          "url": "https://server.castcrafter.de/survival-server"
+        },
+        "event": { 
+            "name": "Event",
+            "color": "#4016B3",
+            "url": "https://server.castcrafter.de/event-server"
+        }
+    },
+    "discord": {
+      "server_id": 133198459531558912,
+      "rename_to_minecraft_name": false
+    },
+    "brand": {
+      "primary": "#6DA5C0",
+      "background": "#343a40",
+      "text": "#f8f9fa"
+    }
+}

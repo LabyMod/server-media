@@ -1,0 +1,21 @@
+{
+    "server_name": "icegaming",
+    "nice_name": "ICEGAMING",
+    "direct_ip": "mc.icegaming.eu",
+    "supported_languages": [
+        "de"
+    ],
+    "social": {
+        "discord": "https://discord.gg/pZc4MKkmfw",
+        "youtube": "https://youtube.com/@ice-gamingmc",
+        "instagram": "icegaming.eu_offiziell"
+    },
+    "discord": {
+        "server_id": 1166621232276443217
+    },
+    "location": {
+        "city": "Frankfurt/M",
+        "country": "Germany",
+        "country_code": "DE"
+    }
+}

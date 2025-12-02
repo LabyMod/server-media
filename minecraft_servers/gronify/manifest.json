@@ -1,0 +1,16 @@
+{
+    "server_name": "gronify",
+    "nice_name": "Gronify",
+    "direct_ip": "gronify.de",
+    "supported_languages": [
+        "de"
+    ],
+    "social": {
+        "tiktok": "gronify",
+        "discord": "https://discord.gg/SYQK9F92xG"
+    },
+    "discord": {
+        "server_id": 1373221633220673606,
+        "renamed_to_minecraft_name": false
+    }
+}
