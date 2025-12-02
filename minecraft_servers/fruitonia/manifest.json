@@ -13,6 +13,13 @@
     "tiktok": "fruitonianet",
     "youtube": "https://www.youtube.com/@fruitonianet"
   },
+  "gamemodes": {
+    "citybuild": {
+      "name": "CityBuild", 
+      "color": "#9B5FF6",
+      "versions": "1.21.5<*"
+    }
+  },
   "discord": {
     "server_id": 1333091663568175144,
     "rename_to_minecraft_name": false
