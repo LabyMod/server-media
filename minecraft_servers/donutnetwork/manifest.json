@@ -28,6 +28,11 @@
       "name": "Reducer",
       "color": "#ff7b00",
       "versions": "1.8<*"
+    },
+    "kbffa": {
+      "name": "KBFFA",
+      "color": "#ff7b00",
+      "versions": "1.8<*"
     }
   },
   "discord": {
