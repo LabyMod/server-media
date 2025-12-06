@@ -1,0 +1,36 @@
+
+{
+  "server_name": "mecraft",
+  "nice_name": "MeCraft.net",
+  "direct_ip": "mecraft.dk",
+  "supported_languages": [
+    "dk",
+    "en"
+  ],
+  "social": {
+    "web": "https://svanemc.dk",
+    "web_shop": "https://butik.mecraft.dk",
+    "discord": "https://discord.gg/mecraft"
+  },
+  "gamemodes": {
+    "stealabrainrot": {
+      "name": "StealABrainrot",
+      "command": "/server brainrot-1",
+      "versions": "1.21<*"
+    },
+    "skoleprison": {
+      "name": "Skoleprison",
+      "command": "/server skoleprison",
+      "versions": "1.21<*"
+    }
+  },
+  "discord": {
+    "server_id": 193033610696196098,
+    "rename_to_minecraft_name": true
+  },
+  "location": {
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "country_code": "DA"
+  }
+}
