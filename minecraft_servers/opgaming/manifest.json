@@ -1,9 +1,9 @@
 {
   "server_name": "opgaming",
-  "nice_name": "opgaming",
+  "nice_name": "OPGAMING",
   "direct_ip": "opgaming.eu",
   "server_wildcards": [
-    "opgaming.eu"
+    "193.187.255.41:20425"
     ],
   "supported_languages": [
     "de"
