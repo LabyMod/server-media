@@ -6,8 +6,8 @@
     "193.187.255.41:20425"
   ],
   "supported_languages": [
-     "en",
-     "de"
+    "en",
+    "de"
   ],
   "social": {
     "web": "https://labymod.net",
@@ -23,7 +23,7 @@
   },
   "gamemodes": {
     "jumpworld": {
-      "name": "Citybuild", 
+      "name": "Citybuild",
       "color": "#FFA500",
       "url": "https://www.timolia.de/games#jumpworld",
       "command": "/spawn",
@@ -47,14 +47,14 @@
     "rename_to_minecraft_name": false
   },
   "brand": {
-     "primary": "#008FE8",
-     "background": "#0A56A5",
-     "text": "#FFFFFF"
-  }, 
+    "primary": "#008FE8",
+    "background": "#0A56A5",
+    "text": "#FFFFFF"
+  },
   "location": {
-     "city": "Frankfurt",
-     "country": "Germany",
-     "country_code": "DE"
+    "city": "Frankfurt",
+    "country": "Germany",
+    "country_code": "DE"
   },
   "yt_trailer": "8asFIRe2HSw",
   "user_stats": "https://laby.net/@{userName}",
