@@ -3,12 +3,12 @@
   "nice_name": "Lunarie.tv",
   "direct_ip": "lunarie.tv",
   "supported_languages": [
-     "de"
+    "de"
   ],
   "social": {
     "web": "https://lunarie.tv",
     "twitter": "Lunarie_ttv",
-    "discord": "https://discord.gg/xCyctN6rVN",
+    "discord": "https://discord.com/invite/aXxt8Ds9RM",
     "tiktok": "lunarie_ttv",
     "instagram": "__Lunarie__",
     "youtube": "https://www.youtube.com/@lunarie_ttv"
@@ -19,22 +19,22 @@
   },
   "gamemodes": {
     "freebuild": {
-      "name": "Freebuild", 
-      "color": "#5bde3a",
-      "command": "/freebuild",
+      "name": "Citybuild",
+      "color": "#45aad1",
+      "command": "/citybuild",
       "versions": "1.20<*"
     },
     "pvp": {
-      "name": "PVP",
-      "color": "#dea543",
-      "command": "/pvp",
+      "name": "SkyPVP",
+      "color": "#43decd",
+      "command": "/skypvp",
       "versions": "1.20<*"
     }
   },
   "brand": {
-     "primary": "#6E167B",
-     "background": "#110B12",
-     "text": "#F2EBF3"
+    "primary": "#6E167B",
+    "background": "#110B12",
+    "text": "#F2EBF3"
   },
   "command_delay": 3000
 }
