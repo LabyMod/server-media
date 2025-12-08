@@ -1,0 +1,27 @@
+{
+  "server_name": "endermine",
+  "nice_name": "EnderMine",
+  "direct_ip": "endermine.de",
+  "supported_languages": [
+     "de"
+  ],
+  "social": {
+    "tiktok": "enderminenetwork",
+    "youtube": "https://www.youtube.com/@enderminenetwork",
+    "discord": "https://discord.gg/f4VZeR5xta"
+  },
+  "discord": {
+    "server_id": 1447135890706268212,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#818181",
+    "background": "#ffffff",
+    "text": "#000000"
+  },
+  "location": {
+     "city": "Eygelshoven",
+     "country": "Netherlands",
+     "country_code": "NL"
+   }
+}
