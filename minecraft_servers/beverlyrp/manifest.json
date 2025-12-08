@@ -6,10 +6,8 @@
     "de"
   ],
   "social": {
-    "web": "https://beverlyrp.de",
     "discord": "https://discord.gg/9DFDQPCtZH",
-    "youtube": "https://www.youtube.com/@IDSDdingsbums",
-    "teamspeak": "BeverlyRP.de"
+    "youtube": "https://www.youtube.com/@IDSDdingsbums"
   },
   "discord": {
     "server_id": 1174007616448512141,
@@ -21,5 +19,6 @@
     "country_code": "DE"
   }
 }
+
 
 
