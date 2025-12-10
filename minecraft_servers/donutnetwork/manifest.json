@@ -1,46 +1,26 @@
 {
   "server_name": "donutnetwork",
   "nice_name": "DonutNetwork",
-  "direct_ip": "donutnetwork.eu",
+  "direct_ip": "donutnetwork.xyz",
   "server_wildcards": [
-    "%.donutnetwork.eu"
+    "%.donutnetwork.xyz"
   ],
   "supported_languages": [
     "en"
   ],
   "social": {
-    "discord": "https://discord.gg/VanYssVURQ",
-    "youtube": "https://www.youtube.com/@DonutNetwork_eu"
+    "discord": "https://discord.gg/sayzAZSSBS",
+    "youtube": "https://www.youtube.com/@DonutNetworkXYZ"
   },
   "gamemodes": {
-    "clutches": {
-      "name": "Clutches",
+    "lifesteal": {
+      "name": "Lifesteal",
       "color": "#ff7b00",
-      "versions": "1.8<*"
-    },
-    "mlg-rush": {
-      "name": "MLG-Rush",
-      "color": "#ff7b00",
-      "versions": "1.8<*"
-    },
-    "fastbuilder": {
-      "name": "Fastbuilder",
-      "color": "#ff7b00",
-      "versions": "1.8<*"
-    },
-    "lets-knock": {
-      "name": "Lets-Knock",
-      "color": "#ff7b00",
-      "versions": "1.8<*"
-    },
-    "reducer": {
-      "name": "Reducer",
-      "color": "#ff7b00",
-      "versions": "1.8<*"
+      "versions": "1.21<*"
     }
   },
   "discord": {
-    "server_id": 1196849230585811085,
+    "server_id": 1441307129679188041,
     "rename_to_minecraft_name": false
   },
   "brand": {
