@@ -1,0 +1,10 @@
+{
+  "server_name": "lotoos",
+  "nice_name": "LoTooS",
+  "addresses": [
+    "lotoos.de"
+  ],
+  "server_wildcards": [
+    "%.lotoos.de"
+  ]
+}
