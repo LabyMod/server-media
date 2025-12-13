@@ -49,6 +49,11 @@
      "background": "#fcc800",
      "text": "#27272a"
   },
+  "location": {
+     "city": "Berlin",
+     "country": "Germany",
+     "country_code": "DE"
+  },
   "user_stats": "https://plantaria.net/stats/{userName}",
   "command_delay": 3000
 }

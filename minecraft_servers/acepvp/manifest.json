@@ -19,6 +19,11 @@
       "name": "KitPvP",
       "command": "/joinqueue KitPvP",
       "color": "#1be74b"
+    },
+    "event": {
+      "name": "Event",
+      "command": "/joinqueue Event",
+      "color": "#1be74b"
     }
   },
   "brand": {

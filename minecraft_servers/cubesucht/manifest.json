@@ -1,0 +1,13 @@
+{
+  "server_name": "cubesucht",
+  "nice_name": "CubeSucht",
+  "direct_ip": "cubesucht.wlabs.zip",
+  "supported_languages": [
+    "de"
+  ],
+  "brand": {
+    "primary": "#5398D2",
+    "background": "#5398D2",
+    "text": "#FFFFFF"
+  }
+}
