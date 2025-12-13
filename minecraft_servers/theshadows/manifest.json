@@ -5,6 +5,12 @@
   "supported_languages": [
     "es"
   ],
+    "server_wildcards": [
+    "play.theshadowsmc.xyz"
+    "java.theshadowsmc.xyz"
+    "np.theshadowsmc.xyz"
+    "mc.theshadowsmc.xyz"
+  ],
   "social": {
     "twitter": "theshadowsnet",
     "discord": "https://discord.gg/bNKXURxuya"
