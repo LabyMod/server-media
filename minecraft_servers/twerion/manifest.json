@@ -1,99 +1,105 @@
 {
-    "server_name": "twerion",
-    "nice_name": "Twerion Netzwerk",
-    "direct_ip": "twerion.net",
-    "server_wildcards": [
-        "%.twerion.net",
-        "%.twerion.de",
-        "%.twerion.com",
-        "%.twerion.eu",
-        "%.twerion.org",
-        "%.totking.de",
-        "%.totking.dev"
-    ],
-    "supported_languages": [
-        "de",
-        "en",
-        "ru"
-    ],
-    "social": {
-        "web": "https://www.twerion.net",
-        "web_shop": "https://shop.twerion.net",
-        "twitter": "twerionnetwork",
-        "tiktok": "twerionnetwork",
-        "instagram": "twerion_network",
-        "discord": "https://discord.gg/twerion",
-        "youtube": "https://www.youtube.com/@twerion",
-        "teamspeak": "ts.twerion.net"
+  "server_name": "twerion",
+  "nice_name": "Twerion Netzwerk",
+  "direct_ip": "twerion.net",
+  "server_wildcards": [
+    "%.twerion.net",
+    "%.twerion.de",
+    "%.twerion.com",
+    "%.twerion.eu",
+    "%.twerion.org",
+    "%.totking.de",
+    "%.totking.dev"
+  ],
+  "supported_languages": [
+    "de",
+    "en",
+    "ru"
+  ],
+  "social": {
+    "web": "https://www.twerion.net",
+    "web_shop": "https://shop.twerion.net",
+    "twitter": "twerionnetwork",
+    "tiktok": "twerionnetwork",
+    "instagram": "twerion_network",
+    "discord": "https://discord.gg/twerion",
+    "youtube": "https://www.youtube.com/@twerion",
+    "teamspeak": "ts.twerion.net"
+  },
+  "gamemodes": {
+    "kitrush": {
+      "name": "Kitrush",
+      "color": "#00AA00",
+      "command": "/play kitrush",
+      "versions": "1.21<*"
     },
-    "gamemodes": {
-        "skypvp": {
-            "name": "SkyPvP",
-            "color": "#AA0000",
-            "command": "/play skypvp",
-            "versions": "1.8<*"
-        },
-        "citybuild": {
-            "name": "CityBuild SMP",
-            "color": "#00AAAA",
-            "command": "/play citybuild",
-            "versions": "1.21<*"
-        },
-        "oneblock": {
-            "name": "OneBlock",
-            "color": "#5555FF",
-            "command": "/play oneblock",
-            "versions": "1.21<*"
-        },
-        "lifesteal": {
-            "name": "Lifesteal SMP",
-            "color": "#FF0000",
-            "command": "/play lifestealsmp",
-            "versions": "1.21<*"
-        },
-        "elytrapvp": {
-            "name": "ElytraPvP",
-            "color": "#AA00AA",
-            "command": "/play elytrapvp",
-            "versions": "1.21<*"
-        },
-        "bedwars": {
-            "name": "BedWars",
-            "color": "#FF5555",
-            "command": "/play bw",
-            "versions": "1.8<*"
-        },
-        "fastbuilders": {
-            "name": "FastBuilders",
-            "color": "#FFFF55",
-            "command": "/play fastbuilders",
-            "versions": "1.8<*"
-        },
-        "buildffa": {
-            "name": "BuildFFA",
-            "color": "#55FF55",
-            "command": "/play buildffa",
-            "versions": "1.8<*"
-        },
-        "practice": {
-            "name": "Practice",
-            "color": "#FF55FF",
-            "command": "/play practice",
-            "versions": "1.8<*"
-        }
+    "citybuild": {
+      "name": "CityBuild SMP",
+      "color": "#00AAAA",
+      "command": "/play citybuild",
+      "versions": "1.21<*"
     },
-    "discord": {
-        "server_id": 326789496525815800,
-        "rename_to_minecraft_name": false
+    "oneblock": {
+      "name": "OneBlock",
+      "color": "#5555FF",
+      "command": "/play oneblock",
+      "versions": "1.21<*"
     },
-    "brand": {
-        "primary": "#FFAA00",
-        "text": "#FFFFFF"
+    "lifesteal": {
+      "name": "Lifesteal SMP",
+      "color": "#FF0000",
+      "command": "/play lifestealsmp",
+      "versions": "1.21<*"
     },
-    "location": {
-        "city": "Frankfut am Main",
-        "country": "Germany",
-        "country_code": "DE"
+    "elytrapvp": {
+      "name": "ElytraPvP",
+      "color": "#AA00AA",
+      "command": "/play elytrapvp",
+      "versions": "1.21<*"
     },
-    "yt_trailer": "6xACbO1hHnA"
+    "bedwars": {
+      "name": "BedWars",
+      "color": "#FF5555",
+      "command": "/play bw",
+      "versions": "1.8<*"
+    },
+    "fastbuilders": {
+      "name": "FastBuilders",
+      "color": "#FFFF55",
+      "command": "/play fastbuilders",
+      "versions": "1.8<*"
+    },
+    "buildffa": {
+      "name": "BuildFFA",
+      "color": "#55FF55",
+      "command": "/play buildffa",
+      "versions": "1.8<*"
+    },
+    "practice": {
+      "name": "Practice",
+      "color": "#FF55FF",
+      "command": "/play practice",
+      "versions": "1.8<*"
+    },
+    "skypvp": {
+      "name": "SkyPvP",
+      "color": "#AA0000",
+      "command": "/play skypvp",
+      "versions": "1.8<*"
+    }
+  },
+  "discord": {
+    "server_id": 326789496525815800,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#FFAA00",
+    "text": "#FFFFFF"
+  },
+  "location": {
+    "city": "Frankfut am Main",
+    "country": "Germany",
+    "country_code": "DE"
+  },
+  "yt_trailer": "6xACbO1hHnA"
 }

@@ -68,7 +68,7 @@
       "command": "/gamejoin bedwars"
     },
     "skywars": {
-      "name": "skywars",
+      "name": "SkyWars",
       "color": "#00AA00",
       "command": "/gamejoin skywars"
     },
