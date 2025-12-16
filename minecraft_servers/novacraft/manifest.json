@@ -1,14 +1,14 @@
 {
-    "server_name": "novacraft",
-    "nice_name": "NovaCraft",
-    "direct_ip": "novacraftnc.net",
+    "server_name": "sytrex",
+    "nice_name": "Sytrex",
+    "direct_ip": "sytrex.net",
     "supported_languages": [
         "de"
     ],
     "social": {
-        "tiktok": "novacraftnc.net",
-        "discord": "https://discord.gg/2bjW9uhdfB",
-        "youtube": "https://youtube.com/novacraftnc_net"
+        "tiktok": "sytrex.net",
+        "discord": "https://discord.gg/GKfn8HhNMw",
+        "youtube": "https://youtube.com/sytrex_net"
     },
 	"gamemodes": {
 		"citybuild": {
@@ -17,15 +17,10 @@
 			"command": "/switch CB"
                 },
                 "ffa": {
-			"name": "SwitchFFA", 
+			"name": "FFA", 
 			"color": "#1ED600",
 			"command": "/ffa"
 		},
-                "survival": {
-			"name": "Survival", 
-			"color": "#1ED600",
-			"command": "/switch Survival"
-		}
 	},
     "location": {
         "city": "Falkenstein",
