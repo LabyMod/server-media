@@ -1,6 +1,6 @@
 {
-  "server_name": "dyemc",
-  "nice_name": "DYEMC",
+  "server_name": "dyemc.eu",
+  "nice_name": "DyeMC",
   "direct_ip": "dyemc.eu",
   "supported_languages": [
     "de"
@@ -16,11 +16,6 @@
     "smash": {
       "name": "Smash"
     }
-  },
-  "brand": {
-    "primary": "#4caf50",
-    "background": "#0b0f0c",
-    "text": "#FFFFFF"
   },
   "location": {
     "city": "Hessen",
