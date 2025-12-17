@@ -1,0 +1,33 @@
+{
+  "server_name": "dyemc",
+  "nice_name": "DYEMC",
+  "direct_ip": "dyemc.eu",
+  "server_wildcards": [
+    "%.dyemc.eu"
+  ],
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "web": "https://dyemc.eu",
+    "web_shop": "https://dyemceu.tebex.io/"
+  },
+  "gamemodes": {
+    "minecraftparty": {
+      "name": "MinecraftParty"
+    },
+    "smash": {
+      "name": "Smash"
+    }
+  },
+  "brand": {
+    "primary": "#4caf50",
+    "background": "#0b0f0c",
+    "text": "#FFFFFF"
+  },
+  "location": {
+    "city": "Hessen",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}
