@@ -1,0 +1,39 @@
+{
+  "server_name": "acepvp",
+  "nice_name": "AcePvP",
+  "direct_ip": "AcePvP.dk",
+  "supported_languages": [
+    "dk"
+  ],
+  "social": {
+    "web": "https://forum.acepvp.dk",
+    "web_shop": "https://butik.acepvp.dk",
+    "discord": "https://discord.gg/Ztb9gk3wJe",
+    "youtube": "https://www.youtube.com/channel/UCjpsPlveE7z7A_PXBhomD6w"
+  },
+  "discord": {
+    "server_id": 1400575105007882330
+  },
+  "gamemodes": {
+    "kitpvp": {
+      "name": "KitPvP",
+      "command": "/joinqueue KitPvP",
+      "color": "#1be74b"
+    },
+    "event": {
+      "name": "Event",
+      "command": "/joinqueue Event",
+      "color": "#1be74b"
+    }
+  },
+  "brand": {
+    "primary": "#1be74b",
+    "background": "#1be74b",
+    "text": "#ffffff"
+  },
+  "location": {
+    "city": "Frankfurt",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}
