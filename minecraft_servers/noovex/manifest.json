@@ -7,20 +7,8 @@
         "%.noovex.de"
     ],
     "gamemodes": {
-        "ffa": {
-            "name": "FFA",
-            "color": "#FFFFFF",
-            "command": "/server ffa",
-            "versions": "1.21.10"
-        },
-        "wintersmp": {
-            "name": "WinterSMP",
-            "color": "#FFFFFF",
-            "command": "/server wintersmp",
-            "versions": "1.21.10"
-        },
         "dungeon": {
-            "name": "Dungeon",
+            "name": "Open World Dungeon",
             "color": "#FFFFFF",
             "command": "/server dungeon",
             "versions": "1.21.10"
