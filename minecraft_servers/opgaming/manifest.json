@@ -3,7 +3,7 @@
   "nice_name": "opgamingeu",
   "direct_ip": "opgaming.eu",
   "server_wildcards": [
-    "193.187.255.41:20425"
+    "%.opgaming.eu"
   ],
   "supported_languages": [
     "de"
