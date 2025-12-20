@@ -3,7 +3,7 @@
   "nice_name": "opgamingeu",
   "direct_ip": "opgaming.eu",
   "server_wildcards": [
-    "%.play.opgaming.mine-hoster.de", "%.play.opgaming.mine-hoster.net"
+    "%.play.opgaming.eu"
   ],
   "supported_languages": [
     "de"
@@ -31,3 +31,4 @@
     "country_code": "DE"
   }
 }
+
