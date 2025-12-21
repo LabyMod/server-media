@@ -1,0 +1,27 @@
+{
+    "server_name": "sytrexnet",
+    "nice_name": "Sytrex Netzwerk",
+    "direct_ip": "sytrex.net",
+    "supported_languages": [
+        "de"
+    ],
+    "social": {
+        "tiktok": "sytrex.net",
+        "discord": "https://discord.gg/GKfn8HhNMw",
+        "youtube": "https://youtube.com/sytrex_net"
+    },
+    "gamemodes": {
+        "citybuild": {
+            "name": "Citybuild",
+            "color": "#1ED600"
+        },
+        "ffa": {
+            "name": "FFA",
+            "color": "#1ED600"
+        }
+    },
+    "location": {
+        "city": "Falkenstein",
+        "country": "Germany"
+    }
+}
