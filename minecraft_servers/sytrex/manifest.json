@@ -1,6 +1,6 @@
 {
     "server_name": "sytrexnet",
-    "nice_name": "Sytrexnet",
+    "nice_name": "sytrexnet",
     "direct_ip": "sytrex.net",
     "supported_languages": [
         "de"
@@ -25,4 +25,3 @@
         "country": "Germany"
     }
 }
-
