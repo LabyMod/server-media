@@ -1,16 +1,17 @@
 {
-    "server_name": "sytrexnet",
-    "nice_name": "Sytrex Netzwerk",
-    "direct_ip": "sytrex.net",
-    "supported_languages": [
-        "de"
-    ],
+  "server_name": "sytrexnet",
+  "nice_name": "SytrexNET Netzwerk",
+  "direct_ip": "sytrex.net",
+  "supported_languages": [
+     "en",
+     "de"
+  ],
     "social": {
         "tiktok": "sytrex.net",
         "discord": "https://discord.gg/GKfn8HhNMw",
         "youtube": "https://youtube.com/sytrex_net"
     },
-    "gamemodes": {
+      "gamemodes": {
         "citybuild": {
             "name": "Citybuild",
             "color": "#1ED600"
@@ -20,8 +21,19 @@
             "color": "#1ED600"
         }
     },
-    "location": {
-        "city": "Falkenstein",
-        "country": "Germany"
-    }
+  "discord": {
+    "server_id": 1388648233651142756,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#008FE8",
+     "background": "#0A56A5",
+     "text": "#FFFFFF"
+  }, 
+  "location": {
+     "city": "Frankfurt",
+     "country": "Germany",
+     "country_code": "DE"
+  },
+  "command_delay": 3000
 }
