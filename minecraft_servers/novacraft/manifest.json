@@ -10,18 +10,18 @@
         "discord": "https://discord.gg/GKfn8HhNMw",
         "youtube": "https://youtube.com/sytrex_net"
     },
-	"gamemodes": {
-		"citybuild": {
-			"name": "Citybuild", 
-			"color": "#1ED600",
-			"command": "/switch CB"
-                },
-                "ffa": {
-			"name": "FFA", 
-			"color": "#1ED600",
-			"command": "/ffa"
-		},
-	},
+    "gamemodes": {
+        "citybuild": {
+            "name": "Citybuild",
+            "color": "#1ED600",
+            "command": "/switch CB"
+        },
+        "ffa": {
+            "name": "FFA",
+            "color": "#1ED600",
+            "command": "/ffa"
+        }
+    },
     "location": {
         "city": "Falkenstein",
         "country": "Germany"
