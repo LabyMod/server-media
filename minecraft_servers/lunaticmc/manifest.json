@@ -3,8 +3,7 @@
     "nice_name": "LunaticMC Network",
     "direct_ip": "lunaticmc.net",
     "server_wildcards": [
-      "%.lunaticmc.net",
-      "%.lunaticmc.com"
+      "%.lunaticmc.net"
     ],
     "supported_languages": [
       "es"
@@ -40,8 +39,8 @@
     },
     "location": {
       "city": "Virginia",
-      "country": "Estados Unidos",
-      "country_code": "EE.UU"
+      "country": "United States",
+      "country_code": "US"
     },
     "discord": {
       "server_id": 1451438367022514291,
