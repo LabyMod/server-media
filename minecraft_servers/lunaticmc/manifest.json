@@ -2,14 +2,10 @@
     "server_name": "lunaticmc",
     "nice_name": "LunaticMC Network",
     "direct_ip": "lunaticmc.net",
-    "server_wildcards": [
-      "%.lunaticmc.net"
-    ],
     "supported_languages": [
       "es"
     ],
     "social": {
-      "web": "https://lunaticmc.net",
       "web_shop": "https://lunaticmc.tebex.io",
       "twitter": "LunaticMC",
       "discord": "https://discord.gg/9WuEUAM2cW"
