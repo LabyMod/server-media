@@ -1,0 +1,42 @@
+{
+  "server_name": "ecorealms",
+  "nice_name": "EcoRealms",
+  "direct_ip": "ecorealms.de",
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "discord": "https://discord.com/invite/jRsKRxJDeH"
+  },
+  "discord": {
+    "server_id": 1292564031768625255,
+    "rename_to_minecraft_name": false
+  },
+  "gamemodes": {
+    "survival": {
+      "name": "Nature Survival",
+      "color": "#eca643",
+      "versions": "1.21.8"
+    },
+    "citybuild": {
+      "name": "Citybuild",
+      "color": "#eca643",
+      "versions": "1.21.10"
+    }
+  },
+  "brand": {
+    "primary": "#eca643",
+    "background": "#ff55ff",
+    "text": "#ffffff"
+  },
+  "chat": {
+    "message_formats": [
+      "<rank> • §7<sender> §8-> §7<message>"
+    ]
+  },
+  "location": {
+    "city": "Frankfurt",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+} 
