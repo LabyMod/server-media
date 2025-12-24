@@ -13,15 +13,15 @@
   "gamemodes": {
     "oneblock": {
       "name": "OneBlock",
-      "color": "#03AB88",
+      "color": "#03AB88"
     },
     "survie": {
       "name": "Survie",
-      "color": "#228000",
+      "color": "#228000"
     },
     "skyblock": {
       "name": "Skyblock",
-      "color": "#8C356D",
+      "color": "#8C356D"
     }
   },
   "discord": {
