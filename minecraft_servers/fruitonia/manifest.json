@@ -1,0 +1,36 @@
+{
+  "server_name": "fruitonia",
+  "nice_name": "Fruitonia",
+  "direct_ip": "fruitonia.net",
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "web": "https://fruitonia.net",
+    "twitter": "fruitonianet",
+    "discord": "https://discord.com/invite/Nd6Hm46dRw",
+    "tiktok": "fruitonianet",
+    "youtube": "https://www.youtube.com/@fruitonianet"
+  },
+  "gamemodes": {
+    "citybuild": {
+      "name": "CityBuild", 
+      "color": "#9B5FF6",
+      "versions": "1.21.5<*"
+    }
+  },
+  "discord": {
+    "server_id": 1333091663568175144,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#9B5FF6",
+    "background": "#C6C6C6",
+    "text": "#ffffff"
+  },
+  "location": {
+    "city": "Heide",
+    "country": "Germany",
+    "country_code": "DE"
+ }
+}
