@@ -1,11 +1,12 @@
 {
   "server_name": "xenoverse_roleplay",
-  "nice_name": "XenovaCity.de",
+  "nice_name": "XenoVerse Roleplay",
   "direct_ip": "xenovacity.de",
   "supported_languages": [
      "de"
   ],
   "social": {
+    "web": "https://xenovacity.de",
     "instagram": "xenoverse_roleplay",
     "discord": "https://discord.gg/upmaVT84J4"
   },
