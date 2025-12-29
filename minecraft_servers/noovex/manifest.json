@@ -3,14 +3,13 @@
     "nice_name": "Noovex",
     "direct_ip": "noovex.net",
     "server_wildcards": [
-        "%.noovex.net",
-        "%.noovex.de"
+        "%.wintersmp.de"
     ],
     "gamemodes": {
-        "dungeon": {
-            "name": "Open World Dungeon",
+        "smp": {
+            "name": "SMP",
             "color": "#FFFFFF",
-            "command": "/server dungeon",
+            "command": "/server smp",
             "versions": "1.21.11"
         }
     },
