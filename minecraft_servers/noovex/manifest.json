@@ -1,6 +1,6 @@
 {
-    "server_name": "noovex",
-    "nice_name": "Noovex",
+    "server_name": "wintersmp",
+    "nice_name": "Wintersmp",
     "direct_ip": "wintersmp.de",
     "server_wildcards": [
         "%.wintersmp.de"
