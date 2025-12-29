@@ -7,7 +7,7 @@
     ],
     "gamemodes": {
         "smp": {
-            "name": "SMP",
+            "name": "smp",
             "color": "#FFFFFF",
             "command": "/server smp",
             "versions": "1.21.11"
