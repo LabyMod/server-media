@@ -4,9 +4,7 @@
   "direct_ip": "surnex.net",
   "server_wildcards": [
     "%.surnex.net",
-    "surnex.de",
     "%.surnex.de",
-    "truayt.de",
     "%.truayt.de"
   ],
   "supported_languages": [
@@ -16,7 +14,7 @@
     "web": "https://surnex.net",
     "tiktok": "surnex.net",
     "instagram": "surnex.net",
-    "discord": "https://discord.gg/gUSqrM3YNa",
+    "discord": "https://discord.gg/Y9VcUbqsxS",
     "youtube": "https://www.youtube.com/@SurnexNET"
   },
   "discord": {
