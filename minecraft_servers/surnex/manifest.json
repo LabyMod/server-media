@@ -2,11 +2,6 @@
   "server_name": "surnex",
   "nice_name": "SurnexNET",
   "direct_ip": "surnex.net",
-  "server_wildcards": [
-    "%.surnex.net",
-    "%.surnex.de",
-    "%.truayt.de"
-  ],
   "supported_languages": [
     "de"
   ],
