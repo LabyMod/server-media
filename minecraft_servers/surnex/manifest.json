@@ -1,10 +1,13 @@
 {
   "server_name": "surnex",
-  "nice_name": "Surnex",
+  "nice_name": "SurnexNET",
   "direct_ip": "surnex.net",
   "server_wildcards": [
+    "%.surnex.net",
     "surnex.de",
-    "truayt.de"
+    "%.surnex.de",
+    "truayt.de",
+    "%.truayt.de"
   ],
   "supported_languages": [
     "de"
@@ -28,18 +31,18 @@
   "gamemodes": {
     "citybuild": {
       "name": "CityBuild",
-      "color": "#55FF55",
-      "versions": "1.20.1<*"
+      "color": "#00FF3B",
+      "versions": "1.21.11<*"
     },
-    "ttt": {
-      "name": "TTT",
-      "color": "#FF5555",
-      "versions": "1.20.1<*"
-    },
-    "skywars": {
-      "name": "SkyWars",
-      "color": "#5555FF",
-      "versions": "1.20.1<*"
+    "knockit": {
+      "name": "KnockIT",
+      "color": "#00FF3B",
+      "versions": "1.21.11<*"
     }
+  },
+  "brand": {
+    "primary": "#00FF3B",
+    "background": "#00FF3B",
+    "text": "#ffffff"
   }
 }
