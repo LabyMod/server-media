@@ -13,6 +13,10 @@
     "web": "https://barukosmp.xyz",
     "web_shop": "https://barukosmp.xyz/shop",
     "web_support": "https://barukosmp.xyz/support",
+    "twitter": "LabyMod",
+    "tiktok": "LabyMod",
+    "facebook": "LabyMod",
+    "instagram": "LabyMod",
     "discord": "https://discord.gg/baruko",
     "youtube": "https://www.youtube.com/channel/UCSamgE1KYvC7qZn56T0J2yg",
     "teamspeak": "ts.barukosmp.xyz"
@@ -23,7 +27,7 @@
       "color": "#00FF06",
       "url": "https://barukosmp.xyz/smp",
       "command": "/quickjoin jumpworld16",
-      "versions": "1.17+"
+      "versions": "1.17<*"
     }
   },
   "chat": {
@@ -32,7 +36,7 @@
     ]
   },
   "discord": {
-    "server_id": "1423627921104437282",
+    "server_id": 1423627921104437282,
     "rename_to_minecraft_name": false
   },
   "brand": {
