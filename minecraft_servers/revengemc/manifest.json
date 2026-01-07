@@ -1,18 +1,14 @@
 {
-  "server_name": "revenge",
-  "nice_name": "Revenge",
+  "server_name": "revengemc",
+  "nice_name": "RevengeMC",
   "direct_ip": "jogar.revengemc.com.br",
-  "server_wildcards": [
-    "%.jogar.revengemc.com.br",
-    "%.revengemc.com"
-  ],
   "supported_languages": [
     "pt"
   ],
   "social": {
     "web": "https://revengemc.com.br",
     "web_shop": "https://loja.revengemc.com.br/loja",
-    "discord": "https://discord.gg/revengemc"
+    "discord": "https://discord.revengemc.com.br/"
   },
   "gamemodes": {
     "hg": {
@@ -42,5 +38,4 @@
     "country": "Brasil",
     "country_code": "BR"
   },
-  "user_stats": "https://revengemc.com.br/player/{userName}"
 }
