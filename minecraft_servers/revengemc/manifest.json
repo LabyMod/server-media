@@ -1,0 +1,46 @@
+{
+  "server_name": "revenge",
+  "nice_name": "Revenge",
+  "direct_ip": "jogar.revengemc.com.br",
+  "server_wildcards": [
+    "%.jogar.revengemc.com.br",
+    "%.revengemc.com"
+  ],
+  "supported_languages": [
+    "pt"
+  ],
+  "social": {
+    "web": "https://revengemc.com.br",
+    "web_shop": "https://loja.revengemc.com.br/loja",
+    "discord": "https://discord.gg/revengemc"
+  },
+  "gamemodes": {
+    "hg": {
+      "name": "HG",
+      "color": "#FF0055",
+      "url": "https://revengemc.com.br/g/hg",
+      "command": "/play hg"
+    },
+    "champion": {
+      "name": "Champion",
+      "color": "#77FF00",
+      "url": "https://revengemc.com.br/g/champion",
+      "command": "/play champion"
+    }
+  },
+  "discord": {
+    "server_id": 1405235989848391731,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#E8006C",
+    "background": "#A6004D",
+    "text": "#FFFFFF"
+  },
+  "location": {
+    "city": "São Paulo",
+    "country": "Brasil",
+    "country_code": "BR"
+  },
+  "user_stats": "https://revengemc.com.br/player/{userName}"
+}
