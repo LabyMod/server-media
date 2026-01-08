@@ -3,7 +3,7 @@
     "nice_name": "Noovex",
     "direct_ip": "wintersmp.de",
     "server_wildcards": [
-        "mc.wintersmp.de"
+        "wintersmp.de"
     ],
     "gamemodes": {
         "smp": {
