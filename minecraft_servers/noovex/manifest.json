@@ -10,7 +10,7 @@
             "name": "smp",
             "color": "#FFFFFF",
             "command": "/server smp",
-            "versions": "1.21.11"
+            "versions": "1.21"
         }
     },
     "discord": {
