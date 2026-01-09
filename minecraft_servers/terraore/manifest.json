@@ -1,0 +1,23 @@
+{
+    "server_name": "terraore",
+    "nice_name": "TerraOre",
+    "direct_ip": "terraore.de",
+    "server_wildcards": [
+        "Play.TerraOre.de"
+    ],
+    "supported_languages": [
+        "de"
+    ],
+    "social": {
+        "web": "https://www.terraore.de/",
+        "discord": "https://discord.gg/MJS7cRV8Mp"
+    },
+    "discord": {
+        "server_id": 1180200068867960923
+    },
+    "location": {
+    "city": "Falkenstein",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}
