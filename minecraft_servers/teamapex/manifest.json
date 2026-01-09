@@ -1,0 +1,39 @@
+{
+  "server_name": "teamapex",
+  "nice_name": "TeamApex",
+  "direct_ip": "teamapex.de",
+  "server_wildcards": [
+    "%.teamapex.de",
+    "%.playapex.de"
+  ],
+  "supported_languages": [
+    "en",
+    "de"
+  ],
+  "social": {
+    "web": "https://www.teamapex.de",
+    "web_shop": "https://www.teamapex.de/shop",
+    "discord": "https://discord.gg/D2pJEUJ55x"
+  },
+  "discord": {
+    "server_id": 1450976689415917754,
+    "rename_to_minecraft_name": false
+  },
+  "gamemodes": {
+    "getdown": {
+      "name": "GetDown",
+      "color": "#00AAAA",
+      "command": "/game-teleport getdown"
+    },
+    "luckywars": {
+      "name": "QSG",
+      "color": "#55FF55",
+      "command": "/game-teleport qsg"
+    },
+    "luckyrace": {
+      "name": "SurvivalGames",
+      "color": "#00AA00",
+      "command": "/game-teleport sg"
+    }
+  }
+}
