@@ -9,18 +9,16 @@
      "de"
   ],
   "social": {
-#    "web": "https://crafterworld.de",
     "tiktok": "https://www.tiktok.com/@crafterworldde",
     "instagram": "https://instagram.com/crafterworldde",
     "discord": "https://discord.gg/s4YZ9RbH3a",
     "youtube": "https://www.youtube.com/@CrafterWorldde",
-    "teamspeak": "ts.crafterworld.de"
+    "teamspeak": "crafterworld.de"
   },
   "gamemodes": {
     "citybuild": {
       "name": "CityBuild", 
       "color": "#29943C",
- #     "url": "https://crafterworld.de",
       "versions": "1.9<*"
     }
   },
