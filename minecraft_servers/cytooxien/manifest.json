@@ -40,18 +40,6 @@
       "url": "https://cytooxien.de/de/wiki/skyblock-intro",
       "versions": "1.21<*"
     },
-    "reallife": {
-      "name": "Reallife",
-      "command": "/server reallife",
-      "color": "#ffc300",
-      "versions": "1.21<*"
-    },
-    "citybuild": {
-      "name": "City SMP",
-      "command": "/server citybuild",
-      "color": "#ffc300",
-      "versions": "1.21<*"
-    },
     "realms": {
       "name": "Realms",
       "color": "#ffc300",

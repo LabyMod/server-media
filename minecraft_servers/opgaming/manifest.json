@@ -1,0 +1,33 @@
+{
+  "server_name": "opgaming",
+  "nice_name": "opgamingeu",
+  "direct_ip": "opgaming.eu",
+  "server_wildcards": [
+  ],
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "discord": "https://discord.gg/hqcFEqeQQH",
+    "teamspeak": "opgaming.eu"
+  },
+  "chat": {
+    "message_formats": [
+      "^(|§8»\\n)(§[a-f0-9]§?l?(?<rank>\\S+))§r §8\\| §7(?<sender>[a-zA-Z0-9_]{2,16})§r §8» §7(?<message>.*)(|\\n§8»)$"
+    ]
+  },
+  "discord": {
+    "server_id": 1357999170803335178
+  },
+  "brand": {
+    "primary": "#0095ed",
+    "background": "#00182e",
+    "text": "#ffffff"
+  },
+  "location": {
+    "city": "Frankfurt",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}
+
