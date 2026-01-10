@@ -10,10 +10,10 @@
   ],
   "social": {
     "web": "https://crafterworld.de",
-    "tiktok": "https://www.tiktok.com/@crafterworld",
-    "instagram": "https://instagram.com/crafterworld.de",
+    "tiktok": "https://www.tiktok.com/@crafterworldde",
+    "instagram": "https://instagram.com/crafterworldde",
     "discord": "https://discord.gg/s4YZ9RbH3a",
-    "youtube": "https://www.youtube.com/@CrafterWorld-de",
+    "youtube": "https://www.youtube.com/@CrafterWorldde",
     "teamspeak": "ts.crafterworld.de"
   },
   "gamemodes": {
@@ -21,7 +21,7 @@
       "name": "CityBuild", 
       "color": "#29943C",
       "url": "https://crafterworld.de",
-      "versions": "1.17<*"
+      "versions": "1.9<*"
     }
   },
   "chat": {
@@ -43,5 +43,6 @@
      "country": "Germany",
      "country_code": "DE"
   },
+  "yt_trailer": "qm3edyM6Kec",
   "command_delay": 3000
 }
