@@ -9,7 +9,7 @@
      "de"
   ],
   "social": {
-    "web": "https://crafterworld.de",
+#    "web": "https://crafterworld.de",
     "tiktok": "https://www.tiktok.com/@crafterworldde",
     "instagram": "https://instagram.com/crafterworldde",
     "discord": "https://discord.gg/s4YZ9RbH3a",
@@ -20,7 +20,7 @@
     "citybuild": {
       "name": "CityBuild", 
       "color": "#29943C",
-      "url": "https://crafterworld.de",
+ #     "url": "https://crafterworld.de",
       "versions": "1.9<*"
     }
   },
