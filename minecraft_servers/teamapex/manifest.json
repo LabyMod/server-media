@@ -25,12 +25,12 @@
       "color": "#00AAAA",
       "command": "/game-teleport getdown"
     },
-    "luckywars": {
+    "qsg": {
       "name": "QSG",
       "color": "#55FF55",
       "command": "/game-teleport qsg"
     },
-    "luckyrace": {
+    "sg": {
       "name": "SurvivalGames",
       "color": "#00AA00",
       "command": "/game-teleport sg"
