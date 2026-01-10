@@ -1,0 +1,27 @@
+{
+    "server_name": "opmine",
+    "nice_name": "OPMine",
+    "direct_ip": "opmine.de",
+    "supported_languages": [
+       "de"
+    ],
+    "social": {
+      "discord": "https://discord.gg/opmine"
+    },
+    "gamemodes": {
+      "cb1": {
+        "name": "CB",
+        "color": "#E8B50F",
+        "command": "/cb1"
+      }
+    },
+    "discord": {
+      "server_id": 1437874011731394692,
+      "rename_to_minecraft_name": false
+    },
+    "location": {
+      "city": "Frankfurt",
+      "country": "Germany",
+      "country_code": "DE"
+    }
+  }
