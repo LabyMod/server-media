@@ -2,14 +2,12 @@
   "server_name": "crafterworld",
   "nice_name": "CrafterWorld",
   "direct_ip": "crafterworld.de",
-  "supported_languages": [
-     "de"
-  ],
+  "supported_languages": ["de"],
   "social": {
     "tiktok": "crafterworld.de",
     "instagram": "crafterworldde",
     "discord": "https://discord.gg/s4YZ9RbH3a",
-    "youtube": "CrafterWorldde",
+    "youtube": "https://www.youtube.com/channel/UCAdH8-P2N75lm2-mrDsriDg",
     "teamspeak": "crafterworld.de"
   },
   "gamemodes": {
@@ -20,8 +18,7 @@
     }
   },
   "discord": {
-    "server_id": 1262124425164230727,
-    "rename_to_minecraft_name": false
+    "server_id": "1262124425164230727"
   },
   "brand": {
      "primary": "#29943C",
@@ -34,5 +31,4 @@
      "country_code": "DE"
   },
   "yt_trailer": "qm3edyM6Kec",
-  "command_delay": 3000
 }
