@@ -3,7 +3,7 @@
   "nice_name": "SwayNight",
   "direct_ip": "play.swaynight.fr",
   "server_wildcards": [
-    "*.swaynight.fr"
+    "%.swaynight.fr"
   ],
   "supported_languages":[
     "fr"
