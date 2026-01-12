@@ -14,6 +14,13 @@
     "discord": "https://discord.gg/s4YZ9RbH3a",
     "youtube": "https://www.youtube.com/channel/UCAdH8-P2N75lm2-mrDsriDg",
   },
+  "gamemodes": {
+    "citybuild": {
+      "name": "Citybuild", 
+      "color": "#5454FC",
+      "versions": "1.9<*"
+    }
+ },
   "discord": {
     "server_id": "1262124425164230727"
     "rename_to_minecraft_name": false
