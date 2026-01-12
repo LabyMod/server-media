@@ -22,11 +22,6 @@
       "name": "Oneblock",
       "command": "/joinq Oneblock",
       "color":"#25d836"
-    },
-    "creatif": {
-      "name": "Créatif",
-      "command": "/joinq Creatif",
-      "color":"#fce100"
     }
   },
   "discord": {
