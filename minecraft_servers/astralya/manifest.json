@@ -2,17 +2,19 @@
   "server_name": "astralya",
   "nice_name": "Astralya",
   "direct_ip": "play.astralya.fr",
-  "server_wildcards": [],
+  "server_wildcards": [
+    "*.astralya.fr"
+  ],
   "supported_languages":[
     "fr"
   ],
   "social": {
     "web": "https://astralya.fr",
-    "web_support": "https://discord.com/invite/astralya",
+    "web_support": "https://wiki.walyverse.fr",
     "twitter": "Walyverse",
     "instagram": "walyverse",
     "youtube": "https://www.youtube.com/@walyverse",
-    "discord": "https://discord.com/invite/astralya",
+    "discord": "https://discord.gg/astralya",
     "tiktok":"Walyverse"
   },
   "gamemodes": {
