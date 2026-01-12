@@ -2,9 +2,7 @@
   "server_name": "astralya",
   "nice_name": "Astralya",
   "direct_ip": "play.astralya.fr",
-  "server_wildcards": [
-    "%.astralya.fr"
-  ],
+  "server_wildcards": [],
   "supported_languages":[
     "fr"
   ],
@@ -26,7 +24,7 @@
   },
   "discord": {
     "server_id": 709415515533082724,
-    "rename_to_minecraft_name": true
+    "rename_to_minecraft_name": false
   },
   "command_delay": 5000
 }
