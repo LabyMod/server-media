@@ -22,11 +22,6 @@
       "name": "Survie",
       "command": "/joinq Survie",
       "color":"#25d836"
-    },
-    "creatif": {
-      "name": "Créatif",
-      "command": "/joinq Creatif",
-      "color":"#fb8528"
     }
   },
   "discord": {
