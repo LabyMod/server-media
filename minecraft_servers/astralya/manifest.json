@@ -2,9 +2,7 @@
   "server_name": "astralya",
   "nice_name": "Astralya",
   "direct_ip": "play.astralya.fr",
-  "server_wildcards": [
-    "%.astralya.fr"
-  ],
+  "server_wildcards": [],
   "supported_languages":[
     "fr"
   ],
