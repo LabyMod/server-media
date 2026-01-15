@@ -4,7 +4,7 @@
   "direct_ip": "voidspire.de",
 
   "server_wildcards": [
-    "%.voidspire.de"
+    "voidspire.de"
   ],
 
   "supported_languages": [
@@ -49,6 +49,6 @@
   },
 
   "yt_trailer": "",
-  "user_stats": "https://laby.net/@{userName}",
+  "user_stats": "",
   "command_delay": 2000
 }
