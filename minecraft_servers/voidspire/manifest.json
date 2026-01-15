@@ -1,0 +1,54 @@
+{
+  "server_name": "voidspire",
+  "nice_name": "Voidspire",
+  "direct_ip": "voidspire.de",
+
+  "server_wildcards": [
+    "%.voidspire.de"
+  ],
+
+  "supported_languages": [
+    "de"
+  ],
+
+  "social": {
+    "discord": "https://discord.gg/Hb6hEZVatG",
+    "youtube": "https://www.youtube.com/@voidspirede"
+  },
+
+  "gamemodes": {
+    "smp": {
+      "name": "Survival SMP",
+      "color": "#A020F0",
+      "command": "/smp",
+      "versions": "1.21<*"
+    }
+  },
+
+  "chat": {
+    "message_formats": [
+      "^.*§8\\| §f(?<sender>[a-zA-Z0-9_]{2,16})§7: §r(?<message>.*)$"
+    ]
+  },
+
+  "discord": {
+    "server_id": "1434993280613089310",
+    "rename_to_minecraft_name": false
+  },
+
+  "brand": {
+    "primary": "#8A2BE2",
+    "background": "#1B0F24",
+    "text": "#FFFFFF"
+  },
+
+  "location": {
+    "city": "Berlin",
+    "country": "Germany",
+    "country_code": "DE"
+  },
+
+  "yt_trailer": "",
+  "user_stats": "https://laby.net/@{userName}",
+  "command_delay": 2000
+}
