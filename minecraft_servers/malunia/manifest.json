@@ -1,0 +1,15 @@
+{
+  "server_name": "malunia",
+  "nice_name": "MaluniaDE",
+  "direct_ip": "malunia.de",
+  "supported_languages": [
+    "en",
+    "de"
+  ],
+  "social": {
+    "discord": "https://discord.malunia.de",
+    "youtube": "https://youtube.malunia.de",
+    "tiktok": "https://tiktok.malunia.de",
+    "instagram": "https://instagram.malunia.de"
+  }
+}
