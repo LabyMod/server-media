@@ -18,22 +18,27 @@
   "gamemodes": {
     "academy": {
       "name": "Academy",
+      "color": "#fc8403",
       "command": "/play academy"
     },
     "hardcoregames": {
       "name": "HardcoreGames",
+      "color": "#fc8403",
       "command": "/play hg"
     },
     "duels": {
       "name": "Duels",
+      "color": "#fc8403",
       "command": "/play duels"
     },
     "pvp": {
       "name": "PvP",
+      "color": "#fc8403",
       "command": "/play pvp"
     },
     "clanxclan": {
       "name": "CxC",
+      "color": "#fc8403",
       "command": "/play cxc"
     }
   },
