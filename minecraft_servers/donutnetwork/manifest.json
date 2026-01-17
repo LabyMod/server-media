@@ -24,6 +24,11 @@
       "color": "#ff7b00",
       "versions": "1.8<*"
     },
+    "bedwars": {
+      "name": "BedWars",
+      "color": "#ff7b00",
+      "versions": "1.8<*"
+    },
     "reducer": {
       "name": "Reducer",
       "color": "#ff7b00",
@@ -39,8 +44,8 @@
      "background": "#535353"
   },
   "location": {
-    "city": "Eygelshoven",
-    "country": "Netherlands",
+    "city": "Frankfurt",
+    "country": "Germany",
     "country_code": "DE"
   }
 }
