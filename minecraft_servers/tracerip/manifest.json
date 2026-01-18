@@ -2,9 +2,6 @@
   "server_name": "tracerip",
   "nice_name": "mc.trace.rip",
   "direct_ip": "trace.rip",
-  "server_wildcards": [
-    "mc.trace.rip", "mc.searchub.vip", "searchub.vip"
-  ],
   "supported_languages": [ "en" ],
   "social": {
     "web": "https://mc.trace.rip",
