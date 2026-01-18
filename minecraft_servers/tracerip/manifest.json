@@ -26,7 +26,7 @@
   "gamemodes": {
     "anarchy": {
       "name": "Anarchy",
-      "color": "#a855f7",
+      "color": "#fc4332",
       "versions": "1.10<*"
     }
   }
