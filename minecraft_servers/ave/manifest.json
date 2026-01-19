@@ -1,0 +1,48 @@
+{
+  "server_name": "ave",
+  "nice_name": "AVE",
+  "direct_ip": "ave.rip",
+  "server_wildcards": [
+    "%.ave.rip"
+  ],
+  "supported_languages": [
+     "de"
+  ],
+  "social": {
+    "web": "https://www.ave.rip",
+    "web_shop": "https://store.ave.rip",
+    "twitter": "https://x.com/averip_network",
+    "discord": "https://discord.gg/HXSgxcVYtB"
+  },
+  "gamemodes": {
+    "skywars": {
+      "name": "SkyWars", 
+      "color": "#009013",
+      "versions": "1.21<*"
+    },
+    "gungame": {
+      "name": "GunGame",
+      "color": "#009013",
+      "versions": "1.21<*"
+    },
+    "capture": {
+      "name": "Capture",
+      "color": "#009013",
+      "versions": "1.21<*"
+    }
+  },
+  "discord": {
+    "server_id": 1193988253712400487,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#009013",
+     "background": "#ffffff",
+     "text": "#FFFFFF"
+  }, 
+  "location": {
+     "city": "Frankfurt am Main",
+     "country": "Germany",
+     "country_code": "DE"
+  }
+}
