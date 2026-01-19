@@ -27,7 +27,7 @@
     "anarchy": {
       "name": "Anarchy",
       "color": "#fc4332",
-      "versions": "1.10<*"
+      "versions": "1.7<*"
     }
   }
 }
