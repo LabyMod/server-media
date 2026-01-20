@@ -9,10 +9,10 @@
     "de"
   ],
   "social": {
-    "tiktok": "crafterworld.de",
-    "instagram": "crafterworldde",
-    "discord": "https://discord.gg/s4YZ9RbH3a",
-    "youtube": "https://www.youtube.com/channel/UCAdH8-P2N75lm2-mrDsriDg",
+    "tiktok": "crafterworld.de"
+    "instagram": "crafterworldde"
+    "discord": "https://discord.gg/s4YZ9RbH3a"
+    "youtube": "https://www.youtube.com/channel/UCAdH8-P2N75lm2-mrDsriDg"
   },
   "gamemodes": {
     "citybuild": {
@@ -31,9 +31,9 @@
      "text": "#FFFFFF"
   }, 
   "location": {
-     "city": "Falkenstein",
-     "country": "Germany",
+     "city": "Falkenstein"
+     "country": "Germany"
      "country_code": "DE"
   },
-  "yt_trailer": "qm3edyM6Kec",
+  "yt_trailer": "qm3edyM6Kec"
 }
