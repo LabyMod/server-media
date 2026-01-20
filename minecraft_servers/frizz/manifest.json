@@ -2,9 +2,6 @@
   "server_name": "frizz",
   "nice_name": "FrizzMC",
   "direct_ip": "frizzmc.com",
-  "server_wildcards": [
-    "%.frizzmc.com"
-  ],
   "supported_languages": [
     "pt-BR",
     "pt-PT",
@@ -53,6 +50,7 @@
     "text": "#FFFFFF"
   },
   "location": {
+    "city": "São Paulo",
     "country": "Brazil",
     "country_code": "BR"
   },
