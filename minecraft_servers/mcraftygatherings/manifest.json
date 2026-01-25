@@ -1,9 +1,9 @@
 {
-    "server_name": "mcraftygatherings",
-    "nice_name": "MCraftyGatherings",
-    "direct_ip": "play.mcraftygatherings.com",
+    "server_name": "mcrafty",
+    "nice_name": "MCrafty",
+    "direct_ip": "mcrafty.co",
     "server_wildcards": [
-      "%.mcraftygatherings.com"
+      "%.mcrafty.co"
     ],
     "social": {
         "twitter": "MCGatherings",
@@ -12,64 +12,29 @@
         "youtube": "https://www.youtube.com/@MCraftyGatherings"
     },
     "gamemodes": {
-        "binguete": {
-            "name": "Binguete",
+        "survival": {
+            "name": "Survival",
             "color": "#FFB347",
             "versions": "1.20.1>*"
         },
-        "thetowers": {
-            "name": "The Towers",
+        "ffa": {
+            "name": "FFA",
             "color": "#1E90FF",
-            "versions": "1.20.1>*"
+            "versions": "1.21>*"
         },
-        "uhc": {
-            "name": "UHC",
+        "sandbox": {
+            "name": "Sandbox",
             "color": "#FF4500",
-            "versions": "1.20.1>*"
+            "versions": "1.21>*"
         },
-        "dungeons": {
-            "name": "Dungeons",
+        "duels": {
+            "name": "Duels/Practice",
             "color": "#8A2BE2",
-            "versions": "1.20.1>*"
+            "versions": "1.21>*"
         },
-        "showdowncards": {
-            "name": "Showdown Cards",
+        "minijuegos": {
+            "name": "Minijuegos Semanales",
             "color": "#FFD700",
-            "versions": "1.20.1>*"
-        },
-        "hungergames": {
-            "name": "Hunger Games",
-            "color": "#228B22",
-            "versions": "1.20.1>*"
-        },
-        "deadlyscape": {
-            "name": "Deadly Scape",
-            "color": "#DC143C",
-            "versions": "1.20.1>*"
-        },
-        "theminedingofisaac": {
-            "name": "The Mineding of Isaac",
-            "color": "#708090",
-            "versions": "1.20.1>*"
-        },
-        "derrocaalrey": {
-            "name": "¡Derroca al Rey!",
-            "color": "#DAA520",
-            "versions": "1.20.1>*"
-        },
-        "randomania": {
-            "name": "Randomanía",
-            "color": "#FF69B4",
-            "versions": "1.20.1>*"
-        },
-        "warborneshooters": {
-            "name": "Warborne Shooters",
-            "color": "#2F4F4F",
-            "versions": "1.20.1>*"
-        },
-        "dms": {
-            "name": "Dungeons Modo Supervivencia",
-            "color": "#20B2AA",
             "versions": "1.20.1>*"
         }
     },
