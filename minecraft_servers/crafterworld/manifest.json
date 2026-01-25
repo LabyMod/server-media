@@ -2,9 +2,6 @@
   "server_name": "crafterworld",
   "nice_name": "CrafterWorld",
   "direct_ip": "crafterworld.de",
-    "server_wildcards": [
-    "%.crafterworld.de"
-  ],
   "supported_languages": [
     "de"
   ],
