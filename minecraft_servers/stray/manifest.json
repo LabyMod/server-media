@@ -3,8 +3,6 @@
   "nice_name": "Stray PvP",
   "direct_ip": "stray.gg",
   "server_wildcards": [
-    "eu.stray.gg",
-    "as.stray.gg",
     "%.stray.gg"
   ],
   "social": {
