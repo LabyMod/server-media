@@ -19,7 +19,6 @@
       "command": "/cb",
       "versions": "1.21.1<*"
     },
-
     "farmwelt": {
       "name": "Farmwelt", 
       "color": "#FFA500",
