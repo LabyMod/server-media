@@ -1,0 +1,49 @@
+{
+  "server_name": "advancius",
+  "nice_name": "Advancius Network",
+  "direct_ip": "mc.advancius.net",
+  "server_wildcards": [
+    "%.advancius.net"
+  ],
+  "supported_languages": [
+    "en"
+  ],
+  "social": {
+    "web": "https://advancius.net",
+    "web_shop": "https://store.advancius.net",
+    "web_support": "https://advancius.net/appeal",
+    "twitter": "AdvanciusMC",
+    "tiktok": "AdvanciusMC",
+    "instagram": "AdvanciusMC",
+    "discord": "https:/discord.gg/advancius",
+    "youtube": "https://www.youtube.com/@AdvanciusMC"
+  },
+  "gamemodes": {
+    "et": {
+      "name": "EarthTowny",
+      "command": "/et"
+    },
+    "sb": {
+      "name": "SkyBlock",
+      "command": "/sb"
+    },
+    "sur": {
+      "name": "Survival",
+      "command": "/sur"
+    },
+    "pri": {
+      "name": "Prison",
+      "command": "/pri"
+    }
+  },
+  "discord": {
+    "server_id": 424091464063254500,
+    "rename_to_minecraft_name": false
+  },
+  "location": {
+    "city": "Montreal",
+    "country": "Canada",
+    "country_code": "CA"
+  },
+  "yt_trailer": "sKwwYsOiXeQ"
+}
