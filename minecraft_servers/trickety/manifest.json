@@ -16,7 +16,7 @@
   },
   "discord": {
     "server_id": 1161291998100205580,
-    "rename_to_minecraft_name": true
+    "rename_to_minecraft_name": false
   },
   "gamemodes": {
     "uhcgames": {
