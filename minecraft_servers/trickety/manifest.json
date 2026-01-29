@@ -48,11 +48,11 @@
       "name": "Worlds",
       "color": "#55FF55",
       "versions": "1.21<*"
-    },
-    "location": {
-      "city": "Frankfurt",
-      "country": "Germany",
-      "country_code": "DE"
     }
+  },
+  "location": {
+    "city": "Frankfurt",
+    "country": "Germany",
+    "country_code": "DE"
   }
 }
