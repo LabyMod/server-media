@@ -3,12 +3,16 @@
   "nice_name": "McHeroes",
   "direct_ip": "mcheroes.net",
   "social": {
-    "discord": "https://discord.gg/spmqx4kbTr"
+    "discord": "https://discord.gg/jfkD2MH5tD",
+    "web_shop": "https://mcheroes.paynow.store",
+    "twitter": "playmcheroes",
+    "instagram": "playmcheroes",
+    "tiktok": "playmcheroes",
+    "youtube": "https://www.youtube.com/@playmcheroes"
   },
   "brand": {
     "primary": "#001414",
-    "background": "#00a9ff",
-    "text": "#000000"
+    "background": "#00a9ff"
   },
   "gamemodes": {
     "home": {
@@ -21,5 +25,10 @@
     "city": "Frankfurt",
     "country": "Germany",
     "country_code": "DE"
-  }
+  },
+  "discord": {
+    "server_id": 1369284957838643200,
+    "rename_to_minecraft_name": false
+  },
+  "yt_trailer": "NSHJR0r2Kws"
 }
