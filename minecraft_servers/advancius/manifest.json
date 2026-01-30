@@ -15,24 +15,6 @@
     "discord": "https://discord.gg/Re3zZWRC",
     "youtube": "https://www.youtube.com/@AdvanciusMC"
   },
-  "gamemodes": {
-    "et": {
-      "name": "EarthTowny",
-      "command": "/et"
-    },
-    "sb": {
-      "name": "SkyBlock",
-      "command": "/sb"
-    },
-    "sur": {
-      "name": "Survival",
-      "command": "/sur"
-    },
-    "pri": {
-      "name": "Prison",
-      "command": "/pri"
-    }
-  },
   "discord": {
     "server_id": 424091464063254500,
     "rename_to_minecraft_name": false
