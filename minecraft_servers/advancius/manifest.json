@@ -2,9 +2,6 @@
   "server_name": "advancius",
   "nice_name": "Advancius Network",
   "direct_ip": "mc.advancius.net",
-  "server_wildcards": [
-    "%.advancius.net"
-  ],
   "supported_languages": [
     "en"
   ],
