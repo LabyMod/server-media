@@ -3,13 +3,7 @@
   "nice_name": "Craftportal",
   "direct_ip": "craftportal.net",
   "supported_languages": [
-    "de",
-    "at",
-    "ch",
-    "en",
-    "ru",
-    "es",
-    "it"
+    "de"
   ],
   "social": {
     "twitter": "craftportal_net",
@@ -41,7 +35,7 @@
     "text": "#FFFFFF"
   },
   "location": {
-    "city": "Frankfurt",
+    "city": "Bielefeld",
     "country": "Germany",
     "country_code": "DE"
   },
