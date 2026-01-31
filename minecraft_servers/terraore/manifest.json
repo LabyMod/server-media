@@ -9,6 +9,14 @@
         "web": "https://www.terraore.de",
         "discord": "https://discord.gg/qqRKDWHXYT"
     },
+    "gamemodes": {
+        "earthsmp": {
+        "name": "Earth-SMP", 
+        "color": "#FFA500",
+        "command": "/server earth",
+        "versions": "1.21.8<*"
+        }
+  },
     "discord": {
         "server_id": 1180200068867960923
     },
