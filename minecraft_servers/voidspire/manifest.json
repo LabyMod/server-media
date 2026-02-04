@@ -2,12 +2,8 @@
   "server_name": "voidspire",
   "nice_name": "Voidspire",
   "direct_ip": "voidspire.de",
-  "server_wildcards": [
-    "%.voidspire.de"
-  ],
   "supported_languages": [
-    "de",
-    "en"
+    "de"
   ],
   "social": {
     "discord": "https://discord.gg/Hb6hEZVatG"
@@ -21,7 +17,7 @@
     }
   },
   "discord": {
-    "server_id": 0,
+    "server_id": 1385722612281380955,
     "rename_to_minecraft_name": false
   },
   "brand": {
