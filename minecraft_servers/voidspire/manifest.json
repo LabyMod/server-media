@@ -3,14 +3,13 @@
   "server_name": "Voidspire",
   "server_description": "Voidspire ist ein deutscher SMP-Minecraft-Server mit Fokus auf Community, Stabilität und einem fairen Survival-Erlebnis.",
   "server_ip": "voidspire.de",
-  "server_location": "DE",
+  "server_location": "Austria",
   "minecraft_versions": [
     "1.21",
     "1.21.1"
   ],
   "links": {
-    "discord": "https://discord.gg/Hb6hEZVatG",
-    "youtube": "https://www.youtube.com/@voidspirede"
+    "discord": "https://discord.gg/Hb6hEZVatG"
   },
   "gamemodes": [
     {
