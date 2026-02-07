@@ -1,0 +1,53 @@
+{
+  "server_name": "mineorg",
+  "nice_name": "MineOrg",
+  "direct_ip": "play.mineorg.fr",
+  "server_wildcards": [
+    "%.mineorg.fr"
+  ],
+  "supported_languages": [
+    "fr"
+  ],
+  "social": {
+    "web": "https://mineorg.fr",
+    "tiktok": "mineorgmc",
+    "youtube": "https://www.youtube.com/@mineorgmc",
+    "discord": "https://discord.gg/G77qRMRnTJ"
+  },
+  "gamemodes": {
+    "bedwars": {
+      "name": "BedWars",
+      "color": "#00BFFF",
+      "command": "/bedwars"
+    },
+    "sheepwars": {
+      "name": "PvP",
+      "color": "#00BFFF",
+      "command": "/sw"
+    },
+    "teamfight": {
+      "name": "TeamFight",
+      "color": "#00BFFF",
+      "command": "/tf"
+    },
+    "duel": {
+      "name": "Duel",
+      "color": "#00BFFF",
+      "command": "/duel"
+  },
+  "discord": {
+    "server_id": 1455191758165119010,
+    "rename_to_minecraft_name": false
+  },
+  "location": {
+    "city": "Paris",
+    "country": "France",
+    "country_code": "FR"
+  },
+  "brand": {
+    "primary": "#00BFFF",
+    "background": "#0000FF",
+    "text": "#FFFFFF"
+  },
+  "yt_trailer": ""
+}
