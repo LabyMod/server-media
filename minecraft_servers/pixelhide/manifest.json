@@ -2,14 +2,11 @@
   "server_name": "pixelhide",
   "nice_name": "PixelHide",
   "direct_ip": "pixelhide.net",
-  "server_wildcards": [
-    "pixelhide.net"
-  ],
   "supported_languages": [
     "de"
   ],
   "social": {
-    "web": "https://www.pixelhide.net",
+    "web": "http://www.pixelhide.net",
     "discord": "https://discord.gg/nzg6gbUsUm",
     "youtube": "https://www.youtube.com/channel/UCkkQLi_gCaim1FNHzTjNG6g"
   },
@@ -26,7 +23,7 @@
     "rename_to_minecraft_name": false
   },
   "brand": {
-    "primary": "##7700ff",
+    "primary": "#7700ff",
     "background": "#335fff",
     "text": "#FFFFFF"
   },
