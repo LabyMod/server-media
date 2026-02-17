@@ -1,0 +1,16 @@
+{
+  "server_name": "ShySMP",
+  "nice_name": "shysmp.de",
+  "direct_ip": "shysmp.de",
+  "supported_languages": [
+    "de"
+  ],
+  "brand": {
+    "primary": "#c300ff"
+  },
+  "location": {
+    "city": "Berlin",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}
