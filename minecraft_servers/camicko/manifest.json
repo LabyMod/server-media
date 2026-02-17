@@ -1,18 +1,18 @@
 {
-  "server_name": "camicko",
-  "nice_name": "Camicko",
-  "direct_ip": "play.camicko.fr",
+  "server_name": "mineorg",
+  "nice_name": "MineOrg",
+  "direct_ip": "play.mineorg.fr",
   "server_wildcards": [
-    "%.camicko.fr"
+    "%.mineorg.fr"
   ],
   "supported_languages": [
     "fr"
   ],
   "social": {
-    "web": "https://minecraft.camicko.fr",
-    "tiktok": "camicko_",
-    "youtube": "https://www.youtube.com/@camicko_mc",
-    "discord": "https://discord.gg/m9wwxPaFBx"
+    "web": "https://mineorg.fr",
+    "tiktok": "mineorgmc",
+    "youtube": "https://www.youtube.com/@mineorgmc",
+    "discord": "https://discord.gg/G77qRMRnTJ"
   },
   "gamemodes": {
     "bedwars": {
@@ -20,19 +20,24 @@
       "color": "#00BFFF",
       "command": "/bedwars"
     },
-    "pvp": {
+    "sheepwars": {
       "name": "PvP",
       "color": "#00BFFF",
-      "command": "/pvp"
+      "command": "/sw"
     },
-    "blocami": {
-      "name": "Blocami",
+    "teamfight": {
+      "name": "TeamFight",
       "color": "#00BFFF",
-      "command": "/blocami"
+      "command": "/tf"
+    },
+    "duel": {
+      "name": "Duel",
+      "color": "#00BFFF",
+      "command": "/duel"
     }
   },
   "discord": {
-    "server_id": 1415189095721734176,
+    "server_id": 1455191758165119010,
     "rename_to_minecraft_name": false
   },
   "location": {
@@ -45,5 +50,5 @@
     "background": "#0000FF",
     "text": "#FFFFFF"
   },
-  "yt_trailer": "k5rtJIDN1RM"
+  "yt_trailer": ""
 }
