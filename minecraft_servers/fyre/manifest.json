@@ -1,0 +1,35 @@
+{
+  "server_name": "fyre",
+  "nice_name": "FyreMC",
+  "direct_ip": "fyremc.com.br",
+  "supported_languages": [
+    "pt-BR",
+    "pt-PT"
+  ],
+  "social": {
+    "web_shop": "https://loja.fyremc.com.br",
+    "tiktok": "fyremc.com.br",
+    "youtube": "https://www.youtube.com/@fyremcoficial",
+    "discord": "https://discord.gg/tsQCetAe5e"
+  },
+  "gamemodes": {
+    "hg": {
+      "name": "Hunger Games",
+      "command": "/play hg",
+      "color": "#D14141"
+	},
+  },
+  "brand": {
+    "primary": "#7beaf7",
+    "background": "#1369dd",
+    "text": "#FFFFFF"
+  },
+  "location": {
+    "city": "São Paulo",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  "discord": {
+    "server_id": 1317595616142037084,
+    "rename_to_minecraft_name": false
+  },
