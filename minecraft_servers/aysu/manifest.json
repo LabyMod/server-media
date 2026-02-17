@@ -1,0 +1,34 @@
+{
+  "server_name": "aysu",
+  "nice_name": "Aysu",
+  "direct_ip": "aysu.tv",
+  "gamemodes": {
+    "school": {
+      "name": "School",
+      "color": "#9f00aa",
+      "command": "/join-server School"
+    },
+    "luckyeggwars": {
+      "name": "LuckyEggWars",
+      "color": "#5ed932",
+      "command": "/join-server LuckyEggWars"
+    },
+    "luckyjump": {
+      "name": "LuckyJump",
+      "color": "#5ed932",
+      "command": "/join-server LuckyJump"
+    },
+    "luckyskywars": {
+      "name": "LuckySkyWars",
+      "color": "#5ed932",
+      "command": "/join-server LuckySkyWars"
+    }
+  },
+  "discord": {
+    "server_id": 846108243507544104,
+    "rename_to_minecraft_name": false
+  },
+  "social": {
+    "discord": "https://discord.com/invite/E6C8HVvxeV"
+  }
+}
