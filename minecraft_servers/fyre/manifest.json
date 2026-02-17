@@ -3,8 +3,7 @@
   "nice_name": "FyreMC",
   "direct_ip": "fyremc.com.br",
   "supported_languages": [
-    "pt-BR",
-    "pt-PT"
+    "pt-BR"
   ],
   "social": {
     "web_shop": "https://loja.fyremc.com.br",
@@ -33,3 +32,4 @@
     "server_id": 1317595616142037084,
     "rename_to_minecraft_name": false
   },
+},
