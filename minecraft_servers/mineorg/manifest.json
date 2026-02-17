@@ -34,6 +34,7 @@
       "name": "Duel",
       "color": "#00BFFF",
       "command": "/duel"
+    }
   },
   "discord": {
     "server_id": 1455191758165119010,
@@ -50,3 +51,4 @@
     "text": "#FFFFFF"
   },
   "yt_trailer": ""
+}
