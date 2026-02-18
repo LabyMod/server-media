@@ -2,12 +2,10 @@
   "server_name": "lythrion",
   "nice_name": "Lythrion",
   "direct_ip": "lythrion.net",
-  "server_wildcards": [
-    "%.lythrion.net",
-    "%.lythrion.de"
+  "ip_aliases": [
+    "lythrion.de"
   ],
   "social": {
-    "web": "https://lythrion.net",
     "discord": "https://discord.gg/akM4pUPycV"
   }
 }
