@@ -1,0 +1,23 @@
+{
+  "server_name": "buildoria",
+  "nice_name": "Buildoria",
+  "direct_ip": "buildoria.de",
+  "server_wildcards": [
+    "%.buildoria.de"
+  ],
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "web": "https://buildoria.de"
+  },
+  "brand": {
+    "primary": "#E9760E",
+    "background": "#521600",
+    "text": "#FFFFFF"
+  },
+  "location": {
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}
