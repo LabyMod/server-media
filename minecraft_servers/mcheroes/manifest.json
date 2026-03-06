@@ -15,9 +15,9 @@
     "background": "#00a9ff"
   },
   "gamemodes": {
-    "home": {
-      "name": "My Home",
-      "command": "/home",
+    "heroesroyale": {
+      "name": "Heroes Royale",
+      "command": "/games",
       "color": "#FFFFFF"
     }
   },
