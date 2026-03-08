@@ -1,0 +1,32 @@
+{
+    "server_name": "ethicbuilds",
+    "nice_name": "EthicBuilds.de",
+    "direct_ip": "ethicbuilds.de",
+    "supported_languages": [
+        "de"
+    ],
+    "social": {
+        "web": "https://www.ethicbuilds.de",
+        "discord": "https://discord.gg/qDbJ8dMx45"
+    },
+    "gamemodes": {
+        "45x45": {
+            "name": "45x45",
+            "command": "/server 1_21",
+            "versions": "1.21.4",
+            "color": "#FFFFFF"
+        },
+        "32x32": {
+            "name": "32x32",
+            "command": "/server 1_8",
+            "versions": "1.21.4",
+            "color": "#FFFFFF"
+        },
+        "500x500": {
+            "name": "500x500",
+            "command": "/server 500",
+            "versions": "1.21.4",
+            "color": "#FFFFFF"
+        }
+    }
+}

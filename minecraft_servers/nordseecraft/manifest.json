@@ -12,10 +12,12 @@
   "gamemodes": {
     "freebuild": {
       "name": "Freebuild", 
+      "command": "/warp freebuild",
       "color": "#3ede87"
     },
     "citybuild": {
       "name": "Citybuild", 
+      "command": "/warp gs",
       "color": "#3edec2"
     }
   },

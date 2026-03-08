@@ -1,0 +1,38 @@
+{
+  "server_name": "sulfurmc",
+  "nice_name": "SulfurMC Network",
+  "direct_ip": "play.sulfurmc.eu",
+  "supported_languages": ["it"],
+  "social": {
+    "web": "https://store.sulfurmc.eu",
+    "discord": "https://discord.gg/ZuN7FscCXC",
+    "tiktok": "sulfurmcofficial_eu",
+    "instagram": "sulfurmc.eu"
+  },
+  "gamemodes": {
+    "hyperlands": {
+      "name": "Hyperlands",
+      "color": "#FFA500",
+      "command": "/server hyperlands"
+    },
+    "krothasium": {
+      "name": "krothasium",
+      "color": "#32CD32",
+      "command": "/server krothasium"
+    },
+     "lifesteal": {
+      "name": "lifesteal",
+      "color": "#FF4500",
+      "command": "/server lifesteal"
+    }
+  },
+  "discord": {
+    "server_id": 1177720568448032888,
+    "rename_to_minecraft_name": false
+  },
+"brand": {
+  "primary": "#FFA500",  
+  "background": "#CC7000",   
+  "text": "#FFFFFF"          
+}
+}

@@ -1,0 +1,31 @@
+{
+  "server_name": "lyndara",
+  "nice_name": "Lyndara",
+  "direct_ip": "lyndara.net",
+  "supported_languages": ["de", "en"],
+  "social": {
+    "web": "https://lyndara.net",
+    "shop": "https://shop.lyndara.net",
+    "discord": "https://discord.gg/lyndara",
+    "tiktok": "lyndaranet",
+    "youtube": "https://www.youtube.com/@lyndaranet"
+  },
+  "gamemodes": {
+    "cb": {
+      "name": "CityBuild",
+      "command": "/server citybuild",
+      "color": "#00AAAA",
+      "versions": "1.21.4"
+    }
+  },
+  "brand": {
+    "primary": "#5adaa0",
+    "background": "#00000",
+    "text": "#d2e0e0"
+  },
+  "location": {
+    "city": "München",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}

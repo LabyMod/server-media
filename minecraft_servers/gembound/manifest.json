@@ -1,0 +1,27 @@
+{
+  "server_name": "gembound",
+  "nice_name": "GemBound",
+  "direct_ip": "play.gembound.net",
+  "supported_languages": [
+    "en"
+  ],
+  "social": {
+    "discord": "https://discord.gg/PczcnDU3d7"
+  },
+  "gamemodes": {
+    "skyblock": {
+      "name": "Skyblock",
+      "command": "/server skyblock",
+      "versions": "1.20<*",
+      "color": "#b6ff38"
+    }
+  },
+  "discord": {
+    "server_id": 1340463126482784256
+  },
+  "location": {
+    "city": "Toronto",
+    "country": "Canada",
+    "country_code": "CA"
+  }
+}
