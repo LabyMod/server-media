@@ -15,7 +15,7 @@
       "name": "CityBuild",
       "color": "#00ffb3",
       "command": "/server CityBuild",
-      "versions": "1.13<1.21.11"
+      "versions": "1.21.8<1.21.11"
     }
   },
   "discord": {
@@ -28,9 +28,9 @@
     "text": "#FFFFFF"
   },
   "location": {
-    "city": "Frankfurt",
+    "city": "Falkenstein",
     "country": "Germany",
     "country_code": "DE"
   },
-  "yt_trailer": "OKOxl6tDguw"
+  "yt_trailer": "LFdXT-xSR8M"
 }
