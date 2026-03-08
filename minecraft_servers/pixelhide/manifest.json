@@ -10,14 +10,6 @@
     "discord": "https://discord.gg/nzg6gbUsUm",
     "youtube": "https://www.youtube.com/channel/UCkkQLi_gCaim1FNHzTjNG6g"
   },
-  "gamemodes": {
-    "citybuild": {
-      "name": "CityBuild",
-      "color": "#00ffb3",
-      "command": "/server CityBuild",
-      "versions": "1.21.8<1.21.11"
-    }
-  },
   "discord": {
     "server_id": 1432310028647534600,
     "rename_to_minecraft_name": false
