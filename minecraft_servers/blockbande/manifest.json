@@ -20,6 +20,11 @@
       "name": "CityBuild",
       "color": "#55FF55",
       "versions": "1.21.4"
+    },
+    "smp": {
+      "name": "SMP",
+      "color": "##42F590",
+      "versions": "1.21.4"
     }
   },
   "location": {
