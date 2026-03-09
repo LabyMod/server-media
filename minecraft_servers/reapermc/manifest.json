@@ -7,5 +7,10 @@
   },
   "discord": {
     "server_id": "1426490166335377431"
+  },
+  "brand": {
+    "primary": "#31C6FF",
+    "background": "#121317",
+    "text": "#FFFFFF"
   }
 }
