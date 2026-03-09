@@ -1,0 +1,17 @@
+{
+  "nice_name": "Reaper MC",
+  "direct_ip": "play.reapermc.in",
+  "social": {
+    "web": "https://reapermc.in",
+    "web_shop": "https://shop.reapermc.in",
+    "discord": "https://discord.gg/7ngpkdsT9t"
+  },
+  "discord": {
+    "server_id": "1426490166335377431"
+  },
+  "brand": {
+    "primary": "#31C6FF",
+    "background": "#121317",
+    "text": "#FFFFFF"
+  }
+}
