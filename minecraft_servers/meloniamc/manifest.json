@@ -18,8 +18,8 @@
     "crystal_legends": {
       "name": "Crystal Legends",
       "color": "#8D32E7",
-      "url": "https://guide.meloniamc.net/games#crystal-legends",
-      "command": "/game crystal-legends",
+      "url": "https://guide.meloniamc.net/games/crystal-legends",
+      "command": "/game teleport crystal-legends",
       "versions": "1.17<1.21.11"
     }
   },
