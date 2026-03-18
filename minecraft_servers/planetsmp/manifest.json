@@ -2,16 +2,13 @@
   "server_name": "planetsmp",
   "nice_name": "PlanetSMP",
   "direct_ip": "planetsmp.com",
-  "server_wildcards": [
-    "%.planetsmp.com"
-  ],
   "supported_languages": [
      "de"
   ],
   "social": {
-    "web": "https://www.planetsmp.com",
+    "web": "https://planetsmp.com",
     "instagram": "planetsmp_com",
-    "discord": "discord.planetsmp.com",
+    "discord": "https://discord.gg/CsPYzym5XU",
     "youtube": "https://www.youtube.com/@PlanetSMPcom"
   },
   "gamemodes": {
@@ -20,15 +17,6 @@
       "color": "#57C785",
       "command": "/quickjoin EarthSMP"
     }
-  },
-  "chat": {
-    "message_formats": [
-      "^§[a-f0-9](?<level>\\d+)( \\||§8 \\|) §[a-f0-9](?<sender>[a-zA-Z0-9_]{2,16})§r§7: §f(?<message>.*)$"
-    ]
-  },
-  "discord": {
-    "server_id": 0,
-    "rename_to_minecraft_name": false
   },
   "brand": {
      "primary": "#57C785",
@@ -39,6 +27,5 @@
      "country": "Germany",
      "country_code": "DE"
   },
-  "user_stats": "https://laby.net/@{userName}",
   "command_delay": 3000
 }
