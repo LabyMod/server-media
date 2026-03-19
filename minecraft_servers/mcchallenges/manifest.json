@@ -1,5 +1,5 @@
 {
-  "server_name": "mc-challenges",
+  "server_name": "mcchallenges",
   "nice_name": "mc-challenges.de",
   "direct_ip": "mc-challenges.de",
   "server_wildcards": [
@@ -15,7 +15,7 @@
   },
    "discord": {
     "server_id": 1467664074719363165,
-    "rename_to_minecraft_name": true
+    "rename_to_minecraft_name": false
   },
   "location": {
     "city": "Munich",
