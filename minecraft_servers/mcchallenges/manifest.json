@@ -9,6 +9,10 @@
     "de",
     "en"
   ],
+  "social": {
+    "web": "https://mc-challenges.de/",
+    "discord": "https://discord.gg/psht6smC9e"
+  },
    "discord": {
     "server_id": 1467664074719363165,
     "rename_to_minecraft_name": true
