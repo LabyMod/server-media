@@ -2,9 +2,6 @@
   "server_name": "buildoria",
   "nice_name": "Buildoria",
   "direct_ip": "buildoria.de",
-  "server_wildcards": [
-    "%.buildoria.de"
-  ],
   "supported_languages": [
     "de"
   ],
