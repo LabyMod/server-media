@@ -11,8 +11,6 @@
   ],
   "social": {
     "web": "https://www.playexile.net",
-    "web_shop": "https://www.playexile.net/shop",
-    "web_support": "https://www.playexile.net/support",
     "discord": "https://discord.gg/np6t5kdbZV"
   },
   "gamemodes": {
@@ -41,6 +39,5 @@
      "country": "Saudi Arabia",
      "country_code": "SA"
   },
-  "user_stats": "https://PlayExile.net/player/@{uuid}",
   "command_delay": 3000
 }
