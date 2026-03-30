@@ -33,7 +33,7 @@
         "name": "Duels",
         "versions": "1.21<*",
         "color": "#2ecc71"
-      },
+      }
     },
     "discord": {
       "server_id": 1457455188825739428,
