@@ -1,51 +1,53 @@
 {
-    "server_name": "derolf",
-    "nice_name": "DerOlf",
-    "direct_ip": "derolf.de",
-    "server_wildcards": [
-      "derolf.net"
-    ],
-    "supported_languages": [
-       "en",
-       "de"
-    ],
-    "social": {
-      "discord": "https://discord.gg/mz74fxkeBP"
+  "server_name": "derolf",
+  "nice_name": "DerOlf",
+  "direct_ip": "derolf.de",
+  "server_wildcards": [
+    "%.derolf.de",
+    "%.derolf.net",
+    "derolf.net"
+  ],
+  "supported_languages": [
+    "en",
+    "de"
+  ],
+  "social": {
+    "discord": "https://discord.gg/mz74fxkeBP"
+  },
+  "gamemodes": {
+    "smp": {
+      "name": "SMP",
+      "versions": "1.21<*",
+      "color": "#2ecc71"
     },
-    "gamemodes": {
-      "smp": {
-        "name": "SMP", 
-        "versions": "1.21<*",
-        "color": "#2ecc71"
-      },
-      "creative": {
-        "name": "Creative", 
-        "versions": "1.21<*",
-        "color": "#2ecc71"
-      },
-      "bedwars": {
-        "name": "Bedwars", 
-        "versions": "1.21<*",
-        "color": "#2ecc71"
-      },
-      "duels": {
-        "name": "Duels",
-        "versions": "1.21<*",
-        "color": "#2ecc71"
-      }
+    "creative": {
+      "name": "Creative",
+      "versions": "1.21<*",
+      "color": "#2ecc71"
     },
-    "discord": {
-      "server_id": 1457455188825739428,
-      "rename_to_minecraft_name": false
+    "bedwars": {
+      "name": "Bedwars",
+      "versions": "1.21<*",
+      "color": "#2ecc71"
     },
-    "brand": {
-       "primary": "#08a8f8",
-       "background": "#7F00FF",
-       "text": "#FFFFFF"
-    }, 
-    "location": {
-       "city": "Frankfurt am Main",
-       "country": "Germany",
-       "country_code": "DE"
+    "duels": {
+      "name": "Duels",
+      "versions": "1.21<*",
+      "color": "#2ecc71"
     }
+  },
+  "discord": {
+    "server_id": "1314352136002736148",
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#08a8f8",
+    "background": "#7F00FF",
+    "text": "#FFFFFF"
+  },
+  "location": {
+    "city": "Frankfurt am Main",
+    "country": "Germany",
+    "country_code": "DE"
   }
+}
