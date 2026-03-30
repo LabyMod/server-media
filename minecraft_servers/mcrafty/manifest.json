@@ -32,6 +32,11 @@
             "color": "#8A2BE2",
             "versions": "1.21>*"
         },
+        "showdown_cards": {
+            "name": "Showdown Cards",
+            "color": "#D197E6",
+            "versions": "1.20.1>*"
+        },
         "minijuegos": {
             "name": "Minijuegos Semanales",
             "color": "#FFD700",
