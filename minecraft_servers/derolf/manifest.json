@@ -11,9 +11,6 @@
     "en",
     "de"
   ],
-  "social": {
-    "discord": "https://discord.gg/mz74fxkeBP"
-  },
   "gamemodes": {
     "smp": {
       "name": "SMP",
@@ -35,6 +32,9 @@
       "versions": "1.21<*",
       "color": "#2ecc71"
     }
+  },
+  "social": {
+    "discord": "https://discord.gg/mz74fxkeBP"
   },
   "discord": {
     "server_id": "1457455188825739428",
