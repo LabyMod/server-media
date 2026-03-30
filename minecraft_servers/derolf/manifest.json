@@ -3,8 +3,6 @@
   "nice_name": "DerOlf",
   "direct_ip": "derolf.de",
   "server_wildcards": [
-    "%.derolf.de",
-    "%.derolf.net",
     "derolf.net"
   ],
   "supported_languages": [
