@@ -1,0 +1,27 @@
+{
+  "server_name": "enderpearl",
+  "nice_name": "enderpearl.de",
+  "direct_ip": "enderpearl.de",
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "web": "https://enderpearl.de",
+    "discord": "https://discord.gg/7j7bP9pgN5"
+  },
+  "chat": {
+    "message_formats": [
+      "^(?:(?:§|&)[0-9a-f](?:§?l)?(?<rank>.+?)\\s)?(?:(?:§|&)[0-9a-f](?:§?l)?(?<sender>[A-Za-z0-9_]{2,32}))\\s(?:&|§)6→(?:&|§)7\\s(?<message>.*)$"
+    ]
+  },
+  "brand": {
+    "primary": "#29FB08",
+    "background": "#1A9107",
+    "text": "#ffffff"
+  },
+  "location": {
+    "city": "Munich",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}

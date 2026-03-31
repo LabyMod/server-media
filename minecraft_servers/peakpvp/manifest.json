@@ -1,0 +1,29 @@
+{
+  "server_name": "peakpvp",
+  "nice_name": "PeakPvP",
+  "direct_ip": "peakpvp.net",
+  "supported_languages": ["en"],
+  "social": {
+    "web_shop": "https://store.peakpvp.net",
+    "discord": "https://discord.gg/peakpvp"
+  },
+  "gamemodes": {
+    "practice": {
+      "name": "Practice",
+      "color": "#3B9BDF"
+    }
+  },
+  "discord": {
+    "server_id": 1390563970682978386
+  },
+  "brand": {
+    "primary": "#3B9BDF",
+    "background": "#1A1A2E",
+    "text": "#ffffff"
+  },
+  "location": {
+    "city": "New York",
+    "country": "United States",
+    "country_code": "US"
+  }
+}

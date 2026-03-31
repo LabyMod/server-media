@@ -1,0 +1,93 @@
+{
+  "server_name": "kindome",
+  "nice_name": "Kindome",
+  "direct_ip": "kindo.me",
+  "yt_trailer": "D6gfzixYpJk",
+  "server_wildcards": [
+    "%.kindo.me",
+    "%.kindome.com.br"
+  ],
+  "supported_languages": [
+    "pt"
+  ],
+  "social": {
+    "web": "https://kindome.com.br",
+    "web_shop": "https://kindome.com.br/loja",
+    "twitter": "KindomeNetwork",
+    "tiktok": "KindomeNetwork",
+    "instagram": "KindomeNetwork",
+    "discord": "https://discord.gg/7egjH9B9B5",
+    "youtube": "https://www.youtube.com/@KindomeNetwork"
+  },
+  "gamemodes": {
+    "megaluckyblock": {
+      "name": "MegaLuckyBlock",
+      "color": "#ce7e00",
+      "url": "https://kindome.com.br/minigames/MegaLuckyBlock",
+      "command": "/mg MegaLuckyBlock"
+    },
+    "luckyblockrace": {
+      "name": "LuckyBlockRace",
+      "color": "#33d6ff",
+      "url": "https://kindome.com.br/minigames/LuckyBlockRace",
+      "command": "/mg LuckyBlockRace"
+    },
+    "minechange": {
+      "name": "MineChange",
+      "color": "#7cff4a",
+      "url": "https://kindome.com.br/minigames/MineChange",
+      "command": "/mg MineChange"
+    },
+    "skywars": {
+      "name": "SkyWars",
+      "color": "#8fa8ff",
+      "url": "https://kindome.com.br/minigames/SkyWars",
+      "command": "/mg SkyWars"
+    },
+    "buildbattle": {
+      "name": "BuildBattle",
+      "color": "#ff5bc6",
+      "url": "https://kindome.com.br/minigames/BuildBattle",
+      "command": "/mg BuildBattle"
+    },
+    "quadriball": {
+      "name": "Quadriball",
+      "color": "#ffd34a",
+      "url": "https://kindome.com.br/minigames/Quadriball",
+      "command": "/mg Quadriball"
+    },
+    "bedwars": {
+      "name": "BedWars",
+      "color": "#ff4a4a",
+      "url": "https://kindome.com.br/minigames/BedWars",
+      "command": "/mg BedWars"
+    },
+    "towers": {
+      "name": "Towers",
+      "color": "#a96bff",
+      "url": "https://kindome.com.br/minigames/Towers",
+      "command": "/mg Towers"
+    },
+    "woolwars": {
+      "name": "WoolWars",
+      "color": "#37ffb5",
+      "url": "https://kindome.com.br/minigames/WoolWars",
+      "command": "/mg WoolWars"
+    }
+  },
+  "discord": {
+    "server_id": 528337704858026025,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#822aac",
+    "background": "#3f0d57",
+    "text": "#FFFFFF"
+  },
+  "location": {
+    "city": "São Paulo",
+    "country": "Brasil",
+    "country_code": "BR"
+  },
+  "user_stats": "https://kindome.com.br/perfil/{userName}"
+}
