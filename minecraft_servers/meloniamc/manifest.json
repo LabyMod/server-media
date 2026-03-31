@@ -4,7 +4,6 @@
   "direct_ip": "meloniamc.net",
   "supported_languages": [
     "en",
-    "de"
   ],
   "social": {
     "web": "https://meloniamc.net",
@@ -18,8 +17,8 @@
     "crystal_legends": {
       "name": "Crystal Legends",
       "color": "#8D32E7",
-      "url": "https://guide.meloniamc.net/games/crystal-legends",
-      "command": "/game teleport crystal-legends",
+      "url": "https://docs.meloniamc.net/games/crystal-legends",
+      "command": "/joinq crystal-legends",
       "versions": "1.17<1.21.11"
     }
   },
