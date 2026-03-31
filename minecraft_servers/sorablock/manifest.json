@@ -1,0 +1,18 @@
+{
+  "server_name": "sorablock",
+  "nice_name": "Sora",
+  "direct_ip": "sorablock.net",
+  "supported_languages": [
+    "en"
+  ],
+  "social": {
+    "web": "https://sorablock.com",
+    "web_shop": "https://store.sorablock.com",
+    "web_support": "https://discord.gg/jDt3QBCRur",
+    "discord": "https://discord.gg/jDt3QBCRur",
+    "tiktok": "SoraBlock",
+    "youtube": "https://www.youtube.com/@SoraBlockmc",
+    "instagram": "SoraBlockmc"
+  },
+  "user_stats": "https://sorablock.com/stats/@{userName}"
+}
