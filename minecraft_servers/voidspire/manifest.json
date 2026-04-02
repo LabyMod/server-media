@@ -1,0 +1,32 @@
+{
+  "server_name": "voidspire",
+  "nice_name": "Voidspire",
+  "direct_ip": "voidspire.de",
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "discord": "https://discord.gg/Hb6hEZVatG"
+  },
+  "gamemodes": {
+    "smp": {
+      "name": "Survival Multiplayer",
+      "color": "#42ebaa",
+      "command": "/l smp",
+      "versions": "1.21<*"
+    }
+  },
+  "discord": {
+    "server_id": 1385722612281380955,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#00c5ff"
+  },
+  "location": {
+    "city": "Vienna",
+    "country": "Austria",
+    "country_code": "AT"
+  },
+  "command_delay": 1000
+}

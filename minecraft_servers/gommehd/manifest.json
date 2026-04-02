@@ -43,15 +43,15 @@
       "name": "Bingo",
       "url": "https://www.gommehd.net/game/Bingo",
       "command": "/gameteleport bingo",
-      "versions": "1.21.4<*",
+      "versions": "1.21.11<*",
       "color": "#FFFFFF"
     },
     "bedwars": {
       "name": "BedWars",
       "url": "https://www.gommehd.net/game/BedWars",
-      "command": "/gameteleport bw",
+      "command": "/gameteleport classicbw",
       "color": "#FFFFFF"
-    },
+    },    
     "citybuild": {
       "name": "CityBuild",
       "url": "https://www.gommehd.net/game/CityBuild",
@@ -69,6 +69,7 @@
       "name": "GunGame",
       "url": "https://www.gommehd.net/game/GunGame",
       "command": "/gameteleport ffagungame",
+      "versions": "1.8.9",
       "color": "#FFFFFF"
     },
     "duels": {
@@ -82,6 +83,7 @@
       "name": "Kit1vs1",
       "url": "https://www.gommehd.net/game/Kit%201vs1",
       "command": "/gameteleport 1vs1",
+      "versions": "1.8.9",
       "color": "#FFFFFF"
     },
     "moneymaker": {
@@ -93,7 +95,7 @@
     "skywars": {
       "name": "SkyWars",
       "url": "https://www.gommehd.net/game/SkyWars",
-      "command": "/gameteleport skywars",
+      "command": "/gameteleport classicsw",
       "color": "#FFFFFF"
     },
     "jumpleague": {
@@ -107,12 +109,7 @@
       "name": "BuildFFA",
       "url": "https://www.gommehd.net/game/Build%20FFA",
       "command": "/gameteleport ffabuild",
-      "color": "#FFFFFF"
-    },
-    "hardcore": {
-      "name": "Hardcore",
-      "url": "https://www.gommehd.net/game/Hardcore",
-      "command": "/gameteleport hardcore",
+      "versions": "1.8.9",
       "color": "#FFFFFF"
     },
     "hideandseek": {
@@ -140,13 +137,26 @@
       "name": "TTT",
       "url": "https://www.gommehd.net/game/TTT",
       "command": "/gameteleport ttt",
-      "versions": "1.21.4<*",
+      "versions": "1.21.11<*",
       "color": "#FFFFFF"
     },
     "itemchaos": {
       "name": "ItemChaos",
       "command": "/gameteleport ic",
       "versions": "1.21.4<*",
+      "color": "#FFFFFF"
+    },
+    "lavaescape": {
+      "name": "LavaEscape",
+      "command": "/gameteleport le",
+      "versions": "1.21.11<*",
+      "color": "#FFFFFF"
+    }
+    ,
+    "training": {
+      "name": "Skill Training",
+      "command": "/gameteleport training",
+      "versions": "1.8.9",
       "color": "#FFFFFF"
     }
   },
