@@ -1,0 +1,39 @@
+{
+  "server_name": "magicallands",
+  "nice_name": "MagicalLands",
+  "direct_ip": "magicallands.net",
+  "supported_languages": [
+     "en",
+     "de"
+  ],
+  "social": {
+    "web": "https://magicallands.net",
+    "web_shop": "https://magicallands.net/shop",
+    "tiktok": "https://mgld.link/tt",
+    "instagram": "https://mgld.link/insta",
+    "discord": "https://mgld.link/dc",
+    "youtube": "https://mgld.link/yt"
+  },
+  "gamemodes": {
+    "citybuild": {
+      "name": "CityBuild",
+      "color": "#692699",
+      "command": "/spawn",
+      "versions": "1.21.8>*"
+    }
+  },
+  "discord": {
+    "server_id": 1225147890104664084,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#692699",
+     "background": "#00000",
+     "text": "#FFFFFF"
+  },
+  "location": {
+     "city": "Hesse",
+     "country": "Germany",
+     "country_code": "DE"
+  }
+}
