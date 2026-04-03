@@ -9,8 +9,8 @@
   "social": {
     "web": "https://magicallands.net",
     "web_shop": "https://magicallands.net/shop",
-    "tiktok": "https://mgld.link/tt",
-    "instagram": "https://mgld.link/insta",
+    "tiktok": "magicallandsnet",
+    "instagram": "magicallandsnet",
     "discord": "https://mgld.link/dc",
     "youtube": "https://mgld.link/yt"
   },
@@ -21,10 +21,6 @@
       "command": "/spawn",
       "versions": "1.21.8>*"
     }
-  },
-  "discord": {
-    "server_id": 1225147890104664084,
-    "rename_to_minecraft_name": false
   },
   "brand": {
      "primary": "#692699",
