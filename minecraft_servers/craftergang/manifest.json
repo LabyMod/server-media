@@ -34,6 +34,12 @@
       "command": "/gametp getdown",
       "versions": "1.7<26.1.1"
     },
+    "uhcbingo": {
+      "name": "UHCBingo",
+      "color": "#C21588",
+      "command": "/gametp uhcbingo",
+      "versions": "1.7<26.1.1"
+    },
     "cookies": {
       "name": "Cookies",
       "color": "#07F0E0",
@@ -80,12 +86,6 @@
       "name": "Ultimate Duels",
       "color": "#d506b8",
       "command": "/gametp duels",
-      "versions": "1.7<26.1.1"
-    },
-    "onehit": {
-      "name": "OneHit",
-      "color": "#f705ab",
-      "command": "/gametp onehit",
       "versions": "1.7<26.1.1"
     },
     "mlgrush": {
