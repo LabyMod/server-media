@@ -1,0 +1,13 @@
+{
+  "server_name": "NovarisMC",
+  "nice_name": "NovarisMC",
+  "direct_ip": "novaris.mine-hoster.net",
+  "social": {
+    "discord": "https://discord.gg/quf6T5PTm9",
+    "youtube": "https://www.youtube.com/@FroschMC1"
+  },
+  "discord": {
+    "server_id": 1469711700554027130,
+    "rename_to_minecraft_name": false
+  }
+}
