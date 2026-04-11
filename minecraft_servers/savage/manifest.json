@@ -1,0 +1,38 @@
+{
+  "server_name": "savage",
+  "nice_name": "SavageMC",
+  "direct_ip": "savagemc.net",
+  "supported_languages": [
+    "pt-BR",
+    "pt-PT"
+  ],
+  "social": {
+    "web": "https://loja.savagemc.net",
+    "tiktok": "savagemc.net",
+    "instagram": "savagemcnet",
+    "discord": "https://discord.gg/24jDWTWkAq",
+    "youtube": "https://www.youtube.com/@SavageMCnet"
+  },
+  "gamemodes": {
+    "academy": {
+      "name": "BedWars",
+      "color": "#fc8403",
+      "command": "/play bedwars"
+    },
+    "hardcoregames": {
+      "name": "HardcoreGames",
+      "color": "#fc8403",
+      "command": "/play hungergames"
+    }
+  },
+  "discord": {
+    "server_id": 1486476169770700883,
+    "rename_to_minecraft_name": false
+  },
+  "location": {
+    "city": "São Paulo",
+    "country": "Brasil",
+    "country_code": "BR"
+  },
+  "user_stats": "https://stats.savagemc.net/perfil.html?jogador={userName}"
+}
