@@ -7,7 +7,7 @@
     "pt-PT"
   ],
   "social": {
-    "web": "https://loja.savagemc.net",
+    "web_shop": "https://loja.savagemc.net",
     "tiktok": "savagemc.net",
     "instagram": "savagemcnet",
     "discord": "https://discord.gg/24jDWTWkAq",
@@ -19,8 +19,8 @@
       "color": "#fc8403",
       "command": "/play bedwars"
     },
-    "hardcoregames": {
-      "name": "HardcoreGames",
+    "hungergames": {
+      "name": "HungerGames",
       "color": "#fc8403",
       "command": "/play hungergames"
     }
