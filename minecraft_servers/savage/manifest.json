@@ -18,11 +18,6 @@
       "name": "BedWars",
       "color": "#fc8403",
       "command": "/play bedwars"
-    },
-    "hungergames": {
-      "name": "HungerGames",
-      "color": "#fc8403",
-      "command": "/play hungergames"
     }
   },
   "discord": {
