@@ -1,19 +1,32 @@
 {
   "server_name": "gembound",
-  "nice_name": "GemBound",
+  "nice_name": "Gembound",
   "direct_ip": "play.gembound.net",
   "supported_languages": [
     "en"
   ],
   "social": {
-    "discord": "https://discord.gg/PczcnDU3d7"
+    "discord": "https://discord.gg/PczcnDU3d7",
+    "youtube": "https://www.youtube.com/@GemboundNetwork"
   },
   "gamemodes": {
     "skyblock": {
       "name": "Skyblock",
       "command": "/server skyblock",
-      "versions": "1.20<*",
+      "versions": "1.21<*",
       "color": "#b6ff38"
+    },
+    "forestsim": {
+      "name": "ForestSim",
+      "command": "/server forestsim",
+      "versions": "1.21<*",
+      "color": "#60ff38"
+    },
+    "resourcesim": {
+      "name": "ResourceSim",
+      "command": "/server resourcesim",
+      "versions": "1.21<*",
+      "color": "#38deff"
     }
   },
   "discord": {
