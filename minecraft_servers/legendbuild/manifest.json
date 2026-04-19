@@ -1,0 +1,50 @@
+{
+  "server_name": "legendbuild",
+  "nice_name": "LegendBuild",
+  "direct_ip": "legendbuild.de",
+  "supported_languages": [
+     "de"
+  ],
+  "social": {
+    "web_shop": "https://shop.legendbuild.de",
+    "instagram": "legendbuild_de",
+    "discord": "https://discord.gg/legendbuild",
+    "youtube": "https://www.youtube.com/channel/UCSamgE1KYvC7qZn56T0J2yg"
+  },
+  "gamemodes": {
+    "citybuild": {
+      "name": "Citybuild", 
+      "color": "#FFA500",
+      "command": "/cb",
+      "versions": "1.21.1<*"
+    },
+    "farmwelt": {
+      "name": "Farmwelt", 
+      "color": "#FFA500",
+      "command": "/fw",
+      "versions": "1.21.1<*"
+    },
+    "freebuild": {
+      "name": "Freebuild", 
+      "color": "#FFA500",
+      "command": "/fb",
+      "versions": "1.21.1<*"
+    },
+    "smp": {
+      "name": "SMP", 
+      "color": "#FFA500",
+      "command": "/smp",
+      "versions": "1.21.1<*"
+    }
+  },
+  "discord": {
+    "server_id": 1290340790262042654,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#008FE8",
+     "background": "#0A56A5",
+     "text": "#FFFFFF"
+  },
+  "command_delay": 3000
+}

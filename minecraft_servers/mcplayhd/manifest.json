@@ -1,7 +1,7 @@
 {
   "server_name": "mcplayhd",
-  "nice_name": "MCPlayHD",
-  "direct_ip": "mcplayhd.net",
+  "nice_name": "McPlayHD",
+  "direct_ip": "play.mcplayhd.net",
   "supported_languages": [
     "de",
     "en",
@@ -20,14 +20,14 @@
       "command": "/quickjoin fb",
       "color": "#0095B0"
     },
+    "parkour": {
+      "name": "Parkour",
+      "command": "/quickjoin pk",
+      "color": "#0095B0"
+    },
     "bedwars": {
       "name": "Bedwars",
       "command": "/quickjoin bw",
-      "color": "#0095B0"
-    },
-    "cakerush": {
-      "name": "CakeRush",
-      "command": "/quickjoin cr",
       "color": "#0095B0"
     },
     "minesweeper": {
