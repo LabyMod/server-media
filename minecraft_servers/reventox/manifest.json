@@ -38,15 +38,10 @@
       "color": "#181848",
       "command": "/gameteleport qsg"
     },
-    "hardcoreffa": {
-      "name": "HardcoreFFA",
+    "Skribbl": {
+      "name": "Skribbl",
       "color": "#181848",
-      "command": "/gameteleport hardcoreffa"
-    },
-    "onevsone": {
-      "name": "OneVsOne",
-      "color": "#181848",
-      "command": "/gameteleport onevsone"
+      "command": "/gameteleport skribbl"
     }
   },
   "brand": {
