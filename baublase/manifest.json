@@ -1,0 +1,19 @@
+{
+  "server_name": "Baublase",
+  "nice_name": "Baublase",
+  "direct_ip": "baublase.net",
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "web_shop": "https://baublase.net"
+  },
+  "brand": {
+    "primary": "#FA56AF"
+  },
+  "location": {
+    "city": "Hamburg",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}
