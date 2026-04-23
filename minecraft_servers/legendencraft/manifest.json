@@ -1,9 +1,7 @@
 {
   "server_name": "legendencraft",
-  "nice_name": "legendencraftde",
+  "nice_name": "Legendencraft",
   "direct_ip": "legendencraft.de",
-  "server_wildcards": [
-  ],
   "supported_languages": [
     "de"
   ],
