@@ -38,7 +38,7 @@
       "color": "#181848",
       "command": "/gameteleport qsg"
     },
-    "Skribbl": {
+    "skribbl": {
       "name": "Skribbl",
       "color": "#181848",
       "command": "/gameteleport skribbl"
