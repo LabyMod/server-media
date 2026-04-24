@@ -1,0 +1,19 @@
+{
+  "server_name": "baublase",
+  "nice_name": "Baublase",
+  "direct_ip": "baublase.net",
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "discord": "https://discord.gg/baublase"
+  },
+  "brand": {
+    "primary": "#FA56AF"
+  },
+  "location": {
+    "city": "Hamburg",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}
