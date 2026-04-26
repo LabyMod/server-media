@@ -15,33 +15,27 @@
   "gamemodes": {
     "eventserver": {
       "name": "Eventserver",
-      "color": "#181848",
-      "command": "/gameteleport events"
+      "color": "#181848"
     },
     "mines": {
       "name": "Mines",
-      "color": "#181848",
-      "command": "/gameteleport mines"
+      "color": "#181848"
     },
     "getdown": {
       "name": "Getdown",
       "color": "#181848",
-      "command": "/gameteleport getdown"
     },
     "botpvp": {
       "name": "BotPVP",
-      "color": "#181848",
-      "command": "/gameteleport botpvp"
+      "color": "#181848"
     },
     "quicksurvivalgames": {
       "name": "QuickSurvivalGames",
-      "color": "#181848",
-      "command": "/gameteleport qsg"
+      "color": "#181848"
     },
     "skribbl": {
       "name": "Skribbl",
-      "color": "#181848",
-      "command": "/gameteleport skribbl"
+      "color": "#181848"
     }
   },
   "brand": {
