@@ -1,0 +1,62 @@
+{
+  "server_name": "mauvi",
+  "nice_name": "Mauvi",
+  "direct_ip": "mauvi.de",
+  "server_wildcards": [
+    "%.mauvi.de"
+  ],
+  "supported_languages": [
+     "en",
+     "de"
+  ],
+  "social": {
+    "web": "https://info.mauvi.de",
+    "web_shop": "",
+    "web_support": "",
+    "twitter": "",
+    "tiktok": "",
+    "facebook": "",
+    "instagram": "",
+    "discord": "",
+    "youtube": "",
+    "teamspeak": ""
+  },
+  "gamemodes": {
+    "Paintball": {
+      "name": "paintball", 
+      "color": "#FFA500",
+      "url": "https://www.timolia.de/games#jumpworld",
+      "command": "/quickjoin jumpworld16",
+      "versions": "1.17<*"
+    },
+    "dna": {
+      "name": "DNA",
+      "color": "#ADD8E6",
+      "url": "https://www.timolia.de/games#dna",
+      "command": "/quickjoin dna",
+      "versions": "1.8<*"
+    }
+  },
+  "chat": {
+    "message_formats": [
+      "^§[a-f0-9](?<level>\\d+)( \\||§8 \\|) §[a-f0-9](?<sender>[a-zA-Z0-9_]{2,16})§r§7: §f(?<message>.*)$"
+    ]
+  },
+  "discord": {
+    "server_id": 260471731809026048,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#008FE8",
+     "background": "#0A56A5",
+     "text": "#FFFFFF"
+  }, 
+  "location": {
+     "city": "",
+     "country": "Germany",
+     "country_code": "DE"
+  },
+  "yt_trailer": "",
+  "user_stats": "https://laby.net/@{userName}",
+  "command_delay": 3000
+}
