@@ -38,17 +38,17 @@
       "color": "#181848"
     }
   },
+  "discord": {
+    "server_id": 818115952088580116
+  },
   "brand": {
     "primary": "#181848",
+    "background": "#181848",
     "text": "#ffffff"
   },
   "location": {
     "city": "Frankfurt am Main",
     "country": "Germany",
     "country_code": "DE"
-  },
-  "discord": {
-    "server_id": 818115952088580116,
-    "rename_to_minecraft_name": false
   }
 }
