@@ -14,27 +14,7 @@
   },
   "gamemodes": {
     "eventserver": {
-      "name": "Eventserver",
-      "color": "#181848"
-    },
-    "mines": {
-      "name": "Mines",
-      "color": "#181848"
-    },
-    "getdown": {
-      "name": "Getdown",
-      "color": "#181848"
-    },
-    "botpvp": {
-      "name": "BotPVP",
-      "color": "#181848"
-    },
-    "quicksurvivalgames": {
-      "name": "QuickSurvivalGames",
-      "color": "#181848"
-    },
-    "skribbl": {
-      "name": "Skribbl",
+      "name": "Challenges",
       "color": "#181848"
     }
   },
