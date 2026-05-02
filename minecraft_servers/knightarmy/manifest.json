@@ -1,0 +1,37 @@
+{
+  "server_name": "knightarmy",
+  "nice_name": "KNIGHTARMY.DE",
+  "direct_ip": "knightarmy.de",
+  "server_wildcards": [
+    "%.knightarmy.de"
+  ],
+  "supported_languages": [
+    "de",
+    "en"
+  ],
+  "social": {
+    "web": "https://knightarmy.de",
+    "twitter": "knightarmyde",
+    "instagram": "knightarmy.de",
+    "tiktok": "knightarmy.de",
+    "youtube": "https://www.youtube.com/@knightarmyde",
+    "discord": "https://discord.gg/knightarmy"
+  },
+  "gamemodes": {
+    "survival": {
+      "name": "Survival",
+      "command": "/survival",
+      "color": "#0c1424"
+    },
+    "skyblock": {
+      "name": "Skyblock",
+      "command": "/skyblock",
+      "color": "#0c1424"
+    }
+  },
+  "location": {
+    "city": "Berlin",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}
