@@ -2,15 +2,12 @@
   "server_name": "knightarmy",
   "nice_name": "KNIGHTARMY.DE",
   "direct_ip": "knightarmy.de",
-  "server_wildcards": [
-    "%.knightarmy.de"
-  ],
   "supported_languages": [
     "de",
     "en"
   ],
   "social": {
-    "web": "https://knightarmy.de",
+    "web": "https://www.knightarmy.de",
     "twitter": "knightarmyde",
     "instagram": "knightarmy.de",
     "tiktok": "knightarmy.de",
