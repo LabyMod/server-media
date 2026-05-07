@@ -1,1 +1,51 @@
-{}
+{
+  "server_name": "goldstube",
+  "nice_name": "GoldStube",
+  "direct_ip": "GoldStube.net",
+  
+  "supported_languages": [
+     "de"
+  ],
+  "social": {
+    "web": "https://GoldStube.net",
+    "web_support": "https://goldstube.net/forum",
+    "tiktok": "owhql2",
+    "instagram": "goldstube_net",
+    "discord": "https://discord.gg/BUXtNEjksk",
+    "youtube": "https://www.youtube.com/@nilooooosch",
+  },
+  "gamemodes": {
+    "citybuild": {
+      "name": "CityBuild", 
+      "color": "#EA9D0F",
+      "command": "/server citybuild",
+      "versions": "1.21<*"
+    },
+    "buildffa": {
+      "name": "buildffa",
+      "color": "#EA9D0F",
+      "command": "/server buildffa",
+      "versions": "1.8<*"
+    }
+  },
+  "chat": {
+    "message_formats": [
+      "^§[a-f0-9](?<level>\\d+)( \\||§8 \\|) §[a-f0-9](?<sender>[a-zA-Z0-9_]{2,16})§r§7: §f(?<message>.*)$"
+    ]
+  },
+  "discord": {
+    "server_id": 1484173641729183825,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#F66B0C",
+     "background": "#EA9D0F",
+     "text": "#E97E07"
+  }, 
+  "location": {
+     "city": "Bremen",
+     "country": "Germany",
+     "country_code": "DE"
+  },
+  "command_delay": 3000
+}
