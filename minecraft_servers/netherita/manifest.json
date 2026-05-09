@@ -1,0 +1,12 @@
+{
+  "server_name": "netherita",
+  "nice_name": "Netherita",
+  "direct_ip": "netherita.net",
+  "server_wildcards": [
+    "%.netherita.net"
+  ],
+  "supported_languages": [
+    "es",
+    "en"
+  ]
+}
