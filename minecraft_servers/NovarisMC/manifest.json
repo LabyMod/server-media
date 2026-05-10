@@ -1,7 +1,10 @@
 {
   "server_name": "NovarisMC",
   "nice_name": "NovarisMC",
-  "direct_ip": "novarismc.de",
+  "direct_ip": "NovarisMC.de",
+  "server_wildcards": [
+    "%.NovarisMC.de"
+  ],
   "social": {
     "discord": "https://discord.gg/quf6T5PTm9"
   },
