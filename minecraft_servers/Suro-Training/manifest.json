@@ -6,31 +6,31 @@
     "suro-training.de"
   ],
   "supported_languages": [
-     "de"
+    "de"
   ],
   "social": {
-    "discord": "https://discord.com/invite/eTaf3Tru7x",
-
+    "discord": "https://discord.com/invite/eTaf3Tru7x"
   },
   "gamemodes": {
     "suro": {
-      "name": "Suro", 
+      "name": "Suro",
       "color": "#307bd1",
       "versions": "1.21.11"
-  },
-  "discord": {
-    "server_id": 1497672549931155600,
-    "rename_to_minecraft_name": false
-  },
-  "brand": {
-     "primary": "#008FE8",
-     "background": "#0A56A5",
-     "text": "#FFFFFF"
-  }, 
-  "location": {
-     "city": "Frankfurt am Main",
-     "country": "Germany",
-     "country_code": "DE"
-  },
-  "command_delay": 0
+    },
+    "discord": {
+      "server_id": "1497672549931155600",
+      "rename_to_minecraft_name": false
+    },
+    "brand": {
+      "primary": "#008FE8",
+      "background": "#0A56A5",
+      "text": "#FFFFFF"
+    },
+    "location": {
+      "city": "Frankfurt am Main",
+      "country": "Germany",
+      "country_code": "DE"
+    },
+    "command_delay": "0"
+  }
 }
