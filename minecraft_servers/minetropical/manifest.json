@@ -15,10 +15,6 @@
             "color": "#000DC4"
         }
     },
-    "discord": {
-        "server_id": "1459629002439262333",
-        "rename_to_minecraft_name": false
-    },
     "brand": {
         "primary": "#1EC43C",
         "text": "#FFFFFF"
