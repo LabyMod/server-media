@@ -1,0 +1,31 @@
+{
+    "server_name": "minetropical",
+    "nice_name": "MineTropical",
+    "direct_ip": "minetropical.net",
+    "supported_languages": [
+        "de"
+    ],
+    "social": {
+        "youtube": "@MineTropicalNW",
+        "discord": "https://discord.gg/RxQPc39pE7"
+    },
+    "gamemodes": {
+        "citybuild": {
+            "name": "CityBuild",
+            "color": "#000DC4"
+        }
+    },
+    "discord": {
+        "server_id": 1459629002439262333,
+        "rename_to_minecraft_name": false
+    },
+    "brand": {
+        "primary": "#1EC43C",
+        "text": "#FFFFFF"
+    },
+    "location": {
+        "city": "Frankfurt",
+        "country": "Germany",
+        "country_code": "DE"
+    }
+}
