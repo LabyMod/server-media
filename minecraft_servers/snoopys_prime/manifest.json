@@ -1,6 +1,6 @@
 {
-  "server_name": "snoopys_prime",
-  "nice_name": "Snoopy's Prime",
+  "server_name": "elinski_hausen",
+  "nice_name": "Elinski Hausen",
   "direct_ip": "snoopysprime.de",
   "server_wildcards": [
     "%.snoopysprime.de"
@@ -10,16 +10,10 @@
     "de"
   ],
   "social": {
-    "twitter": "snoopysprime",
-    "tiktok": "snoopysprime",
-    "facebook": "snoopysprime",
-    "instagram": "snoopysprime",
-    "discord": "https://discord.gg/AdhC2ex7kf",
-    "youtube": "https://www.youtube.com/@snoopysprime_de",
-    "teamspeak": "ts3.snoopysprime.de"
+    "discord": "https://discord.gg/SsGFh7RkgP"
   },
   "discord": {
-    "server_id": 1189989481290403990,
+    "server_id": 1457815746762641590,
     "rename_to_minecraft_name": false
   },
   "brand": {
