@@ -15,13 +15,13 @@
   "gamemodes": {
     "citybuild": {
       "name": "Citybuild",
-      "command": "/citybuild",
+      "command": "/navigator",
       "color": "#00bf00",
       "versions": "1.21.11<*"
     },
     "freebuild": {
       "name": "Freebuild",
-      "command": "/freebuild",
+      "command": "/navigator",
       "color": "#00bf00",
       "versions": "1.21.11<*"
     }
