@@ -1,0 +1,23 @@
+{
+  "server_name": "creatorcraft",
+  "nice_name": "CreatorCraft",
+  "direct_ip": "creatorcraft.dk",
+  "supported_languages": [
+     "da"
+  ],
+  "social": {
+    "web": "https://creatorcraft.dk",
+    "discord": "https://discord.gg/eAr3KA7ngm",
+    "youtube": "https://www.youtube.com/@CreatorCraftDK"
+  },
+  "location": {
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "country_code": "DA"
+  },
+  "brand": {
+    "primary": "#fcba03",
+    "background": "#e3c119",
+    "text": "#ffffff"
+  }
+}
