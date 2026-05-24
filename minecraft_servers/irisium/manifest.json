@@ -1,12 +1,12 @@
 {
   "server_name": "irisium",
   "nice_name": "Irisium",
-  "direct_ip": "play.irisium.party",
+  "direct_ip": "play.irisium.fr",
   "supported_languages": [
     "fr"
   ],
   "social": {
-    "web": "https://irisium.party",
+    "web": "https://irisium.fr",
     "youtube": "https://www.youtube.com/@irisium.officiel",
     "discord": "https://discord.gg/4EgP4DfAuW"
   },
