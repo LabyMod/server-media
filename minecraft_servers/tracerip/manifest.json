@@ -1,0 +1,33 @@
+{
+  "server_name": "tracerip",
+  "nice_name": "mc.trace.rip",
+  "direct_ip": "trace.rip",
+  "supported_languages": [ "en" ],
+  "social": {
+    "web": "https://mc.trace.rip",
+    "web_support": "https://mc.trace.rip/#contact",
+    "web_shop": "https://mc.trace.rip/#funding",
+    "discord": "https://discord.gg/CNZzwhUTCm"
+  },
+  "discord": {
+    "server_id": 1460862246547886253,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#a855f7",
+     "background": "#050505",
+     "text": "#FFFFFF"
+  },
+  "location": {
+     "city": "Chicago",
+     "country": "United States",
+     "country_code": "US"
+  },
+  "gamemodes": {
+    "anarchy": {
+      "name": "Anarchy",
+      "color": "#fc4332",
+      "versions": "1.7<*"
+    }
+  }
+}

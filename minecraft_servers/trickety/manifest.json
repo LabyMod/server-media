@@ -1,6 +1,6 @@
 {
   "server_name": "trickety",
-  "nice_name": "TricketyNET",
+  "nice_name": "Trickety",
   "direct_ip": "trickety.net",
   "supported_languages": [
     "de",
@@ -19,29 +19,34 @@
     "rename_to_minecraft_name": false
   },
   "gamemodes": {
+    "uhcgames": {
+      "name": "UHC-Games",
+      "color": "#AA00AA",
+      "versions": "1.21<*"
+    },
+    "arena": {
+      "name": "Arena",
+      "color": "#5555FF",
+      "versions": "1.21<*"
+    },
+    "speedguessr": {
+      "name": "SpeedGuessr",
+      "color": "#FFFF55",
+      "versions": "1.21<*"
+    },
     "falldown": {
       "name": "Falldown",
       "color": "#FFAA00",
       "versions": "1.21<*"
     },
-    "guessit": {
-      "name": "GuessIT",
-      "color": "#FFFF55",
-      "versions": "1.21<*"
-    },
-    "templerun": {
-      "name": "TempleRun",
-      "color": "#47A036",
+    "jetpackhero": {
+      "name": "JetPackHero",
+      "color": "#FF55FF",
       "versions": "1.21<*"
     },
     "worlds": {
       "name": "Worlds",
       "color": "#55FF55",
-      "versions": "1.21<*"
-    },
-    "uhcgames": {
-      "name": "UHC-Games",
-      "color": "#AA00AA",
       "versions": "1.21<*"
     }
   },

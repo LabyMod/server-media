@@ -1,0 +1,68 @@
+{
+  "server_name": "topstrix",
+  "nice_name": "TopStrix Network",
+  "direct_ip": "play.topstrix.net",
+  "server_wildcards": [
+    "%.topstrix.net"
+  ],
+  "supported_languages": [
+    "en"
+  ],
+  "social": {
+    "web": "https://topstrix.co.il",
+    "web_shop": "https://store.topstrix.co.il",
+    "discord": "https://discord.gg/topstrix",
+    "youtube": "https://youtube.com/@topstrix"
+  },
+  "gamemodes": {
+    "duels": {
+      "name": "Duels",
+      "color": "#FC6E40",
+      "versions": "1.21.6<*"
+    },
+    "partygames": {
+      "name": "Party Games",
+      "color": "#CD71EB",
+      "versions": "1.21.6<*"
+    },
+    "project_hardcore": {
+      "name": "Project Hardcore",
+      "color": "#EA605D",
+      "versions": "1.21.6<*"
+    },
+    "the_project": {
+      "name": "The Project",
+      "color": "#9B33ED",
+      "versions": "1.21.6<*"
+    },
+    "skyblock": {
+      "name": "SkyBlock",
+      "color": "#F4AE00",
+      "versions": "1.21.6<*"
+    },
+    "my_world": {
+      "name": "My World",
+      "color": "#09D3F4",
+      "versions": "1.21.6<*"
+    },
+    "gungame": {
+      "name": "GunGame",
+      "color": "#9BE691",
+      "versions": "1.21.6<*"
+    }
+
+  },
+  "discord": {
+    "server_id": 560924142040383503,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#F9A7FF",
+    "text": "#C96AFF"
+  },
+  "location": {
+    "city": "Haifa",
+    "country": "Israel",
+    "country_code": "IL"
+  }
+}

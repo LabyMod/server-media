@@ -3,7 +3,8 @@
     "nice_name": "MotionMC Network",
     "direct_ip": "motionmc.es",
     "supported_languages": [
-        "es"
+        "es",
+        "en"
     ],
     "social": {
         "discord": "https://discord.gg/F7gP5aPUC9"
@@ -18,8 +19,8 @@
         "text": "#FFFFFF"
     },
     "location": {
-        "city": "Madrid",
-        "country": "Spain",
-        "country_code": "ES"
+        "city": "Miami",
+        "country": "United States",
+        "country_code": "US"
     }
 }
