@@ -1,0 +1,52 @@
+{
+  "server_name": "unionmc",
+  "nice_name": "UnionMC",
+  "direct_ip": "play.unionmc.fun",
+  "server_wildcards": [
+    "%.unionmc.fun"
+  ],
+  "supported_languages": [
+    "de",
+    "en"
+  ],
+  "social": {
+    "web": "https://unionmc.fun",
+    "web_shop": "https://store.unionmc.fun",
+    "twitter": "UnionMCFUN",
+    "discord": "https://discord.gg/unionmc",
+    "youtube": "https://www.youtube.com/Unioncm"
+  },
+  "gamemodes": {
+    "lifesteal": {
+      "name": "LifeSteal",
+      "command": "/quickjoin lifesteal",
+      "color": "#FFCC00",
+      "versions": "1.21<*"
+    },
+    "smp": {
+      "name": "SMP",
+      "command": "/quickjoin smp",
+      "color": "#FFCC00",
+      "versions": "1.21<*"
+    },
+    "bedwars": {
+      "name": "BedWars",
+      "command": "/quickjoin bedwars",
+      "color": "#FFCC00",
+      "versions": "1.21<*"
+    }
+  },
+  "discord": {
+    "server_id": 1418200915130716240,
+    "rename_to_minecraft_name": false
+  },
+  "location": {
+    "country": "Germany",
+    "city": "Düsseldorf"
+  },
+  "brand": {
+    "primary": "#FF1F3D",
+    "background": "#FFCC00",
+    "text": "#ffffff"
+  }
+}
