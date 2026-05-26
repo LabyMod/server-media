@@ -1,0 +1,27 @@
+{
+  "server_name": "cubixmc",
+  "nice_name": "CubixMC",
+  "direct_ip": "cubixmc.dk",
+  "supported_languages": [
+     "da"
+  ],
+  "social": {
+    "web": "https://cubixmc.dk",
+    "discord": "https://discord.gg/cubixmc"
+  },
+  "location": {
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "country_code": "DA"
+  },
+  "brand": {
+    "primary": "#55FF55",
+    "background": "#00AA00",
+    "text": "#ffffff"
+  },
+  "user_stats": "https://cubixmc.dk/profile/@{userName}",
+  "server_wildcards": [
+    "smp.cubixmc.dk"
+  ],
+  "yt_trailer": "a0p2_JOxTgE"
+}
