@@ -20,8 +20,5 @@
     "text": "#ffffff"
   },
   "user_stats": "https://cubixmc.dk/profile/@{userName}",
-  "server_wildcards": [
-    "smp.cubixmc.dk"
-  ],
   "yt_trailer": "a0p2_JOxTgE"
 }
