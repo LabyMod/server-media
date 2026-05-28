@@ -10,16 +10,16 @@
      "de"
   ],
   "social": {
-    "web": "https://ZerionSMP.de",
-    "web_shop": "https://shop.ZerionSMP.de",
-    "web_support": "https://ZerionSMP.de",
-    "twitter": "ZerionSMP",
-    "tiktok": "ZerionSMP",
-    "facebook": "ZerionSMP",
-    "instagram": "ZerionSMP.de",
+    "web": "",
+    "web_shop": "",
+    "web_support": "",
+    "twitter": "",
+    "tiktok": "",
+    "facebook": "",
+    "instagram": "",
     "discord": "https://discord.gg/JzTKfmjHcj",
     "youtube": "https://www.youtube.com/@MommicMc",
-    "Event´s": "https://ZerionSMP.de"
+    "Event´s": ""
   },
   "gamemodes": {
     "jumpworld": {
@@ -39,7 +39,7 @@
   },
   "chat": {
     "message_formats": [
-      "^§[a-f0-9](?<level>\\d+)( \\||§8 \\|) §[a-f0-9](?<sender>[a-zA-Z0-9_]{2,16})§r§7: §f(?<message>.*)$"
+      "^\\[(?<rank>.*?)\\] (?<sender>[a-zA-Z0-9_]{2,16}) » (?<message>.*)$"
     ]
   },
   "discord": {
