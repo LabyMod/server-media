@@ -1,1 +1,36 @@
-
+{
+  "server_name": "Farmoria",
+  "nice_name": "Farmoria",
+  "direct_ip": "Farmoria.de",
+  "supported_languages": [
+    "dk"
+  ],
+  "social": {
+    "discord": "https://dc.farmoria.de",
+  },
+  "discord": {
+    "server_id": 1461194916863672485
+  },
+  "gamemodes": {
+    "BoxPvP": {
+      "name": "KitPvP",
+      "command": "/server KitPvP",
+      "color": "#1be74b"
+    },
+    "McWolf": {
+      "name": "McWolf",
+      "command": "/server Wolf",
+      "color": "#1be74b"
+    }
+  },
+"brand": {
+    "primary": "#00a896",
+    "background": "#00a896",
+    "text": "#ffffff"
+},
+  "location": {
+    "city": "Frankfurt",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}
