@@ -3,29 +3,40 @@
     "nice_name": "OpInsel",
     "direct_ip": "mc.opinsel.net",
     "server_wildcards": [
-      "%.opinsel.net",
-      "%.opinsel.com"
+        "%.opinsel.net"
     ],
     "gamemodes": {
+        "citybuild": {
+            "name": "Citybuild",
+            "color": "#e2eef7",
+            "command": "/server citybuild",
+            "versions": "1.21<*"
+        },
         "skyblock": {
-          "name": "Skyblock", 
-          "color": "#Ff0000",
-          "command": "/server skyblock",
-          "versions": "1.21<*"
+            "name": "Skyblock",
+            "color": "#e2eef7",
+            "command": "/server skyblock",
+            "versions": "1.21<*"
+        },
+        "smp": {
+            "name": "SMP",
+            "color": "#e2eef7",
+            "command": "/server smp",
+            "versions": "1.21<*"
         }
     },
     "discord": {
         "server_id": 954852149882388550,
         "rename_to_minecraft_name": false
-      },
+    },
     "supported_languages": [
         "de",
         "en"
     ],
     "social": {
-        "web": "https://opinsel.net",
-        "web_shop": "https://opinsel.net/shop",
-        "discord": "https://discord.gg/YW9CSJC6VB",
+        "web": "https://opinsel.net/",
+        "web_shop": "https://shop.opinsel.net/",
+        "discord": "https://discord.gg/mU3WfZXqsa",
         "tiktok": "opinsel",
         "youtube": "https://www.youtube.com/@opinsel"
     },
