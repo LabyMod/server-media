@@ -1,0 +1,27 @@
+{
+  "server_name": "cubetown",
+  "nice_name": "CubeTown",
+  "direct_ip": "cubetown.de",
+  "supported_languages": ["de"],
+  "social": {
+    "web": "https://cubetown.de",
+    "tiktok": "cubetownde",
+    "instagram": "cubetown.de",
+    "discord": "https://discord.gg/wnDQF7tKHk",
+    "youtube": "https://www.youtube.com/@CubeTownDE"
+  },
+  "discord": {
+    "server_id": 1423669846029107302,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#ffaa00",
+     "background": "#0A56A5",
+     "text": "#FFFFFF"
+  }, 
+  "location": {
+     "city": "Frankfurt",
+     "country": "Germany",
+     "country_code": "DE"
+  }
+}
