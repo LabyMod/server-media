@@ -1,0 +1,45 @@
+{
+  "server_name": "randymc",
+  "nice_name": "RandyMC",
+  "direct_ip": "randymc.de",
+  "server_wildcards": [
+    "%.randymc.de"
+  ],
+  "supported_languages": [
+    "en",
+    "de"
+  ],
+  "social": {
+    "web": "https://www.randymc.de",
+    "web_shop": "https://www.randymc.de/shop",
+    "web_support": "https://support.randymc.de",
+    "discord": "https://discord.gg/ztPyTVWVKX",
+    "teamspeak": "randymc.de"
+  },
+  "discord": {
+    "server_id": 1329848085580353546,
+    "rename_to_minecraft_name": false
+  },
+  "gamemodes": {
+    "school": {
+      "name": "School",
+      "color": "#00AAAA",
+      "command": "/game-teleport school"
+    },
+    "luckywars": {
+      "name": "LuckyWars",
+      "color": "#FFFF55",
+      "command": "/game-teleport luckywars"
+    },
+    "luckyrace": {
+      "name": "LuckyRace",
+      "color": "#55FF55",
+      "command": "/game-teleport luckyrace"
+    },
+    "luckyeggwars": {
+      "name": "LuckyEggWars",
+      "color": "#FF5555",
+      "command": "/game-teleport luckyeggwars"
+    }
+  }
+}

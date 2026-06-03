@@ -1,0 +1,48 @@
+{
+  "server_name": "pixelbiester",
+  "nice_name": "Pixelbiester",
+  "direct_ip": "mc.pixelbiester.net",
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "twitter": "Pixelbiester"
+  },
+  "gamemodes": {
+    "500x500": {
+      "name": "500x500",
+      "command": "/server 500x500",
+      "color": "#0095B0"
+    },
+    "plot1": {
+      "name": "Plotserver 1",
+      "command": "/server Plot1",
+      "color": "#0095B0"
+    },
+    "plot2": {
+      "name": "Plotserver 2",
+      "command": "/server Plot2",
+      "color": "#0095B0"
+    },
+    "plot3": {
+      "name": "Plotserver 3",
+      "command": "/server Plot3",
+      "color": "#0095B0"
+    },
+    "buildbattle1": {
+      "name": "BuildBattle",
+      "command": "/server BuildBattleXL1",
+      "color": "#0095B0"
+    },
+    "premiumbuild": {
+      "name": "PremiumBuild",
+      "command": "/server Premium",
+      "color": "#0095B0"
+    }
+  },
+  "brand": {
+    "primary": "#497cb1",
+    "background": "#497cb1",
+    "text": "#ffffff"
+  }
+}

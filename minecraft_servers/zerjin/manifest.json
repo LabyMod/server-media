@@ -1,0 +1,59 @@
+{
+  "server_name": "zerjin",
+  "nice_name": "Zerjin",
+  "direct_ip": "zerjin.de",
+  "supported_languages": [
+     "de"
+  ],
+  "social": {
+    "web": "https://zerjin.de",
+    "web_shop": "https://shop.zerjin.de",
+    "discord": "https://discord.gg/NdC7Ey5KZK",
+    "youtube": "https://www.youtube.com/@Zerjin-MinecraftNetzwerk",
+    "tiktok": "zerjinnetzwerk",
+    "instagram": "zerjinnetzwerk",
+    "facebook": "Zerjin-Minecraft-Netzwerk",
+    "twitter": "ZerjinMC"
+  },
+  "gamemodes": {
+    "city": {
+      "name": "City",
+      "color": "#ffcc00",
+      "command": "/kompass City",
+      "versions": "1.21.3<*"
+    },
+    "lands": {
+      "name": "Lands",
+      "color": "#00ad26",
+      "command": "/kompass Lands",
+      "versions": "1.21.3<*"
+    },
+    "oneblock": {
+      "name": "OneBlock",
+      "color": "#08B0EE",
+      "command": "/kompass OneBlock",
+      "versions": "1.21.3<*"
+    },
+    "missilewars": {
+      "name": "MissileWars",
+      "color": "#de3e3e",
+      "command": "/missilewars",
+      "versions": "1.20.4<*"
+    }
+  },
+  "discord": {
+    "server_id": 1012434711727058995,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#08B0EE",
+    "background": "#08B0EE",
+    "text": "#ffffff"
+  },
+  "location": {
+    "city": "Frankfurt a. M.",
+    "country": "Deutschland",
+    "country_code": "DE"
+  },
+  "yt_trailer": "I84EqbC-uwU"
+}

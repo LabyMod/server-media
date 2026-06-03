@@ -16,14 +16,6 @@
     "citybuild": {
       "name": "CityBuild", 
       "color": "#FFA500"
-    },
-    "freebuild": {
-      "name": "FreeBuild", 
-      "color": "#FFA500"
-    },
-    "privateserver": {
-      "name": "Private Server", 
-      "color": "#FFA500"
     }
   },
   "discord": {

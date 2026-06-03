@@ -1,0 +1,27 @@
+{
+    "server_name": "archmc",
+    "nice_name": "ArchMC",
+    "direct_ip": "mc.arch.lol",
+    "server_wildcards": [
+      "%.arch.lol"
+    ],
+    "supported_languages": [
+       "en"
+    ],
+    "social": {
+      "web": "https://arch.lol",
+      "web_shop": "https://arch.lol/store",
+      "tiktok": "ruleyourowngame",
+      "discord": "https://discord.gg/archmc",
+      "youtube": "https://www.youtube.com/@RuleYourOwnGame"
+    },
+    "discord": {
+      "server_id": 979220088253210684,
+      "rename_to_minecraft_name": false
+    },
+    "brand": {
+       "primary": "#008FE8",
+       "background": "#0A56A5",
+       "text": "#FFFFFF"
+    }
+}

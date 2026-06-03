@@ -26,6 +26,11 @@
         "name": "Skyblock", 
         "color": "#09b4e8",
         "command": "/jogar skyblock"
+      },
+      "fullpvp": {
+        "name": "FullPvP", 
+        "color": "#cc00ff",
+        "command": "/jogar fullpvp"
       }
     },
     "discord": {

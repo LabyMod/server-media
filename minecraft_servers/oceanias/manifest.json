@@ -7,6 +7,7 @@
     ],
     "social": {
         "web_shop": "https://store.oceanias.net",
+        "twitter": "oceaniasnetwork",
         "tiktok": "oceanias",
         "discord": "https://discord.gg/YP3qGFP2nf",
         "youtube": "https://www.youtube.com/@webceanias"
@@ -19,7 +20,7 @@
             "versions": "1.16.5<*"
         },
         "frog": {
-            "name": "FrogUHC",
+            "name": "Frog",
             "color": "#55FF55",
             "command": "/server frog",
             "versions": "1.16.5<*"
@@ -28,7 +29,7 @@
             "name": "Lifesteal",
             "color": "#F20202",
             "command": "/server lifesteal",
-            "versions": "1.18<*"
+            "versions": "1.19.4<*"
         }
     },
     "discord": {
@@ -36,7 +37,7 @@
         "rename_to_minecraft_name": false
     },
     "brand": {
-        "primary": "#9D00FF",
+        "primary": "#BF00FF",
         "text": "#FFFFFF"
     },
     "location": {

@@ -1,0 +1,46 @@
+{
+  "server_name": "lastcraft",
+  "nice_name": "LastCraft",
+  "direct_ip": "play.last-craft.net",
+  "social": {
+    "web_shop": "https://last-craft.net",
+    "discord": "https://discord.com/invite/3bvCzvDf6d",
+    "youtube": "https://youtube.com/@LastCraft_"
+  },
+  "supported_languages": [
+    "ru",
+    "en"
+  ],
+  "gamemodes": {
+    "skyblock": {
+      "name": "SkyBlock",
+      "color": "#FFAA00",
+      "versions": "1.16<*"
+    },
+    "kitpvp": {
+      "name": "Kit PvP",
+      "color": "#FFAA00"
+    },
+    "bedwars": {
+      "name": "BedWars",
+      "color": "#FFAA00"
+    },
+    "luckywars": {
+      "name": "LuckyWars",
+      "color": "#FFAA00"
+    },
+    "survival": {
+      "name": "Survival",
+      "color": "#FFAA00",
+      "versions": "1.16<*"
+    },
+    "parkour": {
+      "name": "Parkour",
+      "color": "#FFAA00"
+    },
+    "creative": {
+      "name": "Creative",
+      "color": "#FFAA00"
+    }
+  }
+}

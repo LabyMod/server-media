@@ -1,0 +1,49 @@
+{
+  "server_name": "camicko",
+  "nice_name": "Camicko",
+  "direct_ip": "play.camicko.fr",
+  "server_wildcards": [
+    "%.camicko.fr"
+  ],
+  "supported_languages": [
+    "fr"
+  ],
+  "social": {
+    "web": "https://minecraft.camicko.fr",
+    "tiktok": "camicko_",
+    "youtube": "https://www.youtube.com/@camicko_mc",
+    "discord": "https://discord.gg/m9wwxPaFBx"
+  },
+  "gamemodes": {
+    "bedwars": {
+      "name": "BedWars",
+      "color": "#00BFFF",
+      "command": "/bedwars"
+    },
+    "pvp": {
+      "name": "PvP",
+      "color": "#00BFFF",
+      "command": "/pvp"
+    },
+    "blocami": {
+      "name": "Blocami",
+      "color": "#00BFFF",
+      "command": "/blocami"
+    }
+  },
+  "discord": {
+    "server_id": 1415189095721734176,
+    "rename_to_minecraft_name": false
+  },
+  "location": {
+    "city": "Paris",
+    "country": "France",
+    "country_code": "FR"
+  },
+  "brand": {
+    "primary": "#00BFFF",
+    "background": "#0000FF",
+    "text": "#FFFFFF"
+  },
+  "yt_trailer": "k5rtJIDN1RM"
+}

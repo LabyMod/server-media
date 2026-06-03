@@ -1,24 +1,23 @@
 {
     "server_name": "zonecraft",
-    "nice_name": "ZoneCraft Network",
-    "direct_ip": "play.zonecraft.es",
+    "nice_name": "ZoneCraft",
+    "direct_ip": "zonecraft.es",
     "server_wildcards": [
       "%.zonecraft.es",
       "%.zonecn.es",
       "%.hypixel.es",
-      "%.amamarla.com",
-      "%.zonehosting.net"
+      "%.amamarla.com"
     ],
     "supported_languages": [
       "es",
       "en"
     ],
     "social": {
-      "web": "https://zonecraft.es",
+      "web": "https://www.zonecraft.es",
       "web_shop": "https://tienda.zonecraft.es",
       "twitter": "ZoneCraftES",
       "discord": "https://discord.gg/zonecraft",
-      "youtube": "https://www.youtube.com/c/ZoneCraftNetwork",
+      "youtube": "https://www.youtube.com/@ZoneCraftES",
       "instagram": "zonecraftes",
       "tiktok": "zonecraftes"
     },
@@ -78,5 +77,5 @@
       "server_id": 424584809612836865,
       "rename_to_minecraft_name": false
     },
-    "yt_trailer": "NrVUUFEAij8"
+    "yt_trailer": "lxWY1GaPK54"
 }

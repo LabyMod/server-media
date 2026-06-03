@@ -1,9 +1,11 @@
 {
   "server_name": "mccisland",
-  "nice_name": "MCCIsland",
+  "nice_name": "MCC Island",
   "direct_ip": "play.mccisland.net",
   "server_wildcards": [
-    "%.mccisland.net"
+    "%.mccisland.net",
+    "%.mccislands.net",
+    "%.mccisland.com"
   ],
   "social": {
     "web": "https://mccisland.net",
@@ -16,19 +18,56 @@
   },
   "gamemodes": {
     "hitw": {
-      "name": "Hole in the Wall"
-    },
-    "skybattle": {
-      "name": "Sky Battle"
-    },
-    "battlebox": {
-      "name": "Battle Box"
+      "name": "HITW",
+      "color": "#4DFF75",
+      "url": "https://mcchampionship.com/pages/mcci-hitw",
+      "command": "/lobby hole_in_the_wall"
     },
     "tgttos": {
-      "name": "To Get to the Other Side" 
+      "name": "TGTTOS",
+      "color": "#FEF7FF",
+      "url": "https://mccisland.wiki/To_Get_To_The_Other_Side",
+      "command": "/lobby tgttos"
+    },
+    "dynaball": {
+      "name": "Dynaball",
+      "color": "#FF220A",
+      "url": "https://mccisland.wiki/Dynaball",
+      "command": "/lobby dynaball"
+    },
+    "battlebox": {
+      "name": "Battle Box",
+      "color": "#AD49FF",
+      "url": "https://mccisland.wiki/Battle_Box",
+      "command": "/lobby battle_box"
+    },
+    "skybattle": {
+      "name": "Sky Battle",
+      "color": "#EFAAFF",
+      "url": "https://mccisland.wiki/Sky_Battle",
+      "command": "/lobby sky_battle"
     },
     "parkourwarrior": {
-      "name": "Parkour Warrior"
+      "name": "Parkour Warrior",
+      "color": "#FF93B5",
+      "url": "https://mccisland.wiki/Parkour_Warrior_Dojo",
+      "command": "/lobby parkour_warrior"
+    },
+    "parkourwarriorsurvivor": {
+      "name": "Parkour Warrior Survivor",
+      "color": "#FF93B5",
+      "url": "https://mccisland.wiki/Parkour_Warrior_Survivor"
+    },
+    "rsr": {
+      "name": "RSR",
+      "color": "#6011FF",
+      "url": "https://mccisland.wiki/Rocket_Spleef_Rush",
+      "command": "/lobby rocket_spleef"
+    },
+    "fishing": {
+      "name": "Fishing",
+      "color": "#728EFF",
+      "url": "https://mccisland.wiki/Fishing"
     }
   },
   "discord": {

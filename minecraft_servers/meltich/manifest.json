@@ -1,0 +1,38 @@
+{
+  "server_name": "meltich",
+  "nice_name": "Meltich",
+  "direct_ip": "Meltich.net",
+  "supported_languages": [
+    "dk"
+  ],
+  "social": {
+    "web": "https://forum.meltich.net",
+    "web_shop": "https://butik.meltich.net",
+    "discord": "https://discord.gg/PrEKB8bWDZ"
+  },
+  "discord": {
+    "server_id": 853918176416628765
+  },
+  "gamemodes": {
+    "prison": {
+      "name": "Prison",
+      "command": "/joinqueue Prison",
+      "color": "#06bb27"
+    },
+    "event": {
+      "name": "UHC",
+      "command": "/joinqueue UHC",
+      "color": "#06bb27"
+    }
+  },
+  "brand": {
+    "primary": "#06bb27",
+    "background": "#06bb27",
+    "text": "#ffffff"
+  },
+  "location": {
+    "city": "Frankfurt",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "server_name": "theshadows",
+  "nice_name": "TheShadows",
+  "direct_ip": "theshadowsmc.xyz",
+  "supported_languages": [
+    "es"
+  ],
+  "social": {
+    "twitter": "theshadowsnet",
+    "discord": "https://discord.gg/bNKXURxuya"
+  },
+  "discord": {
+    "server_id": 1432054443901194364,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#942509",
+    "background": "#942509",
+    "text": "#ffffff"
+  }
+}

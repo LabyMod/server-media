@@ -1,0 +1,52 @@
+{
+  "server_name": "fakepixel",
+  "nice_name": "Fakepixel Network",
+  "direct_ip": "mc.fakepixel.fun",
+  "server_wildcards": [
+    "%.fakepixel.fun"
+  ],
+  "social": {
+    "web": "https://fakepixel.fun",
+    "web_shop": "https://world.fakepixel.shop",
+    "youtube": "https://www.youtube.com/@FakepixelServer",
+    "discord": "https://discord.com/invite/fakepixel"
+  },
+  "supported_languages": [
+    "en",
+    "ru"
+  ],
+  "gamemodes": {
+    "sb": {
+      "name": "SkyBlock",
+      "color": "#ff8742"
+    },
+    "bedwars": {
+      "name": "BedWars",
+      "color": "#ff8742"
+    },
+    "duels": {
+      "name": "Duels",
+      "color": "#ff8742"
+    },
+    "mlf": {
+      "name": "MyLittleFarm",
+      "color": "#ff8742"
+    },
+    "skywars": {
+      "name": "SkyWars",
+      "color": "#ff8742"
+    },
+    "arcade": {
+      "name": "Arcade",
+      "color": "#ff8742"
+    },
+    "buildffa": {
+      "name": "BuildFFA",
+      "color": "#ff8742"
+    }
+  },
+  "discord": {
+    "server_id": 1160213017812807700,
+    "rename_to_minecraft_name": false
+  }
+}

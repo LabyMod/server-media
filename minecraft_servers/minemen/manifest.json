@@ -1,30 +1,7 @@
 {
     "server_name":"minemen",
     "nice_name":"Minemen Club",
-    "direct_ip":"minemen.club",
-    "server_wildcards":[
-      "na.minemen.club",
-      "eu.minemen.club",
-      "as.minemen.club",
-      "mineman.club",
-      "na.mineman.club",
-      "eu.mineman.club",
-      "as.mineman.club",
-      "minemenclub.com",
-      "minemenclub.com",
-      "minemenclub.com",
-      "na.minemenclub.com",
-      "eu.minemenclub.com",
-      "as.minemenclub.com",
-      "zonix.us",
-      "na.zonix.us",
-      "eu.zonix.us",
-      "as.zonix.us",
-      "pvp.bar",
-      "na.pvp.bar",
-      "eu.pvp.bar",
-      "as.pvp.bar"
-    ],
+    "direct_ip":"eu.minemen.club",
     "social":{
       "web":"https://minemen.club",
       "web_shop":"https://store.minemen.club",
@@ -35,35 +12,41 @@
       "youtube":"https://www.youtube.com/@minemen_club"
     },
     "gamemodes":{
-      "practice":{
-        "name":"Legacy Practice",
-        "color":"#FFAA00",
-        "command":"/joinqueue na-practice",
-        "versions": "1.7<1.8.9"
-      },
       "modern_practice":{
         "name":"Modern Practice",
         "color":"#FFAA00",
-        "command":"/joinqueue na-mpractice",
+        "command":"/joinqueue eu-mpractice",
         "versions": "1.19.2<*"
+      },
+      "legacy_practice":{
+        "name":"Legacy Practice",
+        "color":"#FFAA00",
+        "command":"/joinqueue eu-practice",
+        "versions": "1.7<*"
       },
       "survival_games":{
         "name":"Survival Games",
         "color":"#E910E4",
-        "command":"/joinqueue na-sg",
-        "versions": "1.7<1.8.9"
+        "command":"/join eu-sg",
+        "versions": "1.7<*"
+      },
+      "pot_survival_games":{
+        "name":"Pot SG",
+        "color":"#E910E4",
+        "command":"/join eu-psg",
+        "versions": "1.7<*"
       },
       "uhc_meetup":{
         "name":"UHC Meetup",
         "color":"#E910E4",
-        "command":"/joinqueue na-um",
-        "versions": "1.7<1.8.9"
+        "command":"/join eu-um",
+        "versions": "1.7<*"
       },
       "uhc_games":{
         "name":"UHC Games",
         "color":"#E910E4",
-        "command":"/joinqueue na-ug",
-        "versions": "1.7<1.8.9"
+        "command":"/join eu-ug",
+        "versions": "1.7<*"
       }
     },
     "chat": {

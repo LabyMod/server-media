@@ -1,0 +1,16 @@
+{
+  "server_name": "lotoos",
+  "nice_name": "LoTooS",
+  "direct_ip": "lotoos.de",
+  "supported_languages": [
+     "de"
+  ],
+  "social": {
+    "youtube": "https://www.youtube.com/@LoTooS",
+    "discord": "https://discord.gg/aGpMxWkwZG"
+  },
+  "location": {
+     "country": "Germany",
+     "country_code": "DE"
+   }
+}

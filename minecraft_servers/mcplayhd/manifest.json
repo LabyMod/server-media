@@ -1,0 +1,54 @@
+{
+  "server_name": "mcplayhd",
+  "nice_name": "McPlayHD",
+  "direct_ip": "play.mcplayhd.net",
+  "supported_languages": [
+    "de",
+    "en",
+    "fr",
+    "nl",
+    "ru"
+  ],
+  "social": {
+    "web": "https://mcplayhd.net",
+    "web_shop": "https://store.mcplayhd.net",
+    "discord": "https://discord.com/invite/fk2C5XEYJs"
+  },
+  "gamemodes": {
+    "fastbuilder": {
+      "name": "FastBuilder",
+      "command": "/quickjoin fb",
+      "color": "#0095B0"
+    },
+    "parkour": {
+      "name": "Parkour",
+      "command": "/quickjoin pk",
+      "color": "#0095B0"
+    },
+    "bedwars": {
+      "name": "Bedwars",
+      "command": "/quickjoin bw",
+      "color": "#0095B0"
+    },
+    "minesweeper": {
+      "name": "Minesweeper",
+      "command": "/quickjoin ms",
+      "color": "#0095B0"
+    },
+    "moorhuhn": {
+      "name": "Moorhuhn",
+      "command": "/quickjoin mh",
+      "color": "#0095B0"
+    },
+    "slender": {
+      "name": "Slender",
+      "command": "/quickjoin sl",
+      "color": "#0095B0"
+    }
+  },
+  "brand": {
+    "primary": "#497cb1",
+    "background": "#497cb1",
+    "text": "#ffffff"
+  }
+}

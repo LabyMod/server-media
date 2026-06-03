@@ -1,0 +1,37 @@
+{
+    "server_name": "redeexe",
+    "nice_name": "EXE",
+    "direct_ip": "rede-exe.com",
+    "gamemodes": {
+      "p4free": {
+        "name": "P4Free",
+        "command": "/play p4free",
+        "color": "#FF0000"
+      },
+      "rankup": {
+        "name": "RankUP",
+        "command": "/play rankup",
+        "color": "#9532A8"
+      }
+    },
+    "social": {
+      "discord": "https://discord.com/invite/GzBcxG5Tse"
+    },
+    "discord": {
+      "server_id": 1280189229837848706,
+      "rename_to_minecraft_name": false
+    },
+    "brand": {
+      "primary": "#DB190B",
+      "background": "#DB190B",
+      "text": "#FFFFFF"
+    },
+    "location": {
+      "country": "Brazil",
+      "country_code": "BR"
+    },
+    "supported_languages": [
+      "pt-BR",
+      "pt-PT"
+    ]
+}

@@ -1,0 +1,83 @@
+{
+  "server_name": "revage",
+  "nice_name": "Revage",
+  "direct_ip": "mc.revage.net",
+  "supported_languages": [
+     "ru",
+     "en"
+  ],
+  "social": {
+    "web_shop": "https://revage.net",
+    "web_support": "https://revage.net/support",
+    "discord": "https://discord.com/invite/ayyhRugusp"
+  },
+  "gamemodes": {
+    "skywars": {
+      "name": "SkyWars", 
+      "color": "#25DCFF",
+      "versions": "1.8<*"
+    },
+    "bedwars": {
+      "name": "BedWars", 
+      "color": "#FF6060",
+      "versions": "1.8<*"
+    },
+    "duels": {
+      "name": "Duels",
+      "color": "#EFBD4F",
+      "versions": "1.8<*"
+    },
+    "buildbattle": {
+      "name": "Build Battle",
+      "color": "#1DCFF1",
+      "versions": "1.8<*"
+    },
+    "speedbuilders": {
+      "name": "Speed Builders",
+      "color": "#1DCFF1",
+      "versions": "1.8<*"
+    },
+    "arcadegames": {
+      "name": "Arcade Games",
+      "color": "#1DF167",
+      "versions": "1.8<*"
+    },
+    "murdermystery": {
+      "name": "Murder Mystery",
+      "color": "#CD4D4D",
+      "versions": "1.8<*"
+    },
+    "gungame": {
+      "name": "GunGame",
+      "color": "#E5925A",
+      "versions": "1.8<*"
+    },
+    "kitpvp": {
+      "name": "KitPvP",
+      "color": "#E5BF5A",
+      "versions": "1.8<*"
+    },
+    "onlyup": {
+      "name": "Only UP",
+      "color": "#97FFFF",
+      "versions": "1.8<*"
+    },
+    "anarchy": {
+      "name": "Anarchy",
+      "color": "#FFD785",
+      "versions": "1.16.5<*"
+    }
+  },
+  "discord": {
+    "server_id": 985799183636254730
+  },
+  "brand": {
+     "primary": "#FFAC00"
+  }, 
+  "location": {
+     "city": "Frankfurt",
+     "country": "Germany",
+     "country_code": "DE"
+  },
+  "command_delay": 2500
+}
