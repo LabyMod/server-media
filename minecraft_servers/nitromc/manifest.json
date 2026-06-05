@@ -1,0 +1,37 @@
+{
+    "server_name": "nitromc",
+    "nice_name": "NitroMC",
+    "direct_ip": "nitromc.net",
+    "supported_languages": [
+       "de"
+    ],
+    "social": {
+      "discord": "https://discord.com/invite/4NUunxHWwr"
+    },
+    "gamemodes": {
+      "cb": {
+        "name": "CityBuild",
+        "color": "#108bed3",
+        "command": "/nav citybuild"
+      },
+      "bauwelt": {
+        "name": "SMP",
+        "color": "#108bed3",
+        "command": "/nav Bauwelt"
+      },
+      "pvp": {
+        "name": "PVP",
+        "color": "#108bed3",
+        "command": "/nav pvp"
+      }
+    },
+    "discord": {
+      "server_id": 1453699880072773665,
+      "rename_to_minecraft_name": false
+    },
+    "location": {
+      "city": "Frankfurt",
+      "country": "Germany",
+      "country_code": "DE"
+    }
+  }
