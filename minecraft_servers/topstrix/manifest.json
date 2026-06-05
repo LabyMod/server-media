@@ -2,9 +2,6 @@
   "server_name": "topstrix",
   "nice_name": "TopStrix Network",
   "direct_ip": "play.topstrix.net",
-  "server_wildcards": [
-    "%.topstrix.net"
-  ],
   "supported_languages": [
     "en",
     "he"
