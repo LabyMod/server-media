@@ -6,7 +6,8 @@
     "%.topstrix.net"
   ],
   "supported_languages": [
-    "en"
+    "en",
+    "he"
   ],
   "social": {
     "web": "https://topstrix.co.il",
@@ -18,37 +19,37 @@
     "duels": {
       "name": "Duels",
       "color": "#FC6E40",
-      "versions": "1.21.6<*"
+      "versions": "1.21.11<*"
     },
     "partygames": {
       "name": "Party Games",
       "color": "#CD71EB",
-      "versions": "1.21.6<*"
+      "versions": "1.21.11<*"
     },
     "project_hardcore": {
       "name": "Project Hardcore",
       "color": "#EA605D",
-      "versions": "1.21.6<*"
+      "versions": "1.21.11<*"
     },
     "the_project": {
       "name": "The Project",
       "color": "#9B33ED",
-      "versions": "1.21.6<*"
+      "versions": "1.21.11<*"
     },
     "skyblock": {
       "name": "SkyBlock",
       "color": "#F4AE00",
-      "versions": "1.21.6<*"
+      "versions": "1.21.11<*"
     },
     "my_world": {
       "name": "My World",
       "color": "#09D3F4",
-      "versions": "1.21.6<*"
+      "versions": "1.21.11<*"
     },
     "gungame": {
       "name": "GunGame",
       "color": "#9BE691",
-      "versions": "1.21.6<*"
+      "versions": "1.21.11<*"
     }
 
   },
