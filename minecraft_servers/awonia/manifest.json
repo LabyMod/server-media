@@ -1,0 +1,24 @@
+{
+  "server_name": "awonia",
+  "nice_name": "Awonia",
+  "direct_ip": "awonia.net",
+  "supported_languages": [
+     "de"
+  ],
+  "social": {
+    "web": "https://www.awonia.net",
+    "discord": "https://discord.com/invite/2MwxdDbTxU",
+    "tiktok": "awoniamc"
+  },
+  "brand": {
+     "primary": "#008FE8",
+     "background": "#0A56A5",
+     "text": "#FFFFFF"
+  }, 
+  "location": {
+     "city": "Frankfurt",
+     "country": "Germany",
+     "country_code": "DE"
+  },
+  "command_delay": 3000
+}
