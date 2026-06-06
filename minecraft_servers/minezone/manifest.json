@@ -1,9 +1,7 @@
 {
   "server_name": "minezone",
   "nice_name": "MineZone Network",
-  "direct_ip": "mc.minezone.net",
-  "server_wildcards": [
-    "%.minezone.net"
+  "direct_ip": "mc.minezone.net"
   ],
   "supported_languages": [
     "es"
@@ -16,7 +14,7 @@
   },
   "social": {
     "web_shop": "https://tienda.minezone.net",
-    "discord": "https://discord.minezone.net"
+    "discord": "https://discord.gg/DXB9MntJVX"
   },
   "discord": {
     "server_id": 1265755011787264182,
