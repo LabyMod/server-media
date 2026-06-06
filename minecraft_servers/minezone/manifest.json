@@ -2,7 +2,8 @@
   "server_name": "minezone",
   "nice_name": "MineZone Network",
   "direct_ip": "mc.minezone.net"
-  ],
+
+},
   "supported_languages": [
     "es"
   ],
