@@ -14,14 +14,14 @@
   },
   "gamemodes": {
     "citybuild": {
-      "name": "Citybuild",
+      "name": "CB01",
       "command": "/navigator cb01",
       "color": "#00bf00",
       "versions": "1.21.11<*"
     },
-    "freebuild": {
-      "name": "Freebuild",
-      "command": "/navigator fb01",
+    "citybuild2": {
+      "name": "CB02",
+      "command": "/navigator cb02",
       "color": "#00bf00",
       "versions": "1.21.11<*"
     }
