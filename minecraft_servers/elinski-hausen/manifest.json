@@ -10,11 +10,6 @@
     "web_support": "https://wiki.elinskihausen.de",
     "discord": "https://discord.gg/SsGFh7RkgP"
   },
-  "chat": {
-    "message_formats": [
-      "^§7(?<sender>[a-zA-Z0-9_]{2,16})§8» §7(?<message>.*)$"
-    ]
-  },
   "discord": {
     "server_id": 1457815746762641590,
     "rename_to_minecraft_name": true
