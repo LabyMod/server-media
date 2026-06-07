@@ -1,15 +1,16 @@
 {
   "server_name": "donutnetwork",
   "nice_name": "DonutNetwork",
-  "direct_ip": "donutnetwork.xyz",
+  "direct_ip": "donutnetwork.eu",
   "server_wildcards": [
+    "%.donutnetwork.eu",
     "%.donutnetwork.xyz"
   ],
   "supported_languages": [
     "en"
   ],
   "social": {
-    "discord": "https://discord.gg/VanYssVURQ",
+    "discord": "https://discord.gg/PtuvcrD77w",
     "youtube": "https://www.youtube.com/@DonutNetwork_eu"
   },
   "gamemodes": {
@@ -18,18 +19,13 @@
       "color": "#ff7b00",
       "versions": "1.8<*"
     },
-    "mlg-rush": {
-      "name": "MLG-Rush",
-      "color": "#ff7b00",
-      "versions": "1.8<*"
-    },
     "fastbuilder": {
       "name": "Fastbuilder",
       "color": "#ff7b00",
       "versions": "1.8<*"
     },
-    "lets-knock": {
-      "name": "Lets-Knock",
+    "bedwars": {
+      "name": "BedWars",
       "color": "#ff7b00",
       "versions": "1.8<*"
     },
@@ -40,7 +36,7 @@
     }
   },
   "discord": {
-    "server_id": 1196849230585811085,
+    "server_id": 1443680418497954036,
     "rename_to_minecraft_name": false
   },
   "brand": {

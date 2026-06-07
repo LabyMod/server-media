@@ -56,6 +56,10 @@
       "manhunt":{
          "name":"ManHunt",
          "color":"#2ca7f3"
+      },
+      "bomberman":{
+         "name":"Bomberman",
+         "color":"#2ca7f3"
       }
    }
 }

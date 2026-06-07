@@ -7,39 +7,59 @@
     "%.rpxls.de"
   ],
   "supported_languages": [
-    "en",
-    "de"
+    "de",
+    "en"
   ],
   "social": {
-    "web": "https://www.tavaria.de",
-    "web_shop": "https://www.tavaria.de/shop",
-    "discord": "https://discord.gg/6EpSPtcEgt",
-    "teamspeak": "tavaria.de"
-  },
-  "discord": {
-    "server_id": 810885141874475052,
-    "rename_to_minecraft_name": false
+    "web": "https://tavaria.de",
+    "web_shop": "https://tavaria.de/shop",
+    "web_support": "https://tavaria.de/support",
+    "twitter": "TavariaDE",
+    "instagram": "tavaria.de",
+    "tiktok": "tavaria.de",
+    "youtube": "https://www.youtube.com/@tavariade",
+    "discord": "https://discord.gg/55n8Z2uf2a"
   },
   "gamemodes": {
     "school": {
       "name": "School",
-      "color": "#00AAAA",
-      "command": "/game-teleport school"
+      "command": "/game-teleport school",
+      "versions": "1.21<*",
+      "color": "#00AAAA"
     },
-    "luckywars": {
-      "name": "LuckyWars",
-      "color": "#FFFF55",
-      "command": "/game-teleport luckywars"
+    "jumpleague": {
+      "name": "JumpLeague",
+      "command": "/game-teleport jumpleague",
+      "versions": "1.21<*",
+      "color": "#03fcc6"
     },
-    "luckyrace": {
-      "name": "LuckyRace",
-      "color": "#55FF55",
-      "command": "/game-teleport luckyrace"
+    "getdown": {
+      "name": "GetDown",
+      "command": "/game-teleport getdown",
+      "versions": "1.21<*",
+      "color": "#00AAAA"
     },
-    "luckyeggwars": {
-      "name": "LuckyEggWars",
-      "color": "#FF5555",
-      "command": "/game-teleport luckyeggwars"
+    "sg": {
+      "name": "SurvivalGames",
+      "command": "/game-teleport sg",
+      "versions": "1.21<*",
+      "color": "#55FF55"
+    },
+    "qsg": {
+      "name": "QSG",
+      "command": "/game-teleport qsg",
+      "versions": "1.21<*",
+      "color": "#55FFFF"
     }
-  }
+  },
+  "discord": {
+    "server_id": 1463011269669031991,
+    "rename_to_minecraft_name": false
+  },
+  "location": {
+    "city": "Berlin",
+    "country": "Germany",
+    "country_code": "DE"
+  },
+  "yt_trailer": "Yj5H4803m5Y"
 }
