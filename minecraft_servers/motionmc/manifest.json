@@ -1,0 +1,26 @@
+{
+    "server_name": "motionmc",
+    "nice_name": "MotionMC Network",
+    "direct_ip": "motionmc.es",
+    "supported_languages": [
+        "es",
+        "en"
+    ],
+    "social": {
+        "discord": "https://discord.gg/F7gP5aPUC9"
+    },
+    "discord": {
+        "server_id": 1138890185732538469,
+        "rename_to_minecraft_name": false
+    },
+    "brand": {
+        "primary": "#4498DB",
+        "background": "#ADF3FD",
+        "text": "#FFFFFF"
+    },
+    "location": {
+        "city": "Miami",
+        "country": "United States",
+        "country_code": "US"
+    }
+}
