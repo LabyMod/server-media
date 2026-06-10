@@ -1,0 +1,23 @@
+{
+  "server_name": "bb-blockbuster",
+  "nice_name": "BB-Blockbuster",
+  "direct_ip": "bb-blockbuster.de",
+  "server_wildcards": [
+    "%.bb-blockbuster.de"
+  ],
+  "supported_languages": [
+    "de"
+  ],
+  "gamemodes": {
+    "hub": {
+      "name": "Hub",
+      "color": "#00AAFF",
+      "command": "/server blockbuster"
+    },
+    "survival": {
+      "name": "Survival",
+      "color": "#55FF55",
+      "command": "/server survival"
+    }
+  }
+}
