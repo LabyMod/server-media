@@ -1,0 +1,23 @@
+{
+  "server_name": "ninjasmp",
+  "nice_name": "NinjaSMP",
+  "direct_ip": "ninjasmp.de",
+  "server_wildcards": [
+    "%.ninjasmp.de"
+  ],
+  "social": {
+    "discord": "https://discord.ninjasmp.de"
+  },
+  "brand": {
+     "primary": "#008FE8",
+     "background": "#0A56A5",
+     "text": "#FFFFFF"
+  }, 
+  "location": {
+     "city": "Frankfurt",
+     "country": "Germany",
+     "country_code": "DE"
+  }
+}
+
+
