@@ -1,0 +1,37 @@
+{
+  "server_name": "protonmc",
+  "nice_name": "ProtonMC",
+  "direct_ip": "proton.pascalpex.de",
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+  },
+  "gamemodes": {
+    "citybuild": {
+      "name": "Citybuild", 
+      "color": "#16A600",
+      "command": "p auto"
+    },
+    "farmwelt": {
+      "name": "Farmwelt", 
+      "color": "#00F0F0",
+      "command": "/warp farmwelt"
+    }
+  },
+  "chat": {
+    "message_formats": [
+      "^§[a-f0-9](?<rank>\\w+) \\| (?<sender>\\w+) §8: (?<message>.*)$"
+    ]
+  },
+  "brand": {
+    "primary": "#0384fc",
+    "background": "#1703fc",
+    "text": "#FFFFFF"
+  }, 
+  "location": {
+    "country": "Germany",
+    "country_code": "DE"
+  },
+  "command_delay": 500
+}
