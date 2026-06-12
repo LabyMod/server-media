@@ -1,0 +1,26 @@
+{ 
+  "server_name": "mineplex",
+  "nice_name": "Mineplex",
+  "direct_ip": "mineplex.com",
+  "server_wildcards": [
+    "%.mineplex.com"
+  ],
+  "social": {
+    "web": "https://mineplex.com",
+    "web_shop": "https://store.mineplex.com",
+    "web_support":"https://mineplex.com/support",
+    "youtube": "MineplexGamesOfficial",
+    "instagram": "mineplexofficial",
+    "twitter":"Mineplex",
+    "tiktok": "playmineplex",
+    "discord": "https://discord.com/invite/mineplex"
+  },
+  "discord": {
+    "server_id": 381618442710679552
+  },
+  "brand": {
+    "primary": "#f28c03",
+    "background": "#00182e",
+    "text": "#ffffff"
+  }
+}
