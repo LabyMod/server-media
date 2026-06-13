@@ -1,0 +1,19 @@
+{
+  "server_name": "mineplex",
+  "nice_name": "Mineplex Games",
+  "direct_ip": "mineplex.com",
+  "social": {
+    "web": "https://mineplex.com",
+    "web_shop": "https://store.mineplex.com",
+    "discord": "https://discord.gg/mineplex"
+  },
+  "discord": {
+    "server_id": 381618442710679552,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#497cb1",
+    "background": "#497cb1",
+    "text": "#ffffff"
+  }
+}
