@@ -1,0 +1,60 @@
+{
+    "server_name": "mcrafty",
+    "nice_name": "MCrafty",
+    "direct_ip": "mcrafty.co",
+    "server_wildcards": [
+      "%.mcrafty.co"
+    ],
+    "social": {
+        "twitter": "MCGatherings",
+        "tiktok": "mcraftygatherings",
+        "discord": "https://discord.com/invite/KGDPYTzyBZ",
+        "youtube": "https://www.youtube.com/@MCraftyGatherings"
+    },
+    "gamemodes": {
+        "survival": {
+            "name": "Survival",
+            "color": "#FFB347",
+            "versions": "1.20.1>*"
+        },
+        "ffa": {
+            "name": "FFA",
+            "color": "#1E90FF",
+            "versions": "1.21>*"
+        },
+        "sandbox": {
+            "name": "Sandbox",
+            "color": "#FF4500",
+            "versions": "1.21>*"
+        },
+        "duels": {
+            "name": "Duels/Practice",
+            "color": "#8A2BE2",
+            "versions": "1.21>*"
+        },
+        "showdown_cards": {
+            "name": "Showdown Cards",
+            "color": "#D197E6",
+            "versions": "1.20.1>*"
+        },
+        "minijuegos": {
+            "name": "Minijuegos Semanales",
+            "color": "#FFD700",
+            "versions": "1.20.1>*"
+        }
+    },
+    "discord": {
+        "server_id": "1190870990650089500",
+        "rename_to_minecraft_name": false
+    },
+    "brand": {
+        "primary": "#7FC8D6",
+        "background": "#E6F4F7",
+        "text": "#FFFFFF"
+    },
+    "location": {
+        "city": "Bogotá",
+        "country": "Colombia",
+        "country_code": "CO"
+    }
+}
