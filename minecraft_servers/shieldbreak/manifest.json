@@ -2,15 +2,16 @@
   "server_name": "shieldbreak",
   "nice_name": "Shield Break",
   "direct_ip": "shield-break.net",
+  "server_wildcards": ["%.sbmc.dev", "%.shield-break.net"],
   "supported_languages": [
     "en",
     "de"
   ],
   "social": {
+    "web": "https://sbmc.dev",
     "discord": "https://discord.gg/xQrCe23B7E",
     "youtube": "https://www.youtube.com/@ShieldBreakNetwork"
   },
-  "gamemodes": {},
   "discord": {
     "server_id": 889032211716784158,
     "rename_to_minecraft_name": false
