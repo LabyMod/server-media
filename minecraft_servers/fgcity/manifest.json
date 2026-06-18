@@ -3,7 +3,7 @@
   "nice_name": "FGCity - Citybuild",
   "direct_ip": "FGCity.de",
   "server_wildcards": [
-    "%.FGCity.de"
+    "FGCity.de"
   ],
   "supported_languages": [
     "de"
