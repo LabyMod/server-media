@@ -2,9 +2,6 @@
   "server_name": "fgcity",
   "nice_name": "FGCity - Citybuild",
   "direct_ip": "FGCity.de",
-  "server_wildcards": [
-    "FGCity.de"
-  ],
   "supported_languages": [
     "de"
   ],
