@@ -1,6 +1,6 @@
 {
   "server_name": "mcheroes",
-  "nice_name": "McHeroes",
+  "nice_name": "The Heroes",
   "direct_ip": "mcheroes.net",
   "social": {
     "discord": "https://discord.gg/jfkD2MH5tD",
@@ -15,9 +15,9 @@
     "background": "#00a9ff"
   },
   "gamemodes": {
-    "heroesroyale": {
-      "name": "Heroes Royale",
-      "command": "/games",
+    "home": {
+      "name": "Home",
+      "command": "/home",
       "color": "#FFFFFF"
     }
   },
@@ -29,6 +29,5 @@
   "discord": {
     "server_id": 1369284957838643200,
     "rename_to_minecraft_name": false
-  },
-  "yt_trailer": "NSHJR0r2Kws"
+  }
 }
