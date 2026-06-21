@@ -10,7 +10,7 @@
   },
   "gamemodes": {
     "smp": {
-      "name": "Survival Multiplayer",
+      "name": "SMP",
       "color": "#42ebaa",
       "command": "/l smp",
       "versions": "1.21<*"
