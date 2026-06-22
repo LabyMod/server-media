@@ -1,6 +1,6 @@
 {
   "server_name": "mystic",
-  "nice_name": "Mysticnext",
+  "nice_name": "mysticnext",
   "direct_ip": "MysticNext.eu",
   "server_wildcards": [
     "%.mysticnext.eu"
