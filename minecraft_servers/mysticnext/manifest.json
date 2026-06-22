@@ -3,7 +3,7 @@
   "nice_name": "mysticnext",
   "direct_ip": "MysticNext.eu",
   "server_wildcards": [
-    "%.mysticnext.eu"
+    "play.mysticnext.eu"
   ],
   "supported_languages": [
     "de"
