@@ -1,0 +1,39 @@
+{
+  "server_name": "mystic",
+  "nice_name": "Mysticnext",
+  "direct_ip": "MysticNext.eu",
+  "server_wildcards": [
+    "%.mysticnext.eu"
+  ],
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "web": "https://mysticnext.eu",
+    "twitter": "mysticnexteu",
+    "tiktok": "mysticnexteu",
+    "instagram": "mysticnexteu",
+    "discord": "https://discord.gg/6JWgUY9Ts7"
+  },
+  "gamemodes": {
+    "smp": {
+      "name": "SMP",
+      "color": "#FF0055",
+      "url": "https://mysticnext.eu/smp"
+    }
+  },
+  "discord": {
+    "server_id": 1443268512507363480,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#A855F7",
+    "background": "#0F172A",
+    "text": "#F8FAFC"
+  },
+  "location": {
+    "city": "Frankfurt am Main",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}
