@@ -1,0 +1,12 @@
+{
+  "server_name": "HerrDinkel",
+  "nice_name": "HerrDinkel.de",
+  "direct_ip": "herrdinkel.de",
+  "server_wildcards": [
+    "*.herrdinkel.de"
+  ],
+  "social": {
+    "website": "https://herrdinkel.de",
+    "discord": "https://dc.herrdinkel.de"
+  }
+}
