@@ -3,26 +3,27 @@
   "nice_name": "Craftportal",
   "direct_ip": "craftportal.net",
   "supported_languages": [
-    "de", "en"
+    "de"
   ],
   "social": {
-      "twitter": "craftportal_net",
-      "discord": "https://discord.gg/SkuXHDxX2C",
-      "tiktok": "craftportal_net",
-      "youtube": "https://www.youtube.com/@craftportal_net"
+    "web": "https://craftportal.net",
+    "discord": "https://discord.gg/JNgaGA6Wgv",
+    "youtube": "https://youtube.com/@craftportal_net",
+    "tiktok": "craftportal_net",
+    "twitter": "craftportal_net"
   },
   "gamemodes": {
-    "battleground": {
-      "name": "Construct & Conquer",
-      "command": "/quickjoin battleground",
-      "color": "#7d0084",
-      "versions": "1.8>*"
+    "citybuild": {
+      "name": "CB01",
+      "command": "/navigator cb01",
+      "color": "#00bf00",
+      "versions": "1.21.11<*"
     },
-    "gungame": {
-      "name": "GunGame",
-      "command": "/quickjoin gungame",
-      "color": "#7d0084",
-      "versions": "1.8>*"
+    "citybuild2": {
+      "name": "CB02",
+      "command": "/navigator cb02",
+      "color": "#00bf00",
+      "versions": "1.21.11<*"
     }
   },
   "discord": {
@@ -30,9 +31,9 @@
     "rename_to_minecraft_name": false
   },
   "brand": {
-     "primary": "#000000",
-     "background": "#7d0084",
-     "text": "#FFFFFF"
+    "primary": "#000000",
+    "background": "#00bf00",
+    "text": "#FFFFFF"
   },
   "location": {
     "city": "Bielefeld",

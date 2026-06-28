@@ -293,7 +293,13 @@ def check_server_online_state(ip: str, wildcards: list):
                 if any(keyword in line_content for keyword in ['maintenance', 'wartung', 'wartungen', 'mantenimiento', 'wartungsarbeiten']):
                     maintenance_tagged = True
         if 'version' in response:
-            version_name = response['version'].lower()
+            version_name = response['version']
+
+            if isinstance(version_name, str):
+                version_name = version_name.lower()
+            if isinstance(version_name, dict) and 'name_clean' in version_name:
+                version_name = version_name['name_clean'].lower()
+
             if any(keyword in version_name for keyword in ['maintenance', 'wartung', 'wartungen', 'mantenimiento', 'wartungsarbeiten']):
                 maintenance_tagged = True
 
