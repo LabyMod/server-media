@@ -1,0 +1,19 @@
+{
+  "server_name": "larpsmp",
+  "nice_name": "LARPSMP",
+  "direct_ip": "larpsmp.de",
+  "supported_languages": ["de"],
+  "social": {
+    "web": "https://larpsmp.store",
+    "discord": "https://discord.gg/5sWG2wNm9a"
+  },
+  "brand": {
+    "primary": "#B15CFF",
+    "background": "#1A0B2E",
+    "text": "#FFFFFF"
+  },
+  "location": {
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}
