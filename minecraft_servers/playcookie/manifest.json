@@ -15,12 +15,12 @@
     "country_code": "DE"
   },
   "gamemodes": {
-    "citybuild": {
-      "name": "FFA",
+    "smp": {
+      "name": "SMP",
       "color": "#00FF3B",
       "versions": "1.21.11<*"
     },
-    "knockit": {
+    "ffa": {
       "name": "FFA",
       "color": "#00FF3B",
       "versions": "1.21.11<*"
