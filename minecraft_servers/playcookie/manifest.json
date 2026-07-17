@@ -9,7 +9,7 @@
     "discord": "https://discord.com/invite/U3BddyqVpq"
   },
   "discord": {
-    "server_id": 696737813630156840,
+    "server_id": 1426584915729846415,
     "rename_to_minecraft_name": false
   },
   "location": {
@@ -21,12 +21,12 @@
     "smp": {
       "name": "SMP",
       "color": "#00FF3B",
-      "versions": ">=1.21.11"
+      "versions": "1.21.11>*"
     },
     "ffa": {
       "name": "FFA",
       "color": "#00FF3B",
-      "versions": ">=1.21.11"
+      "versions": "1.21.11>"
     }
   },
   "brand": {
