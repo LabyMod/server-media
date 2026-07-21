@@ -1,13 +1,22 @@
 name: Validate
 
-on: [pull_request_target]
+on:
+  pull_request_target:
+    types:
+      - opened
+      - reopened
+      - synchronize
+
+permissions:
+  contents: read
+  pull-requests: write
 
 jobs:
   validate_images:
     name: Images
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout PR merge commit
         uses: actions/checkout@v4
         with:
           ref: refs/pull/${{ github.event.number }}/merge
@@ -17,12 +26,12 @@ jobs:
     name: Manifest
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout PR merge commit
         uses: actions/checkout@v4
         with:
           ref: refs/pull/${{ github.event.number }}/merge
       - name: Get changed files
-        uses: lots0logs/gh-action-get-changed-files@2.2.2
+        uses: lots0logs/gh-action-get-changed-files@6cb5164a823dbf3318b7c8032a333b4b7ed425b2
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
       - name: Add json
