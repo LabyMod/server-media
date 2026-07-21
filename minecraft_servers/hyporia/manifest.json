@@ -1,0 +1,25 @@
+{
+  "server_name": "hyporia",
+  "nice_name": "Hyporia",
+  "direct_ip": "hyporia.de",
+  "supported_languages": [
+     "de",
+     "en"
+  ],
+  "social": {
+    "web": "https://www.hyporia.de",
+    "discord": "https://discord.gg/6E7VMmXqWY",
+    "tiktok": "hyporia"
+  },
+  "brand": {
+     "primary": "#008FE8",
+     "background": "#0A56A5",
+     "text": "#FFFFFF"
+  }, 
+  "location": {
+     "city": "Minden",
+     "country": "Germany",
+     "country_code": "DE"
+  },
+  "command_delay": 3000
+}
