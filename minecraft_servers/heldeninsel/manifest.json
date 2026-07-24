@@ -1,0 +1,48 @@
+{
+  "server_name": "heldeninsel",
+  "nice_name": "Heldeninsel.net",
+  "direct_ip": "heldeninsel.net",
+  "server_wildcards": [
+    "%.heldeninsel.net"
+  ],
+  "supported_languages": [
+    "de",
+    "en"
+  ],
+  "social": {
+    "web": "https://heldeninsel.net",
+    "web_shop": "https://heldeninsel.shop",
+    "twitter": "heldeninsel",
+    "tiktok": "heldeninsel",
+    "youtube": "https://www.youtube.com/@heldeninselnet",
+    "discord": "https://discord.gg/heldeninsel"
+  },
+  "gamemodes": {
+    "duels": {
+      "name": "Duels",
+      "color": "#FFC72C",
+      "url": "https://heldeninsel.net/gamemode/duels",
+      "versions": "1.21.11"
+    },
+    "speedhelden": {
+      "name": "SpeedHelden",
+      "color": "#4FC3F7",
+      "versions": "1.21.11"
+    }
+  },
+  "discord": {
+    "server_id": 1370536074769600674,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#FFC72C",
+    "background": "#2E86C8",
+    "text": "#FFFFFF"
+  },
+  "location": {
+    "city": "Frankfurt am Main",
+    "country": "Germany",
+    "country_code": "DE"
+  },
+  "yt_trailer": "dGvBOxsZ-vA"
+}
