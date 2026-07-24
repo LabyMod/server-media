@@ -2,9 +2,6 @@
   "server_name": "heldeninsel",
   "nice_name": "Heldeninsel.net",
   "direct_ip": "heldeninsel.net",
-  "server_wildcards": [
-    "%.heldeninsel.net"
-  ],
   "supported_languages": [
     "de",
     "en"
