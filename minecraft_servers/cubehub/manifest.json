@@ -1,0 +1,38 @@
+{
+  "server_name": "cubehub",
+  "nice_name": "CubeHub",
+  "direct_ip": "CubeHub.dk",
+  "supported_languages": [
+    "dk"
+  ],
+  "social": {
+    "web": "https://forum.cubehub.dk",
+    "web_shop": "https://butik.cubehub.dk",
+    "discord": "https://discord.gg/D6URXPF4zY"
+  },
+  "discord": {
+    "server_id": 1529141913221992589
+  },
+  "gamemodes": {
+    "cubeland": {
+      "name": "CubeLand",
+      "command": "/joinqueue CubeLand",
+      "color": "#06bb27"
+    },
+    "uhc": {
+      "name": "UHC",
+      "command": "/joinqueue UHC",
+      "color": "#06bb27"
+    }
+  },
+  "brand": {
+    "primary": "#06bb27",
+    "background": "#06bb27",
+    "text": "#ffffff"
+  },
+  "location": {
+    "city": "Frankfurt",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}
