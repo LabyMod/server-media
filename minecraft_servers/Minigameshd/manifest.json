@@ -1,0 +1,28 @@
+{
+  "server_name": "Minigameshd",
+  "nice_name": "Minigameshd",
+  "direct_ip": "minigameshd.de",
+  "supported_languages": [
+    "de",
+    "en"
+  ],
+  "social": {
+    "web": "https://minigameshd.de",
+    "discord": "https://dc.gg/mgh",
+    "tiktok": "https://www.tiktok.com/@minigameshd"
+  },
+  "discord": {
+    "server_id": 1370430748322038093,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#FF8C00",
+    "background": "#FFD700",
+    "text": "#FFF4CC"
+  },
+  "location": {
+    "city": "Mühlenstr",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}
