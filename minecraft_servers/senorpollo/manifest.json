@@ -12,29 +12,7 @@
     "youtube": "https://www.youtube.com/@senor_pollo"
   },
   "location": {
-    "country": "Germany",
-    "country_code": "DE"
-  },
-  "gamemodes": {
-    "citybuild": {
-      "name": "CityBuild", 
-      "color": "#52ff59",
-      "command": "/server citybuild"
-    },
-    "survivalmultiplayer": {
-      "name": "SMP", 
-      "color": "#52ff59",
-      "command": "/server smp"
-    },
-    "chickencompetitionsolo": {
-      "name": "Chicken-Competition Solo",
-      "color": "#52ff59",
-      "command": "/server cc"
-    },
-    "chickencompetitionduo": {
-      "name": "Chicken-Competition Duo", 
-      "color": "#52ff59",
-      "command": "/server cc2"
-    }
+    "country": "Austria",
+    "country_code": "AT"
   }
 }
