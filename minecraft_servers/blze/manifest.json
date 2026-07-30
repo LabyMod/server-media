@@ -4,8 +4,7 @@
   "direct_ip": "blzemc.net",
   "server_wildcards": [
     "%.blzesteal.net",
-    "%.blzemc.net",
-    "%.blze.net"
+    "%.blzemc.net"
   ],
   "supported_languages": [
     "en"
