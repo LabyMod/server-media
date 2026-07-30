@@ -1,0 +1,51 @@
+{
+  "server_name": "blze",
+  "nice_name": "BlzeMC",
+  "direct_ip": "blzemc.net",
+  "server_wildcards": [
+    "%.blzesteal.net",
+    "%.blzemc.net",
+    "%.blze.net"
+  ],
+  "supported_languages": [
+    "en"
+  ],
+  "social": {
+    "web": "https://blzemc.net",
+    "web_shop": "https://store.blzemc.net",
+    "discord": "https://discord.gg/blzesteal",
+    "youtube": "https://youtube.com/@blzemc",
+    "instagram": "blzemc",
+    "twitter": "blzemcc",
+    "tiktok": "blzemcc",
+    "facebook": "blzemc"
+  },
+  "gamemodes": {
+    "lifesteal": {
+      "name": "Lifesteal",
+      "color": "#F980EB",
+      "command": "/lifesteal"
+    },
+    "randomkits": {
+      "name": "Randomkits",
+      "color": "#2ba8fb",
+      "command": "/randomkits"
+    }
+  },
+  "discord": {
+    "server_id": 926329886384197632,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#F980EB",
+     "background": "#FF4CF1",
+     "text": "#FFFFFF"
+  },
+  "location": {
+     "city": "New York",
+     "country": "United States",
+     "country_code": "US"
+  },
+  "yt_trailer": "X9y3S1hUaDI",
+  "command_delay": 3000
+}
