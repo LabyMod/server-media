@@ -1,0 +1,37 @@
+{
+  "server_name": "nordseecraft",
+  "nice_name": "NordseeCraft",
+  "direct_ip": "server.nordseecraft.de",
+  "supported_languages": [
+     "de"
+  ],
+  "social": {
+    "web": "https://nordseecraft.de",
+    "discord": "https://discord.gg/v57jCexqAm"
+  },
+  "gamemodes": {
+    "freebuild": {
+      "name": "Freebuild", 
+      "command": "/warp freebuild",
+      "color": "#3ede87"
+    },
+    "citybuild": {
+      "name": "Citybuild", 
+      "command": "/warp gs",
+      "color": "#3edec2"
+    }
+  },
+  "discord": {
+    "server_id": 1315467959040348280,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#5dd988"
+  }, 
+  "location": {
+     "city": "Nordstrand",
+     "country": "Germany",
+     "country_code": "DE"
+  },
+  "command_delay": 1000
+}

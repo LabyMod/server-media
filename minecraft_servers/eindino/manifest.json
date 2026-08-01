@@ -1,0 +1,45 @@
+{
+    "server_name": "eindino",
+    "nice_name": "einDinoNet",
+    "direct_ip": "eindino.net",
+    "supported_languages": [
+        "de", "en"
+    ],
+    "social": {
+        "web_shop": "https://shop.eindino.net",
+        "twitter": "einDino_",
+        "tiktok": "einDino_",
+        "instagram": "_eindino",
+        "discord": "https://discord.gg/6ZufQc5kYj"
+    },
+    "gamemodes": {
+        "knockit": {
+            "name": "KnockIT",
+            "color": "#000DC4",
+            "versions": "1.21<*"
+        },
+        "citybuild": {
+            "name": "CityBuild",
+            "color": "#000DC4",
+            "versions": "1.21<*"
+        },
+        "gungame": {
+            "name": "GunGame",
+            "color": "#000DC4",
+            "versions": "1.21<*"
+        }
+    },
+    "discord": {
+        "server_id": 887294676128890900,
+        "rename_to_minecraft_name": false
+    },
+    "brand": {
+        "primary": "#1EC43C",
+        "text": "#FFFFFF"
+    },
+    "location": {
+        "city": "Gunzenhausen",
+        "country": "Germany",
+        "country_code": "DE"
+    }
+}

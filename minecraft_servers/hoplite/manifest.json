@@ -1,0 +1,24 @@
+{
+  "server_name": "hoplite",
+  "nice_name": "Hoplite",
+  "direct_ip": "hoplite.gg",
+  "supported_languages": [
+    "en", "de", "fr", "ru", "es"
+  ],
+  "social": {
+    "web": "https://hoplite.gg",
+    "web_shop": "https://store.hoplite.gg",
+    "twitter": "HopliteNetwork",
+    "discord": "https://discord.com/invite/hoplite"
+  },
+  "discord": {
+    "server_id": 1134583981275349073,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#497cb1",
+    "background": "#497cb1",
+    "text": "#ffffff"
+  },
+  "yt_trailer": "w3FALZ38NFQ"
+}

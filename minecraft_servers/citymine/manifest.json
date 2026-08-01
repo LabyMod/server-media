@@ -1,0 +1,40 @@
+{
+  "server_name": "citymine",
+  "nice_name": "CityMine.eu",
+  "direct_ip": "join.citymine.eu",
+  "supported_languages": [
+     "de"
+  ],
+  "social": {
+    "discord": "https://discord.gg/4wYAZ7UWGK"
+  },
+  "gamemodes": {
+    "citybuild": {
+      "name": "Citybuild", 
+      "color": "#ADD8E6",
+      "command": "/citybuild",
+      "versions": "1.9<1.21"
+	},
+    "survival": {
+      "name": "Survival", 
+      "color": "#FFA500",
+      "command": "/survival",
+      "versions": "1.9<1.21"
+	},
+    "grundstuecke": {
+      "name": "Grundstücke", 
+      "color": "#66FE32",
+      "command": "/grundstücke",
+      "versions": "1.9<1.21"
+    } 
+  },
+  "discord": {
+    "server_id": 731277491976536085,
+    "rename_to_minecraft_name": false
+  },
+  "location": {
+     "city": "Stuttgart",
+     "country": "Germany",
+     "country_code": "DE"
+  }
+}

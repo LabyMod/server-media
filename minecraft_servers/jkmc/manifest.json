@@ -1,0 +1,22 @@
+{
+  "server_name": "jkmc",
+  "nice_name": "JKMC",
+  "direct_ip": "mc.jkmc.fr",
+  "server_wildcards": ["%.jkmc.fr"],
+  "supported_languages": ["fr"],
+  "social": {
+    "web": "https://jkmc.fr",
+    "twitter": "jkmc",
+    "youtube": "https://www.youtube.com/@jkmcfr",
+    "discord": "https://discord.gg/hycrdJtHPY"
+  },
+  "discord": {
+    "server_id": 1269744436200603659,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#F8C12F",
+    "background": "#44210E",
+    "text": "#FFFFFF"
+  }
+}

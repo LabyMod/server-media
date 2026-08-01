@@ -1,0 +1,28 @@
+{
+    "server_name": "kpsnetwork",
+    "nice_name": "KpsNetwork",
+    "direct_ip": "kps.rytamc.net",
+    "supported_languages": ["de"],
+    "social": {
+        "discord": "https://discord.com/invite/U7EapKxZvp"
+    },
+    "gamemodes": {
+        "callenges": {
+            "name": "GHG-Challenges",
+            "color": "#64BAFF"
+        },
+        "modpack": {
+            "name": "Modpack",
+            "color": "#FF4848"
+        }
+    },
+    "location": {
+        "city": "Falkenstein",
+        "country": "Germany",
+        "country_code": "DE"
+    },
+    "discord": {
+        "server_id": 817121651598295090,
+        "rename_to_minecraft_name": false
+    }
+}

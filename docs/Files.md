@@ -9,7 +9,7 @@ characters (no URL/domain!).
 
 > **Important**: The directory MUST match the `server_name` property in the [manifest.json](/docs/Manifest.md).
 
-To be accepted a server should be already released and on more than ~20 concurrent players on a daily basis.
+For a server to get accepted, it should already be released and publicly available! Servers in maintenance will be declined.
 
 A folder can contain the following files (*required):
 

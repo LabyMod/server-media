@@ -1,0 +1,25 @@
+{
+  "server_name": "townymc",
+  "nice_name": "TownyMc",
+  "direct_ip": "TownyMc.de",
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "discord": "https://discord.gg/yZvnSKfpzA",
+    "tiktok": "townymc_de"
+  },
+  "discord": {
+    "server_id": 1419250290036838490
+  },
+  "brand": {
+    "primary": "#ECAD5E",
+    "background": "#e19536",
+    "text": "#ffffff"
+  },
+  "location": {
+    "city": "Hessen",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}

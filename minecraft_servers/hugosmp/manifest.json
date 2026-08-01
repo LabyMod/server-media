@@ -1,0 +1,25 @@
+{
+  "server_name": "hugosmp",
+  "nice_name": "HugoSMP",
+  "direct_ip": "hugosmp.net",
+  "supported_languages": [
+     "de"
+  ],
+  "social": {
+    "web_shop": "https://shop.hugosmp.net",
+    "discord": "https://discord.gg/hugosmp"
+  },
+  "discord": {
+    "server_id": 1394793308533817655,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#A0010C",
+     "background": "#4E2578",
+     "text": "#FFFFFF"
+  }, 
+  "location": {
+     "country": "Germany",
+     "country_code": "DE"
+  }
+}

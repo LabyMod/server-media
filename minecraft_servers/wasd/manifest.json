@@ -1,0 +1,56 @@
+{
+  "server_name": "wasd",
+  "nice_name": "Wasd",
+  "direct_ip": "wasdmc.com",
+  "supported_languages": [
+    "pt-BR",
+    "pt-PT"
+  ],
+  "social": {
+    "web_shop": "https://loja.wasdmc.com/itens",
+    "discord": "https://discord.gg/wasdmc"
+  },
+  "gamemodes": {
+    "boxing": {
+      "name": "Boxing",
+      "command": "/play duels boxing"
+    },
+    "fireballfight": {
+      "name": "Fireball Fight",
+      "command": "/play duels fireballfight"
+    },
+    "bedfight": {
+      "name": "Bed Fight",
+      "command": "/play duels bedfight"
+    },
+    "bedsumo": {
+      "name": "Bed Sumo",
+      "command": "/play duels bedsumo"
+    },
+    "bedbridge": {
+      "name": "Bed Bridge",
+      "command": "/play duels bedbridge"
+    },
+    "pearlfight": {
+      "name": "Pearl Fight",
+      "command": "/play duels pearlfight"
+    },
+    "stickfight": {
+      "name": "Stick Fight",
+      "command": "/play duels stickfight"
+    }
+  },
+  "discord": {
+    "server_id": 1305185794637561948,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#2737e8",
+    "background": "#6673ff",
+    "text": "#FFFFFF"
+  },
+  "location": {
+    "country": "Brazil",
+    "country_code": "BR"
+  }
+}

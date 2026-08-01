@@ -1,43 +1,46 @@
 {
   "server_name": "flame",
   "nice_name": "FlameMC",
-  "direct_ip": "flamemc.com.br",
+  "direct_ip": "jogar.flamemc.com.br",
   "supported_languages": [
-    "pt"
+    "pt-BR",
+    "pt-PT"
   ],
   "social": {
     "web": "https://flamemc.com.br",
     "web_shop": "https://loja.flamemc.com.br",
     "twitter": "RedeFlameMC",
-    "tiktok": "flamemc_",
+    "tiktok": "redeflamemc",
+    "instagram": "redeflamemc",
     "discord": "https://discord.gg/flamemc",
-    "youtube": "https://www.youtube.com/@flamemcoficial"
+    "youtube": "https://www.youtube.com/@redeflamemc"
   },
   "gamemodes": {
-    "bedwars": {
-      "name": "BedWars",
-      "command": "/play bedwars"
-    },
-    "skywars": {
-      "name": "SkyWars",
-      "command": "/play skywars"
+    "academy": {
+      "name": "Academy",
+      "color": "#fc8403",
+      "command": "/play academy"
     },
     "hardcoregames": {
       "name": "HardcoreGames",
+      "color": "#fc8403",
       "command": "/play hg"
     },
     "duels": {
       "name": "Duels",
+      "color": "#fc8403",
       "command": "/play duels"
     },
-    "kitpvp": {
-      "name": "KitPvP",
+    "pvp": {
+      "name": "PvP",
+      "color": "#fc8403",
       "command": "/play pvp"
     },
     "clanxclan": {
-        "name": "CxC",
-        "command": "/play cxc"
-      }
+      "name": "CxC",
+      "color": "#fc8403",
+      "command": "/play cxc"
+    }
   },
   "discord": {
     "server_id": 730517177450627212,

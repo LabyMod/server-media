@@ -1,0 +1,37 @@
+{
+  "server_name": "hyren",
+  "nice_name": "Hyren Club",
+  "direct_ip": "hyren.club",
+  "supported_languages": [
+    "pt"
+  ],
+  "social": {
+    "web_shop": "https://loja.hyren.club",
+    "twitter": "ServidorHyren",
+    "tiktok": "servidorhyren",
+    "discord": "https://discord.gg/hyren",
+    "instagram": "@servidorhyren",
+    "youtube": "https://www.youtube.com/@servidorhyren"
+  },
+  "gamemodes": {
+    "bedwars": {
+      "name": "Bed Wars",
+      "color": "#FF5555",
+      "command": "/play bedwars"
+    },
+    "practice": {
+      "name": "Practice",
+      "color": "#00AAAA",
+      "command": "/play duels"
+    }
+  },
+  "discord": {
+    "server_id": 1305185794637561948,
+    "rename_to_minecraft_name": false
+  },
+  "location": {
+    "city": "São Paulo",
+    "country": "Brasil",
+    "country_code": "BR"
+  }
+}

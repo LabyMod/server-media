@@ -2,10 +2,6 @@
   "server_name": "screen",
   "nice_name": "Screen Network",
   "direct_ip": "redescreen.com",
-  "server_wildcards": [
-    "redereset.net",
-    "luper.redescreen.net"
-  ],
   "supported_languages": [
     "pt-BR",
     "pt-PT"
@@ -13,6 +9,22 @@
   "gamemodes": {
     "rankup": {
       "name": "Rank UP", 
+      "color": "#FFFFFF"
+    },
+    "smp": {
+      "name": "SMP", 
+      "color": "#FFFFFF"
+    },
+    "events": {
+      "name": "Eventos", 
+      "color": "#FFFFFF"
+    },
+    "prison": {
+      "name": "Prison", 
+      "color": "#FFFFFF"
+    },
+    "Tycoon": {
+      "name": "Tycoon", 
       "color": "#FFFFFF"
     }
   },

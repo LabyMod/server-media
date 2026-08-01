@@ -1,0 +1,16 @@
+{
+  "server_name": "minepixel",
+  "nice_name": "MinePixel",
+  "direct_ip": "minepixel.net",
+  "social": {
+    "web": "https://mc.minepixel.de",
+    "twitter": "MinePixelDE",
+    "instagram": "minepixelde",
+    "youtube": "https://www.youtube.com/@minepixelnet",
+    "discord": "https://discord.gg/3kud2u4fhx"
+  },
+  "discord": {
+    "server_id": 1328012289571557438,
+    "rename_to_minecraft_name": false
+  }
+}

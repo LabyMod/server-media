@@ -1,0 +1,58 @@
+{
+  "server_name": "kaizen",
+  "nice_name": "KaizenMC",
+  "direct_ip": "kaizenmc.gg",
+  "supported_languages": [
+     "pt"
+  ],
+  "social": {
+    "web": "https://kaizenmc.gg",
+    "web_shop": "https://kaizenmc.gg/category/6lW9zF5tnW",
+    "twitter": "RedeKaizenMC",
+    "tiktok": "redekaizenmc",
+    "instagram": "redekaizenmc",
+    "discord": "https://discord.gg/kaizenmc",
+    "youtube": "https://www.youtube.com/@RedeKaizenMC"
+  },
+  "gamemodes": {
+    "bedwars": {
+      "name": "BedWars", 
+      "color": "#d11507",
+      "command": "/play bed_wars_solo",
+      "versions": "1.8<*"
+    },
+    "fireballfight": {
+      "name": "Fireball Fight",
+      "color": "#79291b",
+      "command": "/play duels_fireball_fight",
+      "versions": "1.8<*"
+    },
+    "bedfight": {
+      "name": "Bed Fight",
+      "color": "#d11507",
+      "command": "/play duels_bed_fight",
+      "versions": "1.8<*"
+    },
+    "pearlfight": {
+      "name": "Pearl Fight",
+      "color": "#0d7373",
+      "command": "/play duels_pearl_fight",
+      "versions": "1.8<*"
+    }
+  },
+  "discord": {
+    "server_id": 1313661710942605416,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#743296",
+     "background": "#DC52BF",
+     "text": "#FFFFFF"
+  }, 
+  "location": {
+     "city": "São Paulo",
+     "country": "Brasil",
+     "country_code": "BR"
+  },
+  "yt_trailer": "Y4x7wZinVME"
+}

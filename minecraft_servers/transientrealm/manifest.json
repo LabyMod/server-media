@@ -1,0 +1,29 @@
+{
+    "server_name": "transientrealm",
+    "nice_name": "TransientRealm",
+    "direct_ip": "transientrealm.de",
+    "supported_languages": [
+       "de"
+    ],
+    "social": {
+      "web_shop": "https://store.transientrealm.de",
+      "web_support": "https://wiki.transientrealm.de",
+      "discord": "https://discord.gg/2ru8r3Jedj"
+    },
+    "gamemodes": {
+      "citybuild": {
+        "name": "CityBuild",
+        "color": "#702b87",
+        "versions": "1.21.8"
+      }
+    },
+    "discord": {
+      "server_id": 1277724770569552084,
+      "rename_to_minecraft_name": false
+    },
+    "location": {
+      "city": "Falkenstein",
+      "country": "Germany",
+      "country_code": "DE"
+    }
+  }
