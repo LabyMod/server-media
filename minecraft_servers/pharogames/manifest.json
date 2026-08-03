@@ -2,9 +2,6 @@
   "server_name": "pharogames",
   "nice_name": "PharoGames",
   "direct_ip": "play.pharogames.net",
-  "server_wildcards": [
-    "%.pharogames.net"
-  ],
   "supported_languages": [
     "en"
   ],
