@@ -20,20 +20,17 @@
         "duels": {
             "name": "Duels",
             "color": "#e84118",
-            "versions": "1.21.11<*",
-            "command": "/joinqueue duelshub"
+            "versions": "1.21.11<*"
         },
         "lategame": {
             "name": "LateGame",
             "color": "#e84118",
-            "versions": "1.21.11<*",
-            "command": "/joinqueue lategame"
+            "versions": "1.21.11<*"
         },
         "caveffa": {
             "name": "CaveFFA",
             "color": "#e84118",
-            "versions": "1.21.11<*",
-            "command": "/joinqueue caveffa"
+            "versions": "1.21.11<*"
         }
     },
     "brand": {
