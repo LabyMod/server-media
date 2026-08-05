@@ -2,9 +2,6 @@
     "server_name": "laavenda",
     "nice_name": "Laavenda",
     "direct_ip": "laavenda.de",
-    "server_wildcards": [
-        "%.laavenda.de"
-    ],
     "supported_languages": [
         "de"
     ],
