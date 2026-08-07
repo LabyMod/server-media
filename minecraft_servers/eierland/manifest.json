@@ -13,13 +13,9 @@
     "web": "https://eierland.net",
     "web_shop": "https://eierland.net/shop",
     "web_support": "https://eierland.net/tutorial",
-    "twitter": "eierland",
-    "tiktok": "eierland",
-    "facebook": "eierland",
     "instagram": "eierland",
     "discord": "https://discord.gg/T5ZfeNuHRR",
     "youtube": "https://www.youtube.com/channel/UCSamgE1KYvC7qZn56T0J2yg",
-    "teamspeak": "ts.labymod.net"
   },
   "chat": {
     "message_formats": [
