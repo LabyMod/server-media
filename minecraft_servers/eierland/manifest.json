@@ -1,0 +1,11 @@
+{
+  "server_name": "eierland",
+  "nice_name": "Eierland",
+  "direct_ip": "eierland.net",
+  "server_wildcards": [
+    "eierland.duckdns.org"
+  ],
+  "social": {
+    "web": "https://eierland.net"
+  }
+}
