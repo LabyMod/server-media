@@ -23,14 +23,14 @@
       "color": "#FFA500",
       "url": "https://www.eierland.net",
       "command": "/server farm1",
-      "versions": "1.21.11<*"
+      "versions": "26.1<*"
     },
-    "dna": {
-      "name": "cb",
+    "cb": {
+      "name": "CityBuild",
       "color": "#ADD8E6",
       "url": "https://www.eierland.net",
       "command": "/server cb",
-      "versions": "1.21.11<*"
+      "versions": "1.8<*"
     }
   },
   "chat": {
@@ -52,7 +52,6 @@
      "country": "Germany",
      "country_code": "DE"
   },
-  "yt_trailer": "8asFIRe2HSw",
   "user_stats": "https://laby.net/@{userName}",
   "command_delay": 0
 }
