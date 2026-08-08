@@ -1,0 +1,58 @@
+{
+  "server_name": "eierland",
+  "nice_name": "Eierland",
+  "direct_ip": "join.eierland.net",
+  "server_wildcards": [
+    "%.eierland.duckdns.org"
+  ],
+  "supported_languages": [
+     "en",
+     "de"
+  ],
+  "social": {
+    "web": "https://eierland.net",
+    "web_shop": "https://eierland.net/shop",
+    "web_support": "https://eierland.net/shop",
+    "instagram": "Eierland",
+    "discord": "https://discord.gg/SJt9ZwhuC",
+    "youtube": "https://www.youtube.com/channel/UCIKW4t4MGf5_hGDRCqwhlWg",
+  },
+  "gamemodes": {
+    "farmwelt": {
+      "name": "FarmWelt", 
+      "color": "#FFA500",
+      "url": "https://www.eierland.net",
+      "command": "/server farm1",
+      "versions": "1.21.11<*"
+    },
+    "dna": {
+      "name": "cb",
+      "color": "#ADD8E6",
+      "url": "https://www.eierland.net",
+      "command": "/server cb",
+      "versions": "1.21.11<*"
+    }
+  },
+  "chat": {
+    "message_formats": [
+      "^§[a-f0-9](?<level>\\d+)( \\||§8 \\|) §[a-f0-9](?<sender>[a-zA-Z0-9_]{2,16})§r§7: §f(?<message>.*)$"
+    ]
+  },
+  "discord": {
+    "server_id": 1534661093102714920,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#008FE8",
+     "background": "#0A56A5",
+     "text": "#FFFFFF"
+  }, 
+  "location": {
+     "city": "Bad Hersfeld",
+     "country": "Germany",
+     "country_code": "DE"
+  },
+  "yt_trailer": "8asFIRe2HSw",
+  "user_stats": "https://laby.net/@{userName}",
+  "command_delay": 0
+}
