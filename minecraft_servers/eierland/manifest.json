@@ -23,7 +23,7 @@
       "color": "#FFA500",
       "url": "https://www.eierland.net",
       "command": "/server farm1",
-      "versions": "26.1<*"
+      "versions": "1.17<*"
     },
     "cb": {
       "name": "CityBuild",
