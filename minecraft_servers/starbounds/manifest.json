@@ -1,0 +1,27 @@
+{
+  "server_name": "starbounds",
+  "nice_name": "Starbounds",
+  "direct_ip": "starbounds.net",
+  "supported_languages": ["en", "de"],
+  "social": {
+    "web": "https://starbounds.net",
+    "web_shop": "https://starbounds.store",
+    "discord": "https://discord.gg/DDEMEbM4fb"
+  },
+  "gamemodes": {
+    "skyblock": {
+      "name": "Skyblock",
+      "color": "#3ec1f0",
+      "versions": "1.21<*"
+    }
+  },
+  "brand": {
+    "primary": "#3ec1f0",
+    "background": "#1a0e33",
+    "text": "#ffffff"
+  },
+  "location": {
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}
