@@ -1,0 +1,11 @@
+{
+  "server_name": "eierland",
+  "nice_name": "Eierland",
+  "direct_ip": "join.eierland.net",
+  "server_wildcards": [
+    "%.eierland.duckdns.org"
+  ],
+  "supported_languages": [
+    "de"
+  ]
+}
