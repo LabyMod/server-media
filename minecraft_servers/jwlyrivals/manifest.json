@@ -15,8 +15,6 @@
   "gamemodes": {
     "survival": {
       "name": "Survival",
-      "url": "",
-      "command": "",
       "versions": "26.2>*",
       "color": "#FFFFFF"
     }
