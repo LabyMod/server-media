@@ -2,9 +2,6 @@
   "server_name": "jwlyrivals",
   "nice_name": "Jwlyrivals",
   "direct_ip": "jwlyrivals.de",
-  "server_wildcards": [
-    "%.jwlyrivals.de"
-  ],
   "supported_languages": [
     "de"
   ],
@@ -21,7 +18,7 @@
   },
   "discord": {
     "server_id": 1493269343977340948,
-    "rename_to_minecraft_name": true
+    "rename_to_minecraft_name": false
   },
   "location": {
     "city": "Lörrach",
