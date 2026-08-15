@@ -1,0 +1,39 @@
+{
+   "server_name":"plunzi",
+   "nice_name":"Plunzi Network",
+   "direct_ip":"plunzi.net",
+   "supported_languages":[
+      "en"
+   ],
+   "social":{
+      "web": "https://plunzi.net",
+      "discord":"https://discord.gg/2tz9nPJuhb",
+      "youtube":"https://www.youtube.com/@plunzish"
+   },
+   "gamemodes":{
+      "bridge":{
+         "name":"Bridge",
+         "color":"f9c22b"
+      },
+      "parkour":{
+         "name":"Parkour",
+         "color":"#1EBC73"
+      },
+      "punchout":{
+         "name":"PunchOut",
+         "color":"e83b3b"
+      }
+   },
+   "brand":{
+      "primary":"#e53630",
+      "background":"#9f1239"
+   },
+   "discord":{
+      "server_id":759336586361569280,
+      "rename_to_minecraft_name":false
+   },
+   "location":{
+      "country":"Germany",
+      "country_code":"DE"
+   }
+}
