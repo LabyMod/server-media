@@ -1,0 +1,54 @@
+{
+  "server_name": "zielmc",
+  "nice_name": "ZielMC",
+  "direct_ip": "zielmc.net",
+  "server_wildcards": [
+    "%.zielmc.net"
+  ],
+  "supported_languages": [
+    "de",
+    "en"
+  ],
+  "social": {
+    "web": "https://zielmc.net",
+    "web_shop": "https://shop.zielmc.net",
+    "discord": "https://discord.gg/zielmc"
+  },
+  "gamemodes": {
+    "parkourfight": {
+      "name": "Parkour Fight",
+      "color": "#6FF7E8",
+      "versions": "1.8<*"
+    },
+    "duels": {
+      "name": "Duels",
+      "color": "#F09A3C",
+      "versions": "1.8<*"
+    },
+    "practice": {
+      "name": "Practice",
+      "color": "#FF9C8F",
+      "versions": "1.8<*"
+    },
+    "battleroyal": {
+      "name": "Battle Royal",
+      "color": "#FFB13D",
+      "versions": "1.8<*"
+    },
+    "lobbygames": {
+      "name": "LobbyGames",
+      "color": "#E6943A",
+      "versions": "1.8<*"
+    }
+  },
+  "brand": {
+    "primary": "#F09A3C",
+    "background": "#2B1608",
+    "text": "#FFFFFF"
+  },
+  "location": {
+    "city": "Falkenstein",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}
