@@ -2,9 +2,6 @@
   "server_name": "thevace",
   "nice_name": "TheVace.net",
   "direct_ip": "thevace.net",
-  "server_wildcards": [
-    "%.thevace.net"
-  ],
   "supported_languages": [
     "de",
     "en"
@@ -34,8 +31,7 @@
     }
   },
   "discord": {
-    "server_id": 807620842636312577,
-    "rename_to_minecraft_name": true
+    "server_id": 807620842636312577
   },
   "location": {
     "city": "Limburg",
