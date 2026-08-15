@@ -13,7 +13,7 @@
    "gamemodes":{
       "bridge":{
          "name":"Bridge",
-         "color":"f9c22b"
+         "color":"#f9c22b"
       },
       "parkour":{
          "name":"Parkour",
@@ -21,7 +21,7 @@
       },
       "punchout":{
          "name":"PunchOut",
-         "color":"e83b3b"
+         "color":"#e83b3b"
       }
    },
    "brand":{
