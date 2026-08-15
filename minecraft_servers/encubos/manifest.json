@@ -1,0 +1,38 @@
+{
+    "server_name": "encubos",
+    "nice_name": "ENCUBOS Network",
+    "direct_ip": "mc.encubos.eu",
+    "supported_languages": [
+      "es"
+    ],
+    "gamemodes": {
+      "survival": {
+        "name": "Survival",
+        "color": "#8dd97d"
+      },
+      "fullpvp": {
+        "name": "FullPvP",
+        "color": "#ee5d5d"
+      }
+    },
+    "social": {
+      "web": "https://encubos.eu",
+      "web_shop": "https://store.encubos.eu",
+      "web_support": "https://wiki.encubos.eu",
+      "twitter": "encubosnt",
+      "youtube": "https://www.youtube.com/@encubosnt",
+      "discord": "https://discord.gg/jJ6h7cZ3pF"
+    },
+    "discord": {
+      "server_id": 1221587431334350959,
+      "rename_to_minecraft_name": false
+    },
+    "brand": {
+      "background": "#FF55FF"
+    },
+    "location": {
+      "city": "Madrid",
+      "country": "Spain",
+      "country_code": "ES"
+    }
+  }

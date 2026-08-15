@@ -1,0 +1,37 @@
+{
+  "server_name": "blocktopia",
+  "nice_name": "BlocktopiaMC",
+  "direct_ip": "blocktopiamc.de",
+  "server_wildcards":[
+     "%.blocktopiamc.de"
+  ],
+  "social": {
+    "tiktok": "BlocktopiaMC.de",
+    "discord": "https://discord.gg/GdxxTmVNJU"
+  },
+  "gamemodes": {
+    "citybuild": {
+      "name": "CityBuild",
+      "color": "#34BBE6",
+      "command": "/warp Citybuild"
+    },
+    "smp": {
+      "name": "SMP",
+      "color": "#34BBE6",
+      "command": "/warp smp"
+    },
+    "oneblock": {
+      "name": "OneBlock",
+      "color": "#34BBE6",
+      "command": "/warp oneblock"
+    }
+  },
+  "discord": {
+    "server_id": 1309938438027612200,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#34BBE6",
+    "background": "#4D85FF"
+  }
+}

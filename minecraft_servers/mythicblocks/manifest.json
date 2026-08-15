@@ -1,0 +1,31 @@
+{
+  "server_name": "mythicblocks",
+  "nice_name": "MythicBlocks",
+  "direct_ip": "mythicblocks.net",
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "discord": "https://discord.gg/YvdQyh3HVT"
+  },
+  "gamemodes": {
+    "citybuild": {
+      "name": "CityBuild",
+      "color": "#55FF55",
+      "versions": "1.21<*"
+    },
+    "block-empire-tycoon": {
+      "name": "Block Empire",
+      "color": "#FF5555",
+      "versions": "1.21.4<*"
+    }
+  },
+  "brand": {
+    "primary": "#55FF55"
+  },
+  "location": {
+    "city": "Falkenstein",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}

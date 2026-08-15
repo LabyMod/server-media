@@ -1,0 +1,35 @@
+{
+  "server_name": "castleprojekt",
+  "nice_name": "Castle Projekt",
+  "direct_ip": "cd.mcpro.io",
+  "supported_languages": [
+    "de",
+    "en",
+    "ru"
+  ],
+  "social": {
+    "discord": "https://discord.gg/nsuDrxkMek"
+  },
+  "gamemodes": {
+    "castles": {
+      "name": "Castles",
+      "command": "/join castles4x4",
+      "color": "#0095B0"
+    },
+    "mineception": {
+      "name": "Mineception",
+      "command": "/join mineception4x4",
+      "color": "#0095B0"
+    },
+    "tetris": {
+      "name": "Tetris",
+      "command": "/tetrisjoin",
+      "color": "#0095B0"
+    }
+  },
+  "brand": {
+    "primary": "#497cb1",
+    "background": "#497cb1",
+    "text": "#ffffff"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "server_name": "legitimoose",
+  "nice_name": "Legitimoose",
+  "direct_ip": "legitimoose.com",
+  "supported_languages": [
+    "en"
+  ],
+  "social": {
+    "twitter": "Legitimoose",
+    "discord": "https://discord.com/invite/n7z4sVG"
+  },
+  "discord": {
+    "server_id": 276506295673290752,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#497cb1",
+    "background": "#497cb1",
+    "text": "#ffffff"
+  }
+}

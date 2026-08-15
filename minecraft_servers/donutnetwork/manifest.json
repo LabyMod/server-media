@@ -1,0 +1,51 @@
+{
+  "server_name": "donutnetwork",
+  "nice_name": "DonutNetwork",
+  "direct_ip": "donutnetwork.eu",
+  "server_wildcards": [
+    "%.donutnetwork.eu",
+    "%.donutnetwork.xyz"
+  ],
+  "supported_languages": [
+    "en"
+  ],
+  "social": {
+    "discord": "https://discord.gg/PtuvcrD77w",
+    "youtube": "https://www.youtube.com/@DonutNetwork_eu"
+  },
+  "gamemodes": {
+    "clutches": {
+      "name": "Clutches",
+      "color": "#ff7b00",
+      "versions": "1.8<*"
+    },
+    "fastbuilder": {
+      "name": "Fastbuilder",
+      "color": "#ff7b00",
+      "versions": "1.8<*"
+    },
+    "bedwars": {
+      "name": "BedWars",
+      "color": "#ff7b00",
+      "versions": "1.8<*"
+    },
+    "reducer": {
+      "name": "Reducer",
+      "color": "#ff7b00",
+      "versions": "1.8<*"
+    }
+  },
+  "discord": {
+    "server_id": 1443680418497954036,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#ff7b00",
+     "background": "#535353"
+  },
+  "location": {
+    "city": "Frankfurt",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}
