@@ -2,9 +2,6 @@
   "server_name": "zielmc",
   "nice_name": "ZielMC",
   "direct_ip": "zielmc.net",
-  "server_wildcards": [
-    "%.zielmc.net"
-  ],
   "supported_languages": [
     "de",
     "en"
@@ -12,7 +9,7 @@
   "social": {
     "web": "https://zielmc.net",
     "web_shop": "https://shop.zielmc.net",
-    "discord": "https://discord.gg/zielmc"
+    "discord": "https://discord.gg/mbeqymwvrC"
   },
   "gamemodes": {
     "parkourfight": {
@@ -50,5 +47,9 @@
     "city": "Falkenstein",
     "country": "Germany",
     "country_code": "DE"
+  },
+  "discord": {
+    "server_id": 1465951974154440735,
+    "rename_to_minecraft_name": false
   }
 }
