@@ -1,0 +1,52 @@
+{
+  "server_name": "bawmc",
+  "nice_name": "BawMC",
+  "direct_ip": "bawmc.net",
+  "server_wildcards": [
+    "%.bawmc.net"
+  ],
+  "supported_languages": [
+    "pt"
+  ],
+  "social": {
+    "web_shop": "https://loja.bawmc.net",
+    "discord": "https://discord.gg/bawmc",
+    "youtube": "https://www.youtube.com/@bawmcnet",
+    "tiktok": "bawmcnet"
+  },
+  "gamemodes": {
+    "semianarquia": {
+      "name": "Semi-Anarquia",
+      "color": "#00CCFF"
+    },
+    "survival": {
+      "name": "Survival",
+      "color": "#00CCFF"
+    },
+    "crystalpvp": {
+      "name": "CrystalPvP",
+      "color": "#00CCFF"
+    },
+    "practice": {
+      "name": "Practice",
+      "color": "#00CCFF"
+    },
+    "eventos": {
+      "name": "Eventos",
+      "color": "#00CCFF"
+    }
+  },
+  "discord": {
+    "server_id": 1317180458978639914,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#00CCFF",
+    "background": "#102C56",
+    "text": "#FFFFFF"
+  },
+  "location": {
+    "country": "Brazil",
+    "country_code": "BR"
+  }
+}
