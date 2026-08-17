@@ -6,8 +6,8 @@
     "zickzacknetwork.de"
   ],
   "supported_languages": [
-     "en",
-     "de"
+    "en",
+    "de"
   ],
   "social": {
     "web": "https://zickzacknetwork.de",
@@ -15,11 +15,11 @@
     "tiktok": "zickzacknetwork",
     "instagram": "zickzacknetwork",
     "discord": "https://discord.gg/aEqcUjK794",
-    "youtube": "https://www.youtube.com/channel/UCqqkay17JFEl07mDF13aZYw",
+    "youtube": "https://www.youtube.com/channel/UCqqkay17JFEl07mDF13aZYw"
   },
   "gamemodes": {
     "MegaCraft": {
-      "name": "MegaCraft", 
+      "name": "MegaCraft",
       "color": "#da088d",
       "url": "https://zickzacknetwork.de/megacraft",
       "versions": "1.21>*"
@@ -30,20 +30,19 @@
       "versions": "1.21>*"
     }
   },
-
   "discord": {
     "server_id": 812004183443898449,
     "rename_to_minecraft_name": false
   },
   "brand": {
-     "primary": "#da088d",
-     "background": "#a0218e",
-     "text": "#FFFFFF"
-  }, 
+    "primary": "#da088d",
+    "background": "#a0218e",
+    "text": "#FFFFFF"
+  },
   "location": {
-     "city": "Frankfurt",
-     "country": "Germany",
-     "country_code": "DE"
+    "city": "Frankfurt",
+    "country": "Germany",
+    "country_code": "DE"
   },
   "command_delay": 3000
 }
