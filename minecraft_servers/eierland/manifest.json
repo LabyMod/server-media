@@ -3,7 +3,7 @@
   "nice_name": "Eierland",
   "direct_ip": "join.eierland.net",
   "server_wildcards": [
-    "%.eierland.net"
+    "%.eierland.duckdns.org"
   ],
   "supported_languages": [
     "en",
