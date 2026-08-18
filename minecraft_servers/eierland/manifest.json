@@ -1,0 +1,26 @@
+{
+  "server_name": "eierland",
+  "nice_name": "Eierland",
+  "direct_ip": "join.eierland.net",
+  "server_wildcards": [
+    "%.eierland.net"
+  ],
+  "supported_languages": [
+    "en",
+    "de"
+  ],
+  "social": {
+    "web": "https://eierland.net",
+    "discord": "https://discord.gg/7YUJZqZZp",
+    "youtube": "https://www.youtube.com/channel/UCIKW4t4MGf5_hGDRCqwhlWg"
+  },
+  "discord": {
+    "server_id": "1534661093102714920",
+    "rename_to_minecraft_name": false
+  },
+  "location": {
+    "city": "Bad Hersfeld",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}
