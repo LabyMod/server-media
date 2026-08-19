@@ -6,6 +6,7 @@
     "de"
   ],
   "social": {
+    "web": "https://townymc.de",
     "discord": "https://discord.gg/yZvnSKfpzA",
     "tiktok": "townymc_de"
   },
@@ -17,8 +18,24 @@
     "background": "#e19536",
     "text": "#ffffff"
   },
+  "gamemodes": {
+    "citybuild": {
+      "name": "CityBuild", 
+      "color": "#E8B50F",
+      "command": "/server citybuild"
+    },
+    "citybuild": {
+      "name": "Farmserver", 
+      "color": "#E8B50F",
+      "command": "/server farmserver"
+    },
+    "citybuild": {
+      "name": "Minigames", 
+      "color": "#E8B50F",
+      "command": "/server minigames"
+    }
+  },
   "location": {
-    "city": "Hessen",
     "country": "Germany",
     "country_code": "DE"
   }
