@@ -2,9 +2,6 @@
   "server_name": "bawmc",
   "nice_name": "BawMC",
   "direct_ip": "bawmc.net",
-  "server_wildcards": [
-    "%.bawmc.net"
-  ],
   "supported_languages": [
     "pt"
   ],
