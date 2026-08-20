@@ -1,0 +1,46 @@
+{
+    "server_name": "laavenda",
+    "nice_name": "Laavenda",
+    "direct_ip": "laavenda.de",
+    "supported_languages": [
+        "de"
+    ],
+    "social": {
+        "web": "https://laavenda.de",
+        "twitter": "Laavendade",
+        "tiktok": "Laavendade",
+        "discord": "https://discord.com/invite/vVdHTb7PFd",
+        "youtube": "https://www.youtube.com/@laavenda"
+    },
+    "discord": {
+        "server_id": 1510282440738869308,
+        "rename_to_minecraft_name": false
+    },
+    "gamemodes": {
+        "duels": {
+            "name": "Duels",
+            "color": "#e84118",
+            "versions": "1.21.11<*"
+        },
+        "lategame": {
+            "name": "LateGame",
+            "color": "#e84118",
+            "versions": "1.21.11<*"
+        },
+        "caveffa": {
+            "name": "CaveFFA",
+            "color": "#e84118",
+            "versions": "1.21.11<*"
+        }
+    },
+    "brand": {
+        "primary": "#D0A8F5",
+        "background": "#8B44E0",
+        "text": "#ffffff"
+    },
+    "location": {
+        "city": "Falkenstein",
+        "country": "Germany",
+        "country_code": "DE"
+    }
+}
