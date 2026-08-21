@@ -28,11 +28,6 @@
       "name": "Farmserver", 
       "color": "#E8B50F",
       "command": "/server farmserver"
-    },
-    "minigames": {
-      "name": "Minigames", 
-      "color": "#E8B50F",
-      "command": "/server minigames"
     }
   },
   "location": {
