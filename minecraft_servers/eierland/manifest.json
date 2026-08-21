@@ -1,4 +1,3 @@
- · JSON
 {
   "server_name": "eierland",
   "nice_name": "Eierland",
@@ -25,5 +24,4 @@
     "country": "Germany",
     "country_code": "DE"
   }
-}
 }
