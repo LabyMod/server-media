@@ -24,12 +24,12 @@
       "color": "#E8B50F",
       "command": "/server citybuild"
     },
-    "citybuild": {
+    "farmserver": {
       "name": "Farmserver", 
       "color": "#E8B50F",
       "command": "/server farmserver"
     },
-    "citybuild": {
+    "minigames": {
       "name": "Minigames", 
       "color": "#E8B50F",
       "command": "/server minigames"
