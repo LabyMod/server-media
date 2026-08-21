@@ -3,7 +3,6 @@
   "nice_name": "Eierland",
   "direct_ip": "join.eierland.net",
   "server_wildcards": [
-    "eierland.net",
     "%.eierland.net"
   ],
   "supported_languages": [
