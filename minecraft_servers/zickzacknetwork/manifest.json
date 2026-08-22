@@ -3,7 +3,7 @@
   "nice_name": "ZickZackNetwork",
   "direct_ip": "zickzacknetwork.de",
   "server_wildcards": [
-    "zickzacknetwork.de"
+    "%.zickzacknetwork.de"
   ],
   "supported_languages": [
     "en",
@@ -18,16 +18,18 @@
     "youtube": "https://www.youtube.com/channel/UCqqkay17JFEl07mDF13aZYw"
   },
   "gamemodes": {
-    "MegaCraft": {
+    "megacraft": {
       "name": "MegaCraft",
       "color": "#da088d",
       "url": "https://zickzacknetwork.de/megacraft",
-      "versions": "1.21>*"
+      "command": "/quickjoin megacraft",
+      "versions": "1.21<*"
     },
-    "SkyWars": {
+    "skywars": {
       "name": "Skywars",
       "color": "#a0218e",
-      "versions": "1.21>*"
+      "command": "/quickjoin skywars",
+      "versions": "1.21<*"
     }
   },
   "discord": {
@@ -36,7 +38,7 @@
   },
   "brand": {
     "primary": "#da088d",
-    "background": "#a0218e",
+    "background": "#0A0A0A",
     "text": "#FFFFFF"
   },
   "location": {
