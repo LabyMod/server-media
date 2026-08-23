@@ -14,37 +14,37 @@
     "boxing": {
       "name": "Boxing",
       "command": "/play duels boxing"
-      "color": "#ff3c36"
+      "color": "#ff3c36",
     },
     "fireballfight": {
       "name": "Fireball Fight",
       "command": "/play duels fireballfight"
-      "color": "#ff3c36"
+      "color": "#ff3c36",
     },
     "bedfight": {
       "name": "Bed Fight",
       "command": "/play duels bedfight"
-      "color": "#ff3c36"
+      "color": "#ff3c36",
     },
     "bedsumo": {
       "name": "Bed Sumo",
       "command": "/play duels bedsumo"
-      "color": "#ff3c36"
+      "color": "#ff3c36",
     },
     "bedbridge": {
       "name": "Bed Bridge",
       "command": "/play duels bedbridge"
-      "color": "#ff3c36"
+      "color": "#ff3c36",
     },
     "pearlfight": {
       "name": "Pearl Fight",
       "command": "/play duels pearlfight"
-      "color": "#ff3c36"
+      "color": "#ff3c36",
     },
     "stickfight": {
       "name": "Stick Fight",
       "command": "/play duels stickfight"
-      "color": "#ff3c36"
+      "color": "#ff3c36",
     }
   },
   "discord": {
