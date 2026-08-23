@@ -1,0 +1,28 @@
+{
+  "server_name": "jwlyrivals",
+  "nice_name": "Jwlyrivals",
+  "direct_ip": "jwlyrivals.de",
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "tiktok": "jjwlyy",
+    "discord": "https://discord.gg/7Mm5yewgJf"
+  },
+  "gamemodes": {
+    "survival": {
+      "name": "Survival",
+      "versions": "26.2>*",
+      "color": "#FFFFFF"
+    }
+  },
+  "discord": {
+    "server_id": 1493269343977340948,
+    "rename_to_minecraft_name": false
+  },
+  "location": {
+    "city": "Lörrach",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}
