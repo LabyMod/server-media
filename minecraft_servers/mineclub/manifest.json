@@ -1,0 +1,15 @@
+{
+    "server_name": "mineclub",
+    "nice_name": "Mineclub",
+    "direct_ip": "mc.mineclub.dk",
+    "server_wildcards": [
+        "%.mineclub.dk"
+    ],
+    "supported_languages": ["da"],
+    "social": {
+        "web": "https://mineclub.dk",
+        "web_shop": "https://mineclub.dk/butik",
+        "discord": "https://discord.gg/ePxVMN5ACh"
+    },
+    "command_delay": 100
+}
