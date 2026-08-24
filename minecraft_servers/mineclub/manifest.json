@@ -10,6 +10,5 @@
         "web": "https://mineclub.dk",
         "web_shop": "https://mineclub.dk/butik",
         "discord": "https://discord.gg/ePxVMN5ACh"
-    },
-    "command_delay": 100
+    }
 }
