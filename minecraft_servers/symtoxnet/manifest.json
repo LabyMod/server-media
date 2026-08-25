@@ -11,7 +11,7 @@
     "discord": "https://discord.gg/vJaMvzKZV"
   },
   "gamemodes": {
-    "ffa": {
+    "SMP": {
       "name": "SMP",
       "color": "#1ED600"
     }
