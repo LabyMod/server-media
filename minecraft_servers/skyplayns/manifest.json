@@ -9,43 +9,47 @@
   "social": {
     "web": "https://SkyPlayns.de",
     "twitter": "SkyPlayns",
-    "facebook": "SkyPlaynsDE",
-    "discord": "https://discord.gg/KQYkVQaQwz"
+    "discord": "https://discord.skyplayns.de"
   },
   "gamemodes": {
-    "mine": {
-      "name": "Mine",
+    "ascend": {
+      "name": "Ascend",
+      "color": "#FFFFFF",
+      "command": "/ascend"
+    },
+    "knockit": {
+      "name": "KnockIT",
+      "color": "#55FF55",
+      "command": "/knockit"
+    },
+    "skywars": {
+      "name": "SkyWars",
+      "color": "#FFFFFF",
+      "command": "/skywars"
+    },
+    "randomitembattle": {
+      "name": "RandomItemBattle",
       "color": "#FFAA00",
-      "command": "/mine"
+      "command": "/randomitembattle"
     },
-    "nether": {
-      "name": "Nether",
-      "color": "#AA00AA",
-      "command": "/nether"
+    "cakerush": {
+      "name": "CakeRush",
+      "color": "#FF55FF",
+      "command": "/cakerush"
     },
-    "mob": {
-      "name": "Mob",
-      "color": "#55FFFF",
-      "command": "/mob"
+    "shop": {
+      "name": "Shop",
+      "color": "#FFAA00",
+      "command": "/ranks"
     },
-    "skyblock": {
-      "name": "SkyBlock",
-      "color": "#55FF55",
-      "command": "/is"
-    },
-    "1vs1": {
-      "name": "1vs1",
-      "color": "#55FF55",
-      "command": "/1vs1 join"
-    },
-    "skypvp": {
-      "name": "SkyPvP",
-      "color": "#55FF55",
-      "command": "/spawn"
+    "reward": {
+      "name": "Reward",
+      "color": "#FFAA00",
+      "command": "/daily"
     }
   },
   "discord": {
-    "server_id": 490254212429643800,
+    "server_id": 490254212429643787,
     "rename_to_minecraft_name": false
   }
 }
