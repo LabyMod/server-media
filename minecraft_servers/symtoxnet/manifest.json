@@ -3,32 +3,32 @@
   "nice_name": "Symtox Netzwerk",
   "direct_ip": "symtox.net",
   "supported_languages": [
-     "en",
-     "de"
+    "en",
+    "de"
   ],
-    "social": {
-        "tiktok": "symtox.net",
-        "discord": "https://discord.gg/vJaMvzKZV",
-    },
-      "gamemodes": {
-        "ffa": {
-            "name": "SMP",
-            "color": "#1ED600"
-        }
-    },
+  "social": {
+    "tiktok": "symtox.net",
+    "discord": "https://discord.gg/vJaMvzKZV"
+  },
+  "gamemodes": {
+    "ffa": {
+      "name": "SMP",
+      "color": "#1ED600"
+    }
+  },
   "discord": {
     "server_id": 1388648233651142756,
     "rename_to_minecraft_name": false
   },
   "brand": {
-     "primary": "#008FE8",
-     "background": "#0A56A5",
-     "text": "#FFFFFF"
-  }, 
+    "primary": "#008FE8",
+    "background": "#0A56A5",
+    "text": "#FFFFFF"
+  },
   "location": {
-     "city": "Frankfurt",
-     "country": "Germany",
-     "country_code": "DE"
+    "city": "Frankfurt",
+    "country": "Germany",
+    "country_code": "DE"
   },
   "command_delay": 3000
 }
