@@ -1,7 +1,8 @@
 {
   "server_name": "sulfurmc",
-  "nice_name": "SulfurMC",
+  "nice_name": "SulfurMC Network",
   "direct_ip": "play.sulfurmc.eu",
+  "supported_languages": ["it"],
   "social": {
     "web": "https://store.sulfurmc.eu",
     "discord": "https://discord.gg/ZuN7FscCXC",
@@ -11,11 +12,13 @@
   "gamemodes": {
     "hyperlands": {
       "name": "Hyperlands",
-      "color": "#F548ED"
+      "color": "#FFA500",
+      "command": "/server hyperlands"
     },
-    "exiled": {
-      "name": "Exiled Hardcore",
-      "color": "#F548ED"
+    "islandempire": {
+      "name": "islandempire",
+      "color": "#32CD32",
+      "command": "/server islandempire"
     }
   },
   "discord": {
@@ -26,10 +29,5 @@
   "primary": "#FFA500",  
   "background": "#CC7000",   
   "text": "#FFFFFF"          
-},
-  "location": {
-    "city": "Eygelshoven",
-    "country": "Netherlands",
-    "country_code": "NL"
-  }
+}
 }

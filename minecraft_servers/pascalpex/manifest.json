@@ -1,0 +1,58 @@
+{
+  "server_name": "pascalpex",
+  "nice_name": "Pascalpex",
+  "direct_ip": "pascalpex.de",
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "web": "https://pascalpex.de",
+    "discord": "https://discord.gg/NfmMy3Y"
+  },
+  "gamemodes": {
+    "paintball": {
+      "name": "Paintball", 
+      "color": "#16A600",
+      "command": "/pb join"
+    },
+    "knockffa": {
+      "name": "KnockFFA", 
+      "color": "#00F0F0",
+      "command": "/kf join"
+    },
+    "freebuild": {
+      "name": "Freebuild", 
+      "color": "#0020D4",
+      "command": "/warp Freebuild"
+    },
+    "tntrun": {
+      "name": "TNTRun", 
+      "color": "#960000",
+      "command": "/tntrun join"
+    },
+    "colormatch": {
+      "name": "ColorMatch", 
+      "color": "#660057",
+      "command": "/cm join"
+    }
+  },
+  "chat": {
+    "message_formats": [
+      "^§[a-f0-9](?<rank>\\w+) \\| (?<sender>\\w+) §8: (?<message>.*)$"
+    ]
+  },
+  "discord": {
+    "server_id": 676506634213916674,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#0384fc",
+    "background": "#1703fc",
+    "text": "#FFFFFF"
+  }, 
+  "location": {
+    "country": "Germany",
+    "country_code": "DE"
+  },
+  "command_delay": 500
+}

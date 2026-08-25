@@ -1,0 +1,34 @@
+{
+  "server_name": "pvplab",
+  "nice_name": "PvPLab.world",
+  "direct_ip": "pvplab.world",
+  "supported_languages": [
+    "cs",
+    "de",
+    "el",
+    "en",
+    "es",
+    "fr",
+    "hu",
+    "ja",
+    "lb",
+    "lt",
+    "nl",
+    "no",
+    "pl",
+    "pt",
+    "ru",
+    "sk",
+    "sv",
+    "tr",
+    "zh"
+  ],
+  "social": {
+    "discord": "https://discord.com/invite/WWkUQPfs3j"
+  },
+  "location": {
+    "city": "Frankfurt",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}

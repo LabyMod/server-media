@@ -3,13 +3,15 @@
   "nice_name": "Cytooxien",
   "direct_ip": "mc.cytooxien.de",
   "supported_languages": [
-    "de", "en", "fr", "es", "ru"
+    "de", "en", "fr", "es", "ru", "da"
   ],
   "social": {
     "web": "https://www.cytooxien.de",
     "web_shop": "https://shop.cytooxien.de",
     "twitter": "Cytooxien",
     "discord": "https://discord.gg/cytooxien",
+    "tiktok": "cytooxien_de",
+    "youtube": "https://www.youtube.com/user/Cytooxien",
     "teamspeak": "ts.cytooxien.de"
   },
   "discord": {
@@ -33,29 +35,14 @@
     },
     "skyblock": {
       "name": "Skyblock",
-      "command": "/server skyblockx",
+      "command": "/server skyblock",
       "color": "#ffc300",
-      "url": "https://wiki.cytooxien.de/games/skyblock",
-      "versions": "1.21<*"
-    },
-    "reallife": {
-      "name": "Reallife",
-      "command": "/server reallife",
-      "color": "#ffc300",
-      "url": "https://wiki.cytooxien.de/games/reallife",
-      "versions": "1.21<*"
-    },
-    "citybuild": {
-      "name": "Citybuild",
-      "command": "/server citybuild",
-      "color": "#ffc300",
-      "url": "https://wiki.cytooxien.de/games/citybuild",
+      "url": "https://cytooxien.de/de/wiki/skyblock-intro",
       "versions": "1.21<*"
     },
     "realms": {
       "name": "Realms",
       "color": "#ffc300",
-      "url": "https://wiki.cytooxien.de/games/realms",
       "versions": "1.21<*"
     },
     "minecraftparty": {
@@ -67,25 +54,21 @@
     "heroes": {
       "name": "Heroes",
       "color": "#ffc300",
-      "url": "https://wiki.cytooxien.de/games/heroes",
       "versions": "1.21<*"
     },
     "timejump": {
       "name": "Timejump",
       "color": "#ffc300",
-      "url": "https://wiki.cytooxien.de/games/timejump",
       "versions": "1.21<*"
     },
     "smash": {
       "name": "Smash",
       "color": "#ffc300",
-      "url": "https://wiki.cytooxien.de/games/smash",
       "versions": "1.21<*"
     },
     "bedwars": {
       "name": "Bedwars",
       "color": "#ffc300",
-      "url": "https://wiki.cytooxien.de/games/bedwars",
       "versions": "1.21<*"
     },
     "ultimateknockout": {
@@ -97,7 +80,6 @@
       "name": "Creative",
       "command": "/server creative",
       "color": "#ffc300",
-      "url": "https://wiki.cytooxien.de/games/creative",
       "versions": "1.21<*"
     }
   },

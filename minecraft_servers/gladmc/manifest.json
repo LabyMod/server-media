@@ -3,11 +3,18 @@
   "nice_name": "GladMC",
   "direct_ip": "jogar.gladmc.com",
   "server_wildcards": [
-    "%.gladmc.com"
+    "%.gladmc.com.br"
+  ],
+  "supported_languages": [
+     "pt",
+     "en",
+	 "es"
   ],
   "social": {
     "web": "https://gladmc.com",
+	"web_shop": "https://loja.gladmc.com",
     "twitter": "GladMC_",
+    "tiktok": "GladMC_",
     "facebook": "100083393225242",
     "instagram": "gladmc_",
     "youtube": "https://www.youtube.com/c/GladMCOficial",
@@ -16,16 +23,34 @@
   "gamemodes": {
     "duels": {
       "name": "Duels",
+	  "color": "#FFFF55",
       "command": "/play duels"
     },
     "fullpvp": {
       "name": "FullPvP",
+	  "color": "#FFAA00",
       "command": "/play fp"
     },
     "bedwars": {
       "name": "BedWars",
+	  "color": "#FF5555",
       "command": "/play bw"
+    },
+    "kitpvp": {
+      "name": "KitPvP",
+	  "color": "#FF55FF",
+      "command": "/play kp"
     }
   },
-  "yt_trailer": "HNXUlA56wZQ"
+  "brand": {
+     "primary": "#FFAA00",
+     "background": "#AAAAAA",
+     "text": "#FFFFFF"
+  }, 
+  "location": {
+     "city": "São Paulo",
+     "country": "Brazil",
+     "country_code": "BR"
+  }, 
+  "yt_trailer": "C2FD-hfKMdw"
 }
