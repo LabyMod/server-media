@@ -17,13 +17,14 @@
     "instagram": "craftplay.de",
     "discord": "https://discord.gg/vYFKFgF5mH",
     "youtube": "https://www.youtube.com/@craftplayDE",
+    "teamspeak": "ts.craftplay.de"
   },
   "gamemodes": {
     "plotserver": {
-      "name": "Plotserver",
+      "name": "Citybuild",
       "color": "#55FFFF",
       "url": "https://www.craftplay.de/wiki/plotserver",
-      "command": "/plotserver",
+      "command": "/citybuild",
       "versions": "26.2<*"
     },
     "skygames": {
@@ -48,8 +49,9 @@
       "versions": "26.2<*"
     },
     "minigames": {
-      "name": "Aderblock", 
+      "name": "Minigames", 
       "color": "#A800A8",
+      "url": "https://www.craftplay.de/wiki/aderblock",
       "command": "/aderblock",
       "versions": "26.2<*"
     }
