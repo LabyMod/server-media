@@ -2,14 +2,10 @@
   "server_name": "klepa",
   "nice_name": "KlepaGG",
   "direct_ip": "klepa.gg",
-  "server_wildcards": [
-    "%.klepa.gg",
-    "%.klepa.pl"
-  ],
   "social": {
     "web": "https://klepa.gg",
     "web_shop": "https://klepa.gg",
-    "web_support": "https://dc.klepa.gg/",
+    "web_support": "https://dc.klepa.gg",
     "youtube": "https://www.youtube.com/@klepagg",
     "discord": "https://discord.gg/vTFgNz5Hez",
     "tiktok": "klepa.gg"
@@ -21,16 +17,17 @@
   "gamemodes": {
     "duels": {
       "name": "Duels",
+      "color": "#0f70bd",
       "command": "/play duels"
     },
     "bedwars": {
       "name": "Bed Wars",
+      "color": "#0f70bd",
       "command": "/play bedwars"
     }
   },
   "discord": {
-    "server_id": 1521112252856668283,
-    "rename_to_minecraft_name": true
+    "server_id": 1521112252856668283
   },
   "user_stats": "https://klepa.gg/gracz/{userName}"
 }
