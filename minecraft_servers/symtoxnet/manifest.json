@@ -12,7 +12,7 @@
   },
   "gamemodes": {
     "smp": {
-      "name": "SMP",
+      "name": "smp",
       "color": "#1ED600"
     }
   },
