@@ -1,0 +1,31 @@
+{
+  "server_name": "oremc",
+  "nice_name": "OreMC",
+  "direct_ip": "oremc.de",
+  "server_wildcards": [
+    "%.oremc.de",
+    "%.oremc.eu",
+    "%.oremc.net"
+  ],
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "web": "https://www.oremc.de",
+    "discord": "https://discord.oremc.de",
+    "teamspeak": "ts.oremc.de"
+  },
+  "discord": {
+    "server_id": 1538558805972090892
+  },
+  "brand": {
+    "primary": "#0095ed",
+    "background": "#00182e",
+    "text": "#ffffff"
+  },
+  "location": {
+    "city": "Frankfurt",
+    "country": "Germany",
+    "country_code": "DE"
+  },
+}
