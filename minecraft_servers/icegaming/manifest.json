@@ -3,7 +3,7 @@
     "nice_name": "ICEGAMING",
     "direct_ip": "icegaming.eu",
     "server_wildcards": [
-    "%.icegaming.eu"
+      "%.icegaming.eu"
   ],
     "supported_languages": [
         "de"
