@@ -1,12 +1,14 @@
 {
   "server_name": "craftergang",
-  "nice_name": "Craftergang.DE | Bedrock & Java 1.8 Minigames",
-  "direct_ip": "craftergang.de",
+  "nice_name": "Craftergang.net | Bedrock & Java 1.8 Minigames",
+  "direct_ip": "craftergang.net",
   "supported_languages": [
     "de",
     "en",
     "es",
-    "it"
+    "it",
+    "pt",
+    "pl"
   ],
   "social": {
     "discord": "https://discord.gg/ThCt8Pq",
@@ -26,6 +28,12 @@
       "name": "IRONPROTECT",
       "color": "#2f3d4c",
       "command": "/gametp ironprotect",
+      "versions": "1.7<*"
+    },
+    "woolbattleroyale": {
+      "name": "WoolBattleRoyale",
+      "color": "#1BCFCC",
+      "command": "/gametp wbr",
       "versions": "1.7<*"
     },
     "getdown": {
@@ -52,6 +60,11 @@
       "command": "/gametp blockhunt",
       "versions": "1.7<*"
     },
+    "more": {
+      "name": "+12 More",
+      "color": "#1BBACF",
+      "versions": "1.7<*"
+    },
     "minefighter": {
       "name": "Minefighter",
       "color": "#785117",
@@ -62,6 +75,18 @@
       "name": "Untergang",
       "color": "#0bde19",
       "command": "/gametp wu",
+      "versions": "1.7<*"
+    },
+    "lavaescape": {
+      "name": "LavaEscape",
+      "color": "#CFB71B",
+      "command": "/gametp lavaescape",
+      "versions": "1.7<*"
+    },
+    "dragonescape": {
+      "name": "DragonEscape",
+      "color": "#CF1BAE",
+      "command": "/gametp dragonescape",
       "versions": "1.7<*"
     },
     "superbreakblocks": {
@@ -80,12 +105,6 @@
       "name": "CB 1.8 & 1.16.5",
       "color": "#0d6914",
       "command": "/gametp cb1",
-      "versions": "1.7<*"
-    },
-    "duels": {
-      "name": "Ultimate Duels",
-      "color": "#d506b8",
-      "command": "/gametp duels",
       "versions": "1.7<*"
     },
     "mlgrush": {
