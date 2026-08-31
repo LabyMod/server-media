@@ -28,7 +28,7 @@
       "versions": "26.2<*"
     },
     "skygames": {
-      "name": "SkyBlock",
+      "name": "Skyblock",
       "color": "#54FC54",
       "url": "https://www.craftplay.de/wiki/skyblock",
       "command": "/skyblock",
@@ -49,7 +49,7 @@
       "versions": "26.2<*"
     },
     "minigames": {
-      "name": "Minigames", 
+      "name": "Aderblock", 
       "color": "#A800A8",
       "url": "https://www.craftplay.de/wiki/aderblock",
       "command": "/aderblock",
