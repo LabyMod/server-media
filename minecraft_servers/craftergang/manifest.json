@@ -102,7 +102,7 @@
       "versions": "1.7<*"
     },
     "cb": {
-      "name": "CB 1.8 & 1.16.5",
+      "name": "CB 1.8 & 1.20.6",
       "color": "#0d6914",
       "command": "/gametp cb1",
       "versions": "1.7<*"
