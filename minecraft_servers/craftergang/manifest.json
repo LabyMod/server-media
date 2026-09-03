@@ -24,12 +24,6 @@
       "command": "/gametp crafterbreak",
       "versions": "1.7<*"
     },
-    "ironprotect": {
-      "name": "IRONPROTECT",
-      "color": "#2f3d4c",
-      "command": "/gametp ironprotect",
-      "versions": "1.7<*"
-    },
     "woolbattleroyale": {
       "name": "WoolBattleRoyale",
       "color": "#1BCFCC",
@@ -42,27 +36,27 @@
       "command": "/gametp getdown",
       "versions": "1.7<*"
     },
-    "uhcbingo": {
-      "name": "UHCBingo",
-      "color": "#C21588",
-      "command": "/gametp uhcbingo",
-      "versions": "1.7<*"
-    },
     "cookies": {
       "name": "Cookies",
       "color": "#07F0E0",
       "command": "/gametp cookies",
       "versions": "1.7<*"
     },
-    "blockhunt": {
-      "name": "BlockHunt",
-      "color": "#27E0F5",
-      "command": "/gametp blockhunt",
+    "uhcbingo": {
+      "name": "UHCBingo",
+      "color": "#C21588",
+      "command": "/gametp uhcbingo",
       "versions": "1.7<*"
     },
     "more": {
       "name": "+12 More",
       "color": "#1BBACF",
+      "versions": "1.7<*"
+    },
+    "blockhunt": {
+      "name": "BlockHunt",
+      "color": "#27E0F5",
+      "command": "/gametp blockhunt",
       "versions": "1.7<*"
     },
     "minefighter": {
@@ -81,6 +75,12 @@
       "name": "LavaEscape",
       "color": "#CFB71B",
       "command": "/gametp lavaescape",
+      "versions": "1.7<*"
+    },
+    "ironprotect": {
+      "name": "IRONPROTECT",
+      "color": "#2f3d4c",
+      "command": "/gametp ironprotect",
       "versions": "1.7<*"
     },
     "dragonescape": {
