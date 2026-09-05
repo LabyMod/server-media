@@ -25,6 +25,5 @@
     "primary": "#F6B800",
     "background": "#173D78",
     "text": "#FFFFFF"
-  },
-  "command_delay": 3000
+  }
 }
