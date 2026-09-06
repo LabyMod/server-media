@@ -2,9 +2,6 @@
   "server_name": "nyxsmp",
   "nice_name": "NyxSMP",
   "direct_ip": "nyxsmp.net",
-  "server_wildcards": [
-    "%.nyxsmp.net"
-  ],
   "supported_languages": [
     "de",
     "en"
