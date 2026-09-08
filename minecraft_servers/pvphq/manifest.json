@@ -1,0 +1,79 @@
+{
+  "server_name": "pvphq",
+  "nice_name": "PvPHQ",
+  "direct_ip": "pvphq.com",
+  "server_wildcards": [
+    "%.pvphq.com"
+  ],
+  "supported_languages": [
+     "en"
+  ],
+  "social": {
+    "web": "https://pvphq.com",
+    "web_shop": "https://store.pvphq.com",
+    "discord": "https://discord.gg/pvphq"
+  },
+  "gamemodes": {
+    "sword": {
+      "name": "Sword",
+      "color": "#4ED8CB",
+      "url": "https://pvphq.com/leaderboard/sword"
+    },
+    "axe": {
+      "name": "Axe",
+      "color": "#4ED8CB",
+      "url": "https://pvphq.com/leaderboard/axe"
+    },
+    "mace": {
+      "name": "Mace",
+      "color": "#8989AE",
+      "url": "https://pvphq.com/leaderboard/mace"
+    },
+    "spear_mace": {
+      "name": "Spear",
+      "color": "#774B49",
+      "url": "https://pvphq.com/leaderboard/spear_mace"
+    },
+    "uhc": {
+      "name": "UHC",
+      "color": "#FF1C45",
+      "url": "https://pvphq.com/leaderboard/uhc"
+    },
+    "netherite_pot": {
+      "name": "NethPot",
+      "color": "#756175",
+      "url": "https://pvphq.com/leaderboard/netherite_pot"
+    },
+    "pot": {
+      "name": "Pot",
+      "color": "#FF1D46",
+      "url": "https://pvphq.com/leaderboard/pot"
+    },
+    "smp": {
+      "name": "SMP",
+      "color": "#115F52",
+      "url": "https://pvphq.com/leaderboard/smp"
+    },
+    "diamond_smp": {
+      "name": "DiaSMP",
+      "color": "#7C577B",
+      "url": "https://pvphq.com/leaderboard/diamond_smp"
+    },
+    "vanilla": {
+      "name": "Vanilla",
+      "color": "#CB60EB",
+      "url": "https://pvphq.com/leaderboard/vanilla"
+    },
+    "cart": {
+      "name": "Cart",
+      "color": "#ED4317",
+      "url": "https://pvphq.com/leaderboard/cart"
+    }
+  },
+  "brand": {
+    "primary": "#E7C163",
+    "background": "#0B0D14",
+    "text": "#FFFFFF"
+  },
+  "user_stats": "https://pvphq.com/player/{userName}"
+}
