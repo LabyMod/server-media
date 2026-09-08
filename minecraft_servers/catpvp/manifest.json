@@ -1,0 +1,20 @@
+{
+  "server_name": "catpvp",
+  "nice_name": "CatPvP",
+  "direct_ip": "catpvp.com",
+  "server_wildcards": [
+    "%.catpvp.com",
+    "%.catpvp.net"
+  ],
+  "supported_languages": [
+    "en"
+  ],
+  "social": {
+    "web": "https://catpvp.com",
+    "web_shop": "https://store.catpvp.xyz",
+    "discord": "https://discord.gg/u6vbkJC69e"
+  },
+  "brand": {
+    "primary": "#7F3400"
+  }
+}

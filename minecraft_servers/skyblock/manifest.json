@@ -1,0 +1,21 @@
+{
+  "server_name": "skyblock",
+  "nice_name": "Skyblock",
+  "direct_ip": "skyblock.net",
+  "server_wildcards": [
+    "%.skyblock.net"
+  ],
+  "supported_languages": [
+    "en"
+  ],
+  "social": {
+    "web": "https://skyblock.net",
+    "discord": "https://discord.gg/sb",
+    "twitter": "Skyblock",
+    "tiktok": "skyblock",
+    "instagram": "skyblock"
+  },
+  "brand": {
+    "primary": "#79E7FC"
+  }
+}

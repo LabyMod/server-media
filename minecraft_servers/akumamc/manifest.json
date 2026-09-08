@@ -1,0 +1,21 @@
+{
+  "server_name": "akumamc",
+  "nice_name": "AkumaMC",
+  "direct_ip": "akumamc.net",
+  "server_wildcards": [
+    "%.akumamc.net"
+  ],
+  "supported_languages": [
+    "en"
+  ],
+  "social": {
+    "web": "https://akumamc.net",
+    "web_shop": "https://store.akumamc.net",
+    "discord": "https://discord.gg/akumamc",
+    "youtube": "https://www.youtube.com/@AkumaMCNet",
+    "tiktok": "playakuma"
+  },
+  "brand": {
+    "primary": "#FFBF48"
+  }
+}

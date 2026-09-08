@@ -1,0 +1,18 @@
+{
+  "server_name": "astralmc",
+  "nice_name": "AstralMC",
+  "direct_ip": "astralmc.cc",
+  "server_wildcards": [
+    "%.astralmc.cc"
+  ],
+  "supported_languages": [
+    "en"
+  ],
+  "social": {
+    "web": "https://astralmc.cc",
+    "web_shop": "https://store.astralmc.cc"
+  },
+  "brand": {
+    "primary": "#FE3BD3"
+  }
+}

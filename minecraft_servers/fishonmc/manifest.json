@@ -1,0 +1,19 @@
+{
+  "server_name": "fishonmc",
+  "nice_name": "FishOnMC",
+  "direct_ip": "play.fishonmc.net",
+  "server_wildcards": [
+    "%.fishonmc.net"
+  ],
+  "supported_languages": [
+    "en"
+  ],
+  "social": {
+    "web": "https://fishonmc.net",
+    "web_shop": "https://store.fishonmc.net",
+    "discord": "https://discord.gg/fishon"
+  },
+  "brand": {
+    "primary": "#1DBDF5"
+  }
+}

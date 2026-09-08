@@ -1,0 +1,18 @@
+{
+  "server_name": "zedarmc",
+  "nice_name": "ZedarMC",
+  "direct_ip": "zedarmc.com",
+  "server_wildcards": [
+    "%.zedarmc.com"
+  ],
+  "supported_languages": [
+    "en"
+  ],
+  "social": {
+    "web_shop": "https://store.zedarmc.com",
+    "discord": "https://discord.gg/zedarmc"
+  },
+  "brand": {
+    "primary": "#F537F6"
+  }
+}

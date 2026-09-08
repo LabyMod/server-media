@@ -1,0 +1,20 @@
+{
+  "server_name": "hylexmc",
+  "nice_name": "HylexMC",
+  "direct_ip": "hylexmc.net",
+  "server_wildcards": [
+    "%.hylexmc.net"
+  ],
+  "supported_languages": [
+    "en"
+  ],
+  "social": {
+    "web": "https://hylexmc.net",
+    "web_shop": "https://store.hylexmc.net",
+    "discord": "https://discord.gg/hylexmc"
+  },
+  "brand": {
+    "primary": "#10EB72"
+  },
+  "user_stats": "https://hylexmc.net/players/{userName}"
+}

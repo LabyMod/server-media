@@ -1,0 +1,18 @@
+{
+  "server_name": "sunrealms",
+  "nice_name": "SunRealms",
+  "direct_ip": "play.sunrealms.net",
+  "server_wildcards": [
+    "%.sunrealms.net"
+  ],
+  "supported_languages": [
+    "en"
+  ],
+  "social": {
+    "web_shop": "https://store.sunrealms.net",
+    "discord": "https://discord.gg/sunrealms"
+  },
+  "brand": {
+    "primary": "#FBB93A"
+  }
+}

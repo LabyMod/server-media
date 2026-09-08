@@ -1,0 +1,22 @@
+{
+  "server_name": "mcmanhunt",
+  "nice_name": "McManhunt",
+  "direct_ip": "mcmanhunt.com",
+  "server_wildcards": [
+    "%.mcmanhunt.com"
+  ],
+  "supported_languages": [
+    "en"
+  ],
+  "social": {
+    "web": "https://mcmanhunt.com",
+    "web_shop": "https://store.mcmanhunt.com",
+    "discord": "https://discord.gg/manhunt",
+    "twitter": "mc_manhunt",
+    "tiktok": "4nt_mcmanhunt",
+    "instagram": "mcmanhunt"
+  },
+  "brand": {
+    "primary": "#FFEF23"
+  }
+}

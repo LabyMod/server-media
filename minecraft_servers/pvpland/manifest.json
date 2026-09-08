@@ -1,0 +1,20 @@
+{
+  "server_name": "pvpland",
+  "nice_name": "PvP Land",
+  "direct_ip": "pvp.land",
+  "server_wildcards": [
+    "%.pvp.land"
+  ],
+  "supported_languages": [
+    "en"
+  ],
+  "social": {
+    "web": "https://pvp.land",
+    "web_shop": "https://pvp.land/store",
+    "discord": "https://discord.gg/pvp-land-608934343603388426",
+    "twitter": "pvp_land"
+  },
+  "brand": {
+    "primary": "#89CFF0"
+  }
+}

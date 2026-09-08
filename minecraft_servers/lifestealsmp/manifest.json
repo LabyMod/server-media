@@ -1,0 +1,22 @@
+{
+  "server_name": "lifestealsmp",
+  "nice_name": "LifeSteal SMP",
+  "direct_ip": "lifestealsmp.com",
+  "server_wildcards": [
+    "%.lifestealsmp.com"
+  ],
+  "supported_languages": [
+    "en"
+  ],
+  "social": {
+    "web": "https://lifestealsmp.com",
+    "web_shop": "https://store.lifestealsmp.com",
+    "discord": "https://discord.gg/lifestealsmp",
+    "youtube": "https://www.youtube.com/@lifesteal_smp",
+    "tiktok": "lifesteal_smp",
+    "instagram": "lifesteal.smp"
+  },
+  "brand": {
+    "primary": "#9CE86F"
+  }
+}

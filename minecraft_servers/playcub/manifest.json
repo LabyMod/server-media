@@ -1,0 +1,18 @@
+{
+  "server_name": "playcub",
+  "nice_name": "PlayCub",
+  "direct_ip": "playcub.net",
+  "server_wildcards": [
+    "%.playcub.net"
+  ],
+  "supported_languages": [
+    "es"
+  ],
+  "social": {
+    "web": "https://playcub.net",
+    "discord": "https://discord.gg/playcub"
+  },
+  "brand": {
+    "primary": "#04A9CF"
+  }
+}
