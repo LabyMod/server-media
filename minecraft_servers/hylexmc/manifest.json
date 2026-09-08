@@ -13,6 +13,48 @@
     "web_shop": "https://store.hylexmc.net",
     "discord": "https://discord.gg/hylexmc"
   },
+  "gamemodes": {
+    "redstonepvp": {
+      "name": "RedstonePvP",
+      "color": "#10EB72",
+      "url": "https://hylexmc.net/leaderboards/redstonepvp"
+    },
+    "earth": {
+      "name": "Earth",
+      "color": "#10EB72",
+      "url": "https://hylexmc.net/leaderboards/earth"
+    },
+    "wildpvp": {
+      "name": "WildPvP",
+      "color": "#10EB72",
+      "url": "https://hylexmc.net/leaderboards/wildpvp"
+    },
+    "lifesteal": {
+      "name": "Lifesteal",
+      "color": "#10EB72",
+      "url": "https://hylexmc.net/leaderboards/lifesteal"
+    },
+    "skypvp": {
+      "name": "SkyPvP",
+      "color": "#10EB72",
+      "url": "https://hylexmc.net/leaderboards/skypvp"
+    },
+    "survival": {
+      "name": "Survival",
+      "color": "#10EB72",
+      "url": "https://hylexmc.net/leaderboards/survival"
+    },
+    "skymines": {
+      "name": "SkyMines",
+      "color": "#10EB72",
+      "url": "https://hylexmc.net/leaderboards/skymines"
+    },
+    "oneblock": {
+      "name": "OneBlock",
+      "color": "#10EB72",
+      "url": "https://hylexmc.net/leaderboards/oneblock"
+    }
+  },
   "brand": {
     "primary": "#10EB72"
   },
