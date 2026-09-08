@@ -15,7 +15,45 @@
     "instagram": "coralmc.it",
     "tiktok": "coralmc.it"
   },
+  "gamemodes": {
+    "bedwars": {
+      "name": "BedWars",
+      "color": "#EBAB55"
+    },
+    "duels": {
+      "name": "Duels",
+      "color": "#EBAB55"
+    },
+    "kitpvp": {
+      "name": "KitPvP",
+      "color": "#EBAB55"
+    },
+    "skyprison": {
+      "name": "SkyPrison",
+      "color": "#EBAB55"
+    },
+    "smp": {
+      "name": "SMP",
+      "color": "#EBAB55"
+    },
+    "survival": {
+      "name": "Survival",
+      "color": "#EBAB55"
+    },
+    "roleplay": {
+      "name": "Roleplay",
+      "color": "#EBAB55"
+    },
+    "sandbox": {
+      "name": "Sandbox",
+      "color": "#EBAB55"
+    },
+    "bwpractice": {
+      "name": "BedWars Practice",
+      "color": "#EBAB55"
+    }
+  },
   "brand": {
-    "primary": "#39E0F7"
+    "primary": "#EBAB55"
   }
 }
