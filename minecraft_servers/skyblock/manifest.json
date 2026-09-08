@@ -17,5 +17,11 @@
   },
   "brand": {
     "primary": "#79E7FC"
+  },
+  "gamemodes": {
+    "skyblock": {
+      "name": "Skyblock",
+      "color": "#79E7FC"
+    }
   }
 }

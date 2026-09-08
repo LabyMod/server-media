@@ -15,5 +15,11 @@
   },
   "brand": {
     "primary": "#1DBDF5"
+  },
+  "gamemodes": {
+    "fishing": {
+      "name": "Fishing",
+      "color": "#1DBDF5"
+    }
   }
 }

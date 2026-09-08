@@ -17,5 +17,15 @@
   },
   "brand": {
     "primary": "#FFB92C"
+  },
+  "gamemodes": {
+    "prison": {
+      "name": "Prison",
+      "color": "#FFB92C"
+    },
+    "skyblock": {
+      "name": "Skyblock",
+      "color": "#FFB92C"
+    }
   }
 }

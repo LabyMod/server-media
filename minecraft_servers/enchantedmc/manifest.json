@@ -16,5 +16,11 @@
   },
   "brand": {
     "primary": "#D24CA9"
+  },
+  "gamemodes": {
+    "prison": {
+      "name": "Prison",
+      "color": "#D24CA9"
+    }
   }
 }

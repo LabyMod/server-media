@@ -21,5 +21,11 @@
     "city": "Munich",
     "country": "Germany",
     "country_code": "DE"
+  },
+  "gamemodes": {
+    "challenges": {
+      "name": "Challenges",
+      "color": "#163451"
+    }
   }
 }

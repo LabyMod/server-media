@@ -14,5 +14,19 @@
   },
   "brand": {
     "primary": "#FE3BD3"
+  },
+  "gamemodes": {
+    "kitmap": {
+      "name": "KitMap",
+      "color": "#FE3BD3"
+    },
+    "hcf": {
+      "name": "HCF",
+      "color": "#FE3BD3"
+    },
+    "leagues": {
+      "name": "Leagues",
+      "color": "#FE3BD3"
+    }
   }
 }

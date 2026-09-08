@@ -18,5 +18,11 @@
   "discord": {
     "server_id": 621655047905869848
   },
-  "yt_trailer": "000fYpUpEsk"
+  "yt_trailer": "000fYpUpEsk",
+  "gamemodes": {
+    "skymines": {
+      "name": "SkyMines",
+      "color": "#008FE8"
+    }
+  }
 }

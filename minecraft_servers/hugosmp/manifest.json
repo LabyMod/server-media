@@ -21,5 +21,11 @@
   "location": {
      "country": "Germany",
      "country_code": "DE"
+  },
+  "gamemodes": {
+    "smp": {
+      "name": "SMP",
+      "color": "#A0010C"
+    }
   }
 }

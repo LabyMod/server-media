@@ -15,5 +15,11 @@
   },
   "brand": {
     "primary": "#F8BC14"
+  },
+  "gamemodes": {
+    "gentycoon": {
+      "name": "Gen Tycoon",
+      "color": "#F8BC14"
+    }
   }
 }

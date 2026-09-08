@@ -15,5 +15,11 @@
   },
   "brand": {
     "primary": "#31214F"
+  },
+  "gamemodes": {
+    "gens": {
+      "name": "Gens",
+      "color": "#31214F"
+    }
   }
 }
