@@ -1,0 +1,9 @@
+{
+  "server_name": "reepsmuseum",
+  "nice_name": "Reep's Museum",
+  "direct_ip": "reep.no",
+  "supported_languages": [
+    "en",
+    "no"
+  ]
+}
