@@ -1,0 +1,19 @@
+{
+  "server_name": "essencemc",
+  "nice_name": "EssenceMC",
+  "direct_ip": "play.essencemc.net",
+  "server_wildcards": [
+    "%.essencemc.net"
+  ],
+  "supported_languages": [
+    "en"
+  ],
+  "social": {
+    "web": "https://essencemc.net",
+    "web_shop": "https://store.essencemc.net",
+    "discord": "https://discord.gg/essencemc"
+  },
+  "brand": {
+    "primary": "#31214F"
+  }
+}

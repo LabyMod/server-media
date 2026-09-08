@@ -1,0 +1,21 @@
+{
+  "server_name": "coralmc",
+  "nice_name": "CoralMC",
+  "direct_ip": "play.coralmc.it",
+  "server_wildcards": [
+    "%.coralmc.it"
+  ],
+  "supported_languages": [
+    "it"
+  ],
+  "social": {
+    "web": "https://coralmc.it",
+    "web_shop": "https://coralmc.it/en/store",
+    "discord": "https://discord.gg/coralmc",
+    "instagram": "coralmc.it",
+    "tiktok": "coralmc.it"
+  },
+  "brand": {
+    "primary": "#39E0F7"
+  }
+}

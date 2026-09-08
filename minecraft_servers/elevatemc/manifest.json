@@ -1,0 +1,19 @@
+{
+  "server_name": "elevatemc",
+  "nice_name": "ElevateMC",
+  "direct_ip": "play.elevatemc.com",
+  "server_wildcards": [
+    "%.elevatemc.com"
+  ],
+  "supported_languages": [
+    "en"
+  ],
+  "social": {
+    "web": "https://elevatemc.com",
+    "web_shop": "https://store.elevatemc.com",
+    "discord": "https://discord.gg/hctranked"
+  },
+  "brand": {
+    "primary": "#1CDDCA"
+  }
+}

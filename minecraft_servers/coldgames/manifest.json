@@ -1,0 +1,20 @@
+{
+  "server_name": "coldgames",
+  "nice_name": "ColdGames",
+  "direct_ip": "coldgames.fun",
+  "server_wildcards": [
+    "%.coldgames.fun",
+    "%.coldpvp.com"
+  ],
+  "supported_languages": [
+    "en"
+  ],
+  "social": {
+    "web": "https://coldgames.fun",
+    "web_shop": "https://store.coldgames.fun",
+    "discord": "https://discord.gg/coldgames"
+  },
+  "brand": {
+    "primary": "#0EC5DB"
+  }
+}

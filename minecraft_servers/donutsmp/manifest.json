@@ -1,0 +1,19 @@
+{
+  "server_name": "donutsmp",
+  "nice_name": "DonutSMP",
+  "direct_ip": "donutsmp.net",
+  "server_wildcards": [
+    "%.donutsmp.net"
+  ],
+  "supported_languages": [
+    "en"
+  ],
+  "social": {
+    "web": "https://donutsmp.net",
+    "web_shop": "https://store.donutsmp.net/store",
+    "discord": "https://discord.gg/donutsmp"
+  },
+  "brand": {
+    "primary": "#036FFF"
+  }
+}

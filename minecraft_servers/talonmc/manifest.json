@@ -1,0 +1,19 @@
+{
+  "server_name": "talonmc",
+  "nice_name": "TalonMC",
+  "direct_ip": "talonmc.net",
+  "server_wildcards": [
+    "%.talonmc.net"
+  ],
+  "supported_languages": [
+    "en"
+  ],
+  "social": {
+    "web": "https://www.talonmc.net",
+    "web_shop": "https://store.talonmc.net",
+    "discord": "https://discord.gg/talonserver"
+  },
+  "brand": {
+    "primary": "#FDE831"
+  }
+}

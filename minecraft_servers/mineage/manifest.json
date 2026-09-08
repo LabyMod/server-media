@@ -1,0 +1,19 @@
+{
+  "server_name": "mineage",
+  "nice_name": "Mineage",
+  "direct_ip": "mineage.net",
+  "server_wildcards": [
+    "%.mineage.net"
+  ],
+  "supported_languages": [
+    "en"
+  ],
+  "social": {
+    "web_shop": "https://store.mineage.net",
+    "discord": "https://discord.gg/mineage",
+    "youtube": "https://www.youtube.com/@mineagepvp"
+  },
+  "brand": {
+    "primary": "#59E3EB"
+  }
+}
