@@ -1,0 +1,18 @@
+{
+  "server_name": "signalsmp",
+  "nice_name": "Signal SMP",
+  "direct_ip": "signalsmp.com",
+  "server_wildcards": [
+    "%.signalsmp.com"
+  ],
+  "supported_languages": [
+    "en"
+  ],
+  "social": {
+    "web": "https://signalsmp.com",
+    "discord": "https://discord.gg/signalsmp"
+  },
+  "brand": {
+    "primary": "#F9E133"
+  }
+}

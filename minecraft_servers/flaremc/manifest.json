@@ -1,0 +1,19 @@
+{
+  "server_name": "flaremc",
+  "nice_name": "FlareMC",
+  "direct_ip": "flaremc.org",
+  "server_wildcards": [
+    "%.flaremc.org"
+  ],
+  "supported_languages": [
+    "en"
+  ],
+  "social": {
+    "web": "https://flaremc.org",
+    "web_shop": "https://store.flaremc.org",
+    "twitter": "flaremc"
+  },
+  "brand": {
+    "primary": "#E95817"
+  }
+}

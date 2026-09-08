@@ -1,0 +1,22 @@
+{
+  "server_name": "wildnetwork",
+  "nice_name": "WildNetwork",
+  "direct_ip": "wildprison.net",
+  "server_wildcards": [
+    "%.wildprison.net",
+    "%.wildnetwork.net"
+  ],
+  "supported_languages": [
+    "en"
+  ],
+  "social": {
+    "web": "https://wildnetwork.net",
+    "web_shop": "https://store.wildprison.net",
+    "discord": "https://discord.gg/wildprison",
+    "twitter": "wild_prison",
+    "youtube": "https://www.youtube.com/@WildPrison"
+  },
+  "brand": {
+    "primary": "#FDF70F"
+  }
+}

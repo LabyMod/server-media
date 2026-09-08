@@ -1,0 +1,22 @@
+{
+  "server_name": "castiamc",
+  "nice_name": "CastiaMC",
+  "direct_ip": "play.castiamc.com",
+  "server_wildcards": [
+    "%.castiamc.com"
+  ],
+  "supported_languages": [
+    "en"
+  ],
+  "social": {
+    "web": "https://castiamc.com",
+    "web_shop": "https://store.castiamc.com",
+    "discord": "https://discord.gg/castiamc",
+    "youtube": "https://www.youtube.com/@CastiaMC",
+    "instagram": "castia.mc",
+    "tiktok": "castiamc"
+  },
+  "brand": {
+    "primary": "#BE3A08"
+  }
+}

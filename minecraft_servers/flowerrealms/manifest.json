@@ -1,0 +1,19 @@
+{
+  "server_name": "flowerrealms",
+  "nice_name": "FlowerRealms",
+  "direct_ip": "flowerrealms.com",
+  "server_wildcards": [
+    "%.flowerrealms.com"
+  ],
+  "supported_languages": [
+    "en"
+  ],
+  "social": {
+    "web": "https://flowerrealms.com",
+    "web_shop": "https://store.flowerrealms.com",
+    "discord": "https://discord.gg/flowerrealms"
+  },
+  "brand": {
+    "primary": "#F8BC14"
+  }
+}

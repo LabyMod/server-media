@@ -1,0 +1,19 @@
+{
+  "server_name": "mcpvpclub",
+  "nice_name": "PvP Club",
+  "direct_ip": "mcpvp.club",
+  "server_wildcards": [
+    "%.mcpvp.club"
+  ],
+  "supported_languages": [
+    "en"
+  ],
+  "social": {
+    "web": "https://mcpvp.club",
+    "web_shop": "https://store.mcpvp.club",
+    "discord": "https://discord.gg/mcpvp"
+  },
+  "brand": {
+    "primary": "#FF1C33"
+  }
+}

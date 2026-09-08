@@ -1,0 +1,48 @@
+{
+  "server_name": "playcub",
+  "nice_name": "PlayCub",
+  "direct_ip": "playcub.net",
+  "server_wildcards": [
+    "%.playcub.net"
+  ],
+  "supported_languages": [
+    "es"
+  ],
+  "social": {
+    "web": "https://playcub.net",
+    "discord": "https://discord.gg/playcub"
+  },
+  "gamemodes": {
+    "bedwars": {
+      "name": "BedWars",
+      "color": "#04A9CF"
+    },
+    "cakewars": {
+      "name": "CakeWars",
+      "color": "#04A9CF"
+    },
+    "skywars": {
+      "name": "SkyWars",
+      "color": "#04A9CF"
+    },
+    "skyblock": {
+      "name": "Skyblock",
+      "color": "#04A9CF"
+    },
+    "survival": {
+      "name": "Survival",
+      "color": "#04A9CF"
+    },
+    "practice": {
+      "name": "Practice",
+      "color": "#04A9CF"
+    },
+    "gappleados": {
+      "name": "Gappleados",
+      "color": "#04A9CF"
+    }
+  },
+  "brand": {
+    "primary": "#04A9CF"
+  }
+}
