@@ -17,7 +17,6 @@
   "discord": {
     "server_id": 443768116216987648
   },
-  "user_stats": "https://stats.cytooxien.de/player/{userName}",
   "gamemodes": {
     "onlyup": {
       "name": "Only Up!",
