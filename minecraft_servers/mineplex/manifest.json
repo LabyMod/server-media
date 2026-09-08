@@ -17,5 +17,87 @@
     "primary": "#497cb1",
     "background": "#497cb1",
     "text": "#ffffff"
+  },
+  "gamemodes": {
+    "block_hunt": {
+      "name": "Block Hunt",
+      "color": "#497cb1",
+      "url": "https://www.mineplex.com/games/block-hunt"
+    },
+    "cake_wars": {
+      "name": "Cake Wars",
+      "color": "#497cb1",
+      "url": "https://www.mineplex.com/games/cake-wars"
+    },
+    "champions": {
+      "name": "Champions",
+      "color": "#497cb1",
+      "url": "https://www.mineplex.com/games/champions"
+    },
+    "clans": {
+      "name": "Clans",
+      "color": "#497cb1",
+      "url": "https://www.mineplex.com/games/clans"
+    },
+    "dragon_escape": {
+      "name": "Dragon Escape",
+      "color": "#497cb1",
+      "url": "https://www.mineplex.com/games/dragon-escape"
+    },
+    "micro_battle": {
+      "name": "Micro Battle",
+      "color": "#497cb1",
+      "url": "https://www.mineplex.com/games/micro-battle"
+    },
+    "minestrike": {
+      "name": "MineStrike",
+      "color": "#497cb1",
+      "url": "https://www.mineplex.com/games/minestrike"
+    },
+    "mixed_arcade": {
+      "name": "Mixed Arcade",
+      "color": "#497cb1",
+      "url": "https://www.mineplex.com/games/mixed-arcade"
+    },
+    "nano_games": {
+      "name": "Nano Games",
+      "color": "#497cb1",
+      "url": "https://www.mineplex.com/games/nano-games"
+    },
+    "one_block": {
+      "name": "One Block",
+      "color": "#497cb1",
+      "url": "https://www.mineplex.com/games/one-block"
+    },
+    "speed_builders": {
+      "name": "Speed Builders",
+      "color": "#497cb1",
+      "url": "https://www.mineplex.com/games/speed-builders"
+    },
+    "super_paintball": {
+      "name": "Super Paintball",
+      "color": "#497cb1",
+      "url": "https://www.mineplex.com/games/super-paintball"
+    },
+    "super_smash_mobs": {
+      "name": "Super Smash Mobs",
+      "color": "#497cb1",
+      "url": "https://www.mineplex.com/games/super-smash-mobs"
+    },
+    "survival_games": {
+      "name": "Survival Games",
+      "color": "#497cb1",
+      "url": "https://www.mineplex.com/games/survival-games"
+    },
+    "the_bridges": {
+      "name": "The Bridges",
+      "color": "#497cb1",
+      "url": "https://www.mineplex.com/games/the-bridges"
+    },
+    "turf_wars": {
+      "name": "Turf Wars",
+      "color": "#497cb1",
+      "url": "https://www.mineplex.com/games/turf-wars"
+    }
   }
 }

@@ -15,5 +15,19 @@
   },
   "brand": {
     "primary": "#FF1C33"
+  },
+  "gamemodes": {
+    "duels": {
+      "name": "Duels",
+      "color": "#FF1C33"
+    },
+    "ffa": {
+      "name": "FFA",
+      "color": "#FF1C33"
+    },
+    "teams": {
+      "name": "Teams",
+      "color": "#FF1C33"
+    }
   }
 }

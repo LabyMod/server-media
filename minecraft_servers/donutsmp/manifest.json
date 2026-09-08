@@ -15,5 +15,11 @@
   },
   "brand": {
     "primary": "#036FFF"
+  },
+  "gamemodes": {
+    "smp": {
+      "name": "SMP",
+      "color": "#036FFF"
+    }
   }
 }

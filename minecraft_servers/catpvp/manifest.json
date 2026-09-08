@@ -16,5 +16,19 @@
   },
   "brand": {
     "primary": "#7F3400"
+  },
+  "gamemodes": {
+    "duels": {
+      "name": "Duels",
+      "color": "#7F3400"
+    },
+    "ffa": {
+      "name": "FFA",
+      "color": "#7F3400"
+    },
+    "sandbox": {
+      "name": "Sandbox",
+      "color": "#7F3400"
+    }
   }
 }

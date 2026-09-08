@@ -16,5 +16,15 @@
   },
   "brand": {
     "primary": "#0EC5DB"
+  },
+  "gamemodes": {
+    "lifesteal": {
+      "name": "Lifesteal",
+      "color": "#0EC5DB"
+    },
+    "duels": {
+      "name": "Duels",
+      "color": "#0EC5DB"
+    }
   }
 }

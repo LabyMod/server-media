@@ -15,5 +15,11 @@
   },
   "brand": {
     "primary": "#1CDDCA"
+  },
+  "gamemodes": {
+    "potpvp": {
+      "name": "PotPvP",
+      "color": "#1CDDCA"
+    }
   }
 }

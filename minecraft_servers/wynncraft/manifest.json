@@ -22,5 +22,11 @@
     "rename_to_minecraft_name": false
   },
   "yt_trailer": "mt6EdX76JR4",
-  "user_stats": "https://wynncraft.com/stats/player/{userName}"
+  "user_stats": "https://wynncraft.com/stats/player/{userName}",
+  "gamemodes": {
+    "mmorpg": {
+      "name": "MMORPG",
+      "color": "#A7EB64"
+    }
+  }
 }

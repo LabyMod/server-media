@@ -14,5 +14,11 @@
   },
   "brand": {
     "primary": "#F9E133"
+  },
+  "gamemodes": {
+    "survival": {
+      "name": "Survival",
+      "color": "#F9E133"
+    }
   }
 }

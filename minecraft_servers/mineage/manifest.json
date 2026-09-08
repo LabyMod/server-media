@@ -15,5 +15,15 @@
   },
   "brand": {
     "primary": "#59E3EB"
+  },
+  "gamemodes": {
+    "hcf": {
+      "name": "HCF",
+      "color": "#59E3EB"
+    },
+    "factions": {
+      "name": "Factions",
+      "color": "#59E3EB"
+    }
   }
 }

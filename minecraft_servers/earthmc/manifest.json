@@ -16,5 +16,11 @@
   },
   "brand": {
     "primary": "#355DC3"
+  },
+  "gamemodes": {
+    "earth": {
+      "name": "Earth",
+      "color": "#355DC3"
+    }
   }
 }

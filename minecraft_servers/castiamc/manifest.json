@@ -18,5 +18,15 @@
   },
   "brand": {
     "primary": "#BE3A08"
+  },
+  "gamemodes": {
+    "towny": {
+      "name": "Towny",
+      "color": "#BE3A08"
+    },
+    "survival": {
+      "name": "Survival",
+      "color": "#BE3A08"
+    }
   }
 }

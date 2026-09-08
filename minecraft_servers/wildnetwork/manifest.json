@@ -18,5 +18,15 @@
   },
   "brand": {
     "primary": "#FDF70F"
+  },
+  "gamemodes": {
+    "survival": {
+      "name": "Survival",
+      "color": "#FDF70F"
+    },
+    "prison": {
+      "name": "Prison",
+      "color": "#FDF70F"
+    }
   }
 }

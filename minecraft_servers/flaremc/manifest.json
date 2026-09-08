@@ -15,5 +15,15 @@
   },
   "brand": {
     "primary": "#E95817"
+  },
+  "gamemodes": {
+    "lifesteal": {
+      "name": "Lifesteal",
+      "color": "#E95817"
+    },
+    "survival": {
+      "name": "Survival",
+      "color": "#E95817"
+    }
   }
 }

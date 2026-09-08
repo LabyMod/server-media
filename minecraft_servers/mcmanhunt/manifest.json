@@ -18,5 +18,11 @@
   },
   "brand": {
     "primary": "#FFEF23"
+  },
+  "gamemodes": {
+    "manhunt": {
+      "name": "Manhunt",
+      "color": "#FFEF23"
+    }
   }
 }
