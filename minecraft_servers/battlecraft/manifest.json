@@ -1,0 +1,30 @@
+{
+  "server_name": "battlecraft",
+  "nice_name": "BattleCraft Netzwerk",
+  "direct_ip": "battlecraft.eu",
+  "supported_languages": [
+    "de",
+    "en"
+  ],
+  "social": {
+    "web": "https://www.battlecraft.eu",
+    "web_shop": "https://www.battlecraft.eu/store",
+    "tiktok": "battlecraft_netzwerk",
+    "discord": "https://discord.gg/battlecraft",
+    "youtube": "https://www.youtube.com/@battlecraft9772"
+  },
+  "discord": {
+    "server_id": 1469645138920869899,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#3fa3dc",
+    "text": "#FFFFFF"
+  },
+  "location": {
+    "city": "Nürnberg",
+    "country": "Germany",
+    "country_code": "DE"
+  },
+  "yt_trailer": "N7fA-LUY19A"
+}
