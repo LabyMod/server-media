@@ -3,7 +3,10 @@
     "nice_name": "MarsPixel",
     "direct_ip": "play.marspixel.net",
     "server_wildcards": [
-      "%.marspixel.net"
+      "%.marspixel.net",
+      "%.marsmc.net",
+      "marsmc.net",
+      "marsmc"
     ],
     "supported_languages": [
       "ar",
