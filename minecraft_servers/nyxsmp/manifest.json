@@ -1,0 +1,29 @@
+{
+  "server_name": "nyxsmp",
+  "nice_name": "NyxSMP",
+  "direct_ip": "nyxsmp.net",
+  "supported_languages": [
+    "de",
+    "en"
+  ],
+  "social": {
+    "web": "https://nyxsmp.net",
+    "discord": "https://discord.gg/p4DQJTHGBM"
+  },
+  "gamemodes": {
+    "smp": {
+      "name": "SMP",
+      "color": "#7F77DD",
+      "versions": "1.21.11<*"
+    }
+  },
+  "brand": {
+    "primary": "#534AB7",
+    "background": "#0C0820",
+    "text": "#EEEDFE"
+  },
+  "location": {
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}
