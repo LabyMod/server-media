@@ -1,0 +1,49 @@
+{
+  "server_name": "cyperia",
+  "nice_name": "Cyperia",
+  "direct_ip": "cyperia.net",
+  "supported_languages": [
+    "de", "en"
+  ],
+  "social": {
+    "web": "https://www.cyperia.net",
+    "web_shop": "https://shop.cyperia.net",
+    "twitter": "playcyperia",
+    "discord": "https://discord.com/invite/v6zzCk8"
+  },
+  "gamemodes": {
+    "challenges": {
+      "name": "Challenges",
+      "url": "https://cyperia.net/en/gamemodes/challenges",
+      "command": "/quickjoin challenges",
+      "color": "#55FF55"
+    },
+    "bingo": {
+      "name": "Bingo",
+      "url": "https://cyperia.net/en/gamemodes/bingo",
+      "command": "/quickjoin bingo",
+      "color": "#FFAA00"
+    },
+    "manhunt": {
+      "name": "Manhunt",
+      "url": "https://cyperia.net/en/gamemodes/manhunt",
+      "command": "/quickjoin manhunt",
+      "color": "#8F5FE8"
+    },
+    "oneblockrace": {
+      "name": "OneBlockRace",
+      "url": "https://cyperia.net/en/gamemodes/oneblockrace",
+      "command": "/quickjoin oneblockrace",
+      "color": "#FF3C3C"
+    }
+  },
+  "discord": {
+    "server_id": 520310880081018907,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#497cb1",
+    "background": "#497cb1",
+    "text": "#ffffff"
+  }
+}
