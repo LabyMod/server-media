@@ -1,0 +1,19 @@
+{
+  "server_name": "exilemc",
+  "nice_name": "ExileMC",
+  "direct_ip": "exilemc.com.br",
+  "server_wildcards": [
+    "%.exilemc.com.br"
+  ],
+  "supported_languages": [
+    "pt"
+  ],
+  "social": {
+    "discord": "https://discord.gg/dYxw9wdzm7"
+  },
+  "brand": {
+    "primary": "#18B6F4",
+    "background": "#073A84",
+    "text": "#FFFFFF"
+  }
+}
