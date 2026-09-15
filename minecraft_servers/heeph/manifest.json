@@ -15,57 +15,57 @@
     "boxing": {
       "name": "Boxing",
       "command": "/play duels boxing",
-      "color": "#81EFFC"
+      "color": "#81EFFC",
       "versions": "1.8<*"
     },
     "fireballfight": {
       "name": "Fireball Fight",
       "command": "/play duels fireballfight",
-      "color": "#81EFFC"
+      "color": "#81EFFC",
       "versions": "1.8<*"
     },
     "bedfight": {
       "name": "Bed Fight",
       "command": "/play duels bedfight",
-      "color": "#81EFFC"
+      "color": "#81EFFC",
       "versions": "1.8<*"
     },
     "bedsumo": {
       "name": "Bed Sumo",
       "command": "/play duels bedsumo",
-      "color": "#81EFFC"
+      "color": "#81EFFC",
       "versions": "1.8<*"
     },
     "bedbridge": {
       "name": "Bed Bridge",
       "command": "/play duels bedbridge",
-      "color": "#81EFFC"
+      "color": "#81EFFC",
       "versions": "1.8<*"
     },
     "stickfight": {
       "name": "Stick Fight",
       "command": "/play duels stickfight",
-      "color": "#81EFFC"
+      "color": "#81EFFC",
       "versions": "1.8<*"
     },
     "blocksumo": {
       "name": "Block Sumô",
-      "color": "#e3e039"
+      "color": "#e3e039",
       "versions": "1.8<*"
     },
     "bots": {
       "name": "Bots",
-      "color": "#535bf5"
+      "color": "#535bf5",
       "versions": "1.8.9<*"
     },
     "modern": {
       "name": "Modern"
-      "color": "#B01C36"
+      "color": "#B01C36",
       "versions": "1.21.4<*"
     },
     "ffa": {
       "name": "FFA"
-      "color": "#12A216"
+      "color": "#12A216",
       "versions": "1.21.4<*"
     }
   },
