@@ -59,12 +59,12 @@
       "versions": "1.8.9<*"
     },
     "modern": {
-      "name": "Modern"
+      "name": "Modern",
       "color": "#B01C36",
       "versions": "1.21.4<*"
     },
     "ffa": {
-      "name": "FFA"
+      "name": "FFA",
       "color": "#12A216",
       "versions": "1.21.4<*"
     }
