@@ -3,7 +3,7 @@
   "nice_name": "Bax Netzwerk",
   "direct_ip": "baxnetzwerk.de",
   "server_wildcards": [
-    "@.play-bax.de"
+    "%.play-bax.de"
   ],
   "supported_languages": [
     "de",
