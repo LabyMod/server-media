@@ -1,0 +1,51 @@
+{
+  "server_name": "oasisworld",
+  "nice_name": "Oasis World",
+  "direct_ip": "play.oasisworld.net",
+  "server_wildcards": [
+    "%.oasisworld.net"
+  ],
+  "supported_languages": [
+     "en",
+     "de",
+     "it"
+  ],
+  "social": {
+    "web": "https://oasisworld.net",
+    "web_shop": "https://store.oasisworld.net",
+    "twitter": "oasisworldofficial",
+    "tiktok": "oasisworldofficial",
+    "facebook": "oasisworldofficial",
+    "instagram": "oasisworldofficial",
+    "discord": "https://discord.gg/oasismc",
+    "youtube": "https://www.youtube.com/@oasisworldofficial"
+  },
+  "gamemodes": {
+    "survival": {
+      "name": "Survival", 
+      "color": "#23BA2C",
+      "versions": "1.19.4>"
+    },
+    "parkour": {
+      "name": "Parkour",
+      "color": "#1CC7B2",
+      "versions": "1.8<*"
+    },
+    "minigames": {
+      "name": "MiniGames",
+      "color": "D69E1E",
+      "versions": "1.8<*"
+    }
+  },
+  "discord": {
+    "server_id": 1228810891114582206,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#F59E0B",
+     "background": "#FB923C",
+     "text": "#fff8e7"
+  },
+  "yt_trailer": "oOV6T4u0_84",
+  "command_delay": 3000
+}
