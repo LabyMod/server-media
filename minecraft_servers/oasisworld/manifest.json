@@ -33,7 +33,7 @@
     },
     "minigames": {
       "name": "MiniGames",
-      "color": "D69E1E",
+      "color": "#D69E1E",
       "versions": "1.8<*"
     }
   },
