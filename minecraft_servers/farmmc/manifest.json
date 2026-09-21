@@ -1,0 +1,44 @@
+{
+  "server_name": "farmmc",
+  "nice_name": "FarmMC",
+  "direct_ip": "farmmc.de",
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "web": "https://farmmc.de",
+    "web_shop": "https://shop.farmmc.de",
+    "web_support": "https://wiki.farmmc.de",
+    "discord": "https://discord.gg/farmmc",
+    "youtube": "https://www.youtube.com/@farmmc_de",
+    "tiktok": "farmmc_de"
+  },
+  "gamemodes": {
+    "citybuild": {
+      "name": "CityBuild",
+      "color": "#9833FF"
+    },
+    "prison": {
+      "name": "Prison",
+      "color": "#E8A33D"
+    },
+    "casino": {
+      "name": "Casino",
+      "color": "#E8433D"
+    },
+    "pillar": {
+      "name": "Pillar",
+      "color": "#3DC9E8"
+    }
+  },
+  "brand": {
+    "primary": "#9833FF",
+    "background": "#2B1160",
+    "text": "#FFFFFF"
+  },
+  "location": {
+    "city": "Frankfurt am Main",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}
