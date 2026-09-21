@@ -1,0 +1,20 @@
+{
+  "server_name": "pitschonix",
+  "nice_name": "Pitschonix",
+  "direct_ip": "pitschonix.eu",
+  "supported_languages": ["de", "en"],
+  "social": {
+    "web": "https://pitschonix.eu",
+    "web_support": "https://pitschonix.eu#join",
+    "discord": "https://discord.gg/92xE2whxzm",
+    "youtube": "https://www.youtube.com/@Pitschonix",
+    "twitter": "pitschonix",
+    "tiktok": "pitschonix",
+    "instagram": "pitschonix"
+  },
+  "brand": {
+    "primary": "#7505ED",
+    "background": "#313233",
+    "text": "#F7F7F7"
+  }
+}
