@@ -35,6 +35,12 @@
       "url": "https://cyperia.net/en/gamemodes/oneblockrace",
       "command": "/quickjoin oneblockrace",
       "color": "#FF3C3C"
+    },
+    "ragemode": {
+      "name": "Ragemode",
+      "url": "https://cyperia.net/en/gamemodes/ragemode",
+      "command": "/quickjoin ragemode",
+      "color": "#FF5555"
     }
   },
   "discord": {
