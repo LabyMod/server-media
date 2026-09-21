@@ -1,0 +1,40 @@
+{
+  "server_name": "unitedfactions",
+  "nice_name": "United Factions",
+  "direct_ip": "play.unitedfactions.net",
+  "supported_languages": [
+    "en"
+  ],
+  "social": {
+    "web": "https://unitedfactions.net",
+    "web_shop": "https://unitedfactions.net/store",
+    "web_support": "https://unitedfactions.net/support",
+    "twitter": "unitedfactions",
+    "tiktok": "unitedfactions.net",
+    "facebook": "UnitedFactions",
+    "instagram": "ufactions",
+    "discord": "https://discord.gg/TKU8uQU",
+    "youtube": "https://www.youtube.com/channel/UCN4EjLebDEKZuE2w0GxuzuQ"
+  },
+  "gamemodes": {
+    "factions": {
+      "name": "Factions",
+      "color": "#A83232",
+      "url": "https://unitedfactions.net/minecraft-faction-server"
+    }
+  },
+  "discord": {
+    "server_id": 495172104145076225,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#A83232",
+    "background": "#151718",
+    "text": "#FFFFFF"
+  },
+  "location": {
+    "country": "Netherlands",
+    "country_code": "NL"
+  },
+  "yt_trailer": "FYO4yHmeWic"
+}
