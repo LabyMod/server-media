@@ -157,5 +157,12 @@
     "country": "Germany",
     "country_code": "DE"
   },
-  "yt_trailer": "ou_a1NL_xBE"
+  "yt_trailer": "ou_a1NL_xBE",
+  "party": {
+    "invite": "/party invite {userName}",
+    "accept": "/party accept {userName}",
+    "leave": "/party leave",
+    "kick": "/party kick {userName}",
+    "transfer": "/party promote {userName}"
+  }
 }
