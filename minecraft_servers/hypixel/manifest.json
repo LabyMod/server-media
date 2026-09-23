@@ -526,6 +526,7 @@
     "leave": "/party leave",
     "kick": "/party kick {userName}",
     "disband": "/party disband",
-    "transfer": "/party transfer {userName}"
+    "transfer": "/party transfer {userName}",
+    "warp": "/party warp"
   }
 }

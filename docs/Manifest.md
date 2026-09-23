@@ -85,13 +85,18 @@ commands here and LabyMod mirrors the LabyMod party into it, so the members foll
 | `kick`     | Sent by the party leader to remove a member                             | `"/party kick {userName}"`     |
 | `disband`  | Sent by the party leader to dissolve the party                          | `"/party disband"`             |
 | `transfer` | Sent by the party leader to hand the leadership over to another member  | `"/party transfer {userName}"` |
+| `warp`     | Sent by the party leader to pull all members onto the leader's server   | `"/party warp"`                |
+| `jump`     | Sent by a member to join the party leader on the leader's server        | `"/party jump"`                |
 
 * Required values are: `invite` & `accept`
 
 Every command must start with `/`. `{userName}` is replaced with the Minecraft name of the other player: the invited,
-removed or new leader for `invite`, `kick` and `transfer`, and the party leader for `accept` (leave it out if your
-server accepts without a name). Only add commands your server actually supports - LabyMod sends them on behalf of the
-player.
+removed or new leader for `invite`, `kick` and `transfer`, and the party leader for `accept` and `jump` (leave it out if
+your server accepts without a name). Only add commands your server actually supports - LabyMod sends them on behalf of
+the player.
+
+`warp` and `jump` are for networks that spread players over several lobbies: being in the same party does not put the
+members on the same sub server yet. Leave both out if your party system already moves the members to their leader.
 
 ### Discord URL
 

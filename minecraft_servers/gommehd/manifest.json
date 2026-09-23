@@ -163,6 +163,7 @@
     "accept": "/party accept {userName}",
     "leave": "/party leave",
     "kick": "/party kick {userName}",
-    "transfer": "/party promote {userName}"
+    "transfer": "/party promote {userName}",
+    "jump": "/party jump"
   }
 }

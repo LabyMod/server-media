@@ -4,7 +4,7 @@ import requests
 from sys import exit as sys_exit
 
 REQUIRED_KEYS = ['server_name', 'nice_name', 'direct_ip']
-PARTY_KEYS = ['invite', 'accept', 'leave', 'kick', 'disband', 'transfer']
+PARTY_KEYS = ['invite', 'accept', 'leave', 'kick', 'disband', 'transfer', 'warp', 'jump']
 PARTY_REQUIRED_KEYS = ['invite', 'accept']
 PARTY_PLAYER_KEYS = ['invite', 'kick', 'transfer']
 USERNAME_SOCIAL_KEYS = ['twitter', 'tiktok', 'facebook', 'instagram', 'teamspeak']
