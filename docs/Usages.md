@@ -64,15 +64,19 @@ community better to improve features!
 ## LabyMod party
 
 LabyMod players can form a party with their friends in the LabyMod chat. The party is a temporary group chat and works
-on every server: when the party leader joins another server, all members are asked whether they want to follow.
+on every server: when the party leader joins another server, all members are asked whether they want to follow. On a
+server listed in this repository they follow on their own after a short countdown, unless they choose to stay.
 
 If your manifest contains a [party object](Manifest.md#party-object), LabyMod also mirrors the party into the party
 system of your server:
 
 1. As soon as the leader and a member are both on your server, the leader's client sends `invite` for that member.
 2. The member's client answers with `accept`, so the member ends up in the party of the leader on your server.
-3. From then on your own party system takes over, e.g. members are pulled into a gamemode when the leader joins it.
-4. When a member leaves the LabyMod party, `leave` (member) or `kick` (leader) is sent. `disband` is sent when the leader
+3. Members who came along with the leader are brought onto the leader's sub server: a few seconds after the last of
+   them was invited, the leader's client sends `warp` once. Members who come later, or every member if your server has
+   no `warp`, send `jump` once after accepting.
+4. From then on your own party system takes over, e.g. members are pulled into a gamemode when the leader joins it.
+5. When a member leaves the LabyMod party, `leave` (member) or `kick` (leader) is sent. `disband` is sent when the leader
    ends the party, `transfer` when the leadership moves to another member.
 
 Commands are sent as regular chat commands of the player, only after the `command_delay` of your manifest has passed

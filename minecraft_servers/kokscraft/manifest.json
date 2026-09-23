@@ -32,6 +32,7 @@
     "accept": "/p dolacz {userName}",
     "leave": "/p opusc",
     "kick": "/p wyrzuc {userName}",
-    "transfer": "/p lider {userName}"
+    "transfer": "/p lider {userName}",
+    "warp": "/p warp"
   }
 }
