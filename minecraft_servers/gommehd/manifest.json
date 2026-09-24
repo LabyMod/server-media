@@ -164,6 +164,7 @@
     "leave": "/party leave",
     "kick": "/party kick {userName}",
     "transfer": "/party promote {userName}",
-    "jump": "/party jump"
+    "jump": "/party jump",
+    "warp": "/party pull"
   }
 }
