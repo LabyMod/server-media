@@ -86,5 +86,14 @@
     "primary": "#ffc300",
     "background": "#ffc300",
     "text": "#ffffff"
+  },
+  "party": {
+    "invite": "/party invite {userName}",
+    "accept": "/party accept {userName}",
+    "leave": "/party leave",
+    "kick": "/party remove {userName}",
+    "transfer": "/party promote {userName}",
+    "warp": "/party pull",
+    "jump": "/party jump"
   }
 }

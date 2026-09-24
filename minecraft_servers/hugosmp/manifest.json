@@ -27,5 +27,10 @@
       "name": "SMP",
       "color": "#A0010C"
     }
+  },
+  "party": {
+    "invite": "/party invite {userName}",
+    "accept": "/party accept {userName}",
+    "leave": "/party leave"
   }
 }
