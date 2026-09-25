@@ -70,5 +70,14 @@
     "country_code": "BR"
   },
   "yt_trailer": "Hs9Bzsew1eM",
-  "command_delay": 5000
+  "command_delay": 5000,
+  "party": {
+    "invite": "/party invite {userName}",
+    "accept": "/party accept {userName}",
+    "leave": "/party leave",
+    "kick": "/party kick {userName}",
+    "disband": "/party disband",
+    "transfer": "/party transfer {userName}",
+    "warp": "/party warp"
+  }
 }

@@ -99,5 +99,14 @@
       "color": "#497cb1",
       "url": "https://www.mineplex.com/games/turf-wars"
     }
+  },
+  "party": {
+    "invite": "/party {userName}",
+    "accept": "/party accept {userName}",
+    "leave": "/party leave",
+    "kick": "/party kick {userName}",
+    "disband": "/party disband",
+    "transfer": "/party promote {userName}",
+    "warp": "/party warp"
   }
 }
