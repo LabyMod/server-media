@@ -22,18 +22,16 @@
   "user_stats": "https://profile.griefergames.live/minecraft/{uuid}",
   "gamemodes": {
     "cloud": {
-      "name": "Citybuild 1.21.4",
-      "url": "https://wiki.griefergames.live/was-ist-die-cloud",
+      "name": "Citybuild Cloud (1.12.4+)",
+      "url": "https://wiki.griefergames.net/cloud",
       "command": "/cloud",
-      "color": "#FEB511",
-      "versions": "1.21.4<*"
+      "color": "#FEB511"
     },
     "cb": {
       "name": "Citybuild 1.8",
       "url": "https://wiki.griefergames.net/1-8/funktionen/spielmodus-citybuild/citybuild-1-22",
       "command": "/portal",
-      "color": "#FFFFFF",
-      "versions": "1.8<*"
+      "color": "#FFFFFF"
     },
     "citybuild": {
       "name": "Citybuild",
