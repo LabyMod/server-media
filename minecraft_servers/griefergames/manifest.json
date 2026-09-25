@@ -25,12 +25,18 @@
       "name": "GGCloud (1.21.4)",
       "url": "https://wiki.griefergames.live/was-ist-die-cloud",
       "command": "/cloud",
-      "color": "#FEB511"
+      "color": "#FEB511",
+      "versions": "1.21.4<*"
     },
     "cb": {
       "name": "CityBuild 1.8",
-      "url": "https://wiki.griefergames.net/grundlagen/spielmodus-citybuild/citybuild-1-22",
+      "url": "https://wiki.griefergames.net/1-8/funktionen/spielmodus-citybuild/citybuild-1-22",
       "command": "/portal",
+      "color": "#FFFFFF",
+      "versions": "1.8<*"
+    },
+    "citybuild": {
+      "name": "CityBuild",
       "color": "#FFFFFF"
     }
   },
