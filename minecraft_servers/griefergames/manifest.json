@@ -22,7 +22,7 @@
   "user_stats": "https://profile.griefergames.live/minecraft/{uuid}",
   "gamemodes": {
     "cloud": {
-      "name": "Citybuild Cloud (1.12.4+)",
+      "name": "Citybuild Cloud (1.21.4+)",
       "url": "https://wiki.griefergames.net/cloud",
       "command": "/cloud",
       "color": "#FEB511"
