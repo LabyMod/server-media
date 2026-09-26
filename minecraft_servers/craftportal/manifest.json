@@ -14,16 +14,8 @@
   },
   "gamemodes": {
     "citybuild": {
-      "name": "CB1",
-      "command": "/navigator cb01",
-      "color": "#00bf00",
-      "versions": "1.21.11<*"
-    },
-    "citybuild2": {
-      "name": "CB2",
-      "command": "/navigator cb02",
-      "color": "#00bf00",
-      "versions": "1.21.11<*"
+      "name": "CityBuild",
+      "color": "#00bf00"
     }
   },
   "discord": {
