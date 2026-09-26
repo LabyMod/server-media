@@ -1,0 +1,57 @@
+{
+
+  "server_name": "timoogx",
+
+  "nice_name": "TimoOGX.de",
+
+  "direct_ip": "TimoOGX.de",
+
+  "supported_languages": [
+
+    "de"
+
+  ],
+
+  "gamemodes": {
+
+    "gungame": {
+
+      "name": "GunGame",
+
+      "color": "#A9C8EF",
+
+      "command": "/server gungame-1" 
+
+    },
+
+    "knockback_ffa": {
+
+      "name": "KnockbackFFA",
+
+      "color": "#A9C8EF",
+
+      "command": "/server knockbackffa-1" 
+
+    }
+
+  },
+
+  "brand": {
+
+    "primary": "#A9C8EF",
+
+    "background": "#A9C8EF",
+
+    "text": "#FFFFFF"
+
+  },
+
+  "location": {
+
+    "country": "Germany",
+
+    "country_code": "DE"
+
+  }
+
+}
