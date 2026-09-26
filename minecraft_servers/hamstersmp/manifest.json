@@ -1,3 +1,5 @@
 {
-  "server_name": "hamstersmp"
+  "server_name": "hamstersmp",
+  "nice_name": "HamsterSMP",
+  "direct_ip": "hamstersmp.de"
 }
