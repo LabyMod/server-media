@@ -1,11 +1,10 @@
 {
   "server_name": "pitschonix",
   "nice_name": "Pitschonix",
-  "direct_ip": "pitschonix.eu",
+  "direct_ip": "play.pitschonix.eu",
   "supported_languages": ["de", "en"],
   "social": {
     "web": "https://pitschonix.eu",
-    "web_support": "https://pitschonix.eu#join",
     "discord": "https://discord.gg/92xE2whxzm",
     "youtube": "https://www.youtube.com/@Pitschonix",
     "twitter": "pitschonix",
