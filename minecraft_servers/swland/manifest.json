@@ -3,7 +3,7 @@
   "nice_name": "SWLand",
   "direct_ip": "swland.de",
   "server_wildcards": [
-    "%.swland.de",
+    "%.swland.de"
   ],
   "supported_languages": [
     "de"
