@@ -1,0 +1,52 @@
+{
+  "server_name": "prismamc",
+  "nice_name": "PrismaMC",
+  "direct_ip": "prismamc.net",
+  "supported_languages": [
+    "es"
+  ],
+  "social": {
+    "web": "https://prismamc.net",
+    "web_shop": "https://tienda.prismamc.net",
+    "twitter": "PrismaMCNetwork",
+    "instagram": "PrismaMC",
+    "discord": "https://discord.gg/prismamc",
+    "teamspeak": "ts.prismamc.net"
+  },
+  "gamemodes": {
+    "boxpvp": {
+      "name": "BoxPvP",
+      "color": "#00F0F0"
+    },
+    "survival": {
+      "name": "Survival",
+      "color": "#00F0F0"
+    },
+    "uhcf": {
+      "name": "UHCF",
+      "color": "#00F0F0"
+    },
+    "fullpvp": {
+      "name": "FullPvP",
+      "color": "#00F0F0"
+    },
+    "randomkits": {
+      "name": "RandomKits",
+      "color": "#00F0F0"
+    }
+  },
+  "discord": {
+    "server_id": 911512572757442590,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#00F0F0",
+    "background": "#0B1D24",
+    "text": "#FFFFFF"
+  },
+  "location": {
+    "city": "Miami",
+    "country": "United States",
+    "country_code": "US"
+  }
+}
