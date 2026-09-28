@@ -1,0 +1,32 @@
+{
+  "server_name": "swland",
+  "nice_name": "SWLand",
+  "direct_ip": "swland.de",
+  "server_wildcards": [
+    "%.swland.de",
+  ],
+  "supported_languages": [
+    "de"
+  ],
+  "social": {},
+  "gamemodes": {
+    "clutches": {
+      "name": "SkyWars",
+      "color": "#008000",
+      "versions": "1.21"
+    }
+  },
+  "discord": {
+    "server_id": 1443680418497954036,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#ff7b00",
+     "background": "#00ff00"
+  },
+  "location": {
+    "city": "Frankfurt",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}
