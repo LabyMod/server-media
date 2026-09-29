@@ -1,0 +1,26 @@
+{
+  "server_name": "nomadanarchy",
+  "nice_name": "Nomad Anarchy",
+  "direct_ip": "play.nomadanarchy.online",
+  "supported_languages": [
+    "en"
+  ],
+  "social": {
+    "web": "https://nomadanarchy.online",
+    "discord": "https://discord.gg/h6pY6gg5WC"
+  },
+  "gamemodes": {
+    "anarchy": {
+      "name": "Anarchy",
+      "color": "#ff0000"
+    }
+  },
+  "brand": {
+    "primary": "#f4f0e4"
+  },
+  "location": {
+    "city": "Chicago",
+    "country": "United States",
+    "country_code": "US"
+  }
+}
