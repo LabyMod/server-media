@@ -1,0 +1,48 @@
+{
+    "server_name": "sypherox",
+    "nice_name": "Sypherox.dev",
+    "direct_ip": "Sypherox.dev",
+    "supported_languages": [
+        "en",
+        "de",
+        "fr"
+    ],
+    "social": {
+        "web": "https://Sypherox.dev",
+        "twitter": "Syphercx",
+        "tiktok": "sypherox",
+        "discord": "https://discord.gg/aG4QYP8u5p",
+        "youtube": "https://www.youtube.com/Sypherox"
+    },
+    "gamemodes": {
+        "skywars_ffa": {
+            "name": "SykWars FFA",
+            "color": "#FF55FF",
+            "versions": "1.21.11<*"
+        },
+        "syphi_smp": {
+            "name": "Syphi SMP",
+            "color": "#FF5555",
+            "versions": "26.3<*"
+        },
+        "duels": {
+            "name": "Duels",
+            "color": "#55FFFF",
+            "versions": "1.21.11<*"
+        }
+    },
+    "discord": {
+        "server_id": 1383259622659588116,
+        "renamed_to_minecraft_name": false
+    },
+    "location": {
+      "city": "Nürnberg",
+      "country": "Germany",
+      "country_code": "DE"
+    },
+    "brand": {
+        "primary": "#FF5555",
+        "background": "#FAB1B1",
+        "text": "#FFFFFF"
+    }
+} 
