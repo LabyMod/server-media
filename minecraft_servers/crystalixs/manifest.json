@@ -9,7 +9,7 @@
     "discord": "https://discord.gg/fAbVqZc4UK"
   },
   "gamemodes": {
-    "citybuild": {
+    "islands": {
       "name": "Islands",
       "color": "#D123DE",
       "versions": "26.1<*"
