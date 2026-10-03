@@ -36,7 +36,7 @@
         "name": "Practice",
         "color": "#ffffff",
         "command": "/practice",
-        "versions": "1.8<*"
+        "versions": "1.21<*"
       },
       "1vs1": {
         "name": "Duels",
@@ -48,7 +48,7 @@
           "name": "Pillars of Fortune",
           "color": "#ffffff",
           "command": "/pof",
-          "versions": "1.8<*"
+          "versions": "1.21<*"
       },
       "creative": {
           "name": "Creative",
@@ -61,14 +61,14 @@
           "color": "#ffffff",
           "versions": "1.8<*"
       },
-      "gravity": {
-          "name": "Gravity",
-          "color": "#ffffff",
-          "command": "/gravity",
-          "versions": "1.8<*"
-      },
       "survival": {
           "name": "Survival",
+          "color": "#ffffff",
+          "command": "/survival",
+          "versions": "1.21<*"
+      },
+      "prison": {
+          "name": "Prison",
           "color": "#ffffff",
           "command": "/survival",
           "versions": "1.21<*"
@@ -77,7 +77,7 @@
         "name": "TTT",
         "color": "#ffffff",
         "command": "/timv",
-        "versions": "1.8<*"
+        "versions": "1.21<*"
       }
     },
     "location": {
