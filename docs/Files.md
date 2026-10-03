@@ -21,6 +21,7 @@ A folder can contain the following files (*required):
 - `logo@2x.png`: hDPI version of `logo.png` (256-512 x 512-1024)
 - `background@2x.png`: hDPI version of `background.png` (1920 x 1080)
 - `banner.png` This banner image will be shown in future versions of LabyMod above the player list (tab), this can currently be achieved also via the [LabyMod server API](https://docs.labymod.net/pages/server/displays/tablist/). (aspect ratio 5:1, max 1280 x 256)
+- `panorama.jpg`: An equirectangular panorama used as the animated background on the server page. (aspect ratio 2:1, recommended 3072 x 1536)
 - `manifest.json`*: Information for minecraft server. See [example manifest.json](/docs/Manifest.md#example-manifestjson-file)
 
 ### Gamemodes
@@ -32,7 +33,7 @@ A folder can also contain a `gamemodes`-folder in it, that contains gamemode ico
 
 All images must have the following requirements:
 
-- Filetype must be PNG.
+- Filetype must be PNG, except for `panorama.jpg`.
 - They should be compressed and optimized.
 - Images with transparency are preferred.
 - If multiple images are available, the ones optimized for a white background are preferred.
