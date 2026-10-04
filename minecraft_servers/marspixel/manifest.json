@@ -39,7 +39,7 @@
         "name": "Practice",
         "color": "#ffffff",
         "command": "/practice",
-        "versions": "1.8<*"
+        "versions": "1.21<*"
       },
       "1vs1": {
         "name": "Duels",
@@ -64,11 +64,11 @@
           "color": "#ffffff",
           "versions": "1.8<*"
       },
-      "gravity": {
-          "name": "Gravity",
-          "color": "#ffffff",
-          "command": "/gravity",
-          "versions": "1.8<*"
+      "prison": {
+          "name": "Prison",
+          "color": "#6706c2",
+          "command": "/prison",
+          "versions": "1.21<*"
       },
       "survival": {
           "name": "Survival",
@@ -80,7 +80,7 @@
         "name": "TTT",
         "color": "#ffffff",
         "command": "/timv",
-        "versions": "1.8<*"
+        "versions": "1.21<*"
       }
     },
     "location": {
