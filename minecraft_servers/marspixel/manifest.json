@@ -68,7 +68,7 @@
           "name": "Prison",
           "color": "#500bb8",
           "command": "/prison",
-          "versions": "1.8<*"
+          "versions": "1.21<*"
       },
       "survival": {
           "name": "Survival",
@@ -80,7 +80,7 @@
         "name": "TTT",
         "color": "#d47e0f",
         "command": "/timv",
-        "versions": "1.8<*"
+        "versions": "1.21<*"
       }
     },
     "location": {
