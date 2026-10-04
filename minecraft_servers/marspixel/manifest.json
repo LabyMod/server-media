@@ -64,21 +64,21 @@
           "color": "#ffffff",
           "versions": "1.8<*"
       },
-      "gravity": {
-          "name": "Gravity",
-          "color": "#ffffff",
-          "command": "/gravity",
+      "prison": {
+          "name": "Prison",
+          "color": "#500bb8",
+          "command": "/prison",
           "versions": "1.8<*"
       },
       "survival": {
           "name": "Survival",
-          "color": "#ffffff",
+          "color": "#2cb307",
           "command": "/survival",
           "versions": "1.21<*"
       },
       "timv": {
         "name": "TTT",
-        "color": "#ffffff",
+        "color": "#d47e0f",
         "command": "/timv",
         "versions": "1.8<*"
       }
