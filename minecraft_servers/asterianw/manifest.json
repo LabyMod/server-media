@@ -1,0 +1,42 @@
+{
+  "server_name": "Asteria Network",
+  "nice_name": "Asteria Network",
+  "direct_ip": "play.asterianw.com",
+  "supported_languages": [
+    "tr"
+  ],
+  "social": {
+    "web": "https://asterianw.com",
+    "web_shop": "https://asterianw.com/store",
+    "twitter": "asterianw",
+    "tiktok": "asterianw",
+    "facebook": "asterianw",
+    "instagram": "asterianw3",
+    "discord": "https://discord.com/invite/asterianw",
+    "youtube": "https://www.youtube.com/c/asterianw"
+  },
+  "gamemodes": {
+    "boxmining": {
+      "name": "BoxMining",
+      "color": "#A20000",
+      "command": "/boxpvp",
+      "url": "https://asterianw.com",
+      "versions": "1.21>*"
+    }
+  },
+  "discord": {
+    "server_id": 1246821436157460500,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#A20000",
+    "background": "#FFFFFF",
+    "text": "#222222"
+  },
+  "location": {
+    "city": "Istanbul",
+    "country": "Türkiye",
+    "country_code": "TR"
+  },
+  "command_delay": 5000
+}
