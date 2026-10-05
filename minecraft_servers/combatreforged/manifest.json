@@ -1,0 +1,54 @@
+{
+  "server_name": "combatreforged",
+  "nice_name": "CombatReforged",
+  "direct_ip": "combatreforged.com",
+  "supported_languages": [
+    "en"
+  ],
+  "social": {
+    "web": "https://combatreforged.com",
+    "discord": "https://discord.gg/dJFXjTQpp9"
+  },
+  "gamemodes": {
+    "ffa": {
+      "name": "FFA",
+      "color": "#FF5555",
+      "command": "/server ffa"
+    },
+    "potpvp": {
+      "name": "PotPvP",
+      "color": "#FF55FF",
+      "command": "/server potpvp"
+    },
+    "kitpvp": {
+      "name": "KitPvP",
+      "color": "#FFAA00",
+      "command": "/server kitpvp"
+    },
+    "duels": {
+      "name": "Duels",
+      "color": "#55FFFF",
+      "command": "/server duels"
+    },
+    "skywars": {
+      "name": "SkyWars",
+      "color": "#55FF55",
+      "command": "/server skywars"
+    },
+    "oitc": {
+      "name": "OITC",
+      "color": "#FFFF55",
+      "command": "/server oitc"
+    }
+  },
+  "brand": {
+    "primary": "#FF8500",
+    "background": "#2A2A2A",
+    "text": "#FFFFFF"
+  },
+  "location": {
+    "city": "Falkenstein",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}
