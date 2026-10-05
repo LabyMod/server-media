@@ -2,9 +2,6 @@
   "server_name": "Asteria Network",
   "nice_name": "Asteria Network",
   "direct_ip": "play.asterianw.com",
-  "server_wildcards": [
-    "%.asterianw.com"
-  ],
   "supported_languages": [
     "tr"
   ],
@@ -29,7 +26,7 @@
   },
   "discord": {
     "server_id": 1246821436157460500,
-    "rename_to_minecraft_name": true
+    "rename_to_minecraft_name": false
   },
   "brand": {
     "primary": "#A20000",
@@ -41,7 +38,5 @@
     "country": "Türkiye",
     "country_code": "TR"
   },
-  "yt_trailer": "",
-  "command_delay": 5000,
-  "party": {}
+  "command_delay": 5000
 }
