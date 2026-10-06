@@ -1,0 +1,11 @@
+{
+  "server_name": "novoria",
+  "nice_name": "Novoria",
+  "direct_ip": "novoria.net",
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "discord": "https://discord.gg/ENsvXW6Dr"
+  }
+}
