@@ -1,0 +1,53 @@
+{
+  "server_name": "crazymine",
+  "nice_name": "CrazyMine",
+  "direct_ip": "crazymine.de",
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "tiktok": "CrazyMineDE",
+    "discord": "https://discord.gg/Pe546se3FF",
+    "youtube": "https://www.youtube.com/@CrazyMineMC"
+  },
+  "gamemodes": {
+    "survival": {
+      "name": "Survival",
+      "color": "#38BDF8",
+      "command": "/smp",
+      "versions": "1.21<*"
+    },
+    "citybuild": {
+      "name": "CityBuild",
+      "color": "#F59E0B",
+      "command": "/cb",
+      "versions": "1.21<*"
+    },
+    "pvp": {
+      "name": "PvP-Lobby",
+      "color": "#EF4444",
+      "command": "/pvp",
+      "versions": "1.21<*"
+    },
+    "community": {
+      "name": "Community",
+      "color": "#C084FC",
+      "command": "/community",
+      "versions": "1.21<*"
+    }
+  },
+  "discord": {
+    "server_id": 1182216068824039504,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#FF7A18",
+    "background": "#FFD166",
+    "text": "#000000"
+  },
+  "location": {
+    "country": "Germany",
+    "country_code": "DE"
+  },
+  "command_delay": 3000
+}
