@@ -1,0 +1,24 @@
+{
+  "server_name": "flynnlg",
+  "nice_name": "FlynnLG",
+  "direct_ip": "FlynnLG.de",
+  "social": {
+    "web": "https://www.flynnlg.de",
+    "discord": "https://discord.com/invite/KgPKpEp",
+    "teamspeak": "ts.flynnlg.de"
+  },
+  "brand": {
+    "primary": "#ebf6ff",
+    "background": "#292929",
+    "text": "#FFFFFF"
+  },
+  "discord": {
+    "server_id": 516324158024450055,
+    "rename_to_minecraft_name": false
+  },
+  "location": {
+    "city": "Frankfurt am Main",
+    "country": "Germany",
+    "country_code": "DE"
+	}
+}

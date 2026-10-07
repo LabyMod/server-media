@@ -7,10 +7,24 @@
         "de"
     ],
     "social": {
-        "web": "https://labymod.net",
+        "web": "https://laby.net",
         "twitter": "labymod",
         "tiktok": "labymod",
         "discord": "https://discord.gg/labymod"
+    },
+    "gamemodes": {
+        "tabletop_games": {
+            "name": "Table Top Games",
+            "color": "#34B67A"
+        },
+        "just_chatting": {
+            "name": "Just Chatting",
+            "color": "#8B6CEF"
+        },
+        "parkour": {
+            "name": "Parkour",
+            "color": "#FFAA00"
+        }
     },
     "discord": {
         "server_id": 260471731809026048,

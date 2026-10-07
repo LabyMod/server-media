@@ -1,0 +1,19 @@
+{
+  "server_name": "mclabs",
+  "nice_name": "MCLabs",
+  "direct_ip": "play.labs-mc.com",
+  "server_wildcards": [
+    "%.labs-mc.com"
+  ],
+  "supported_languages": [
+    "en"
+  ],
+  "social": {
+    "web": "https://labs-mc.com",
+    "web_shop": "https://store.labs-mc.com",
+    "discord": "https://discord.gg/mclabs"
+  },
+  "brand": {
+    "primary": "#53A1D6"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "server_name": "sololegends",
+  "nice_name": "SoloLegends",
+  "direct_ip": "sololegends.net",
+  "server_wildcards": [
+    "%.sololegends.net"
+  ],
+  "supported_languages": [
+    "en"
+  ],
+  "social": {
+    "web": "https://sololegends.net",
+    "discord": "https://discord.gg/sololegends"
+  },
+  "brand": {
+    "primary": "#0A2B6B"
+  }
+}

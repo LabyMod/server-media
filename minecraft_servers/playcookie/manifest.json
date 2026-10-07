@@ -1,0 +1,37 @@
+{
+  "server_name": "playcookie",
+  "nice_name": "PlayCookie - Network",
+  "direct_ip": "mc.schnur.net",
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "discord": "https://discord.com/invite/U3BddyqVpq"
+  },
+  "discord": {
+    "server_id": 1426584915729846415,
+    "rename_to_minecraft_name": false
+  },
+  "location": {
+    "city": "Frankfurt",
+    "country": "Germany",
+    "country_code": "DE"
+  },
+  "gamemodes": {
+    "smp": {
+      "name": "SMP",
+      "color": "#00FF3B",
+      "versions": "1.21.11>*"
+    },
+    "ffa": {
+      "name": "FFA",
+      "color": "#00FF3B",
+      "versions": "1.21.11>"
+    }
+  },
+  "brand": {
+    "primary": "#00FF3B",
+    "background": "#00FF3B",
+    "text": "#ffffff"
+  }
+}

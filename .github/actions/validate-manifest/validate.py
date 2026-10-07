@@ -4,6 +4,9 @@ import requests
 from sys import exit as sys_exit
 
 REQUIRED_KEYS = ['server_name', 'nice_name', 'direct_ip']
+PARTY_KEYS = ['invite', 'accept', 'leave', 'kick', 'disband', 'transfer', 'warp', 'jump']
+PARTY_REQUIRED_KEYS = ['invite', 'accept']
+PARTY_PLAYER_KEYS = ['invite', 'kick', 'transfer']
 USERNAME_SOCIAL_KEYS = ['twitter', 'tiktok', 'facebook', 'instagram', 'teamspeak']
 URL_SOCIAL_KEYS = ['web', 'web_shop', 'web_support', 'youtube', 'discord']
 BRAND_KEYS = ['primary', 'background', 'text']
@@ -173,6 +176,9 @@ def main():
                 if 'command' in gamemode and gamemode['command'] in ('', '-'):
                     error += f"- Please remove the empty command key in gamemode **{key}** or fill in information.\n"
 
+        if 'party' in data:
+            error += validate_party(data['party'])
+
 
 
     if create_comment:
@@ -194,6 +200,30 @@ def main():
 
     for comment in comment.split('\n'):
         print(comment)
+
+
+def validate_party(party) -> str:
+    if not isinstance(party, dict):
+        return '- `party` has to be an object. Please recheck the [party object](https://github.com/LabyMod/server-media/blob/master/docs/Manifest.md#party-object).\n'
+
+    error = ''
+    for key in PARTY_REQUIRED_KEYS:
+        if key not in party:
+            error += f'- The party command **{key}** is required (`party.{key}`)\n'
+
+    for key, command in party.items():
+        if key not in PARTY_KEYS:
+            error += f'- Unknown party command **{key}**, allowed are: {", ".join(PARTY_KEYS)} (`party.{key}`)\n'
+            continue
+        if not isinstance(command, str) or command.strip() in ('', '-'):
+            error += f'- Please remove the empty party command **{key}** or fill in information (`party.{key}`)\n'
+            continue
+        if not command.startswith('/'):
+            error += f'- Party commands have to start with **/** (`party.{key}`)\n'
+        if key in PARTY_PLAYER_KEYS and '{userName}' not in command:
+            error += f'- Please use {{userName}} for the other player in the party command (`party.{key}`)\n'
+
+    return error
 
 
 def get_changed_manifest_files():

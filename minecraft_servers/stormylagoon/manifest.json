@@ -1,0 +1,19 @@
+{
+  "server_name": "stormylagoon",
+  "nice_name": "Stormy Lagoon",
+  "direct_ip": "play.stormylagoon.com",
+  "server_wildcards": [
+    "%.stormylagoon.com"
+  ],
+  "supported_languages": [
+    "en"
+  ],
+  "social": {
+    "web": "https://stormylagoon.com",
+    "web_shop": "https://store.stormylagoon.com",
+    "discord": "https://discord.gg/stormy-lagoon-502664467000328202"
+  },
+  "brand": {
+    "primary": "#FFB90D"
+  }
+}

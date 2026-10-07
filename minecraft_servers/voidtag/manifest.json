@@ -1,0 +1,21 @@
+{
+    "server_name": "voidtag",
+    "nice_name": "Void Tag",
+    "direct_ip": "voidtag.net",
+    "supported_languages": ["en"],
+    "social" :{
+        "web": "https://voidtag.net",
+        "web_shop": "https://store.voidtag.net",
+        "discord": "https://discord.gg/PPNMtpRn4q"
+    },
+    "brand": {
+        "primary": "#ff00a8",
+        "background": "#9600ff",
+        "text": "#ffffff"
+    },
+    "location": {
+        "city": "Chicago",
+        "country": "United States",
+        "country_code": "US"
+    }
+}

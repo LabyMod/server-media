@@ -1,0 +1,32 @@
+{
+  "server_name": "astralmc",
+  "nice_name": "AstralMC",
+  "direct_ip": "astralmc.cc",
+  "server_wildcards": [
+    "%.astralmc.cc"
+  ],
+  "supported_languages": [
+    "en"
+  ],
+  "social": {
+    "web": "https://astralmc.cc",
+    "web_shop": "https://store.astralmc.cc"
+  },
+  "brand": {
+    "primary": "#FE3BD3"
+  },
+  "gamemodes": {
+    "kitmap": {
+      "name": "KitMap",
+      "color": "#FE3BD3"
+    },
+    "hcf": {
+      "name": "HCF",
+      "color": "#FE3BD3"
+    },
+    "leagues": {
+      "name": "Leagues",
+      "color": "#FE3BD3"
+    }
+  }
+}

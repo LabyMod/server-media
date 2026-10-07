@@ -1,0 +1,26 @@
+{
+    "server_name": "cosmixmc",
+    "nice_name": "CosmixMC Network",
+    "direct_ip": "cosmixmc.net",
+    "supported_languages": [
+        "es",
+        "en"
+    ],
+    "social": {
+        "discord": "https://discord.gg/TBESKkUZhV"
+    },
+    "discord": {
+        "server_id": 1138890185732538469,
+        "rename_to_minecraft_name": false
+    },
+    "brand": {
+        "primary": "#7C3AED",
+        "background": "#111827",
+        "text": "#FFFFF0"
+    },
+    "location": {
+        "city": "Miami",
+        "country": "United States",
+        "country_code": "US"
+    }
+}

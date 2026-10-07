@@ -1,0 +1,19 @@
+{
+  "server_name": "sharpness",
+  "nice_name": "Sharpness",
+  "direct_ip": "sharpness.gg",
+  "server_wildcards": [
+    "%.sharpness.gg"
+  ],
+  "supported_languages": [
+    "en"
+  ],
+  "social": {
+    "web": "https://www.sharpness.gg",
+    "web_shop": "https://store.sharpness.gg",
+    "discord": "https://discord.gg/sharpness"
+  },
+  "brand": {
+    "primary": "#CF112C"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "server_name": "planetsmp",
+  "nice_name": "PlanetSMP",
+  "direct_ip": "planetsmp.com",
+  "supported_languages": [
+     "de"
+  ],
+  "social": {
+    "web": "https://planetsmp.com",
+    "instagram": "planetsmp_com",
+    "discord": "https://discord.gg/CsPYzym5XU",
+    "youtube": "https://www.youtube.com/@PlanetSMPcom"
+  },
+  "gamemodes": {
+    "earth": {
+      "name": "Earth",
+      "color": "#57C785",
+      "command": "/quickjoin EarthSMP"
+    }
+  },
+  "brand": {
+     "primary": "#57C785",
+     "background": "#2A7B9B",
+     "text": "#FFFFFF"
+  }, 
+  "location": {
+     "country": "Germany",
+     "country_code": "DE"
+  },
+  "command_delay": 3000
+}

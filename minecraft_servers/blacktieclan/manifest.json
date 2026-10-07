@@ -1,0 +1,36 @@
+{
+  "server_name": "blacktieclan",
+  "nice_name": "BlackTie",
+  "direct_ip": "blacktieclan.net",
+  "supported_languages": [
+    "de", "en"
+  ],
+  "social": {
+    "discord": "https://discord.gg/4GzsJN9Xp3"
+  },
+  "discord": {
+    "server_id": 1479135788108353698
+  },
+  "gamemodes": {
+    "oneblock": {
+      "name": "OneBlock",
+      "color": "#ffc300",
+      "versions": "1.21<*"
+    },
+    "jumpnrun": {
+      "name": "Jump´n´Run",
+      "color": "#ffc300",
+      "versions": "1.21<*"
+    },
+    "buildbattle": {
+      "name": "BuildBattle",
+      "color": "#ffc300",
+      "versions": "1.21<*"
+    }
+  },
+  "brand": {
+    "primary": "#ffc300",
+    "background": "#ffc300",
+    "text": "#ffffff"
+  }
+}
