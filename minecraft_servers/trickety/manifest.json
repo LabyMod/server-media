@@ -21,32 +21,27 @@
   "gamemodes": {
     "uhcgames": {
       "name": "UHC-Games",
-      "color": "#AA00AA",
-      "versions": "1.21<*"
-    },
-    "arena": {
-      "name": "Arena",
-      "color": "#5555FF",
+      "color": "#cc0dcc",
       "versions": "1.21<*"
     },
     "speedguessr": {
       "name": "SpeedGuessr",
-      "color": "#FFFF55",
+      "color": "#eeff00",
       "versions": "1.21<*"
     },
-    "falldown": {
-      "name": "Falldown",
-      "color": "#FFAA00",
-      "versions": "1.21<*"
-    },
-    "jetpackhero": {
-      "name": "JetPackHero",
-      "color": "#FF55FF",
+    "tryjump": {
+      "name": "TryJump",
+      "color": "#0066ff",
       "versions": "1.21<*"
     },
     "worlds": {
       "name": "Worlds",
-      "color": "#55FF55",
+      "color": "#66ff00",
+      "versions": "1.21<*"
+    },
+    "playground": {
+      "name": "Playground",
+      "color": "#ff0066",
       "versions": "1.21<*"
     }
   },
