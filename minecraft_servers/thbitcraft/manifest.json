@@ -1,0 +1,16 @@
+{
+  "server_name": "thbitcraft",
+  "nice_name": "THBIT Craft",
+  "direct_ip": "thbit-craft.de",
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "web": "https://thbit-craft.de"
+  },
+  "brand": {
+    "primary": "#4F7BF7",
+    "background": "#5B3FE6",
+    "text": "#FFFFFF"
+  }
+}
