@@ -1,0 +1,28 @@
+{
+  "server_name": "craftvalley",
+  "nice_name": "CraftValley",
+  "direct_ip": "play.craftvalley.de",
+  "server_wildcards": [
+    "%.craftvalley.de"
+  ],
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "web": "https://craftvalley.de",
+    "web_shop": "https://store.craftvalley.de",
+    "discord": "https://discord.gg/craftvalley",
+    "tiktok": "play.craftvalley.de",
+    "instagram": "play.craftvalley.de",
+    "youtube": "https://www.youtube.com/@play_CraftValley_de"
+  },
+  "brand": {
+    "primary": "#7CC924",
+    "background": "#1E2A12",
+    "text": "#FFFFFF"
+  },
+  "location": {
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}
