@@ -1,0 +1,33 @@
+{
+  "server_name": "nichtafk",
+  "nice_name": "NichtAFK",
+  "direct_ip": "nichtafk.net",
+  "server_wildcards": [
+    "%.nichtafk.net"
+  ],
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "discord": "https://dc.nichtafk.net"
+  },
+  "brand": {
+    "primary": "#4A9DFF",
+    "background": "#0A1E3C",
+    "text": "#FFFFFF"
+  },
+  "gamemodes": {
+    "bedwars": {
+      "name": "BedWars",
+      "color": "#FF2A2A"
+    },
+    "angelpvp": {
+      "name": "AngelPvP",
+      "color": "#3DE8D6"
+    },
+    "piratecraft": {
+      "name": "PirateCraft",
+      "color": "#F2C14E"
+    }
+  }
+}
