@@ -1,0 +1,26 @@
+{
+  "server_name": "nyqls",
+  "nice_name": "NYQLS",
+  "direct_ip": "nyqls.de",
+  "supported_languages": ["de"],
+  "social": {
+    "web": "https://nyqls.de",
+    "discord": "https://discord.gg/J8hz5MDAxa",
+    "youtube": "https://www.youtube.com/@nyqls"
+  },
+  "gamemodes": {
+    "survival": {
+      "name": "Survival",
+      "color": "#2EE6D6"
+    }
+  },
+  "brand": {
+    "primary": "#2F5BFF",
+    "background": "#0B1A4A",
+    "text": "#FFFFFF"
+  },
+  "location": {
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}
