@@ -2,9 +2,6 @@
   "server_name": "nichtafk",
   "nice_name": "NichtAFK",
   "direct_ip": "nichtafk.net",
-  "server_wildcards": [
-    "%.nichtafk.net"
-  ],
   "supported_languages": [
     "de"
   ],
