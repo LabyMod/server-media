@@ -1,19 +1,19 @@
 {
-  "server_name": "2b2t",
-  "nice_name": "2b2t.org",
-  "direct_ip": "2b2t.org",
+  "server_name": "McAffen",
+  "nice_name": "Mcaffen.de",
+  "direct_ip": "McAffen.de",
   "supported_languages": [
+    "de",
     "en"
   ],
   "social": {
-    "web_shop": "https://shop.2b2t.org"
+    "Website": "https://mcaffen.de"
   },
   "brand": {
     "primary": "#c4c4c4"
   },
   "location": {
-    "city": "Quebec",
-    "country": "Canada",
-    "country_code": "CA"
+    "country": "Germany",
+    "country_code": "DE"
   }
 }
