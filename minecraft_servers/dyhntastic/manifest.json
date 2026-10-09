@@ -52,13 +52,8 @@
       "color": "#5555FF",
       "command": "/gamejoin knockit"
     },
-    "oneblock": {
-      "name": "OneBlock",
-      "color": "#00AA00",
-      "command": "/gamejoin oneblock"
-    },
     "capture": {
-      "name": "Capture",
+      "name": "CaptureTheFlag",
       "color": "#FFAA00",
       "command": "/gamejoin capture"
     },
@@ -68,7 +63,7 @@
       "command": "/gamejoin itemchaos"
     },
     "bedwars": {
-      "name": "Bedwars",
+      "name": "BedWars",
       "color": "#FF5555",
       "command": "/gamejoin bedwars"
     },
@@ -81,6 +76,26 @@
       "name": "BlockParty",
       "color": "#FF55FF",
       "command": "/gamejoin blockparty"
+    },
+    "towerdefense": {
+      "name": "Towerdefense",
+      "color": "#00AAAA",
+      "command": "/gamejoin towerdefense"
+    },
+    "bingo": {
+      "name": "Bingo",
+      "color": "#55FF55",
+      "command": "/gamejoin bingo"
+    },
+    "spleef": {
+      "name": "Spleef",
+      "color": "#55FFFF",
+      "command": "/gamejoin spleef"
+    },
+    "fireballfight": {
+      "name": "FireBallFight",
+      "color": "#FFFF55",
+      "command": "/gamejoin fireballfight"
     }
   },
   "discord": {
