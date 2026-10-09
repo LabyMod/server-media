@@ -120,5 +120,6 @@
     "transfer": "/party transfer {userName}",
     "warp": "/party warp",
     "jump": "/party jump"
-  }
+  },
+  "user_stats": "https://dyhntastic.net/stats/{userName}"
 }
