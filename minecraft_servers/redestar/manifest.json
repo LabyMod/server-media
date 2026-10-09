@@ -1,0 +1,49 @@
+{
+  "server_name": "redestar",
+  "nice_name": "RedeStar",
+  "direct_ip": "jogar.redestars.com",
+  "server_wildcards": [
+    "%.redestars.com"
+  ],
+  "supported_languages": [
+    "pt"
+  ],
+  "social": {
+    "web": "https://loja.redestars.com",
+    "web_shop": "https://loja.redestars.com/shop",
+    "tiktok": "RedeStar_",
+    "instagram": "RedeStar",
+    "discord": "https://discord.gg/C7xzp4CkDH"
+  },
+  "gamemodes": {
+    "survival": {
+      "name": "Survival",
+      "color": "#FFAA00",
+      "command": "/jogar survival"
+    },
+    "slimefun": {
+      "name": "Slimefun",
+      "color": "#00AA00",
+      "command": "/jogar slimefun"
+    },
+    "anarquia": {
+      "name": "Anarquia",
+      "color": "#FF5555",
+      "command": "/jogar anarquia"
+    }
+  },
+  "discord": {
+    "server_id": 743137676244287539,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#2BE4F8",
+    "background": "#0B1026",
+    "text": "#FFFFFF"
+  },
+  "location": {
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  "command_delay": 3000
+}

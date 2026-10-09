@@ -28,5 +28,13 @@
       "name": "MMORPG",
       "color": "#A7EB64"
     }
+  },
+  "party": {
+    "invite": "/party invite {userName}",
+    "accept": "/party join {userName}",
+    "leave": "/party leave",
+    "kick": "/party kick {userName}",
+    "disband": "/party disband",
+    "transfer": "/party promote {userName}"
   }
 }
