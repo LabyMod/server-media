@@ -77,8 +77,8 @@
     "rename_to_minecraft_name": false
   },
   "brand": {
-    "primary": "#F8201F",
-    "background": "#531688",
+    "primary": "#00E9F1",
+    "background": "#00747F",
     "text": "#FFFFFF"
   },
   "location": {
