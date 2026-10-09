@@ -2,6 +2,17 @@
   "server_name": "dyhntastic",
   "nice_name": "Dyhntastic.net",
   "direct_ip": "dyhntastic.net",
+  "server_wildcards": [
+    "%.dyhntastic.net",
+    "%.dyhntastic.com",
+    "%.dyhntastic.de",
+    "%.dyhntastic.eu",
+    "%.dyhntastic.org",
+    "%.dyhntastic.us",
+    "%.dyhntastic.uk",
+    "%.dyhntastic.at",
+    "%.dyhntastic.ch"
+  ],
   "supported_languages": [
     "de",
     "en"
