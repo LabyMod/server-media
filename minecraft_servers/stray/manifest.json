@@ -3,13 +3,11 @@
   "nice_name": "Stray PvP",
   "direct_ip": "stray.gg",
   "server_wildcards": [
-    "eu.stray.gg",
-    "as.stray.gg",
     "%.stray.gg"
   ],
   "social": {
     "web_shop": "https://store.stray.gg",
-    "discord": "https://discord.gg/straypvp"
+    "discord": "https://discord.gg/stray"
   },
   "brand": {
       "primary": "#25323e",

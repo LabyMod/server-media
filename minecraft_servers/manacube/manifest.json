@@ -26,64 +26,49 @@
   },
   "gamemodes": {
     "skyblock": {
-      "name": "SkyBlock",
+      "name": "Skyblock",
       "color": "#c4a525",
-      "command": "/skyblock",
-      "versions": "1.18<*"
+      "command": "/skyblock"
     },
-    "olympus_prison": {
-      "name": "Olympus Prison",
+    "prison": {
+      "name": "Prison",
       "color": "#c4a525",
-      "command": "/olympus",
-      "versions": "1.19<*"
+      "command": "/olympus"
     },
     "survival": {
       "name": "Survival",
       "color": "#c4a525",
-      "command": "/survival",
-      "versions": "1.19<*"
+      "command": "/survival"
     },
     "parkour": {
       "name": "Parkour",
       "color": "#c4a525",
-      "command": "/parkour",
-      "versions": "1.8<*"
+      "command": "/parkour"
     },
     "islands": {
       "name": "Islands",
       "color": "#c4a525",
-      "command": "/islands",
-      "versions": "1.16<*"
+      "command": "/islands"
     },
-    "anarchy": {
-      "name": "Anarchy",
+    "hardcore": {
+      "name": "Hardcore",
       "color": "#c4a525",
-      "command": "/anarchy",
-      "versions": "1.16<*"
+      "command": "/hardcore"
     },
     "creative": {
       "name": "Creative",
       "color": "#c4a525",
-      "command": "/creative",
-      "versions": "1.19<*"
+      "command": "/creative"
     },
-    "earth_towny": {
-      "name": "Earth Towny",
+    "earth": {
+      "name": "Earth",
       "color": "#c4a525",
-      "command": "/earth",
-      "versions": "1.19<*"
-    },
-    "lifesteal_factions": {
-      "name": "Lifesteal Factions",
-      "color": "#c4a525",
-      "command": "/factions",
-      "versions": "1.19<*"
+      "command": "/earth"
     },
     "kitpvp": {
       "name": "KitPvP",
       "color": "#c4a525",
-      "command": "/kitpvp",
-      "versions": "1.8<*"
+      "command": "/kitpvp"
     }
   },
   "yt_trailer": "YpNGlgZn2u4",

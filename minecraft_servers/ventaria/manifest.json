@@ -1,0 +1,30 @@
+{
+  "server_name": "ventaria",
+  "nice_name": "Ventaria",
+  "direct_ip": "Ventaria.net",
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "tiktok": "VentariaNET",
+    "instagram": "VentariaNET",
+    "youtube": "https://youtube.com/@VentariaNET",
+    "discord": "https://discord.gg/gAFDKGUF2r"
+  },
+  "gamemodes": {
+    "cb": {
+      "name": "CityBuild",
+      "color": "#FFDE4D",
+      "versions": "1.21.8"
+    }
+  },
+  "discord": {
+    "server_id": 1402267770313244822,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#FFDE4D",
+    "background": "#FFDE4D",
+    "text": "#FFFFFF"
+  }
+}

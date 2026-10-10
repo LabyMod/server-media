@@ -13,5 +13,11 @@
     "brand": {
         "primary": "#131313",
         "background": "#b3001b"
+    },
+    "gamemodes": {
+        "bedwarspractice": {
+            "name": "BedWars Practice",
+            "color": "#131313"
+        }
     }
 }

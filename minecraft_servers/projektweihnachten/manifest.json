@@ -1,0 +1,52 @@
+{
+  "server_name": "projektweihnachten",
+  "nice_name": "Projekt Weihnachten",
+  "direct_ip": "projekt-weihnachten.de",
+  "server_wildcards": [
+    "%.projekt-weihnachten.de",
+    "%.projektweihnachten.de"
+  ],
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "web": "https://projekt-weihnachten.de",
+    "discord": "https://discord.gg/gUcJQ27fky"
+  },
+  "gamemodes": {
+    "snowfight": {
+        "name": "Snowfight",
+        "color": "#ffffff"
+    },
+    "spleef": {
+        "name": "Spleef",
+        "color": "#00b4c4"
+    },
+    "kffa": {
+        "name": "KFFA",
+        "color": "#5f00c4"
+    },
+    "spread": {
+        "name": "Spread",
+        "color": "#c46200"
+    },
+    "survival": {
+        "name": "Survival",
+        "color": "#558248"
+    }
+  },
+  "discord": {
+    "server_id": 1096145063869960262,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#128FD0",
+    "background": "#0A112D",
+    "text": "#ffffff"
+  },
+  "chat": {
+    "message_formats": [
+      "^(?:§[0-9a-fk-or](?<rank>[^ §]+) §8┃ )?§[0-9a-fk-or](?<sender>[a-zA-Z0-9_]{2,16})§8:§r (?<message>.*)$"
+    ]
+  }
+}

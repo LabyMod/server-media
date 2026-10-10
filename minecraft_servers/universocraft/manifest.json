@@ -8,6 +8,13 @@
     "supported_languages": [
       "es"
     ],
-    "user_stats": "https://stats.universocraft.com/stats.php?player={userName}"
+    "user_stats": "https://stats.universocraft.com/stats.php?player={userName}",
+    "party": {
+        "invite": "/fiesta invitar {userName}",
+        "accept": "/fiesta aceptar {userName}",
+        "leave": "/fiesta salir",
+        "kick": "/fiesta expulsar {userName}",
+        "transfer": "/fiesta lider {userName}"
+    }
   }
   

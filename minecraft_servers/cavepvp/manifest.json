@@ -1,0 +1,20 @@
+{
+  "server_name": "cavepvp",
+  "nice_name": "CavePvP",
+  "direct_ip": "cavepvp.com",
+  "server_wildcards": [
+    "%.cavepvp.com"
+  ],
+  "supported_languages": [
+    "en"
+  ],
+  "social": {
+    "web": "https://cavepvp.com",
+    "web_shop": "https://store.cavepvp.com",
+    "discord": "https://discord.gg/cavepvp"
+  },
+  "brand": {
+    "primary": "#FF2A3F"
+  },
+  "user_stats": "https://cavepvp.com/u/{userName}"
+}

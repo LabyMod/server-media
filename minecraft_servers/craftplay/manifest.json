@@ -1,6 +1,6 @@
 {
   "server_name": "craftplay",
-  "nice_name": "Craftplay.de",
+  "nice_name": "Craftplay",
   "direct_ip": "craftplay.de",
   "server_wildcards": [
     "%.craftplay.de"
@@ -20,40 +20,40 @@
     "teamspeak": "ts.craftplay.de"
   },
   "gamemodes": {
-    "citybuild": {
-      "name": "Spielerstädte", 
-      "color": "#5454FC",
-      "url": "https://www.craftplay.de/wiki/citybuild",
-      "command": "/spielerstädte",
-      "versions": "1.20<*"
-    },
     "plotserver": {
-      "name": "Plotserver",
+      "name": "Citybuild",
       "color": "#55FFFF",
       "url": "https://www.craftplay.de/wiki/plotserver",
-      "command": "/plotserver",
-      "versions": "1.20<*"
+      "command": "/citybuild",
+      "versions": "26.2<*"
     },
     "skygames": {
-      "name": "SkyBlock",
+      "name": "Skyblock",
       "color": "#54FC54",
-      "url": "https://www.craftplay.de/wiki/skygames",
-      "command": "/skygames",
-      "versions": "1.20<*"
+      "url": "https://www.craftplay.de/wiki/skyblock",
+      "command": "/skyblock",
+      "versions": "26.2<*"
     },
     "oneblock": {
       "name": "Oneblock", 
       "color": "#008800",
       "url": "https://craftplay.de/wiki/oneblock",
       "command": "/oneblock",
-      "versions": "1.20<*"
+      "versions": "26.2<*"
     },
     "survival": {
       "name": "Survival", 
       "color": "#A800A8",
-      "url": "https://www.craftplay.de/wiki/anarchie",
+      "url": "https://www.craftplay.de/wiki/befehle/survival-befehle",
       "command": "/survival",
-      "versions": "1.20<*"
+      "versions": "26.2<*"
+    },
+    "minigames": {
+      "name": "Aderblock", 
+      "color": "#A800A8",
+      "url": "https://www.craftplay.de/wiki/aderblock",
+      "command": "/aderblock",
+      "versions": "26.2<*"
     }
   },
   "discord": {
@@ -72,3 +72,4 @@
   },
   "yt_trailer": "opSRr2cnSPU"
 }
+

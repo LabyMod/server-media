@@ -6,34 +6,32 @@
     "de"
   ],
   "social": {
-    "discord": "https://discord.gg/fwEGbn8VgQ",
+    "web": "https://townymc.de",
+    "discord": "https://discord.gg/yZvnSKfpzA",
     "tiktok": "townymc_de"
   },
   "discord": {
-    "server_id": 1226637161349120030
+    "server_id": 1419250290036838490
   },
   "brand": {
     "primary": "#ECAD5E",
     "background": "#e19536",
     "text": "#ffffff"
   },
-  "location": {
-    "city": "Hessen",
-    "country": "Germany",
-    "country_code": "DE"
-  },
   "gamemodes": {
     "citybuild": {
-      "name": "Citybuild",
-      "command": "/citybuild"
+      "name": "CityBuild", 
+      "color": "#E8B50F",
+      "command": "/server citybuild"
     },
-    "goldjagd": {
-      "name": "Goldjagd",
-      "command": "/goldjagd"
-    },
-    "punsh": {
-      "name": "Punsh",
-      "command": "/punsh"
+    "farmserver": {
+      "name": "Farmserver", 
+      "color": "#E8B50F",
+      "command": "/server farmserver"
     }
+  },
+  "location": {
+    "country": "Germany",
+    "country_code": "DE"
   }
 }
