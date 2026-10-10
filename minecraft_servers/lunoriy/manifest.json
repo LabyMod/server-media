@@ -1,0 +1,28 @@
+{
+  "server_name": "lunoriy",
+  "nice_name": "LunoriyNetwork",
+  "direct_ip": "mc.lunoriy.de",
+  "server_wildcards": ["%.lunoriy.de"],
+  "supported_languages": ["de", "en"],
+  "social": {
+    "web": "https://lunoriy.de",
+    "web_support": "https://lunoriy.de/Lunoriy_Language/Lunoriy_EN/support/index.html",
+    "discord": "https://discord.gg/2jjX8WR9MP"
+  },
+  "gamemodes": {
+    "survivalrounds": {
+      "name": "SurvivalRounds",
+      "color": "#1B3B64"
+    }
+  },
+  "brand": {
+    "primary": "#1B3B64",
+    "background": "#1B3B64",
+    "text": "#FFFFFF"
+  },
+  "location": {
+    "city": "Frankfurt am Main",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}
