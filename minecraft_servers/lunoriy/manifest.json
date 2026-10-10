@@ -2,7 +2,6 @@
   "server_name": "lunoriy",
   "nice_name": "LunoriyNetwork",
   "direct_ip": "mc.lunoriy.de",
-  "server_wildcards": ["%.lunoriy.de"],
   "supported_languages": ["de", "en"],
   "social": {
     "web": "https://lunoriy.de",
