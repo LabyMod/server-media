@@ -78,7 +78,7 @@
       "command": "/gamejoin blockparty"
     },
     "towerdefense": {
-      "name": "Towerdefense",
+      "name": "TowerDefense",
       "color": "#00AAAA",
       "command": "/gamejoin towerdefense"
     },
