@@ -4,6 +4,9 @@
 
 > **Important**: All provided values are just examples. Do not copy them, instead use your own ones!
 
+Only the keys listed here are allowed. Unknown keys are rejected, because LabyMod and LABY.net would silently ignore
+them.
+
 | Key                                | Description                                                                                          | Example value                                                                                     |
 |------------------------------------|------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
 | `server_name`*                     | Short server name (must match the directory name!)                                                   | `"laby"`                                                                                          |
@@ -70,6 +73,10 @@
 
 * Required values are: `name` & `color`
 
+`versions` is a range written as `from<to`, where `*` leaves a side open. Several ranges can be separated by commas,
+e.g. `"1.8<1.12.2,1.20<*"`. The gamemode key is also used for the path of the gamemode icon, so it may only contain
+lowercase letters, digits, `-` and `_`.
+
 
 ### Party object
 
@@ -101,7 +108,8 @@ members on the same sub server yet. Leave both out if your party system already 
 ### Discord URL
 
 We only support direct discord invite links, such as https://discord.gg/Wbg7rArky7 or https://discord.gg/labymod. Links
-like https://labymod.net/dc are only supported for partner servers.<br>
+like https://labymod.net/dc are only supported for partner servers. The invite must never expire, and if you set
+`discord.server_id`, it has to be the server the invite leads to.<br>
 **Why?** Links directly from Discord can be validated well by us for up-to-dateness.
 
 ## Example manifest.json file
