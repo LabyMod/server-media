@@ -1,7 +1,7 @@
 {
   "server_name": "kettlemc",
   "nice_name": "KettleMC.net",
-  "direct_ip": "KettleMC.net",
+  "direct_ip": "kettlemc.net",
   "server_wildcards": [
     "%.kettlemc.de",
     "%.kettlemc.net",

@@ -1,0 +1,30 @@
+{
+  "server_name": "pitschonix",
+  "nice_name": "Pitschonix",
+  "direct_ip": "play.pitschonix.eu",
+  "supported_languages": ["de", "en"],
+  "social": {
+    "web": "https://pitschonix.eu",
+    "web_support": "https://discord.gg/92xE2whxzm",
+    "discord": "https://discord.gg/92xE2whxzm",
+    "youtube": "https://www.youtube.com/@Pitschonix",
+    "twitter": "pitschonix",
+    "tiktok": "pitschonix",
+    "instagram": "pitschonix"
+  },
+  "command_delay": 3000,
+  "gamemodes": {
+    "lobby": {"name": "Lobby", "color": "#AA00AA", "command": "/server lobby-01", "versions": "1.8<*"},
+    "ffa": {"name": "FFA", "color": "#FF5555", "command": "/server ffa-01", "versions": "1.8<*"},
+    "duels_legacy": {"name": "Duels Legacy", "color": "#FFAA00", "command": "/server duels-legacy-lobby", "versions": "1.8<*"},
+    "duels_modern": {"name": "Duels Modern", "color": "#55FFFF", "command": "/server duels-modern-lobby", "versions": "1.21.11<*"},
+    "skywars_legacy": {"name": "SkyWars Legacy", "color": "#AA00AA", "command": "/server skywars-legacy-lobby", "versions": "1.8<*"},
+    "skywars_modern": {"name": "SkyWars Modern", "color": "#FF55FF", "command": "/server skywars-modern-lobby", "versions": "1.21.11<*"},
+    "bedwars": {"name": "BedWars", "color": "#FF5555", "command": "/server bedwars-legacy-lobby", "versions": "1.8<*"}
+  },
+  "brand": {
+    "primary": "#7505ED",
+    "background": "#313233",
+    "text": "#F7F7F7"
+  }
+}
