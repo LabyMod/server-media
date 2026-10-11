@@ -9,8 +9,10 @@
   "social": {
     "web": "https://mcaffen.de",
   },
-  "brand": {
-    "primary": "#c4c4c4"
+    "brand": {
+    "primary": "#00FF00",
+    "background": "#FF4D4D",
+    "text": "#ffffff"
   },
   "location": {
     "country": "Germany",
