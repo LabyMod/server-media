@@ -1,13 +1,13 @@
 {
   "server_name": "pixelhide",
   "nice_name": "PixelHide",
-  "direct_ip": "play.pixelhide.net",
+  "direct_ip": "%.pixelhide.net",
   "supported_languages": [
     "de"
   ],
   "social": {
     "web": "https://pixelhide.net",
-    "discord": "https://discord.gg/nzg6gbUsUm",
+    "discord": "https://discord.gg/FhUpT6dF9y",
     "youtube": "https://www.youtube.com/channel/UCkkQLi_gCaim1FNHzTjNG6g"
   },
   "discord": {
