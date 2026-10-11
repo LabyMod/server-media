@@ -42,6 +42,9 @@ LANGUAGE = re.compile(r'^[a-z]{2}(?:-[A-Za-z]{2,3})?$')
 SERVER_NAME = re.compile(r'^[a-z0-9]+$')
 GAMEMODE_KEY = re.compile(r'^[a-z0-9_-]+$')
 YOUTUBE_ID = re.compile(r'^[A-Za-z0-9_-]{11}$')
+# A domain or IPv4 address, optionally with a port. Case is checked separately
+HOSTNAME = re.compile(r'^(?=[^:]{1,253}(?::\d{1,5})?$)(?:(?!-)[a-z0-9-]{1,63}(?<!-)\.)+[a-z0-9-]{1,63}(?::\d{1,5})?$',
+                      re.IGNORECASE)
 
 SESSION = requests.Session()
 SESSION.headers['User-Agent'] = ('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 '
@@ -152,15 +155,29 @@ def validate_manifest(path, is_new, report):
         report.error('- `server_name` may only contain lowercase letters and digits (`server_name`)')
     if data['direct_ip'] != data['direct_ip'].lower():
         report.error(f'- Please use lowercase for the direct IP: `{data["direct_ip"].lower()}` (`direct_ip`)')
+    valid_ip = bool(HOSTNAME.match(data['direct_ip']))
+    if not valid_ip and data['direct_ip'] not in ['', '-']:
+        if '%' in data['direct_ip'] or '*' in data['direct_ip']:
+            report.error('- The direct IP has to be the address players join, e.g. `play.example.net`. '
+                         'Wildcards belong into `server_wildcards` (`direct_ip`)')
+        else:
+            report.error('- The direct IP has to be a plain address like `play.example.net`, '
+                         'without `https://`, paths or spaces (`direct_ip`)')
 
-    wildcards = data.get('server_wildcards', [])
-    for wildcard in wildcards:
+    wildcards = []
+    for wildcard in data.get('server_wildcards', []):
         if not wildcard.startswith('%.'):
             report.error('- Invalid wildcard entry. Each entry must start with **%.**. Further information here: '
                          'https://en.wikipedia.org/wiki/Wildcard_DNS_record (`server_wildcards`)')
+        elif not HOSTNAME.match(wildcard[2:]):
+            report.error(f'- Invalid wildcard entry `{wildcard}`, it has to be `%.` followed by a domain '
+                         'like `%.example.net` (`server_wildcards`)')
+        else:
+            wildcards.append(wildcard)
 
-    status = check_server(data['direct_ip'], report)
-    if wildcards and all(wildcard.startswith('%.') for wildcard in wildcards):
+    # An invalid address would only produce a misleading offline note
+    status = check_server(data['direct_ip'], report) if valid_ip else None
+    if valid_ip and wildcards:
         check_wildcards(data['direct_ip'], wildcards, status, report)
 
     if 'social' in data:
