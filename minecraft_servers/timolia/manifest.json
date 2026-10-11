@@ -80,5 +80,10 @@
     ]
   },
   "yt_trailer": "vNF-ztQGnUo",
-  "user_stats": "https://www.timolia.de/stats/{userName}"
+  "user_stats": "https://www.timolia.de/stats/{userName}",
+  "party": {
+    "invite": "/party invite {userName}",
+    "accept": "/party join {userName}",
+    "leave": "/party leave"
+  }
 }

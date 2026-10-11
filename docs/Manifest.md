@@ -34,6 +34,7 @@
 | `yt_trailer`                       | [YouTube trailer **embed ID**](Usages.md#server-trailer)                                             | `"vNF-ztQGnUo"`                                                                                   |
 | `user_stats`                       | [User stats url](Usages.md#links)                                                                    | `"https://laby.net/@{userName}"` *or* `"https://laby.net/@{uuid}"`                                |
 | `command_delay`                    | Delay of commands in ms when joining on the server and automatically executing a command             | `3000`                                                                                            |
+| `party`                            | [LabyMod party](Usages.md#labymod-party) commands of your server                                     | [Party object](#party-object)                                                                     |
 
 * Required values are: `server_name`, `nice_name` & `direct_ip`
 
@@ -69,6 +70,33 @@
 
 * Required values are: `name` & `color`
 
+
+### Party object
+
+LabyMod players can form a party that works across servers. If your server has its own party system, list its
+commands here and LabyMod mirrors the LabyMod party into it, so the members follow their leader into your gamemodes.
+[Read more](Usages.md#labymod-party)
+
+| Key        | Description                                                             | Example value                  |
+|------------|-------------------------------------------------------------------------|--------------------------------|
+| `invite`*  | Sent by the party leader to invite a member                             | `"/party invite {userName}"`   |
+| `accept`*  | Sent by the invited member to accept the invite of the leader           | `"/party accept {userName}"`   |
+| `leave`    | Sent by a member who leaves the party                                   | `"/party leave"`               |
+| `kick`     | Sent by the party leader to remove a member                             | `"/party kick {userName}"`     |
+| `disband`  | Sent by the party leader to dissolve the party                          | `"/party disband"`             |
+| `transfer` | Sent by the party leader to hand the leadership over to another member  | `"/party transfer {userName}"` |
+| `warp`     | Sent by the party leader to pull all members onto the leader's server   | `"/party warp"`                |
+| `jump`     | Sent by a member to join the party leader on the leader's server        | `"/party jump"`                |
+
+* Required values are: `invite` & `accept`
+
+Every command must start with `/`. `{userName}` is replaced with the Minecraft name of the other player: the invited,
+removed or new leader for `invite`, `kick` and `transfer`, and the party leader for `accept` and `jump` (leave it out if
+your server accepts without a name). Only add commands your server actually supports - LabyMod sends them on behalf of
+the player.
+
+`warp` and `jump` are for networks that spread players over several lobbies: being in the same party does not put the
+members on the same sub server yet. Leave both out if your party system already moves the members to their leader.
 
 ### Discord URL
 
@@ -136,6 +164,14 @@ like https://labymod.net/dc are only supported for partner servers.<br>
      "city": "Walldorf",
      "country": "Germany",
      "country_code": "DE"
+  },
+  "party": {
+    "invite": "/party invite {userName}",
+    "accept": "/party accept {userName}",
+    "leave": "/party leave",
+    "kick": "/party kick {userName}",
+    "disband": "/party disband",
+    "transfer": "/party transfer {userName}"
   },
   "yt_trailer": "8asFIRe2HSw",
   "user_stats": "https://laby.net/@{userName}",

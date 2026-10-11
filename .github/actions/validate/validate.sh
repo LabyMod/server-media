@@ -47,14 +47,18 @@ while read image; do
       continue
     fi
 
-    # Ensure file is actually a PNG file
-    [[ "${type}" != "PNG" ]] \
-      && error "${image}" "Invalid file type '${type}' for file"
+    # Ensure file is actually a PNG file (panorama.jpg is the only JPEG)
+    if [[ "${filename}" == "panorama.jpg" ]]; then
+      [[ "${type}" != "JPEG" ]] \
+        && error "${image}" "Invalid file type '${type}' for file"
+    elif [[ "${type}" != "PNG" ]]; then
+      error "${image}" "Invalid file type '${type}' for file"
+    fi
 
     given_names+=("${filename}")
 
     # check for invalid file names
-    filenames=("icon.png" "icon@2x.png" "logo.png" "logo@2x.png" "background.png" "background@2x.png" "banner.png")
+    filenames=("icon.png" "icon@2x.png" "logo.png" "logo@2x.png" "background.png" "background@2x.png" "banner.png" "panorama.jpg")
     if [[ ! " ${filenames[@]} " =~ " ${filename} " && "${folderpath}" != *"gamemodes"* ]]; then
         error "${image}" "Invalid file name ${filename}: https://github.com/LabyMod/server-media/blob/master/docs/Files.md#filestructure"
     fi
@@ -134,6 +138,11 @@ while read image; do
       aspect_ratio=$(echo "scale=2; ${width} / ${height}" | bc)
       [[ "${aspect_ratio}" != "5.00" ]] \
         && error "${image}" "Invalid banner aspect ratio! Aspect ratio is ${aspect_ratio}, must be 5:1"
+
+    elif [[ "${filename}" == "panorama.jpg" ]]; then
+      # equirectangular -> 2:1
+      [[ $(( width )) -ne $(( height * 2 )) ]] \
+        && error "${image}" "Invalid panorama aspect ratio! Size is ${width}x${height}px, must be 2:1"
     fi
 
     ((IMAGES++))

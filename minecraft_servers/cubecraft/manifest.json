@@ -51,5 +51,13 @@
      "country": "Canada",
      "country_code": "CA"
   },
-  "yt_trailer": "N5WK_cTni2Q"
+  "yt_trailer": "N5WK_cTni2Q",
+  "party": {
+    "invite": "/p invite {userName}",
+    "accept": "/p accept {userName}",
+    "leave": "/p leave",
+    "kick": "/p kick {userName}",
+    "disband": "/p disband",
+    "transfer": "/p setowner {userName}"
+  }
 }

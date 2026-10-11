@@ -26,5 +26,13 @@
       "name": "KitPvP",
       "color": "#2a2a2a"
     }
+  },
+  "party": {
+    "invite": "/p zapros {userName}",
+    "accept": "/p dolacz {userName}",
+    "leave": "/p opusc",
+    "kick": "/p wyrzuc {userName}",
+    "transfer": "/p lider {userName}",
+    "warp": "/p warp"
   }
 }

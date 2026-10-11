@@ -519,5 +519,14 @@
     "rename_to_minecraft_name": true
   },
   "user_stats": "https://hypixel.net/player/{userName}",
-  "yt_trailer": "bkWHyz1MmaQ"
+  "yt_trailer": "bkWHyz1MmaQ",
+  "party": {
+    "invite": "/party invite {userName}",
+    "accept": "/party accept {userName}",
+    "leave": "/party leave",
+    "kick": "/party kick {userName}",
+    "disband": "/party disband",
+    "transfer": "/party transfer {userName}",
+    "warp": "/party warp"
+  }
 }
