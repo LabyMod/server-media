@@ -1,14 +1,13 @@
 {
   "server_name": "mcaffen",
   "nice_name": "Mcaffen.de",
-  "direct_ip": "McAffen.de",
+  "direct_ip": "play.mcaffen.de",
   "supported_languages": [
     "de",
     "en"
   ],
   "social": {
-    "Website": "https://mcaffen.de",
-    "Youtube": "https://youtube.com/@mcaffen"
+    "web": "https://mcaffen.de",
   },
   "brand": {
     "primary": "#c4c4c4"
