@@ -1,7 +1,7 @@
 {
   "server_name": "pixelhide",
   "nice_name": "PixelHide",
-  "direct_ip": "%.pixelhide.net",
+  "direct_ip": "pixelhide.net",
   "supported_languages": [
     "de"
   ],
