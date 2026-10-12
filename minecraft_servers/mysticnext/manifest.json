@@ -1,11 +1,11 @@
 {
   "server_name": "mysticnext",
   "nice_name": "mysticnext",
-  "direct_ip": "MysticNext.eu",
+  "direct_ip": "mysticnext.eu",
   "supported_languages": [
     "de"
   ],
-  "socials": {
+  "social": {
     "web": "https://mysticnext.eu",
     "twitter": "mysticnexteu",
     "tiktok": "mysticnexteu",

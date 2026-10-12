@@ -1,0 +1,86 @@
+{
+  "server_name": "morvadi",
+  "nice_name": "MORVADI",
+  "direct_ip": "play.morvadi.tr",
+  "server_wildcards": [
+    "%.morvadi.tr"
+  ],
+  "supported_languages": [
+    "tr",
+    "en"
+  ],
+  "social": {
+    "web": "https://www.morvadi.tr",
+    "web_shop": "https://www.morvadi.tr/store",
+    "web_support": "https://www.morvadi.tr/support/tickets",
+    "discord": "https://discord.gg/CkpVuwMkPz",
+    "youtube": "https://www.youtube.com/@morvadimc"
+  },
+  "brand": {
+    "primary": "#9333EA",
+    "background": "#121212",
+    "text": "#FFFFFF"
+  },
+  "gamemodes": {
+    "sahnesende": {
+      "name": "The Stage Is Yours",
+      "color": "#9333EA"
+    },
+    "enerjisavaslari": {
+      "name": "Energy Wars",
+      "color": "#9333EA"
+    },
+    "speedbuilders": {
+      "name": "SpeedBuilders",
+      "color": "#9333EA"
+    },
+    "thelab": {
+      "name": "The Lab",
+      "color": "#9333EA"
+    },
+    "buildbattle": {
+      "name": "Build Battle",
+      "color": "#9333EA"
+    },
+    "murdermystery": {
+      "name": "Murder Mystery",
+      "color": "#9333EA"
+    },
+    "eggwars": {
+      "name": "EggWars",
+      "color": "#9333EA"
+    },
+    "survival": {
+      "name": "Survival",
+      "color": "#9333EA"
+    },
+    "smp": {
+      "name": "SMP",
+      "color": "#9333EA"
+    },
+    "skyblock": {
+      "name": "SkyBlock",
+      "color": "#9333EA"
+    },
+    "oneblock": {
+      "name": "OneBlock",
+      "color": "#9333EA"
+    },
+    "boxpvp": {
+      "name": "BoxPvP",
+      "color": "#9333EA"
+    },
+    "duels": {
+      "name": "Duels",
+      "color": "#9333EA"
+    },
+    "ffa": {
+      "name": "FFA",
+      "color": "#9333EA"
+    },
+    "genpvp": {
+      "name": "GenPvP",
+      "color": "#9333EA"
+    }
+  }
+}

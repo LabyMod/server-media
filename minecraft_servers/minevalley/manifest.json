@@ -6,7 +6,7 @@
     "%.minevalley.eu",
     "%.minevalley.de"
   ],
-  "supported_languages": "de",
+  "supported_languages": ["de"],
   "social": {
     "web": "https://minevalley.eu",
     "teamspeak": "MineValley.eu",
