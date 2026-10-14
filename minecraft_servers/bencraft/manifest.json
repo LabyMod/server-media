@@ -13,17 +13,17 @@
         "bedwars": {
             "name": "BedWars",
             "color": "#f5c945",
-            "version": "1.20<*"
+            "versions": "1.20<*"
         },
         "hideandseek": {
             "name": "Hide and Seek",
             "color": "#c28610",
-            "version": "1.20<*"
+            "versions": "1.20<*"
         },
         "tycoon": {
             "name": "Tycoon",
             "color": "#e33d20",
-            "version": "1.20<*"
+            "versions": "1.20<*"
         }
     },
     "discord": {
