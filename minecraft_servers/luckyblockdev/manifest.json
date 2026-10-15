@@ -1,0 +1,46 @@
+{
+  "server_name": "luckyblockdev",
+  "nice_name": "LuckyBlock.dev",
+  "direct_ip": "luckyblock.dev",
+  "supported_languages": [
+    "de",
+    "en"
+  ],
+  "social": {
+    "discord": "https://discord.gg/eM4rV9hKUr",
+    "youtube": "https://www.youtube.com/@LuckyBlockDEV",
+    "tiktok": "luckyblock.dev"
+  },
+  "gamemodes": {
+    "bedwars": {
+      "name": "Lucky Block Bedwars",
+      "color": "#E53935"
+    },
+    "battle": {
+      "name": "Lucky Block Battle",
+      "color": "#29B6F6"
+    },
+    "king": {
+      "name": "Lucky Block King",
+      "color": "#FFC107"
+    },
+    "smp": {
+      "name": "Lucky Block SMP",
+      "color": "#43A047"
+    }
+  },
+  "discord": {
+    "server_id": 1374450559872012338,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#EBAE01",
+    "background": "#1A1A1A",
+    "text": "#FFFFFF"
+  },
+  "location": {
+    "city": "Frankfurt am Main",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}
