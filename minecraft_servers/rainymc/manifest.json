@@ -1,0 +1,34 @@
+{
+  "server_name": "rainymc",
+  "nice_name": "Rainy Network",
+  "direct_ip": "play.rainymc.net",
+  "server_wildcards": [
+    "%.rainymc.net"
+  ],
+  "supported_languages": [
+    "en"
+  ],
+  "social": {
+    "web": "https://rainymc.net",
+    "web_shop": "https://store.rainymc.net",
+    "web_support": "https://rainymc.net/rules",
+    "discord": "https://discord.gg/rainymc"
+  },
+  "gamemodes": {
+    "clans": {
+      "name": "Clans",
+      "color": "#FF57A4",
+      "url": "https://rainymc.net/clans",
+      "versions": "1.21.11<26.2"
+    }
+  },
+  "discord": {
+    "server_id": 1536246002003214376,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#FF57A4",
+    "background": "#FF57A4",
+    "text": "#FFFFFF"
+  }
+}
