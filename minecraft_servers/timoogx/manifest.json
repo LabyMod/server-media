@@ -9,12 +9,12 @@
     "gungame": {
       "name": "GunGame",
       "color": "#A9C8EF",
-      "command": "/server gungame-1"
+      "command": "/join GunGame-1"
     },
     "knockback_ffa": {
       "name": "KnockbackFFA",
       "color": "#A9C8EF",
-      "command": "/server knockbackffa-1"
+      "command": "/join KnockBackFFA-1"
     }
   },
   "brand": {
@@ -27,4 +27,3 @@
     "country_code": "DE"
   }
 }
-
