@@ -3,10 +3,22 @@
   "nice_name": "NovarisMC",
   "direct_ip": "novarismc.de",
   "social": {
-    "discord": "https://discord.gg/quf6T5PTm9"
+    "discord": "https://discord.gg/dzTN7a73qd"
   },
+  "gamemodes": {
+      "citybuild": {
+        "name": "CityBuild",
+        "color": "#6cb048",
+        "command": "/server citybuild"
+      },
+      "bedwars": {
+        "name": "Bedwars",
+        "color": "#6cb048",
+        "command": "/mvtp BedWars"
+      }
+    },
   "discord": {
-    "server_id": 1469711700554027130,
+    "server_id": 1226556989321252975,
     "rename_to_minecraft_name": false
   }
 }
