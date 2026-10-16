@@ -6,8 +6,8 @@
     "de", "en", "fr", "es", "ru", "da"
   ],
   "social": {
-    "web": "https://www.cytooxien.de",
-    "web_shop": "https://shop.cytooxien.de",
+    "web": "https://www.cytooxien.net",
+    "web_shop": "https://cytooxien.net/shop",
     "twitter": "Cytooxien",
     "discord": "https://discord.gg/cytooxien",
     "tiktok": "cytooxien_de",
@@ -17,7 +17,6 @@
   "discord": {
     "server_id": 443768116216987648
   },
-  "user_stats": "https://stats.cytooxien.de/player/{userName}",
   "gamemodes": {
     "onlyup": {
       "name": "Only Up!",
@@ -87,5 +86,14 @@
     "primary": "#ffc300",
     "background": "#ffc300",
     "text": "#ffffff"
+  },
+  "party": {
+    "invite": "/party invite {userName}",
+    "accept": "/party accept {userName}",
+    "leave": "/party leave",
+    "kick": "/party remove {userName}",
+    "transfer": "/party promote {userName}",
+    "warp": "/party pull",
+    "jump": "/party jump"
   }
 }

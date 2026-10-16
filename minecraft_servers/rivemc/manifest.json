@@ -1,0 +1,42 @@
+{
+  "server_name": "rivemc",
+  "nice_name": "RiveMC",
+  "direct_ip": "rivemc.xyz",
+  "supported_languages": [
+    "en",
+    "fr",
+    "ar"
+  ],
+  "social": {
+    "discord": "https://discord.gg/uFWqzeCckU",
+    "tiktok": "playRiveMC",
+    "youtube": "https://www.youtube.com/playRiveMC"
+  },
+  "gamemodes": {
+    "survival": {
+      "name": "Survival",
+      "command": "/smp",
+      "color": "#42F542",
+      "versions": "1.20<*"
+    }
+  },
+  "discord": {
+    "server_id": 1227223895489253397,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#FFD701",
+    "background": "#BFA52D",
+    "text": "#ffffff"
+  },
+  "location": {
+    "city": "Frankfurt",
+    "country": "Germany",
+    "country_code": "DE"
+  },
+  "chat": {
+    "message_formats": [
+      "^§7L(?<level>\\d+) §8\\| (?:§x(?:§[A-Fa-f0-9]){6})?(?:§l)?(?<rank>[A-Z]+) §r(?:§x(?:§[A-Fa-f0-9]){6})?(?<sender>[a-zA-Z0-9_]{2,16}) §8» §[a-f0-9](?<message>.*)$"
+    ]
+  }
+}

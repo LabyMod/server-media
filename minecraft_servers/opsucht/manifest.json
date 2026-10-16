@@ -35,5 +35,11 @@
     "country": "Germany",
     "country_code": "DE"
   },
-  "yt_trailer": "O7Zdr6ZygNo"
+  "yt_trailer": "O7Zdr6ZygNo",
+  "gamemodes": {
+    "citybuild": {
+      "name": "CityBuild",
+      "color": "#0095ed"
+    }
+  }
 }

@@ -1,7 +1,10 @@
 {
     "server_name": "icegaming",
     "nice_name": "ICEGAMING",
-    "direct_ip": "mc.icegaming.eu",
+    "direct_ip": "icegaming.eu",
+    "server_wildcards": [
+       "%.icegaming.eu"
+  ],
     "supported_languages": [
         "de"
     ],

@@ -1,0 +1,37 @@
+{
+  "server_name": "talonmc",
+  "nice_name": "TalonMC",
+  "direct_ip": "talonmc.net",
+  "server_wildcards": [
+    "%.talonmc.net"
+  ],
+  "supported_languages": [
+    "en"
+  ],
+  "social": {
+    "web": "https://www.talonmc.net",
+    "web_shop": "https://store.talonmc.net",
+    "discord": "https://discord.gg/talonserver"
+  },
+  "gamemodes": {
+    "prison": {
+      "name": "Prison",
+      "color": "#FDE831"
+    },
+    "skyblock": {
+      "name": "Skyblock",
+      "color": "#FDE831"
+    },
+    "cobblemon": {
+      "name": "Cobblemon",
+      "color": "#FDE831"
+    },
+    "smp": {
+      "name": "SMP",
+      "color": "#FDE831"
+    }
+  },
+  "brand": {
+    "primary": "#FDE831"
+  }
+}

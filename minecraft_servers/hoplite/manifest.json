@@ -20,5 +20,11 @@
     "background": "#497cb1",
     "text": "#ffffff"
   },
-  "yt_trailer": "w3FALZ38NFQ"
+  "yt_trailer": "w3FALZ38NFQ",
+  "gamemodes": {
+    "duels": {
+      "name": "Duels",
+      "color": "#497cb1"
+    }
+  }
 }

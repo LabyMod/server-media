@@ -1,0 +1,20 @@
+{
+  "server_name": "monumenta",
+  "nice_name": "Monumenta",
+  "direct_ip": "server.playmonumenta.com",
+  "server_wildcards": [
+    "%.playmonumenta.com"
+  ],
+  "supported_languages": [
+    "en"
+  ],
+  "social": {
+    "web": "https://playmonumenta.com",
+    "discord": "https://discord.gg/monumenta",
+    "youtube": "https://www.youtube.com/channel/UCuSkVxnMZ1ZwzGM_ANffxZQ",
+    "twitter": "MonumentaMMO"
+  },
+  "brand": {
+    "primary": "#30C2F8"
+  }
+}

@@ -9,7 +9,7 @@
   ],
   "social": {
     "web": "https://spotgames.net",
-    "web_shop": "https://loja.spotgames.net",
+    "web_shop": "https://www.spotgames.net/loja",
     "web_support": "https://wiki.spotgames.net",
     "twitter": "spotgames_net",
     "tiktok": "spotgames.net",
@@ -30,11 +30,13 @@
     },
     "skyblock": {
       "name": "Skyblock",
-      "color": "#FFFFFF"
+      "color": "#FFFFFF",
+      "command": "/fila skyblock"
     },
-    "rankup": {
-      "name": "RankUP",
-      "color": "#FFFFFF"
+    "eventos": {
+      "name": "Eventos",
+      "color": "#FFFFFF",
+      "command": "/fila eventos"
     },
     "bedwars": {
       "name": "Bedwars",

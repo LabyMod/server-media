@@ -1,0 +1,18 @@
+{
+  "server_name": "widowmc",
+  "nice_name": "Widow Network",
+  "direct_ip": "widowmc.net",
+  "server_wildcards": [
+    "%.widowmc.net"
+  ],
+  "supported_languages": [
+    "en"
+  ],
+  "social": {
+    "web": "https://widowmc.net",
+    "discord": "https://discord.gg/widow-network-1100958998531940368"
+  },
+  "brand": {
+    "primary": "#8A060E"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "server_name": "flunar",
+  "nice_name": "Flunar",
+  "direct_ip": "flunar.de",
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "web": "https://flunar.de",
+    "tiktok": "flunar.de",
+    "discord": "https://discord.gg/RdZtsDwtmb"
+  },
+  "gamemodes": {
+    "citybuild": {
+      "name": "CityBuild",
+      "color": "#6EDB8C"
+    },
+    "smp": {
+      "name": "SMP",
+      "color": "#7FC7FF"
+    },
+    "bonk-and-boom": {
+      "name": "Bonk and Boom",
+      "color": "#FFB26B"
+    }
+  },
+  "brand": {
+    "primary": "#4A9DF8",
+    "background": "#1B3A5C",
+    "text": "#FFFFFF"
+  },
+  "location": {
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}

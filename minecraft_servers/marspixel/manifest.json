@@ -3,7 +3,10 @@
     "nice_name": "MarsPixel",
     "direct_ip": "play.marspixel.net",
     "server_wildcards": [
-      "%.marspixel.net"
+      "%.marspixel.net",
+      "%.marsmc.net",
+      "marsmc.net",
+      "marsmc"
     ],
     "supported_languages": [
       "ar",
@@ -61,23 +64,23 @@
           "color": "#ffffff",
           "versions": "1.8<*"
       },
-      "gravity": {
-          "name": "Gravity",
-          "color": "#ffffff",
-          "command": "/gravity",
-          "versions": "1.8<*"
+      "prison": {
+          "name": "Prison",
+          "color": "#7d18db",
+          "command": "/prison",
+          "versions": "1.21<*"
       },
       "survival": {
           "name": "Survival",
-          "color": "#ffffff",
+          "color": "#2cb307",
           "command": "/survival",
           "versions": "1.21<*"
       },
       "timv": {
         "name": "TTT",
-        "color": "#ffffff",
+        "color": "#d47e0f",
         "command": "/timv",
-        "versions": "1.8<*"
+        "versions": "1.21<*"
       }
     },
     "location": {
@@ -92,5 +95,14 @@
     "brand": {
        "primary": "#001414",
        "background": "#ffa321"
+    },
+    "party": {
+        "invite": "/party invite {userName}",
+        "accept": "/party accept {userName}",
+        "leave": "/party leave",
+        "kick": "/party kick {userName}",
+        "disband": "/party disband",
+        "transfer": "/party transfer {userName}",
+        "warp": "/party warp"
     }
   }

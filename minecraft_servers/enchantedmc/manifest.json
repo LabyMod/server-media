@@ -1,0 +1,26 @@
+{
+  "server_name": "enchantedmc",
+  "nice_name": "EnchantedMC",
+  "direct_ip": "enchantedmc.net",
+  "server_wildcards": [
+    "%.enchantedmc.net"
+  ],
+  "supported_languages": [
+    "en"
+  ],
+  "social": {
+    "web": "https://enchantedmc.net",
+    "web_shop": "https://store.enchantedmc.net",
+    "discord": "https://discord.gg/enchantedmc",
+    "twitter": "EnchantedHQ"
+  },
+  "brand": {
+    "primary": "#D24CA9"
+  },
+  "gamemodes": {
+    "prison": {
+      "name": "Prison",
+      "color": "#D24CA9"
+    }
+  }
+}
