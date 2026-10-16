@@ -5,6 +5,18 @@
   "social": {
     "discord": "https://discord.gg/quf6T5PTm9"
   },
+  "gamemodes": {
+      "citybuild": {
+        "name": "CityBuild",
+        "color": "#6cb048",
+        "command": "/server citybuild"
+      },
+      "bedwars": {
+        "name": "Bedwars",
+        "color": "#6cb048",
+        "command": "/mvtp BedWars"
+      }
+    },
   "discord": {
     "server_id": 1469711700554027130,
     "rename_to_minecraft_name": false
