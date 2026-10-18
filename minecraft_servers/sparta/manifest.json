@@ -1,9 +1,9 @@
 {
   "server_name": "sparta",
-  "nice_name": "Sparta",
+  "nice_name": "SpartaMC",
   "direct_ip": "spartamc.com.br",
   "server_wildcards": [
-    "%.spartamc.com.brr"
+    "%.spartamc.com.br"
   ],
   "supported_languages": [
     "pt"
@@ -13,7 +13,7 @@
     "web_shop": "https://spartamc.com.br/loja",
     "instagram": "jogue.sparta",
     "discord": "https://discord.gg/spartamc",
-    "youtube": "https://www.youtube.com/@jogue.sparta",
+    "youtube": "https://www.youtube.com/@jogue.sparta"
   },
   "gamemodes": {
     "bedwars": {
@@ -55,5 +55,5 @@
     "city": "São Paulo",
     "country": "Brasil",
     "country_code": "BR"
-  },
+  }
 }
