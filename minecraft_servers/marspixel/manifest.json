@@ -23,22 +23,16 @@
       "youtube": "https://www.youtube.com/@PlayMarsMC"
     },
     "gamemodes": {
-      "survival": {
-          "name": "Survival",
-          "color": "#2cb307",
-          "command": "/survival",
-          "versions": "1.21<*"
-      },
       "prison": {
           "name": "Prison",
           "color": "#7d18db",
           "command": "/prison",
           "versions": "1.21<*"
       },
-      "timv": {
-          "name": "TTT",
-          "color": "#d47e0f",
-          "command": "/timv",
+      "survival": {
+          "name": "Survival",
+          "color": "#2cb307",
+          "command": "/survival",
           "versions": "1.21<*"
       },
       "superpvp": {
@@ -47,28 +41,11 @@
           "command": "/pvp",
           "versions": "1.8<*"
       },
-      "pof": {
-          "name": "Pillars of Fortune",
-          "color": "#f2c40c",
-          "command": "/pof",
-          "versions": "1.8<*"
-      },
-      "blockparty": {
-          "name": "BlockParty",
-          "color": "#20c997",
-          "versions": "1.8<*"
-      },
-      "creative": {
-          "name": "Creative",
-          "color": "#1fb5d6",
-          "command": "/creative",
-          "versions": "1.8<*"
-      },
-      "practice": {
-          "name": "Practice",
-          "color": "#2f6fe4",
-          "command": "/practice",
-          "versions": "1.8<*"
+      "timv": {
+          "name": "TTT",
+          "color": "#d47e0f",
+          "command": "/timv",
+          "versions": "1.21<*"
       },
       "1vs1": {
           "name": "Duels",
@@ -80,6 +57,12 @@
           "name": "Survival Games",
           "color": "#8b5a2b",
           "command": "/sg",
+          "versions": "1.8<*"
+      },
+      "creative": {
+          "name": "Creative",
+          "color": "#1fb5d6",
+          "command": "/creative",
           "versions": "1.8<*"
       }
     },
