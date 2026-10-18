@@ -1,6 +1,6 @@
 {
   "server_name": "sparta",
-  "nice_name": "SpartaMC",
+  "nice_name": "Sparta",
   "direct_ip": "spartamc.com.br",
   "server_wildcards": [
     "%.spartamc.com.br"
