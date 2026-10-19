@@ -6,7 +6,8 @@
     "%.redestars.com"
   ],
   "supported_languages": [
-    "pt"
+    "pt",
+    "en"
   ],
   "social": {
     "web": "https://loja.redestars.com",
@@ -17,9 +18,14 @@
   },
   "gamemodes": {
     "survival": {
-      "name": "Survival",
+      "name": "Survival Destiny",
       "color": "#FFAA00",
       "command": "/jogar survival"
+    },
+    "oneblock": {
+      "name": "OneBlock",
+      "color": "#5555FF",
+      "command": "/jogar oneblock"
     },
     "slimefun": {
       "name": "Slimefun",
