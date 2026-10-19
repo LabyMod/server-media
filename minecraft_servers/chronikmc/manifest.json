@@ -1,0 +1,24 @@
+{
+  "server_name": "chronikmc",
+  "nice_name": "ChronikMC",
+  "direct_ip": "chronikmc.de",
+  "server_wildcards": [
+    "%.chronikmc.de"
+  ],
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "web": "https://chronikmc.de",
+    "discord": "https://discord.gg/xKnzEyYvbp"
+  },
+  "brand": {
+    "primary": "#DC932E",
+    "background": "#2B1440",
+    "text": "#FFFFFF"
+  },
+  "location": {
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}
