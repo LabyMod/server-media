@@ -2,9 +2,6 @@
   "server_name": "sparta",
   "nice_name": "Sparta",
   "direct_ip": "spartamc.com.br",
-  "server_wildcards": [
-    "%.spartamc.com.br"
-  ],
   "supported_languages": [
     "pt"
   ],
