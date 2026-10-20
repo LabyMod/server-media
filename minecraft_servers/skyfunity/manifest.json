@@ -17,6 +17,14 @@
     "citybuild": {
       "name": "CityBuild",
       "color": "#88C8F8"
+    },
+    "gens": {
+      "name": "Gens (Tycoon)",
+      "color": "#B48CF8"
+    },
+    "erntefarm": {
+      "name": "Erntefarm",
+      "color": "#F8C878"
     }
   },
   "brand": {
