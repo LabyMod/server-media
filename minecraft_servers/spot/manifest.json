@@ -30,11 +30,13 @@
     },
     "skyblock": {
       "name": "Skyblock",
-      "color": "#FFFFFF"
+      "color": "#FFFFFF",
+      "command": "/fila skyblock"
     },
-    "rankup": {
-      "name": "RankUP",
-      "color": "#FFFFFF"
+    "eventos": {
+      "name": "Eventos",
+      "color": "#FFFFFF",
+      "command": "/fila eventos"
     },
     "bedwars": {
       "name": "Bedwars",

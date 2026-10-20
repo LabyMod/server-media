@@ -24,7 +24,7 @@
     "survival": {
       "name": "Survival", 
       "color": "#23BA2C",
-      "versions": "1.19.4>"
+      "versions": "1.19.4<*"
     },
     "parkour": {
       "name": "Parkour",

@@ -1,37 +1,43 @@
 {
   "server_name": "townymc",
   "nice_name": "TownyMc",
-  "direct_ip": "TownyMc.de",
+  "direct_ip": "townymc.de",
   "supported_languages": [
     "de"
   ],
   "social": {
     "web": "https://townymc.de",
-    "discord": "https://discord.gg/yZvnSKfpzA",
-    "tiktok": "townymc_de"
+    "web_shop": "https://shop.townymc.de",
+    "discord": "https://discord.gg/townymc",
+    "tiktok": "townymc_de",
+    "instagram": "townymc.de",
+    "youtube": "https://www.youtube.com/@townymc-de"
   },
   "discord": {
-    "server_id": 1419250290036838490
+    "server_id": 1419250290036838490,
+    "rename_to_minecraft_name": false
   },
   "brand": {
     "primary": "#ECAD5E",
-    "background": "#e19536",
-    "text": "#ffffff"
+    "background": "#9A5A14",
+    "text": "#FFFFFF"
   },
   "gamemodes": {
     "citybuild": {
-      "name": "CityBuild", 
+      "name": "CityBuild",
       "color": "#E8B50F",
       "command": "/server citybuild"
     },
     "farmserver": {
-      "name": "Farmserver", 
-      "color": "#E8B50F",
+      "name": "Farmserver",
+      "color": "#6DBE45",
       "command": "/server farmserver"
     }
   },
   "location": {
     "country": "Germany",
     "country_code": "DE"
-  }
+  },
+  "yt_trailer": "6AF8PikJU40",
+  "command_delay": 2500
 }
