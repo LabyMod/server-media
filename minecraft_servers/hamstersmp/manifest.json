@@ -1,5 +1,28 @@
 {
   "server_name": "hamstersmp",
   "nice_name": "HamsterSMP",
-  "direct_ip": "hamstersmp.de"
+  "direct_ip": "hamstersmp.de",
+  "supported_languages": [
+    "de"
+  ],
+  "social": {},
+  "brand": {
+    "primary": "#55cc55",
+    "background": "#ffffff",
+    "text": "#333333"
+  },
+  "gamemodes": {
+    "smp": {
+      "name": "SMP",
+      "color": "#3498db"
+    },
+    "citybuild": {
+      "name": "CityBuild",
+      "color": "#ffcc33"
+    },
+    "realisticweather": {
+      "name": "Realistic Weather",
+      "color": "#55cc55"
+    }
+  }
 }
