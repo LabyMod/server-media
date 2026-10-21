@@ -1,0 +1,30 @@
+{
+  "server_name": "windpvp",
+  "nice_name": "WindPvP",
+  "direct_ip": "play.windpvp.com",
+  "supported_languages": [
+    "en"
+  ],
+  "social": {
+    "web": "https://windpvp.com",
+    "discord": "https://discord.com/invite/yV4BdtbtxU"
+  },
+  "gamemodes": {
+    "kitpvp": {
+      "name": "KitPvP",
+      "color": "#00AAAA"
+    },
+    "ctf": {
+      "name": "Capture the Flag",
+      "color": "#55FFFF"
+    },
+    "duels": {
+      "name": "Duels",
+      "color": "#5555FF"
+    },
+    "airplane-combat": {
+      "name": "Airplane Combat",
+      "color": "#0000AA"
+    }
+  }
+}
