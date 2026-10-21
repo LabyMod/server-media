@@ -1,0 +1,26 @@
+{
+  "server_name": "crystalixs",
+  "nice_name": "Crystalixs",
+  "direct_ip": "crystalixs.net",
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "discord": "https://discord.gg/fAbVqZc4UK"
+  },
+  "gamemodes": {
+    "islands": {
+      "name": "Islands",
+      "color": "#D123DE",
+      "versions": "26.1<*"
+    }
+  },
+  "brand": {
+    "primary": "#D123DE"
+  },
+  "location": {
+    "city": "Falkenstein",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}
