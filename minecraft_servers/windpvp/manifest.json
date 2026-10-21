@@ -12,19 +12,23 @@
   "gamemodes": {
     "kitpvp": {
       "name": "KitPvP",
-      "color": "#00AAAA"
+      "color": "#00AAAA",
+      "command": "/server kitpvp"
     },
     "ctf": {
       "name": "Capture the Flag",
-      "color": "#55FFFF"
+      "color": "#55FFFF",
+      "command": "/server ctf"
     },
     "duels": {
       "name": "Duels",
-      "color": "#5555FF"
+      "color": "#5555FF",
+      "command": "/server duels"
     },
     "airplane-combat": {
       "name": "Airplane Combat",
-      "color": "#0000AA"
+      "color": "#0000AA",
+      "command": "/server planes"
     }
   }
 }
