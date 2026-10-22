@@ -1,17 +1,15 @@
 {
   "server_name": "emberlandsmc",
-  "nice_name": "EMBERLANDS MC",
+  "nice_name": "emberlandsmc",
   "direct_ip": "play.emberlandsmc.de",
   "supported_languages": [
     "de"
   ],
   "social": {
     "web": "https://emberlandsmc.de",
-    "discord": "https://discord.gg/mH8xZzQd7W",
+    "discord": "https://discord.gg/mH8xZzQd7W"
   },
   "brand": {
-    "primary": "#E87532",
-    "background": "#241B24",
-    "text": "#FFFFFF"
+    "primary": "#E87532"
   }
 }
