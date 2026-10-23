@@ -15,15 +15,10 @@
       "color": "#FFA500",
       "command": "/server hyperlands"
     },
-    "krothasium": {
-      "name": "krothasium",
+    "islandempire": {
+      "name": "islandempire",
       "color": "#32CD32",
-      "command": "/server krothasium"
-    },
-     "lifesteal": {
-      "name": "lifesteal",
-      "color": "#FF4500",
-      "command": "/server lifesteal"
+      "command": "/server islandempire"
     }
   },
   "discord": {

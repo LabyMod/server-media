@@ -3,25 +3,23 @@
   "nice_name": "JustChunks",
   "direct_ip": "mc.justchunks.net",
   "server_wildcards": [
-    "%.justchunks.net",
     "%.justchunks.de",
     "%.justchunks.com"
   ],
   "supported_languages": [
-    "de",
     "en",
-    "es"
+    "de"
   ],
   "social": {
     "web": "https://justchunks.net",
-    "web_shop": "https://shop.justchunks.net",
+    "web_shop": "https://justchunks.net/shop",
     "web_support": "https://justchunks.net/help",
     "twitter": "JustChunks",
-    "discord": "https://discord.gg/wf94dAA",
     "tiktok": "justchunksnet",
     "facebook": "JustChunks",
-    "youtube": "https://www.youtube.com/JustChunks",
-    "instagram": "JustChunks"
+    "instagram": "justchunks",
+    "discord": "https://discord.gg/wf94dAA",
+    "youtube": "https://www.youtube.com/@JustChunks"
   },
   "gamemodes": {
     "dungeon_explorer": {
@@ -29,15 +27,12 @@
       "color": "#ff5f14",
       "url": "https://justchunks.net/game/dungeon-explorer",
       "command": "/quickjoin dungeon",
-      "versions": "1.19.3<*"
-    },
-    "clashlands": {
-      "name": "Clashlands",
-      "color": "#d03b06",
-      "url": "https://justchunks.net/game/clashlands",
-      "command": "/quickjoin pvp",
-      "versions": "1.19.3<*"
+      "versions": "26.2<*"
     }
+  },
+  "discord": {
+    "server_id": 140450742329671680,
+    "rename_to_minecraft_name": false
   },
   "brand": {
     "primary": "#24be62",
@@ -49,10 +44,6 @@
     "country": "Germany",
     "country_code": "DE"
   },
-  "yt_trailer": "Ngi6n0XI2dM",
-  "user_stats": "https://justchunks.net/user/{userName}",
-  "discord": {
-    "server_id": 140450742329671680,
-    "rename_to_minecraft_name": false
-  }
+  "yt_trailer": "FYM9Uze_WTE",
+  "user_stats": "https://justchunks.net/user/{userName}"
 }

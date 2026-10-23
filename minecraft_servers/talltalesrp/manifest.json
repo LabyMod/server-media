@@ -1,0 +1,19 @@
+{
+  "server_name": "talltalesrp",
+  "nice_name": "TallTalesRP",
+  "direct_ip": "talltalesrp.net",
+  "server_wildcards": [
+    "%.talltalesrp.net"
+  ],
+  "supported_languages": [
+    "en"
+  ],
+  "social": {
+    "web": "https://talltalesrp.net",
+    "web_shop": "https://store.talltalesrp.net",
+    "discord": "https://discord.gg/talltalesrp",
+    "youtube": "https://www.youtube.com/@talltalesrp",
+    "tiktok": "talltalesrp",
+    "instagram": "talltalesrp"
+  }
+}

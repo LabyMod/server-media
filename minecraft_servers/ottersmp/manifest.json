@@ -1,0 +1,20 @@
+{
+  "server_name": "ottersmp",
+  "nice_name": "OtterSMP",
+  "direct_ip": "play.ottersmp.com",
+  "server_wildcards": [
+    "%.ottersmp.com"
+  ],
+  "supported_languages": [
+    "en"
+  ],
+  "social": {
+    "web": "https://ottersmp.com",
+    "web_shop": "https://store.ottersmp.com",
+    "tiktok": "theottersmp",
+    "discord": "https://discord.gg/ottersmp"
+  },
+  "brand": {
+    "primary": "#FE9957"
+  }
+}

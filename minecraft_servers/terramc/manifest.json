@@ -90,5 +90,13 @@
    },
    "yt_trailer":"dERYAYRWh7w",
    "user_stats": "https://terramc.net/player/{userName}",
-   "command_delay": 4000
+   "command_delay": 4000,
+   "party": {
+      "invite": "/party invite {userName}",
+      "accept": "/party accept {userName}",
+      "leave": "/party leave",
+      "kick": "/party kick {userName}",
+      "transfer": "/party promote {userName}",
+      "jump": "/party jump"
+  }
 }

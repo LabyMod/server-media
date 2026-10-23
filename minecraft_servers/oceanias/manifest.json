@@ -6,11 +6,12 @@
         "en"
     ],
     "social": {
-        "web_shop": "https://store.oceanias.net",
+        "web": "https://www.oceanias.gg",
+        "web_shop": "https://www.oceanias.gg/store",
         "twitter": "oceaniasnetwork",
         "tiktok": "oceanias",
         "discord": "https://discord.gg/YP3qGFP2nf",
-        "youtube": "https://www.youtube.com/@webceanias"
+        "youtube": "https://www.youtube.com/@oceaniasnetwork"
     },
     "gamemodes": {
         "practice": {

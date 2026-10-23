@@ -2,51 +2,15 @@
   "server_name": "shieldbreak",
   "nice_name": "Shield Break",
   "direct_ip": "shield-break.net",
+  "server_wildcards": ["%.sbmc.dev", "%.shield-break.net"],
   "supported_languages": [
     "en",
     "de"
   ],
   "social": {
+    "web": "https://sbmc.dev",
     "discord": "https://discord.gg/xQrCe23B7E",
     "youtube": "https://www.youtube.com/@ShieldBreakNetwork"
-  },
-  "gamemodes": {
-    "airhit": {
-      "name": "AirHit",
-      "command": "/joingame airhit",
-      "color": "#00FFFF",
-      "versions": "1.16.5<*"
-    },
-    "mlgrush": {
-      "name": "MLGRush",
-      "command": "/joingame mlgrush",
-      "color": "#800080",
-      "versions": "1.16.5<*"
-    },
-    "minigames": {
-      "name": "MiniGames",
-      "command": "/joingame minigames",
-      "color": "#0000FF",
-      "versions": "1.16.5<*"
-    },
-    "bedwars": {
-      "name": "BedWars",
-      "command": "/joingame bw8x1",
-      "color": "#FF0000",
-      "versions": "1.16.5<*"
-    },
-    "cavepvp": {
-      "name": "CavePVP",
-      "command": "/joingame cavepvp",
-      "color": "#808080",
-      "versions": "1.16.5<*"
-    },
-    "modded": {
-      "name": "Modded",
-      "command": "/joinimmersive",
-      "color": "#FFC300",
-      "versions": "1.18.2"
-    }
   },
   "discord": {
     "server_id": 889032211716784158,
@@ -58,8 +22,8 @@
     "text": "#FFFFFF"
   },
   "location": {
-    "city": "Zuerich",
-    "country": "Schweiz",
-    "country_code": "CH"
+    "city": "Berlin",
+    "country": "Germany",
+    "country_code": "DE"
   }
 }

@@ -1,0 +1,19 @@
+{
+  "server_name": "leonemc",
+  "nice_name": "LeoneMC",
+  "direct_ip": "leonemc.net",
+  "server_wildcards": [
+    "%.leonemc.net"
+  ],
+  "supported_languages": [
+    "en"
+  ],
+  "social": {
+    "web": "https://leonemc.net",
+    "web_shop": "https://shop.leonemc.net",
+    "discord": "https://discord.gg/leonemc"
+  },
+  "brand": {
+    "primary": "#FD45A8"
+  }
+}
