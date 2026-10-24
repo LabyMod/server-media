@@ -1,0 +1,27 @@
+{
+  "server_name": "ennio",
+  "nice_name": "ennio.io",
+  "direct_ip": "ennio.io",
+  "server_wildcards": [
+    "%.ennio.io"
+  ],
+  "supported_languages": [
+    "de"
+  ],
+  "gamemodes": {
+    "werwolf": {
+      "name": "Werwolf",
+      "color": "#E5484D"
+    }
+  },
+  "chat": {
+    "message_formats": [
+      "^(?:§[0-9a-fk-orx])*(?:\\S+ )?(?:§[0-9a-fk-orx])*(?<sender>[a-zA-Z0-9_]{2,16})(?:§[0-9a-fk-orx])* (?:§[0-9a-fk-orx])*»(?:§[0-9a-fk-orx])* (?:§[0-9a-fk-orx])*(?<message>.*)$"
+    ]
+  },
+  "brand": {
+    "primary": "#C9B8FF",
+    "background": "#2A1F5C",
+    "text": "#FFFFFF"
+  }
+}
