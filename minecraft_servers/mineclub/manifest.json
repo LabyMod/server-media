@@ -10,5 +10,10 @@
         "web": "https://mineclub.dk",
         "web_shop": "https://mineclub.dk/butik",
         "discord": "https://discord.gg/ePxVMN5ACh"
+    },
+    "brand": {
+        "primary": "#15B6DC",
+        "background": "#02243D",
+        "text": "#FFE604"
     }
 }
