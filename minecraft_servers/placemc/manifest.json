@@ -1,0 +1,28 @@
+{
+  "server_name": "placemc",
+  "nice_name": "PlaceMC",
+  "direct_ip": "placemc.de",
+  "supported_languages": ["de"],
+  "gamemodes": {
+    "knockback": {
+      "name": "Knockback",
+      "color": "#9F27F5",
+      "command": "/join Knockback-1"
+    },
+    "cursed_battle": {
+      "name": "Cursed-Battle-1",
+      "color": "#9F27F5",
+      "command": "/join Cursed-Battle-1"
+    },
+    "plobby": {
+      "name": "PServer Lobby",
+      "color": "#9F27F5",
+      "command": "/join PLobby-1"
+    }
+  },
+  "social": {
+    "web": "https://forum.placemc.de",
+    "discord": "https://discord.gg/placemc",
+    "teamspeak": "placemc.de"
+  }
+}
