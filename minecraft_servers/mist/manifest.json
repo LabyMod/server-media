@@ -1,0 +1,28 @@
+{
+  "server_name": "mist",
+  "nice_name": "MIST",
+  "direct_ip": "mistmc.dk",
+  "server_wildcards": [
+    "%.mistmc.dk"
+  ],
+  "supported_languages": [
+    "da"
+  ],
+  "social": {
+    "web": "https://mistmc.dk",
+    "discord": "https://discord.gg/aqSE7H2WBn"
+  },
+  "discord": {
+    "server_id": 1071160091077783693,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#FFB400",
+    "background": "#050E1D",
+    "text": "#EAF2FF"
+  },
+  "location": {
+    "country": "Denmark",
+    "country_code": "DK"
+  }
+}
