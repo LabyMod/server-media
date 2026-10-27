@@ -4,5 +4,8 @@
   "direct_ip": "lobby.matteomitzweit.cloud",
   "server_wildcards": [
     "%.matteomitzweit.cloud"
-  ]
+  ],
+  "social": {
+    "discord": "https://discord.gg/ZdF6TukAzj"
+  }
 }
