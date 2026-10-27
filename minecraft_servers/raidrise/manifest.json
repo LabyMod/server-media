@@ -1,0 +1,27 @@
+{
+  "server_name": "raidrise",
+  "nice_name": "RaidRise",
+  "direct_ip": "mc.raidrise.com",
+  "server_wildcards": [
+    "%.raidrise.com"
+  ],
+  "supported_languages": [
+    "en",
+    "de"
+  ],
+  "social": {
+    "web_shop": "https://store.raidrise.com",
+    "discord": "https://discord.gg/q2DjN6e9pw"
+  },
+  "discord": {
+    "server_id": 704281126855901215,
+    "rename_to_minecraft_name": false
+  },
+  "gamemodes": {
+    "raidrealms": {
+      "name": "RaidRealms",
+      "command": "/queue join raidrise",
+      "color": "#FF5555"
+    }
+  }
+}
