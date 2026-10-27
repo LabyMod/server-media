@@ -1,0 +1,33 @@
+{
+    "server_name": "fortunia",
+    "nice_name": "Fortunia",
+    "direct_ip": "aube.fortunia.fr",
+    "supported_languages": [
+        "fr"
+    ],
+    "social": {
+        "web": "https://fortunia.fr",
+        "discord": "https://discord.gg/W2DRFktaww"
+    },
+    "gamemodes": {
+        "adventure": {
+            "name": "adventure",
+            "color": "#f0b429"
+        },
+        "parkour": {
+            "name": "parkour",
+            "color": "#f0b429"
+        },
+        "minigames": {
+            "name": "minigames",
+            "color": "#f0b429"
+        }
+    },
+    "discord": {
+        "server_id": 1396289702151061645
+    },
+    "brand": {
+        "primary": "#fcd167",
+        "background": "#ff944b"
+    }
+}
