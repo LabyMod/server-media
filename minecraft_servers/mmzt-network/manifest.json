@@ -1,0 +1,8 @@
+{
+  "server_name": "mmzt-network",
+  "nice_name": "MatteoMitZweiT Network",
+  "direct_ip": "lobby.matteomitzweit.cloud",
+  "server_wildcards": [
+    "%.matteomitzweit.cloud"
+  ]
+}
