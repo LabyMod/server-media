@@ -1,0 +1,33 @@
+{
+  "server_name": "hellosmp",
+  "nice_name": "HelloSMP",
+  "direct_ip": "hellosmp.net",
+  "server_wildcards": [
+    "%.hellosmp.net"
+  ],
+  "supported_languages": [
+    "en",
+    "de"
+  ],
+  "social": {
+    "web_shop": "https://store.hellosmp.net",
+    "discord": "https://discord.gg/HelloSMPnet"
+  },
+  "gamemodes": {
+    "vanilla": {
+      "name": "Vanilla SMP",
+      "color": "#55FF55",
+      "versions": "1.21.11<*"
+    },
+    "economy": {
+      "name": "Economy SMP",
+      "color": "#FFB000",
+      "versions": "1.21.11<*"
+    }
+  },
+  "brand": {
+    "primary": "#FFD54A",
+    "background": "#FFA41B",
+    "text": "#1A1A1A"
+  }
+}
