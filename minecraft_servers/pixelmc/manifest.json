@@ -15,8 +15,8 @@
       "name": "Duels",
       "color": "#7F3400"
     },
-    "SMP": {
-      "name": "smp",
+    "smp": {
+      "name": "SMP",
       "color": "#7F3400"
     },
     "boxpvp": {
@@ -27,7 +27,11 @@
       "name": "Steal A Block",
       "color": "#7F3400"
     },
-    "elytra": {
+    "bedwars": {
+      "name": "BedWars",
+      "color": "#7F3400"
+    },
+    "elytrabox": {
       "name": "ElytraBox",
       "color": "#7F3400"
     }
