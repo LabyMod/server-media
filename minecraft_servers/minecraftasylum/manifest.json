@@ -1,0 +1,72 @@
+{
+  "server_name": "minecraftasylum",
+  "nice_name": "Minecraft Asylum",
+  "direct_ip": "play.minecraft-asylum.de",
+  "server_wildcards": [
+    "%.minecraft-asylum.de"
+  ],
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "web": "https://minecraft-asylum.de",
+    "web_shop": "https://minecraft-asylum.de/spenden",
+    "web_support": "https://minecraft-asylum.de/mitspielen",
+    "discord": "https://discord.gg/fnx9AmzYFq"
+  },
+  "brand": {
+    "primary": "#5DC7F8",
+    "background": "#2E6B73",
+    "text": "#FFFFFF"
+  },
+  "location": {
+    "country": "Germany",
+    "country_code": "DE"
+  },
+  "gamemodes": {
+    "survival": {
+      "name": "Survival",
+      "color": "#55FF55",
+      "url": "https://minecraft-asylum.de/server/wildnis/",
+      "command": "/warp Wildnis"
+    },
+    "plots": {
+      "name": "Plots",
+      "color": "#FFAA00",
+      "url": "https://minecraft-asylum.de/server/grundstuecke/",
+      "command": "/warp GS"
+    },
+    "creative": {
+      "name": "Creative",
+      "color": "#55FFFF",
+      "url": "https://minecraft-asylum.de/server/creative/",
+      "command": "/warp Creative"
+    },
+    "skyblock": {
+      "name": "Skyblock",
+      "color": "#5555FF",
+      "url": "https://minecraft-asylum.de/server/skyblock/",
+      "command": "/warp Skyblock"
+    },
+    "ambar": {
+      "name": "Ambar",
+      "color": "#FF55FF",
+      "url": "https://minecraft-asylum.de/server/ambar/",
+      "command": "/warp Ambar"
+    },
+    "adventures": {
+      "name": "Adventures",
+      "color": "#FFFF55",
+      "url": "https://minecraft-asylum.de/server/adventures/",
+      "command": "/warp list Adventures"
+    },
+    "minigames": {
+      "name": "Minigames",
+      "color": "#FF5555",
+      "url": "https://minecraft-asylum.de/server/minigames/",
+      "command": "/warp list Minispiele"
+    }
+  },
+  "yt_trailer": "KmxwDDB2m8Y",
+  "command_delay": 2000
+}
