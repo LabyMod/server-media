@@ -2,9 +2,6 @@
   "server_name": "hellosmp",
   "nice_name": "HelloSMP",
   "direct_ip": "hellosmp.net",
-  "server_wildcards": [
-    "%.hellosmp.net"
-  ],
   "supported_languages": [
     "en",
     "de"
