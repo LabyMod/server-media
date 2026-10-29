@@ -2,9 +2,6 @@
   "server_name": "mist",
   "nice_name": "MIST",
   "direct_ip": "mistmc.dk",
-  "server_wildcards": [
-    "%.mistmc.dk"
-  ],
   "supported_languages": [
     "da"
   ],
