@@ -10,60 +10,124 @@
     "discord": "https://discord.gg/Uvq6aFt8ND"
   },
   "gamemodes": {
+    "minegolf": {
+      "name": "MineGolf",
+      "color": "#86EFAC",
+      "url": "https://lockcraft.de/spiel.html?g=minegolf",
+      "command": "/play MG",
+      "versions": "1.8<*"
+    },
+    "slimeball": {
+      "name": "Slime Ball",
+      "color": "#84CC16",
+      "url": "https://lockcraft.de/spiel.html?g=slimeball",
+      "command": "/play SL2x1",
+      "versions": "1.8<*"
+    },
     "bedwars": {
       "name": "BedWars",
-      "color": "#E5484D",
+      "color": "#FF5F6D",
       "url": "https://lockcraft.de/spiel.html?g=bedwars",
+      "command": "/play BW8x1",
       "versions": "1.8<*"
     },
     "skywars": {
       "name": "SkyWars",
-      "color": "#3B82F6",
+      "color": "#4FC3FF",
       "url": "https://lockcraft.de/spiel.html?g=skywars",
+      "command": "/play SW8x1",
       "versions": "1.8<*"
     },
     "gungame": {
       "name": "GunGame",
-      "color": "#F59E0B",
+      "color": "#FFA94D",
       "url": "https://lockcraft.de/spiel.html?g=gungame",
-      "versions": "1.8<*"
-    },
-    "ffa": {
-      "name": "FFA",
-      "color": "#EF4444",
-      "url": "https://lockcraft.de/spiel.html?g=ffa",
-      "versions": "1.8<*"
-    },
-    "minekart": {
-      "name": "MineKart",
-      "color": "#10B981",
-      "url": "https://lockcraft.de/spiel.html?g=minekart",
-      "versions": "1.20.4"
-    },
-    "kreativ": {
-      "name": "Kreativ",
-      "color": "#8B5CF6",
-      "url": "https://lockcraft.de/spiel.html?g=kreativ",
+      "command": "/play GunGame",
       "versions": "1.8<*"
     },
     "freebuild": {
       "name": "Freebuild",
-      "color": "#22C55E",
+      "color": "#47D18C",
       "url": "https://lockcraft.de/spiel.html?g=freebuild",
+      "command": "/play Freebuild",
       "versions": "1.8<*"
     },
-    "dreamsurvival": {
-      "name": "DreamSurvival",
-      "color": "#EC4899",
-      "url": "https://lockcraft.de/spiel.html?g=dreamsurvival",
+    "minekart": {
+      "name": "MineKart",
+      "color": "#F472B6",
+      "url": "https://lockcraft.de/spiel.html?g=minekart",
+      "command": "/play MineKart",
+      "versions": "1.20.4"
+    },
+    "bashit": {
+      "name": "BashIt",
+      "color": "#38BDF8",
+      "url": "https://lockcraft.de/spiel.html?g=bashit",
+      "command": "/play BashIt",
+      "versions": "1.8<*"
+    },
+    "ffa": {
+      "name": "FFA",
+      "color": "#F97316",
+      "url": "https://lockcraft.de/spiel.html?g=ffa",
+      "command": "/play FFA",
+      "versions": "1.8<*"
+    },
+    "superjump": {
+      "name": "SuperJump",
+      "color": "#A78BFA",
+      "url": "https://lockcraft.de/spiel.html?g=superjump",
+      "command": "/play SuperJump",
+      "versions": "1.8<*"
+    },
+    "endwars": {
+      "name": "EndWars",
+      "color": "#A855F7",
+      "url": "https://lockcraft.de/spiel.html?g=endwars",
+      "versions": "1.8<*"
+    },
+    "templerun": {
+      "name": "TempleRun",
+      "color": "#F59E0B",
+      "url": "https://lockcraft.de/spiel.html?g=templerun",
+      "versions": "1.8<*"
+    },
+    "fastbuilders": {
+      "name": "FastBuilders",
+      "color": "#EAB308",
+      "url": "https://lockcraft.de/spiel.html?g=fastbuilders",
+      "command": "/play FastBuilders",
+      "versions": "1.8<*"
+    },
+    "skyblock": {
+      "name": "SkyBlock",
+      "color": "#34D399",
+      "url": "https://lockcraft.de/spiel.html?g=skyblock",
+      "command": "/play SkyBlock",
       "versions": "1.21.4<*"
+    },
+    "kreativ": {
+      "name": "Kreativ",
+      "color": "#2DD4BF",
+      "url": "https://lockcraft.de/spiel.html?g=kreativ",
+      "command": "/play Kreativ",
+      "versions": "1.8<*"
     },
     "privateserver": {
       "name": "Private Server",
-      "color": "#07CAE6",
+      "color": "#22C55E",
       "url": "https://lockcraft.de/privateserver.html",
       "versions": "1.8<*"
     }
+  },
+  "chat": {
+    "message_formats": [
+      "^(?:§[0-9a-fk-or])*(?<level>\\d+) (?:§[0-9a-fk-or])*(?:(?<rank>[^\\s§:]+) (?:§[0-9a-fk-or])*)?(?<sender>[a-zA-Z0-9_]{2,16})(?:§[0-9a-fk-or])*: (?:§[0-9a-fk-or])*(?<message>.*)$"
+    ]
+  },
+  "location": {
+    "country": "Germany",
+    "country_code": "DE"
   },
   "brand": {
     "primary": "#07CAE6",
