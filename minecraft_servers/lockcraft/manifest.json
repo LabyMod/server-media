@@ -84,14 +84,12 @@
       "name": "EndWars",
       "color": "#A855F7",
       "url": "https://lockcraft.de/spiel.html?g=endwars",
-      "command": "/play EndWars",
       "versions": "1.8<*"
     },
     "templerun": {
       "name": "TempleRun",
       "color": "#F59E0B",
       "url": "https://lockcraft.de/spiel.html?g=templerun",
-      "command": "/play TempleRun",
       "versions": "1.8<*"
     },
     "fastbuilders": {
@@ -106,7 +104,7 @@
       "color": "#34D399",
       "url": "https://lockcraft.de/spiel.html?g=skyblock",
       "command": "/play SkyBlock",
-      "versions": "1.8<*"
+      "versions": "1.21.4<*"
     },
     "kreativ": {
       "name": "Kreativ",
