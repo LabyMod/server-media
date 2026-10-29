@@ -1,0 +1,39 @@
+{
+  "server_name": "pixelmc",
+  "nice_name": "PixelMC",
+  "direct_ip": "pixel-mc.net",
+  "social": {
+    "web": "https://www.pixel-mc.net",
+    "web_shop": "https://store.pixel-mc.net",
+    "discord": "https://discord.gg/pxmc"
+  },
+  "brand": {
+    "primary": "#7F3400"
+  },
+  "gamemodes": {
+    "duels": {
+      "name": "Duels",
+      "color": "#7F3400"
+    },
+    "smp": {
+      "name": "SMP",
+      "color": "#7F3400"
+    },
+    "boxpvp": {
+      "name": "BoxPvP",
+      "color": "#7F3400"
+    },
+    "stealablock": {
+      "name": "Steal A Block",
+      "color": "#7F3400"
+    },
+    "bedwars": {
+      "name": "BedWars",
+      "color": "#7F3400"
+    },
+    "elytrabox": {
+      "name": "ElytraBox",
+      "color": "#7F3400"
+    }
+  }
+}
