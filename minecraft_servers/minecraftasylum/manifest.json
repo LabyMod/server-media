@@ -2,9 +2,6 @@
   "server_name": "minecraftasylum",
   "nice_name": "Minecraft Asylum",
   "direct_ip": "play.minecraft-asylum.de",
-  "server_wildcards": [
-    "%.minecraft-asylum.de"
-  ],
   "supported_languages": [
     "de"
   ],
