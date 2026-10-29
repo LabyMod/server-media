@@ -1,0 +1,80 @@
+{
+  "server_name": "lockcraft",
+  "nice_name": "Lockcraft",
+  "direct_ip": "lockcraft.de",
+  "server_wildcards": ["%.lockcraft.de"],
+  "supported_languages": ["de"],
+  "social": {
+    "web": "https://lockcraft.de",
+    "web_support": "https://lockcraft.de/support.html",
+    "discord": "https://discord.gg/Uvq6aFt8ND"
+  },
+  "gamemodes": {
+    "bedwars": {
+      "name": "BedWars",
+      "color": "#E5484D",
+      "url": "https://lockcraft.de/spiel.html?g=bedwars",
+      "versions": "1.8<*"
+    },
+    "skywars": {
+      "name": "SkyWars",
+      "color": "#3B82F6",
+      "url": "https://lockcraft.de/spiel.html?g=skywars",
+      "versions": "1.8<*"
+    },
+    "gungame": {
+      "name": "GunGame",
+      "color": "#F59E0B",
+      "url": "https://lockcraft.de/spiel.html?g=gungame",
+      "versions": "1.8<*"
+    },
+    "ffa": {
+      "name": "FFA",
+      "color": "#EF4444",
+      "url": "https://lockcraft.de/spiel.html?g=ffa",
+      "versions": "1.8<*"
+    },
+    "minekart": {
+      "name": "MineKart",
+      "color": "#10B981",
+      "url": "https://lockcraft.de/spiel.html?g=minekart",
+      "versions": "1.20.4"
+    },
+    "kreativ": {
+      "name": "Kreativ",
+      "color": "#8B5CF6",
+      "url": "https://lockcraft.de/spiel.html?g=kreativ",
+      "versions": "1.8<*"
+    },
+    "freebuild": {
+      "name": "Freebuild",
+      "color": "#22C55E",
+      "url": "https://lockcraft.de/spiel.html?g=freebuild",
+      "versions": "1.8<*"
+    },
+    "dreamsurvival": {
+      "name": "DreamSurvival",
+      "color": "#EC4899",
+      "url": "https://lockcraft.de/spiel.html?g=dreamsurvival",
+      "versions": "1.21.4<*"
+    },
+    "privateserver": {
+      "name": "Private Server",
+      "color": "#07CAE6",
+      "url": "https://lockcraft.de/privateserver.html",
+      "versions": "1.8<*"
+    }
+  },
+  "brand": {
+    "primary": "#07CAE6",
+    "background": "#111111",
+    "text": "#FFFFFF"
+  },
+  "party": {
+    "invite": "/party invite {userName}",
+    "accept": "/party accept {userName}",
+    "leave": "/party leave"
+  },
+  "user_stats": "https://lockcraft.de/career.html?name={userName}",
+  "command_delay": 3000
+}
