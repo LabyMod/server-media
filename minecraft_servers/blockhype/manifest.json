@@ -1,0 +1,26 @@
+{
+  "server_name": "blockhype",
+  "nice_name": "BlockHype",
+  "direct_ip": "blockhype.net",
+  "server_wildcards": ["%.blockhype.net"],
+  "supported_languages": ["de", "en"],
+  "social": {
+    "web": "https://www.blockhype.net",
+    "discord": "https://discord.gg/wB76QeQTEr"
+  },
+  "gamemodes": {
+    "skyblock":  { "name": "SkyBlock",  "color": "#54F472" },
+    "battleffa": { "name": "BattleFFA", "color": "#549EB6" },
+    "knockffa":  { "name": "KnockFFA",  "color": "#6FD6EA" },
+    "mlgrush":   { "name": "MLGRush",   "color": "#549EB6" }
+  },
+  "brand": { "primary": "#54F472", "background": "#070D17", "text": "#F4F8FF" },
+  "party": {
+    "invite": "/party invite {userName}",
+    "accept": "/party accept {userName}",
+    "leave": "/party leave",
+    "kick": "/party kick {userName}",
+    "disband": "/party disband",
+    "transfer": "/party promote {userName}"
+  }
+}
