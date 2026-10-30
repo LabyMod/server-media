@@ -29,6 +29,11 @@
       "name": "Airplane Combat",
       "color": "#0000AA",
       "command": "/server planes"
+    },
+    "survival": {
+      "name": "Survival",
+      "color": "#55FF55",
+      "command": "/server survival"
     }
   }
 }
