@@ -6,7 +6,7 @@
   "supported_languages": ["de", "en"],
   "social": {
     "web": "https://www.blockhype.net",
-    "discord": "https://discord.gg/wB76QeQTEr"
+    "discord": "discord.blockhype.net"
   },
   "gamemodes": {
     "skyblock":  { "name": "SkyBlock",  "color": "#54F472" },
