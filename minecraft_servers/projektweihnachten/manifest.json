@@ -46,7 +46,7 @@
   },
   "chat": {
     "message_formats": [
-      "^(?:§[0-9a-fk-or](?<rank>[^ §]+) §8┃ )?§[0-9a-fk-or](?<sender>[a-zA-Z0-9_]{2,16})§8:§r (?<message>.*)$"
+      "^(?:§[0-9a-fk-or])*(?:(?<rank>[^ §]+)(?:§[0-9a-fk-or])* (?:§[0-9a-fk-or])*┃ (?:§[0-9a-fk-or])*)?(?<sender>[a-zA-Z0-9_]{2,16})(?:§[0-9a-fk-or])*: (?:§[0-9a-fk-or])*(?<message>.*)$"
     ]
   }
 }
