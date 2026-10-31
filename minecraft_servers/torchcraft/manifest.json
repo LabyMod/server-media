@@ -2,9 +2,6 @@
   "server_name": "torchcraft",
   "nice_name": "TorchCraft",
   "direct_ip": "server.torchcraft.nl",
-  "server_wildcards": [
-    "%.torchcraft.nl"
-  ],
   "supported_languages": [
     "nl"
   ],
