@@ -4,7 +4,6 @@
   "direct_ip": "enderpearl.de",
   "server_wildcards": [
     "%.enderpearl.de",
-    "epde.eu",
     "%.epde.eu"
   ],
   "supported_languages": [
