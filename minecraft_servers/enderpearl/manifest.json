@@ -1,13 +1,48 @@
 {
   "server_name": "enderpearl",
-  "nice_name": "enderpearl.de",
+  "nice_name": "Enderpearl",
   "direct_ip": "enderpearl.de",
+  "server_wildcards": [
+    "%.enderpearl.de",
+    "epde.eu",
+    "%.epde.eu"
+  ],
   "supported_languages": [
     "de"
   ],
   "social": {
     "web": "https://enderpearl.de",
-    "discord": "https://discord.gg/7j7bP9pgN5"
+    "web_support": "https://wiki.enderpearl.de",
+    "tiktok": "enderpearlde1",
+    "discord": "https://discord.gg/7j7bP9pgN5",
+    "youtube": "https://www.youtube.com/@enderpearl.de_minecraftserver"
+  },
+  "gamemodes": {
+    "bedwars": {
+      "name": "BedWars",
+      "color": "#F06A1E",
+      "versions": "1.21.4<*"
+    },
+    "pearlgames": {
+      "name": "Pearl Games",
+      "color": "#E8542A",
+      "versions": "1.21.4<*"
+    },
+    "citybuild": {
+      "name": "CityBuild",
+      "color": "#D6C93A",
+      "versions": "1.21.4<*"
+    },
+    "knockbackffa": {
+      "name": "KnockbackFFA",
+      "color": "#E0559A",
+      "versions": "1.21.4<*"
+    },
+    "buildffa": {
+      "name": "BuildFFA",
+      "color": "#4F9FCB",
+      "versions": "1.21.4<*"
+    }
   },
   "chat": {
     "message_formats": [
@@ -23,5 +58,12 @@
     "city": "Munich",
     "country": "Germany",
     "country_code": "DE"
+  },
+  "party": {
+    "invite": "/party invite {userName}",
+    "accept": "/party accept {userName}",
+    "leave": "/party leave",
+    "kick": "/party kick {userName}",
+    "transfer": "/party leader {userName}"
   }
 }
