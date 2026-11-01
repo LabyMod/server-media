@@ -1,0 +1,29 @@
+{
+  "server_name": "voidlight",
+  "nice_name": "VoidLight",
+  "direct_ip": "voidlight.cloud",
+  "server_wildcards": ["%.voidlight.cloud"],
+  "supported_languages": ["de", "en", "nl"],
+  "social": {
+    "web": "https://voidlight.cloud",
+    "discord": "https://discord.gg/86XwS6zAcn"
+  },
+  "gamemodes": {
+    "citybuild": {
+      "name": "CityBuild",
+      "color": "#A06BFA"
+    },
+    "duels": {
+      "name": "Duels",
+      "color": "#7942CF"
+    }
+  },
+  "discord": {
+    "server_id": "1558197482977099969"
+  },
+  "brand": {
+    "primary": "#A06BFA",
+    "background": "#081426",
+    "text": "#FFFFFF"
+  }
+}
