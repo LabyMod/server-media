@@ -6,7 +6,6 @@
         "%.crystalchaos.net"
     ],
     "social": {
-        "web": "https://crystalchaos.net",
         "web_shop": "https://store.crystalchaos.net",
         "discord": "https://discord.gg/crystalchaos"
     },
@@ -16,7 +15,7 @@
     },
     "discord": {
         "server_id": 1340262390695985192,
-        "rename_to_minecraft_name": true
+        "rename_to_minecraft_name": false
     },
     "command_delay": 1500,
     "gamemodes": {
