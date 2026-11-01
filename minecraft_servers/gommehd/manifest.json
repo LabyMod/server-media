@@ -41,111 +41,119 @@
   "gamemodes": {
     "bingo": {
       "name": "Bingo",
-      "url": "https://www.gommehd.net/game/Bingo",
+      "url": "https://www.gommehd.net/games/Bingo",
       "command": "/gameteleport bingo",
       "versions": "1.21.11<*",
-      "color": "#FFFFFF"
+      "color": "#FE2E64"
     },
     "bedwars": {
       "name": "BedWars",
-      "url": "https://www.gommehd.net/game/BedWars",
-      "command": "/gameteleport classicbw",
+      "url": "https://www.gommehd.net/games/BedWars",
+      "command": "/gameteleport bw",
       "versions": "1.21.11<*",
-      "color": "#FFFFFF"
+      "color": "#E83920"
     },
     "citybuild": {
       "name": "CityBuild",
-      "url": "https://www.gommehd.net/game/CityBuild",
+      "url": "https://www.gommehd.net/games/CityBuild",
       "command": "/gameteleport citybuild",
       "versions": "1.21.11<*",
-      "color": "#FFFFFF"
+      "color": "#FFF200"
     },
     "gommunity": {
       "name": "Gommunity",
       "command": "/gameteleport gommunity",
       "versions": "1.21.11<*",
-      "color": "#FFFFFF"
+      "color": "#FFF700"
     },
     "gungame": {
-      "name": "GunGame",
-      "url": "https://www.gommehd.net/game/GunGame",
+      "name": "FFA GunGame",
+      "url": "https://www.gommehd.net/games/FFA%20GunGame",
       "command": "/gameteleport ffagungame",
-      "versions": "1.8.9",
-      "color": "#FFFFFF"
+      "versions": "1.21.11<*",
+      "color": "#46A1B3"
     },
     "duels": {
       "name": "Duels",
-      "url": "https://www.gommehd.net/game/Duels",
+      "url": "https://www.gommehd.net/games/Duels",
       "command": "/gameteleport duelsl",
       "versions": "1.21.11<*",
-      "color": "#FFFFFF"
+      "color": "#18A5FF"
     },
     "moneymaker": {
       "name": "MoneyMaker",
-      "url": "https://www.gommehd.net/game/MoneyMaker",
+      "url": "https://www.gommehd.net/games/MoneyMaker",
       "command": "/gameteleport idlemine",
-      "color": "#FFFFFF"
+      "versions": "1.8<*",
+      "color": "#FFAA00"
     },
     "skywars": {
       "name": "SkyWars",
-      "url": "https://www.gommehd.net/game/SkyWars",
-      "command": "/gameteleport classicsw",
+      "url": "https://www.gommehd.net/games/SkyWars",
+      "command": "/gameteleport sw",
       "versions": "1.21.11<*",
-      "color": "#FFFFFF"
+      "color": "#2AF463"
     },
     "jumpleague": {
       "name": "JumpLeague",
-      "url": "https://www.gommehd.net/game/JumpLeague",
+      "url": "https://www.gommehd.net/games/JumpLeague",
       "command": "/gameteleport jl",
       "versions": "1.21.11<*",
-      "color": "#FFFFFF"
+      "color": "#FB4F4F"
     },
     "buildffa": {
-      "name": "BuildFFA",
-      "url": "https://www.gommehd.net/game/Build%20FFA",
+      "name": "FFA Build",
+      "url": "https://www.gommehd.net/games/FFA%20Build",
       "command": "/gameteleport ffabuild",
-      "versions": "1.8.9",
-      "color": "#FFFFFF"
+      "versions": "1.21.11<*",
+      "color": "#5BE35B"
+    },
+    "ffakit": {
+      "name": "FFA Kit",
+      "url": "https://www.gommehd.net/games/FFA%20Kit",
+      "command": "/gameteleport ffakit",
+      "versions": "1.21.11<*",
+      "color": "#FB8F00"
     },
     "hideandseek": {
       "name": "Hide'n'Seek",
-      "url": "https://www.gommehd.net/game/Hide'n'Seek",
+      "url": "https://www.gommehd.net/games/Hide'n'Seek",
       "command": "/gameteleport hns",
       "versions": "1.21.11<*",
-      "color": "#FFFFFF"
+      "color": "#55FFFF"
     },
     "masterbuilders": {
       "name": "MasterBuilders",
-      "url": "https://www.gommehd.net/game/MasterBuilders",
+      "url": "https://www.gommehd.net/games/MasterBuilders",
       "command": "/gameteleport mb",
       "versions": "1.21.11<*",
-      "color": "#FFFFFF"
-    },
-    "partygames": {
-      "name": "PartyGames",
-      "url": "https://www.gommehd.net/game/PartyGames",
-      "command": "/gameteleport pg",
-      "versions": "1.21.11<*",
-      "color": "#FFFFFF"
+      "color": "#A8E6CF"
     },
     "ttt": {
       "name": "TTT",
-      "url": "https://www.gommehd.net/game/TTT",
+      "url": "https://www.gommehd.net/games/TTT",
       "command": "/gameteleport ttt",
       "versions": "1.21.11<*",
-      "color": "#FFFFFF"
+      "color": "#AA0000"
     },
     "itemchaos": {
       "name": "ItemChaos",
+      "url": "https://www.gommehd.net/games/ItemChaos",
       "command": "/gameteleport ic",
       "versions": "1.21.11<*",
-      "color": "#FFFFFF"
+      "color": "#72FF72"
     },
     "lavaescape": {
       "name": "LavaEscape",
       "command": "/gameteleport le",
       "versions": "1.21.11<*",
-      "color": "#FFFFFF"
+      "color": "#D82338"
+    },
+    "smp": {
+      "name": "SMP",
+      "command": "/gameteleport smplobby",
+      "versions": "1.21.11<*",
+      "color": "#8319FB"
     }
   },
   "discord": {
