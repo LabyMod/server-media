@@ -1,0 +1,37 @@
+{
+  "server_name": "blockariaprime",
+  "nice_name": "BlockariaPrime",
+  "direct_ip": "blockariaprime.net",
+  "server_wildcards": [
+    "%.blockariaprime.net"
+  ],
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "web": "https://blockariaprime.de",
+    "web_shop": "https://blockariaprime.de/shop",
+    "web_support": "https://blockariaprime.de/faq",
+    "tiktok": "blockariaprime",
+    "instagram": "blockariaprime",
+    "discord": "https://discord.gg/hRcXPjSw7v",
+    "youtube": "https://www.youtube.com/@BlockariaPrime"
+  },
+  "brand": {
+    "primary": "#22d3ee",
+    "background": "#0b1220",
+    "text": "#ffffff"
+  },
+  "location": {
+    "country": "Germany",
+    "country_code": "DE"
+  },
+  "yt_trailer": "lcSYMp8MxXw",
+  "gamemodes": {
+    "citybuild": {
+      "name": "CityBuild",
+      "color": "#22d3ee",
+      "url": "https://blockariaprime.de/minecraft-citybuild-server/"
+    }
+  }
+}
