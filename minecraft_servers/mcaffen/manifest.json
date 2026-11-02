@@ -1,0 +1,21 @@
+{
+  "server_name": "mcaffen",
+  "nice_name": "Mcaffen.de",
+  "direct_ip": "play.mcaffen.de",
+  "supported_languages": [
+    "de",
+    "en"
+  ],
+  "social": {
+    "web": "https://mcaffen.de"
+  },
+    "brand": {
+    "primary": "#00FF00",
+    "background": "#FF4D4D",
+    "text": "#ffffff"
+  },
+  "location": {
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}
