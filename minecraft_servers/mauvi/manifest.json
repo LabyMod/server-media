@@ -12,7 +12,6 @@
   "social": {
     "web": "https://mauvi.de",
     "web_shop": "https://ko-fi.com/mauvi020",
-    "web_support": "",
     "discord": "https://discord.gg/8QcQRwBsdp",
     "youtube": "https://www.youtube.com/@Mauvi020"
   },
@@ -20,15 +19,22 @@
   "chat": {
     "message_formats": []
   },
+  "discord": {
+    "server_id": 1424490034337415300,
+    "rename_to_minecraft_name": false
+  },
   "brand": {
     "primary": "#00BFFF",
     "background": "#102A43",
     "text": "#FFFFFF"
   },
-  "location": {
-    "city": "Germany",
-    "country": "Germany",
-    "country_code": "DE"
+  "party": {
+    "invite": "/party invite {userName}",
+    "accept": "/party accept {userName}",
+    "leave": "/party leave",
+    "kick": "/party kick {userName}",
+    "disband": "/party disband",
+    "transfer": "/party transfer {userName}"
   },
   "command_delay": 3000
 }
