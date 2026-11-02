@@ -1,0 +1,24 @@
+{
+  "server_name": "bitbox",
+  "nice_name": "BitBox",
+  "direct_ip": "play.bitbox.wtf",
+  "supported_languages": [
+    "ru"
+  ],
+  "social": {
+    "web": "https://bitbox.wtf",
+    "discord": "https://discord.gg/SKkqjbNwj9",
+    "youtube": "https://www.youtube.com/@bitboxwtf"
+  },
+  "gamemodes": {
+    "boxpvp": {
+      "name": "BoxPvP",
+      "color": "#E51913"
+    }
+  },
+  "brand": {
+    "primary": "#E51913",
+    "background": "#242C30",
+    "text": "#FFFFFF"
+  }
+}
