@@ -1,6 +1,6 @@
 {
   "server_name": "mauvismp",
-  "nice_name": "MauviSMP",
+  "nice_name": "mauvismp",
   "direct_ip": "mauvi.de",
   "server_wildcards": [
     "%.mauvi.de"
