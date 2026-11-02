@@ -2,7 +2,6 @@
   "server_name": "blockhype",
   "nice_name": "BlockHype",
   "direct_ip": "blockhype.net",
-  "server_wildcards": ["%.blockhype.net"],
   "supported_languages": ["de", "en"],
   "social": {
     "web": "https://www.blockhype.net",
