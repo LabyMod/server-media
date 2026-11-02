@@ -17,7 +17,9 @@
   },
   "gamemodes": {},
   "chat": {
-    "message_formats": []
+    "message_formats": [
+      "^§[a-f0-9](?<level>\\d+)( \\||§8 \\|) §[a-f0-9](?<sender>[a-zA-Z0-9_]{2,16})§r§7: §f(?<message>.*)$"
+    ]
   },
   "discord": {
     "server_id": 1424490034337415300,
@@ -28,13 +30,9 @@
     "background": "#102A43",
     "text": "#FFFFFF"
   },
-  "party": {
-    "invite": "/party invite {userName}",
-    "accept": "/party accept {userName}",
-    "leave": "/party leave",
-    "kick": "/party kick {userName}",
-    "disband": "/party disband",
-    "transfer": "/party transfer {userName}"
+  "location": {
+    "country": "Germany",
+    "country_code": "DE"
   },
   "command_delay": 3000
 }
