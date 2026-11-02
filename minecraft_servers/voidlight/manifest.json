@@ -5,7 +5,6 @@
   "server_wildcards": ["%.voidlight.cloud"],
   "supported_languages": ["de", "en", "nl"],
   "social": {
-    "web": "https://voidlight.cloud",
     "discord": "https://discord.gg/86XwS6zAcn"
   },
   "gamemodes": {
