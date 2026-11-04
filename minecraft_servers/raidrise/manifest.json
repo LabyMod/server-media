@@ -3,7 +3,7 @@
   "nice_name": "RaidRise",
   "direct_ip": "mc.raidrise.com",
   "server_wildcards": [
-    "%.raidrise.com"
+    "play.raidrise.com"
   ],
   "supported_languages": [
     "en",
