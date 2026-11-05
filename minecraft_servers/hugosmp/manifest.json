@@ -33,6 +33,11 @@
     "web_shop": "https://shop.hugosmp.net",
     "discord": "https://discord.gg/hugosmp"
   },
+  "chat": {
+    "message_formats": [
+      "^(?:§[0-9a-fk-orxA-FK-ORX])*(?:\\[[^\\]]*\\](?:§[0-9a-fk-orxA-FK-ORX])* )?(?:§[0-9a-fk-orxA-FK-ORX])*(?:[A-Z]{2,}(?:§[0-9a-fk-orxA-FK-ORX])* )?(?:§[0-9a-fk-orxA-FK-ORX])*(?<sender>\\.?[a-zA-Z0-9_]{2,16})(?:§[0-9a-fk-orxA-FK-ORX])*:(?:§[0-9a-fk-orxA-FK-ORX])* (?:§[0-9a-fk-orxA-FK-ORX])*(?<message>.*)$"
+    ]
+  },
   "discord": {
     "server_id": 1394793308533817655,
     "rename_to_minecraft_name": false
