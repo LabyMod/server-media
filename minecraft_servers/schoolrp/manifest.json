@@ -1,0 +1,26 @@
+{
+  "server_name": "schoolrp",
+  "nice_name": "SchoolRP",
+  "direct_ip": "play.schoolrp.net",
+  "server_wildcards": [
+    "%.schoolrp.net",
+    "%.roleplayhub.net",
+    "%.roleplayhub.com"
+  ],
+  "supported_languages": [
+     "en"
+  ],
+  "social": {
+    "web": "https://schoolrp.net",
+    "web_shop": "https://buy.schoolrp.net/",
+    "web_support": "https://support.schoolrp.net/",
+    "twitter": "roleplayhubmc",
+    "tiktok": "schoolroleplaymc",
+    "discord": "https://discord.gg/Ww3sa4GPwb",
+    "youtube": "https://www.youtube.com/roleplayhub"
+  },
+  "brand": {
+     "primary": "#682825"
+  },
+  "yt_trailer": "8asFIRe2HSw"
+}
