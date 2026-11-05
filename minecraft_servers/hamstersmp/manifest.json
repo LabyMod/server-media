@@ -5,7 +5,9 @@
   "supported_languages": [
     "de"
   ],
-  "social": {},
+  "social": {
+    "discord": "https://discord.gg/Hb4fWnD5y"
+  },
   "brand": {
     "primary": "#55cc55",
     "background": "#ffffff",
@@ -23,6 +25,10 @@
     "realisticweather": {
       "name": "Realistic Weather",
       "color": "#55cc55"
+    },
+    "pvp": {
+      "name": "PvP",
+      "color": "#E53935"
     }
   }
 }
