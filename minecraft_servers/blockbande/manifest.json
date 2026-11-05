@@ -1,0 +1,30 @@
+{
+  "server_name": "blockbande",
+  "nice_name": "BlockBande",
+  "direct_ip": "blockbande.de",
+  "social": {
+    "web": "https://blockbande.net",
+    "web_shop": "https://www.blockbande.net/shop",
+    "tiktok": "blockbande",
+    "discord": "https://discord.gg/bmDEa6TJT6"
+  },
+  "supported_languages": [
+    "de"
+  ],
+  "discord": {
+    "server_id": 1200205859318419456,
+    "rename_to_minecraft_name": false
+  },
+  "gamemodes": {
+    "citybuild": {
+      "name": "CityBuild",
+      "color": "#55FF55",
+      "versions": "1.21.4"
+    }
+  },
+  "location": {
+    "city": "Frankfurt am Main",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}

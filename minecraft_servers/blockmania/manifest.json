@@ -1,0 +1,21 @@
+{
+  "server_name": "blockmania",
+  "nice_name": "Blockmania",
+  "direct_ip": "blockmania.com",
+  "supported_languages": [
+    "en"
+  ],
+  "social": {
+    "twitter": "Block_Mania",
+    "discord": "https://discord.com/invite/GkqBP5J"
+  },
+  "discord": {
+    "server_id": 252413534951047179,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#497cb1",
+    "background": "#497cb1",
+    "text": "#ffffff"
+  }
+}

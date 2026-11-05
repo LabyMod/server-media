@@ -1,0 +1,46 @@
+{
+  "server_name": "badhub",
+  "nice_name": "BadHub",
+  "direct_ip": "mc.badhub.cz",
+  "server_wildcards": [
+    "%.badhub.cz"
+  ],
+  "supported_languages": [
+     "cz",
+     "sk"
+  ],
+  "social": {
+    "web": "https://www.badhub.cz",
+    "web_shop": "https://vip.vagonbrei.eu/link/LAkWETe4mc",
+    "tiktok": "mc.badhub.cz",
+    "instagram": "badhub.cz",
+    "discord": "https://discord.com/invite/9vhUGpzrwt"
+  },
+  "gamemodes": {
+    "origin": {
+      "name": "Origin", 
+      "color": "#009013",
+      "versions": "1.13<*"
+    },
+    "tgttos": {
+      "name": "TGTTOS",
+      "color": "#009013",
+      "versions": "1.13<*"
+    }
+  },
+  "discord": {
+    "server_id": 1087120870859866122,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#009013",
+     "background": "#ffffff",
+     "text": "#FFFFFF"
+  }, 
+  "location": {
+     "city": "Prague",
+     "country": "Czechia",
+     "country_code": "CZ"
+  },
+  "yt_trailer": "ckX8RK2whTc"
+}

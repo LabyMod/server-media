@@ -5,7 +5,7 @@
   "server_wildcards": [
     "%.justminecraft.net"
   ],
-  "supported_languages": "en",
+  "supported_languages": ["en"],
   "social": {
     "web": "https://www.justminecraft.net",
     "web_shop": "https://justminecraft.buycraft.net",

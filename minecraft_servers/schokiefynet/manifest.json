@@ -1,0 +1,62 @@
+{
+  "server_name": "schokiefynet",
+  "nice_name": "SchokiefyNET",
+  "direct_ip": "schokiefy.net",
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "web": "https://www.schokiefy.net",
+    "web_shop": "https://www.schokiefy.net/shop",
+    "web_support": "https://www.schokiefy.net/wiki",
+    "youtube": "https://www.youtube.com/@schokiefynet.official",
+    "discord": "https://discord.com/invite/J6eEYkth9M"
+  },
+  "discord": {
+    "server_id": 489529070913060867,
+    "rename_to_minecraft_name": false
+  },
+  "gamemodes": {
+    "molecraft": {
+      "name": "MoleCraft",
+      "command": "/mc",
+      "color": "#555555",
+      "versions": "1.8<*"
+    },
+    "skywars": {
+      "name": "Skywars",
+      "command": "/sw",
+      "color": "#55FFFF",
+      "versions": "1.8<*"
+    },
+    "bedwars": {
+      "name": "BedWars",
+      "command": "/bw",
+      "color": "#FF5555",
+      "versions": "1.8<*"
+    },
+    "murder": {
+      "name": "Murder",
+      "command": "/mm",
+      "color": "#AA00AA",
+      "versions": "1.8<*"
+    },
+    "mlgrush": {
+      "name": "MLGRush",
+      "command": "/mlg",
+      "color": "#5555FF",
+      "versions": "1.8<*"
+    },
+    "spleef": {
+      "name": "Spleef",
+      "command": "/sp",
+      "color": "#FFFFFF",
+      "versions": "1.8<*"
+    }
+  },
+"brand": {
+    "primary": "#FF9600",
+    "background": "#252525",
+    "text": "#ffffff"
+  }
+}

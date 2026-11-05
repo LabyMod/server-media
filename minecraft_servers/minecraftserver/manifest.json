@@ -1,0 +1,26 @@
+{
+  "server_name": "minecraftserver",
+  "nice_name": "MinecraftServer",
+  "direct_ip": "minecraftserver.at",
+  "supported_languages": [
+     "de",
+     "en"
+  ],
+  "social": {
+    "web": "https://minecraftserver.at",
+    "instagram": "minecraftserver.at",
+    "discord": "https://discord.gg/rdg35jrw",
+    "youtube": "https://www.youtube.com/@MinecraftServerAustria"
+  },
+  "brand": {
+     "primary": "#008FE8",
+     "background": "#0A56A5",
+     "text": "#FFFFFF"
+  }, 
+  "location": {
+     "city": "Vienna",
+     "country": "Austria",
+     "country_code": "AT"
+  },
+  "command_delay": 3000
+}

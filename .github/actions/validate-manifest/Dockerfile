@@ -1,7 +1,7 @@
-FROM python:3-buster
+FROM python:3.12-slim
 
 COPY ./ /
 
-RUN pip install -r requirements.txt
+RUN pip install --no-cache-dir -r requirements.txt
 
 CMD ["python", "-u", "/validate.py"]

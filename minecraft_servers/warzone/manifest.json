@@ -1,0 +1,55 @@
+{
+    "server_name": "warzone",
+    "nice_name": "Warzone Network",
+    "direct_ip": "play.warzone.network",
+    "supported_languages": [
+        "en"
+    ],
+    "social": {
+        "web": "https://warzone.network",
+        "web_shop": "https://store.warzone.network",
+        "twitter": "warzonemc",
+        "tiktok": "warzonemc",
+        "instagram": "warzonemc",
+        "discord": "https://discord.gg/2T3RqxJ"
+    },
+    "gamemodes": {
+        "dtw": {
+            "name": "Destroy the Wool",
+            "color": "#FFFFFF"
+        },
+        "dtcm": {
+            "name": "Destroy the Core/Monument",
+            "color": "#FFFFFF"
+        },
+        "ctw": {
+            "name": "Capture the Wool/Flag",
+            "color": "#FFFFFF"
+        },
+        "koth": {
+            "name": "King of the Hill/Flag",
+            "color": "#FFFFFF"
+        },
+        "tdm": {
+            "name": "Team Deathmatch",
+            "color": "#FFFFFF"
+        },
+        "infection": {
+            "name": "Infection",
+            "color": "#FFFFFF"
+        },
+        "arcade": {
+            "name": "Arcade",
+            "color": "#FFFFFF"
+        }
+    },
+    "discord": {
+        "server_id": 333669866735271940,
+        "rename_to_minecraft_name": false
+    },
+    "brand": {
+        "primary": "#2F3136",
+        "background": "#9148D3",
+        "text": "#FFFFFF"
+    }
+}

@@ -35,7 +35,6 @@
     "freebuild": {
       "name": "Freebuild",
       "command": "/quickjoin freebuild",
-      "url": "https://www.timolia.de/games#freebuild",
       "color": "#0095B0",
       "versions": "1.20<*"
     },
@@ -81,5 +80,10 @@
     ]
   },
   "yt_trailer": "vNF-ztQGnUo",
-  "user_stats": "https://www.timolia.de/stats/{userName}"
+  "user_stats": "https://www.timolia.de/stats/{userName}",
+  "party": {
+    "invite": "/party invite {userName}",
+    "accept": "/party join {userName}",
+    "leave": "/party leave"
+  }
 }

@@ -1,0 +1,40 @@
+{
+  "server_name": "senorpollo",
+  "nice_name": "SenorPollo Netzwerk",
+  "direct_ip": "senorpollo.net",
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "discord": "https://discord.com/invite/vCBdMbPmc9",
+    "web": "https://senorpollo.net",
+    "teamspeak": "ts.senorpollo.net",
+    "youtube": "https://www.youtube.com/@senor_pollo"
+  },
+  "location": {
+    "country": "Germany",
+    "country_code": "DE"
+  },
+  "gamemodes": {
+    "citybuild": {
+      "name": "CityBuild", 
+      "color": "#52ff59",
+      "command": "/server citybuild"
+    },
+    "survivalmultiplayer": {
+      "name": "SMP", 
+      "color": "#52ff59",
+      "command": "/server smp"
+    },
+    "chickencompetitionsolo": {
+      "name": "Chicken-Competition Solo",
+      "color": "#52ff59",
+      "command": "/server cc"
+    },
+    "chickencompetitionduo": {
+      "name": "Chicken-Competition Duo", 
+      "color": "#52ff59",
+      "command": "/server cc2"
+    }
+  }
+}

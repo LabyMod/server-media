@@ -1,0 +1,25 @@
+{
+  "server_name": "nevract",
+  "nice_name": "Nevract",
+  "direct_ip": "play.nevract.com",
+  "supported_languages": [
+    "tr",
+    "en"
+  ],
+  "social": {
+    "web": "https://nevract.com",
+    "discord": "https://discord.gg/nevract"
+  },
+  "gamemodes": {
+    "mmorpg": {
+      "name": "MMORPG",
+      "color": "#D6A35D",
+      "versions": "1.21.4<*"
+    }
+  },
+  "brand": {
+    "primary": "#D6A35D",
+    "background": "#211815",
+    "text": "#FFF2D5"
+  }
+}

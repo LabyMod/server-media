@@ -1,0 +1,18 @@
+{
+  "server_name": "ghostly",
+  "nice_name": "Ghostly Network",
+  "direct_ip": "ghostly.live",
+  "server_wildcards": [
+    "%.ghostly.live"
+  ],
+  "supported_languages": [
+    "en"
+  ],
+  "social": {
+    "web": "https://ghostly.live",
+    "discord": "https://discord.gg/ghostly"
+  },
+  "brand": {
+    "primary": "#710104"
+  }
+}

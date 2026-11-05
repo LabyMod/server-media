@@ -1,0 +1,18 @@
+{
+  "server_name": "clovergames",
+  "nice_name": "Clover Games",
+  "direct_ip": "play.clovergames.fr",
+  "supported_languages": [
+    "fr"
+  ],
+  "social": {
+    "web": "https://clovergames.fr",
+    "tiktok": "theclovergames",
+    "discord": "https://discord.gg/BVVe2WqUvh"
+  },
+  "brand": {
+    "primary": "#3F8F5C",
+    "background": "#14120F",
+    "text": "#F1ECE2"
+  }
+}

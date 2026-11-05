@@ -19,7 +19,7 @@
   ],
   "social": {
     "web": "https://dyhntastic.net",
-    "web_support": "https://helpdesk.dyhnunity.network",
+    "web_support": "https://support.dyhnunity.network",
     "twitter": "Dyhntastic",
     "tiktok": "Dyhntastic",
     "instagram": "dyhntastic",
@@ -27,10 +27,20 @@
     "teamspeak": "Dyhntastic.net"
   },
   "gamemodes": {
-    "mlgrush": {
-      "name": "MLGRush",
+    "citybuild": {
+      "name": "CityBuild",
+      "color": "#00AA00",
+      "command": "/gamejoin citybuild"
+    },
+    "smp": {
+      "name": "SMP",
+      "color": "#00AA00",
+      "command": "/gamejoin smp"
+    },
+    "duels": {
+      "name": "Duels",
       "color": "#FFAA00",
-      "command": "/gamejoin mlgrush"
+      "command": "/gamejoin duels"
     },
     "tntball": {
       "name": "TNTBall",
@@ -42,39 +52,74 @@
       "color": "#5555FF",
       "command": "/gamejoin knockit"
     },
-    "ffa": {
-      "name": "FFA",
-      "color": "#A80000",
-      "command": "/gamejoin ffa"
+    "capture": {
+      "name": "CaptureTheFlag",
+      "color": "#FFAA00",
+      "command": "/gamejoin capture"
     },
-    "citybuild": {
-      "name": "CityBuild",
-      "color": "#00AA00",
-      "command": "/gamejoin citybuild"
-    },
-    "oneblock": {
-      "name": "OneBlock",
-      "color": "#00AA00",
-      "command": "/gamejoin oneblock"
+    "itemchaos": {
+      "name": "ItemChaos",
+      "color": "#AA00AA",
+      "command": "/gamejoin itemchaos"
     },
     "bedwars": {
-      "name": "Bedwars",
+      "name": "BedWars",
       "color": "#FF5555",
       "command": "/gamejoin bedwars"
     },
-    "soccer": {
-      "name": "Soccer",
-      "color": "#0000AA",
-      "command": "/gamejoin Soccer"
+    "skywars": {
+      "name": "SkyWars",
+      "color": "#00AA00",
+      "command": "/gamejoin skywars"
+    },
+    "blockparty": {
+      "name": "BlockParty",
+      "color": "#FF55FF",
+      "command": "/gamejoin blockparty"
+    },
+    "towerdefense": {
+      "name": "TowerDefense",
+      "color": "#00AAAA",
+      "command": "/gamejoin towerdefense"
+    },
+    "bingo": {
+      "name": "Bingo",
+      "color": "#55FF55",
+      "command": "/gamejoin bingo"
+    },
+    "spleef": {
+      "name": "Spleef",
+      "color": "#55FFFF",
+      "command": "/gamejoin spleef"
+    },
+    "fireballfight": {
+      "name": "FireBallFight",
+      "color": "#FFFF55",
+      "command": "/gamejoin fireballfight"
     }
   },
   "discord": {
     "server_id": 634508354416279554,
     "rename_to_minecraft_name": false
   },
+  "brand": {
+    "primary": "#00E9F1",
+    "background": "#00747F",
+    "text": "#FFFFFF"
+  },
   "location": {
     "city": "Nürnberg",
     "country": "Germany",
     "country_code": "DE"
-  }
+  },
+  "party": {
+    "invite": "/party invite {userName}",
+    "accept": "/party accept {userName}",
+    "leave": "/party leave",
+    "kick": "/party kick {userName}",
+    "transfer": "/party transfer {userName}",
+    "warp": "/party warp",
+    "jump": "/party jump"
+  },
+  "user_stats": "https://dyhntastic.net/stats/{userName}"
 }

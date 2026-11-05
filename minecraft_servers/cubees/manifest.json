@@ -1,0 +1,33 @@
+{
+  "server_name": "cubees",
+  "nice_name": "Cubees",
+  "direct_ip": "cubees.net",
+  "social": {
+    "discord": "https://discord.gg/jfkD2MH5tD",
+    "web_shop": "https://cubees.paynow.store",
+    "twitter": "playcubees",
+    "instagram": "playcubees",
+    "tiktok": "playcubees",
+    "youtube": "https://www.youtube.com/@playcubees"
+  },
+  "brand": {
+    "primary": "#FFAA00",
+    "background": "#00A2FF"
+  },
+  "gamemodes": {
+    "home": {
+      "name": "Home",
+      "command": "/home",
+      "color": "#FFFFFF"
+    }
+  },
+  "location": {
+    "city": "Frankfurt",
+    "country": "Germany",
+    "country_code": "DE"
+  },
+  "discord": {
+    "server_id": 1369284957838643200,
+    "rename_to_minecraft_name": false
+  }
+}

@@ -1,0 +1,36 @@
+
+{
+  "server_name": "paradiserp",
+  "nice_name": "Paradise Roleplay",
+  "direct_ip": "paradiseroleplay.it",
+  "server_wildcards": [
+    "%.paradiseroleplay.it"
+  ],
+  "supported_languages": [
+    "it",
+    "en"
+  ],
+  "social": {
+    "web": "https://paradiseroleplay.it",
+    "discord": "https://discord.gg/5UFM42cd9h"
+  },
+  "gamemodes": {
+    "roleplay": {
+      "name": "Roleplay",
+      "color": "#FF8C00"
+    },
+    "pvp": {
+      "name": "PvP",
+      "color": "#FFA500"
+    },
+    "minigames": {
+      "name": "Minigames",
+      "color": "#00CFFF"
+    }
+  },
+  "brand": {
+    "primary": "#FF8C00",
+    "background": "#171717",
+    "text": "#FFFFFF"
+  }
+}

@@ -14,5 +14,19 @@
     "brand": {
         "primary": "#131313",
         "background": "#217dba"
+    },
+    "gamemodes": {
+        "duels": {
+            "name": "Custom Duels",
+            "color": "#131313"
+        },
+        "minigames": {
+            "name": "Minigames",
+            "color": "#131313"
+        },
+        "crystalffa": {
+            "name": "Crystal FFA",
+            "color": "#131313"
+        }
     }
 }

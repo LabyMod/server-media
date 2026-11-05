@@ -1,0 +1,33 @@
+{
+  "server_name": "zafiriamc",
+  "nice_name": "ZafiriaMC",
+  "direct_ip": "play.zafiriamc.es",
+  "supported_languages": [
+    "es"
+  ],
+  "social": {
+    "web": "https://zafiriamc.es",
+    "web_shop": "https://tienda.zafiriamc.es",
+    "web_support": "https://zafiriamc.es/info",
+    "twitter": "zafiriamc",
+    "tiktok": "zafiriamc",
+    "instagram": "zafiriamc"
+  },
+  "brand": {
+    "primary": "#63ADFF",
+    "background": "#0D1726",
+    "text": "#F4F8FF"
+  },
+  "gamemodes": {
+    "survival": {
+      "name": "Survival",
+      "color": "#55ff55",
+      "versions": "1.21.8<26.3"
+    },
+    "luckytowers": {
+      "name": "LuckyTowers",
+      "color": "#ffaa00",
+      "versions": "1.16<26.3"
+    }
+  }
+}

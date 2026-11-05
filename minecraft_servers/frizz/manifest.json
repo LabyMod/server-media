@@ -1,0 +1,61 @@
+{
+  "server_name": "frizz",
+  "nice_name": "FrizzMC",
+  "direct_ip": "frizzmc.com",
+  "supported_languages": [
+    "pt-BR",
+    "pt-PT",
+    "en",
+    "en-ES"
+  ],
+  "social": {
+    "web": "https://frizzmc.com",
+    "web_shop": "https://frizzmc.com",
+    "instagram": "frizzmchg",
+    "tiktok": "frizzmc.hg",
+    "youtube": "https://www.youtube.com/@frizzmchg",
+    "discord": "https://discord.com/invite/frizzmc"
+  },
+  "gamemodes": {
+    "hg": {
+      "name": "Hunger Games",
+      "command": "/play hg",
+      "color": "#D14141"
+    },
+    "rift": {
+      "name": "Rift",
+      "command": "/play rift",
+      "color": "#E8D466"
+    },
+    "yeti_sent": {
+      "name": "Yeti Mandou",
+      "command": "/play yeti_sent",
+      "color": "#7F0E87"
+    },
+    "event": {
+      "name": "Evento",
+      "command": "/play evento",
+      "color": "#6D43E0"
+    },
+    "academy": {
+      "name": "Academy",
+      "command": "/lobby academy",
+      "color": "#189AC7"
+    }
+  },
+  "brand": {
+    "primary": "#01C2FE",
+    "background": "#FFC200",
+    "text": "#FFFFFF"
+  },
+  "location": {
+    "city": "São Paulo",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  "discord": {
+    "server_id": 901811370255855626,
+    "rename_to_minecraft_name": false
+  },
+  "yt_trailer": "Dzkzb-XLERE"
+}

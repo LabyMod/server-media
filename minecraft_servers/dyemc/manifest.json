@@ -1,0 +1,32 @@
+{
+  "server_name": "dyemc",
+  "nice_name": "DYEMC",
+  "direct_ip": "dyemc.eu",
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "discord": "https://discord.gg/MrZbxD4f43"
+  },
+  "gamemodes": {
+    "minecraftparty": {
+      "name": "Minecraft Party",
+      "color": "#ff9800"
+    },
+    "smash": {
+      "name": "Smash",
+      "color": "#e53935"
+    }
+  },
+  "brand": {
+    "primary": "#4caf50",
+    "background": "#0b0f0c",
+    "text": "#FFFFFF"
+  },
+  "location": {
+    "city": "Frankfurt",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}
+ 

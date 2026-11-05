@@ -1,0 +1,32 @@
+{
+  "server_name": "thescape",
+  "nice_name": "TheScape.de",
+  "direct_ip": "thescape.de",
+  "server_wildcards": [
+    "%.thescape.de"
+  ],
+  "supported_languages": [
+     "de"
+  ],
+  "social": {
+    "web": "https://thescape.de",
+    "tiktok": "thescapemc",
+    "discord": "https://discord.com/invite/2zjPvq2Bvy"
+  },
+  "discord": {
+    "server_id": 699337885631119360,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#008FE8",
+     "background": "#0A56A5",
+     "text": "#FFFFFF"
+  }, 
+  "location": {
+     "city": "Köln",
+     "country": "Germany",
+     "country_code": "DE"
+  },
+  "yt_trailer": "MiU40bOPvZ4",
+  "command_delay": 3000
+}

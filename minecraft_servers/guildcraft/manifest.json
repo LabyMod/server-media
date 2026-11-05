@@ -1,0 +1,43 @@
+{
+  "server_name": "guildcraft",
+  "nice_name": "GuildCraft",
+  "direct_ip": "play.guildcraft.net",
+  "social": {
+    "web": "https://guildcraft.net",
+    "web_shop": "https://store.guildcraft.net",
+    "web_support": "https://guildcraft.net/support",
+    "twitter": "netguildcraft",
+    "tiktok": "guildcraft",
+    "instagram": "guildcraftmc",
+    "discord": "https://discord.gg/guildcraft",
+    "youtube": "https://www.youtube.com/@guildcraftnetwork"
+  },
+  "gamemodes": {
+    "prison": {
+      "name": "Prison",
+      "color": "#AA00AA"
+    },
+    "earthsmp": {
+      "name": "EarthSMP",
+      "color": "#00AAAA"
+    },
+    "survival": {
+      "name": "Survival",
+      "color": "#00AA00"
+    }
+  },
+  "discord": {
+    "server_id": 357869771875811328,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#0096de",
+    "background": "#212c31",
+    "text": "#0096de"
+  },
+  "location": {
+    "city": "Falkenstein",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}

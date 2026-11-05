@@ -1,0 +1,68 @@
+{
+  "server_name": "pharogames",
+  "nice_name": "PharoGames",
+  "direct_ip": "play.pharogames.net",
+  "supported_languages": [
+    "en"
+  ],
+  "social": {
+    "web": "https://pharogames.net",
+    "web_shop": "https://pharogames.net/store",
+    "web_support": "https://pharogames.net/support",
+    "twitter": "pharogames",
+    "discord": "https://discord.gg/u3RwhRBwv3"
+  },
+  "gamemodes": {
+    "hungergames": {
+      "name": "Hunger Games",
+      "color": "#EF4444",
+      "url": "https://pharogames.net/gamemodes/hungergames"
+    },
+    "microbattles": {
+      "name": "Micro Battles",
+      "color": "#F97316",
+      "url": "https://pharogames.net/gamemodes/microbattles"
+    },
+    "turf-wars": {
+      "name": "Turf Wars",
+      "color": "#A855F7",
+      "url": "https://pharogames.net/gamemodes/turf-wars"
+    },
+    "sheep-wars": {
+      "name": "Sheep Wars",
+      "color": "#A0E060",
+      "url": "https://pharogames.net/gamemodes/sheep-wars"
+    },
+    "speedbuilders": {
+      "name": "Speed Builders",
+      "color": "#FACC15",
+      "url": "https://pharogames.net/gamemodes/speedbuilders"
+    },
+    "red-vs-blue": {
+      "name": "Red vs Blue",
+      "color": "#6366F1",
+      "url": "https://pharogames.net/gamemodes/red-vs-blue"
+    },
+    "dragon-survival": {
+      "name": "Dragon Survival",
+      "color": "#14B8A6",
+      "url": "https://pharogames.net/gamemodes/dragon-survival"
+    },
+    "survival-islands": {
+      "name": "Survival Islands",
+      "color": "#0284C7",
+      "url": "https://pharogames.net/gamemodes/survival-islands"
+    }
+  },
+  "brand": {
+    "primary": "#00E5FF",
+    "background": "#07090A",
+    "text": "#FFFFFF"
+  },
+  "location": {
+    "city": "New York",
+    "country": "United States",
+    "country_code": "US"
+  },
+  "user_stats": "https://pharogames.net/stats/{userName}"
+}

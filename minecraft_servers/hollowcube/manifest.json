@@ -1,0 +1,33 @@
+{
+  "server_name": "hollowcube",
+  "nice_name": "HollowCube",
+  "direct_ip": "hollowcube.net",
+  "supported_languages": [
+     "en"
+  ],
+  "social": {
+    "web": "https://hollowcube.net",
+    "web_shop": "https://hollowcube.net/store",
+    "discord": "https://discord.com/invite/h9Z9DGGJjJ",
+    "twitter": "hollowcubemc"
+  },
+   "gamemodes": {
+    "parkour": {
+      "name": "Parkour", 
+      "color": "#9dff02"
+    },
+    "creative": {
+      "name": "Creative",
+      "color": "#a35224"
+    }
+  },
+  "discord": {
+    "server_id": "998899046322278431",
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#5274ff",
+     "background": "#000000",
+     "text": "#ffffff"
+  }
+}

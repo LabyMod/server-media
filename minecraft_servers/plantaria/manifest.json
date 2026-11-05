@@ -2,18 +2,43 @@
   "server_name": "plantaria",
   "nice_name": "Plantaria",
   "direct_ip": "plantaria.net",
-  "server_wildcards": [
-    "%.plantaria.net",
-    "%.plantaria.dev"
-  ],
   "supported_languages": [
      "de",
      "en"
   ],
   "social": {
+    "web": "https://plantaria.net",
+    "web_shop": "https://plantaria.net/store",
     "twitter": "PlantariaNET",
     "discord": "https://discord.gg/plantaria",
     "tiktok": "plantarianet"
+  },
+  "gamemodes": {
+    "myfarm": {
+      "name": "MyFarm", 
+      "color": "#FFF",
+      "command": "/game myfarm"
+    },
+    "gungame": {
+      "name": "GunGame",
+      "color": "#FFF",
+      "command": "/game gungame"
+    },
+    "rushthecastle": {
+      "name": "RushTheCastle",
+      "color": "#FFF",
+      "command": "/game rushthecastle"
+    },
+    "bedwars": {
+      "name": "BedWars",
+      "color": "#FFF",
+      "command": "/game bedwars"
+    },
+    "tntrun": {
+      "name": "TNTRun",
+      "color": "#FFF",
+      "command": "/game tntrun"
+    }
   },
   "discord": {
     "server_id": 960218560716763176,
@@ -21,7 +46,14 @@
   },
   "brand": {
      "primary": "#57af13",
-     "background": "#d89d2b",
-     "text": "#FFFFFF"
-  }
+     "background": "#fcc800",
+     "text": "#27272a"
+  },
+  "location": {
+     "city": "Berlin",
+     "country": "Germany",
+     "country_code": "DE"
+  },
+  "user_stats": "https://plantaria.net/stats/{userName}",
+  "command_delay": 3000
 }

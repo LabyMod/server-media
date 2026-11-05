@@ -1,0 +1,42 @@
+{
+  "server_name": "rangemc",
+  "nice_name": "RangeMC",
+  "direct_ip": "rangemc.net",
+  "supported_languages": ["de"],
+  "social": {
+    "web": "https://rangemc.net",
+    "web_shop": "https://shop.rangemc.net",
+    "tiktok": "rangemc.net",
+    "instagram": "rangemc",
+    "discord": "https://discord.gg/bjuC5abvJm",
+    "youtube": "https://www.youtube.com/@rangemc"
+  },
+  "gamemodes": {
+    "cb1": {
+      "name": "CityBuild-1",
+      "command": "/quickjoin cb-1",
+      "color": "#ffaa00"
+    },
+    "cb2": {
+      "name": "CityBuild-2",
+      "command": "/quickjoin cb-2",
+      "color": "#ffaa00"
+    }
+  },
+  "discord": {
+    "server_id": 1058101027527737365,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#ffaa00",
+     "background": "#0A56A5",
+     "text": "#FFFFFF"
+  }, 
+  "location": {
+     "city": "Frankfurt",
+     "country": "Germany",
+     "country_code": "DE"
+  },
+  "yt_trailer": "KrwzMFJausA",
+  "command_delay": 3000
+}

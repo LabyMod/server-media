@@ -1,0 +1,29 @@
+{
+    "server_name": "germansmp",
+    "nice_name": "GermanSMP",
+    "direct_ip": "germansmp.de",
+    "supported_languages": ["de"],
+    "social": {
+        "discord": "https://discord.gg/germansmp",
+        "tiktok": "germansmp_de"
+    },
+    "gamemodes": {
+        "survival": {
+            "name": "Survival",
+            "color": "#64BAFF"
+        },
+        "lifesteal": {
+            "name": "Lifesteal",
+            "color": "#FF4848"
+        }
+    },
+    "location": {
+        "city": "Eygelshoven",
+        "country": "Netherlands",
+        "country_code": "NL"
+    },
+    "discord": {
+        "server_id": 1042377714386088000,
+        "rename_to_minecraft_name": false
+    }
+}

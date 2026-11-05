@@ -1,0 +1,36 @@
+{
+  "server_name": "voided",
+  "nice_name": "Voided Network",
+  "direct_ip": "voided.gg",
+  "server_wildcards": ["%.voided.gg"],
+  "supported_languages": ["en"],
+  "social": {
+    "web": "https://voided.gg",
+    "web_shop": "https://store.voided.gg",
+    "twitter": "voided_gg",
+    "tiktok": "voidednetwork",
+    "discord": "https://discord.gg/f6k7mnzxXK",
+    "youtube": "https://www.youtube.com/@VoidedNetwork"
+  },
+  "gamemodes": {
+    "practice": {
+      "name": "Practice",
+      "color": "#7414D7",
+      "command": "/joinqueue practice"
+    }
+  },
+  "discord": {
+    "server_id": "867717118568955904"
+  },
+  "brand": {
+    "primary": "#7414D7",
+    "background": "#4307AB",
+    "text": "#FFFFFF"
+  },
+  "location": {
+    "city": "Sydney",
+    "country": "Australia",
+    "country_code": "AU"
+  },
+  "command_delay": 250
+}

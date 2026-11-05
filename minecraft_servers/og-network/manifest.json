@@ -13,5 +13,11 @@
   "brand": {
      "primary": "#151f38",
      "background": "#58ff87"
+  },
+  "gamemodes": {
+    "rpgsmp": {
+      "name": "RPG-SMP",
+      "color": "#151f38"
+    }
   }
 }

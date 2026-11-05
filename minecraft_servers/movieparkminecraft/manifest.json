@@ -1,0 +1,25 @@
+{ 
+  "server_name": "movieparkminecraft", 
+  "nice_name": "Movie Park Minecraft", 
+  "direct_ip": "play.moviepark-minecraft.de",  
+  "supported_languages": [
+    "de", "en", "nl"
+  ], 
+  "social": {
+    "web": "https://moviepark-minecraft.de", 
+    "web_shop": "https://store.moviepark-minecraft.de", 
+    "youtube": "https://www.youtube.com/@movieparkmc", 
+    "instagram": "movieparkmc", 
+    "tiktok": "movieparkmc", 
+    "discord": "https://discord.com/invite/XfgBU32RM7"
+  }, 
+  "discord": {
+    "server_id": 1019618976432656467
+  }, 
+  "yt_trailer": "zWGbcO_P0E0",
+  "brand": {
+    "primary": "#5555ff", 
+    "background": "#00182e", 
+    "text": "#ffffff"
+  }
+}

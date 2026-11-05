@@ -1,0 +1,34 @@
+{
+  "server_name": "reventox",
+  "nice_name": "Reventox.net",
+  "direct_ip": "play.reventox.net",
+  "supported_languages": [
+    "de",
+    "en",
+    "pl"
+  ],
+  "social": {
+    "tiktok": "reventoxnet",
+    "youtube": "https://www.youtube.com/@Reventox",
+    "discord": "https://discord.gg/fcHQ7wGx82"
+  },
+  "gamemodes": {
+    "eventserver": {
+      "name": "Challenges",
+      "color": "#181848"
+    }
+  },
+  "discord": {
+    "server_id": 818115952088580116
+  },
+  "brand": {
+    "primary": "#181848",
+    "background": "#181848",
+    "text": "#ffffff"
+  },
+  "location": {
+    "city": "Frankfurt am Main",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}

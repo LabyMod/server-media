@@ -1,0 +1,57 @@
+{
+  "server_name": "agerapvp",
+  "nice_name": "AgeraPvP Club",
+  "direct_ip": "mc.agerapvp.club",
+  "server_wildcards": [
+    "%.agerapvp.club",
+    "%.agerapvp.net"
+  ],
+  "supported_languages": [
+     "ru",
+     "en"
+  ],
+  "social": {
+    "web_shop": "https://agerapvp.club",
+    "web_support": "https://support.agerapvp.club",
+    "discord": "https://discord.gg/qeV59SXJfU"
+  },
+  "gamemodes": {
+    "bedwars": {
+      "name": "BedWars", 
+      "color": "#E32636",
+      "command": "/l bw",
+      "versions": "1.8<*"
+    },
+    "duels": {
+      "name": "Duels",
+      "color": "#ff00da",
+      "command": "/l duels",
+      "versions": "1.8<*"
+    },
+    "buildffa": {
+      "name": "BuildFFA",
+      "color": "#9aceeb",
+      "command": "/l buildffa",
+      "versions": "1.8<*"
+    },
+    "arcade": {
+      "name": "Arcade",
+      "color": "#42ebaa",
+      "command": "/l arcade",
+      "versions": "1.8<*"
+    }
+  },
+  "discord": {
+    "server_id": 1196120096045801492,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#00c5ff"
+  }, 
+  "location": {
+     "city": "Frankfurt",
+     "country": "Germany",
+     "country_code": "DE"
+  },
+  "command_delay": 1000
+}
