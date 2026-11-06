@@ -1,7 +1,10 @@
 {
   "server_name": "flame",
   "nice_name": "FlameMC",
-  "direct_ip": "jogar.flamemc.com.br",
+  "direct_ip": "flamemc.com.br",
+  "server_wildcards": [
+   "%.flamemc.com.br"
+],
   "supported_languages": [
     "pt-BR",
     "pt-PT"

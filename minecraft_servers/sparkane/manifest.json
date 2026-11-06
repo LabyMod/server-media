@@ -1,0 +1,29 @@
+{
+  "server_name": "sparkane",
+  "nice_name": "Sparkane",
+  "direct_ip": "play.sparkane.com",
+  "supported_languages": [
+    "de",
+    "en"
+  ],
+  "social": {
+    "web": "https://sparkane.com",
+    "web_shop": "https://sparkane.com/shop",
+    "web_support": "https://sparkane.com/guides/troubleshooting",
+    "twitter": "SparkaneMC",
+    "tiktok": "sparkane",
+    "discord": "https://discord.gg/S9CCheGFg8",
+    "youtube": "https://www.youtube.com/@Sparkane"
+  },
+  "gamemodes": {
+    "challenges": {
+      "name": "Challenges",
+      "color": "#FF854A",
+      "url": "https://sparkane.com/guides/challenges",
+      "versions": "1.21.11<26.3"
+    }
+  },
+  "brand": {
+    "primary": "#FFA500"
+  }
+}

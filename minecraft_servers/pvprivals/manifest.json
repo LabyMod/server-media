@@ -1,51 +1,73 @@
 
 {
   "server_name": "pvprivals",
-  "nice_name": "Rivals",
+  "nice_name": "PvPRivals",
   "direct_ip": "pvprivals.net",
+  "server_wildcards": [
+    "%.pvprivals.net"
+  ],
   "supported_languages": [
-    "en"
+    "en",
+    "de"
   ],
   "social": {
     "web": "https://pvprivals.net",
-    "web_shop": "https://store.pvprivals.net",
+    "web_shop": "https://pvprivals.net/store",
+    "web_support": "https://discord.gg/pvprivals",
     "discord": "https://discord.gg/pvprivals",
-    "twitter": "PvPRivalsNet"
+    "twitter": "PvPRivalsNet",
+    "tiktok": "pvprivals"
   },
   "gamemodes": {
     "practice": {
-      "name": "Practice",
-      "color": "#FFAA00",
-      "url": "https://pvprivals.net/leaderboards"
-    },
-    "sgcw": {
-      "name": "SGCW",
-      "color": "#FFAA00",
-      "url": "https://pvprivals.net/leaderboards"
+      "name": "Duels",
+      "color": "#55FFFF",
+      "url": "https://pvprivals.net/leaderboards?mode=ARENA_1VS1",
+      "command": "/quickjoin duels",
+      "versions": "1.7<*"
     },
     "uhc": {
       "name": "UHC",
-      "color": "#FFAA00",
-      "url": "https://pvprivals.net/leaderboards"
+      "color": "#55FFFF",
+      "url": "https://pvprivals.net/uhc",
+      "command": "/quickjoin uhc",
+      "versions": "1.7<*"
     },
     "meetup": {
-      "name": "Meetup",
-      "color": "#FFAA00",
-      "url": "https://pvprivals.net/leaderboards"
+      "name": "UHC Meetup",
+      "color": "#55FFFF",
+      "url": "https://pvprivals.net/leaderboards?mode=MEETUP",
+      "command": "/quickjoin meetup",
+      "versions": "1.7<*"
     }
   },
+  "chat": {
+    "message_formats": [
+      "^(?:[^:\\r\\n]*? )?(?:\\u00a7[0-9a-fk-orxA-FK-ORX])+(?<sender>[A-Za-z0-9_]{2,16})(?:\\u00a7[0-9a-fk-orxA-FK-ORX])*(?: (?:\\u00a7[0-9a-fk-orxA-FK-ORX])*\\[[^\\]\\r\\n]+\\](?:\\u00a7[0-9a-fk-orxA-FK-ORX])*)?(?:\\u00a7[0-9a-fk-orxA-FK-ORX])*: (?:\\u00a7[0-9a-fk-orxA-FK-ORX])*(?<message>.*)$"
+    ]
+  },
   "discord": {
-    "server_id": 588714576590274560,
+    "server_id": 1114071625042776064,
     "rename_to_minecraft_name": false
   },
   "location": {
-    "city": "Frankfurt am Main",
+    "city": "Frankfurt",
     "country": "Germany",
     "country_code": "DE"
   },
   "brand": {
-    "primary": "#00AAAA",
-    "background": "#005C5C",
+    "primary": "#55FFFF",
+    "background": "#0D0604",
     "text": "#FFFFFF"
+  },
+  "user_stats": "https://pvprivals.net/profile/{userName}",
+  "command_delay": 3000,
+  "party": {
+    "invite": "/party invite {userName}",
+    "accept": "/party accept {userName}",
+    "leave": "/party leave",
+    "kick": "/party kick {userName}",
+    "disband": "/party disband",
+    "transfer": "/party leader {userName}"
   }
 }
