@@ -6,6 +6,7 @@
     "es"
   ],
   "social": {
+    "discord": "https://discord.com/invite/5hUQU3jGWR",
     "web": "https://zafiriamc.es",
     "web_shop": "https://tienda.zafiriamc.es",
     "web_support": "https://zafiriamc.es/info",
@@ -29,5 +30,9 @@
       "color": "#ffaa00",
       "versions": "1.16<26.3"
     }
+  },
+  "discord": {
+      "server_id": 1480690279366525021,
+      "rename_to_minecraft_name": false
   }
 }
