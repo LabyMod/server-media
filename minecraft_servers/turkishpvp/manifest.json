@@ -1,0 +1,37 @@
+{
+  "server_name": "turkishpvp",
+  "nice_name": "Turkish PvP Club",
+  "direct_ip": "turkishpvp.club",
+  "server_wildcards": [
+    "%.turkishpvp.club",
+    "%.turkishpvp.community"
+  ],
+  "supported_languages": [
+    "tr"
+  ],
+  "social": {
+    "web": "https://turkishpvp.club",
+    "web_shop": "https://store.turkishpvp.club",
+    "web_support": "https://support.turkishpvp.club",
+    "tiktok": "turkishpvpclub",
+    "instagram": "turkishpvpclub",
+    "discord": "https://discord.gg/turkishpvp",
+    "youtube": "https://www.youtube.com/@turkishpvpclub"
+  },
+  "brand": {
+    "primary": "#FF5555",
+    "background": "#7A1016",
+    "text": "#FFFFFF"
+  },
+  "party": {
+    "invite": "/parti davet {userName}",
+    "accept": "/parti kabul {userName}",
+    "leave": "/parti ayril",
+    "kick": "/parti at {userName}",
+    "disband": "/parti dagit",
+    "transfer": "/parti lider {userName}",
+    "warp": "/parti warp",
+    "jump": "/parti jump {userName}"
+  },
+  "user_stats": "https://turkishpvp.club/oyuncu/{userName}"
+}
