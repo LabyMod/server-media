@@ -19,22 +19,22 @@
     "citybuild1": {
       "name": "CityBuild 1", 
       "color": "#52ff59",
-      "command": "/queue citybuild1"
+      "command": "/citybuild1"
     },
     "citybuild2": {
       "name": "CityBuild 2", 
       "color": "#52ff59",
-      "command": "/queue citybuild2"
+      "command": "/citybuild2"
     },
     "citybuild3": {
       "name": "CityBuild 3",
       "color": "#52ff59",
-      "command": "/queue citybuild3"
+      "command": "/citybuild3"
     },
     "citybuildmelone": {
       "name": "CityBuild Melone", 
       "color": "#52ff59",
-      "command": "/queue citybuildmelone"
+      "command": "/citybuildmelone"
     }
   }
 }
