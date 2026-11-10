@@ -3,7 +3,7 @@
   "nice_name": "BRGBlocks",
   "direct_ip": "brgblocks.net",
   "server_wildcards": [
-    "*.brgblocks.net"
+    "%.brgblocks.net"
   ],
   "supported_languages": [
     "de"
