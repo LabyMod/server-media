@@ -1,0 +1,27 @@
+{
+  "server_name": "atlas",
+  "nice_name": "Atlas",
+  "direct_ip": "mcatlas.cz",
+  "server_wildcards": [
+    "%.mcatlas.cz"
+  ],
+  "supported_languages": [
+    "cs"
+  ],
+  "social": {
+    "web": "https://mcatlas.cz",
+    "web_shop": "https://store.mcatlas.cz",
+    "discord": "https://discord.gg/5fCD4JxJe6",
+    "tiktok": "mcatlas0",
+    "instagram": "mcatlas.cz"
+  },
+  "discord": {
+    "server_id": 1395873083415461939,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#f0b428",
+    "background": "#1b2a3a",
+    "text": "#ffffff"
+  }
+}
