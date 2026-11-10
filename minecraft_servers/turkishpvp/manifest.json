@@ -4,7 +4,10 @@
   "direct_ip": "turkishpvp.club",
   "server_wildcards": [
     "%.turkishpvp.club",
-    "%.turkishpvp.community"
+    "%.turkishpvp.community",
+    "%.turkishpvp.net",
+    "%.turkishpvp.com",
+    "%.trpvp.net"
   ],
   "supported_languages": [
     "tr"
