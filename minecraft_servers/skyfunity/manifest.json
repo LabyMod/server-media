@@ -6,7 +6,8 @@
     "%.skyfunity.de"
   ],
   "supported_languages": [
-    "de"
+    "de",
+    "en"
   ],
   "social": {
     "web": "https://skyfunity.de",
@@ -16,16 +17,31 @@
   "gamemodes": {
     "citybuild": {
       "name": "CityBuild",
-      "color": "#88C8F8"
+      "color": "#88C8F8",
+      "url": "https://skyfunity.de",
+      "command": "/spawn"
     },
     "gens": {
       "name": "Gens (Tycoon)",
-      "color": "#B48CF8"
+      "color": "#B48CF8",
+      "url": "https://skyfunity.de"
     },
     "erntefarm": {
       "name": "Erntefarm",
-      "color": "#F8C878"
+      "color": "#F8C878",
+      "url": "https://skyfunity.de",
+      "command": "/erntefarm"
+    },
+    "prison": {
+      "name": "Prison",
+      "color": "#C8753C",
+      "url": "https://skyfunity.de",
+      "command": "/prison"
     }
+  },
+  "discord": {
+    "server_id": 1540723998411984987,
+    "rename_to_minecraft_name": false
   },
   "brand": {
     "primary": "#88C8F8",
