@@ -1,13 +1,18 @@
 {
   "server_name": "brgblocks",
   "nice_name": "BRGBlocks",
-    "direct_ip": "brgblocks.net",
+  "direct_ip": "brgblocks.net",
   "server_wildcards": [
     "*.brgblocks.net"
   ],
   "supported_languages": [
     "de"
   ],
+  "location": {
+    "city": "Dresden",
+    "country": "Germany",
+    "country_code": "DE"
+  },
   "social": {
     "web": "https://brgblocks.net",
     "web_shop": "https://brgblocks.net/shop",
@@ -54,10 +59,5 @@
     "primary": "#D7112A",
     "background": "#17171C",
     "text": "#FFFFFF"
-  },
-  "location": {
-    "city": "Dresden",
-    "country": "Germany",
-    "country_code": "DE"
   }
 }
