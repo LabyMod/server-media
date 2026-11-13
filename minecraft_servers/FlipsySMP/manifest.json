@@ -1,17 +1,17 @@
 {
-  "server_name": "FlipsySMP",
+  "server_name": "flipsysmp",
   "nice_name": "Flipsyy Community SMP",
   "direct_ip": "flipsyy.de",
   "server_wildcards": [
-    "play.flipsyy.de"
+    "%.flipsyy.de"
   ],
   "supported_languages": [
-     "en",
-     "de"
+    "de",
+    "en"
   ],
   "social": {
     "web": "https://flipsyy.de",
-    "web_support": "https://flipsyy.de/support/",
+    "web_support": "https://flipsyy.de/support",
     "twitter": "fiiipsy",
     "tiktok": "fiiipsy",
     "instagram": "fliiipsyy",
@@ -19,8 +19,8 @@
     "youtube": "https://www.youtube.com/@FIipsy"
   },
   "gamemodes": {
-    "jumpworld": {
-      "name": "SMP", 
+    "smp": {
+      "name": "SMP",
       "color": "#FFA500",
       "url": "https://flipsyy.de/smp/",
       "versions": "1.21.11<*"
@@ -35,7 +35,7 @@
   },
   "chat": {
     "message_formats": [
-      "^§[a-f0-9](?<level>\\d+)( \\||§8 \\|) §[a-f0-9](?<sender>[a-zA-Z0-9_]{2,16})§r§7: §f(?<message>.*)$"
+      "^(?:§[0-9a-fk-orx])*\\[(?<rank>[^\\]]{1,40})\\](?:§[0-9a-fk-orx])* (?:§[0-9a-fk-orx])* (?:§[0-9a-fk-orx])*(?<sender>[a-zA-Z0-9_]{2,16})(?:§[0-9a-fk-orx])*: (?:§[0-9a-fk-orx])*(?<message>.*)$"
     ]
   },
   "discord": {
@@ -43,16 +43,15 @@
     "rename_to_minecraft_name": false
   },
   "brand": {
-     "primary": "#121212",
-     "background": "#1a1a1a",
-     "text": "#A0A0A0"
-  }, 
+    "primary": "#121212",
+    "background": "#1a1a1a",
+    "text": "#A0A0A0"
+  },
   "location": {
-     "city": "Frankfurt",
-     "country": "Germany",
-     "country_code": "DE"
+    "city": "Frankfurt",
+    "country": "Germany",
+    "country_code": "DE"
   },
   "yt_trailer": "7I7bR13-920",
-  "user_stats": "https://laby.net/@{userName}",
   "command_delay": 3000
 }
