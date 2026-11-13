@@ -1,0 +1,26 @@
+{
+  "server_name": "starkffa",
+  "nice_name": "STARK FFA",
+  "direct_ip": "starkffa.xyz",
+  "server_wildcards": [
+    "%.starkffa.xyz",
+    "%.starkffa.net"
+  ],
+  "supported_languages": [
+    "en"
+  ],
+  "social": {
+    "web_shop": "https://starkffa.mysellauth.com",
+    "discord": "https://discord.gg/4Tmwggbq3h",
+    "tiktok": "starkffa.xyz"
+  },
+  "discord": {
+    "server_id": 1474698552541450457,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#3FE0FF",
+    "background": "#07090D",
+    "text": "#F2F6FA"
+  }
+}
