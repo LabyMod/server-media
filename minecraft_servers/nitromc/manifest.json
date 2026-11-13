@@ -11,17 +11,17 @@
     "gamemodes": {
       "cb": {
         "name": "CityBuild",
-        "color": "#108bed3",
+        "color": "#108bed",
         "command": "/nav citybuild"
       },
       "bauwelt": {
         "name": "SMP",
-        "color": "#108bed3",
+        "color": "#108bed",
         "command": "/nav Bauwelt"
       },
       "pvp": {
         "name": "PVP",
-        "color": "#108bed3",
+        "color": "#108bed",
         "command": "/nav pvp"
       }
     },

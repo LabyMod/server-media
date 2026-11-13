@@ -39,7 +39,7 @@
     },
     "brand": {
        "primary": "#77d5eb",
-       "background": "#00000",
+       "background": "#000000",
        "text": "#FFFFFF"
     },
     "location": {

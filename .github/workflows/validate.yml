@@ -6,6 +6,9 @@ on:
       - opened
       - reopened
       - synchronize
+  push:
+    branches:
+      - master
 
 permissions:
   contents: read
@@ -23,12 +26,20 @@ jobs:
           # image files only. The checked-out repository must never be built or
           # execute scripts (npm, make, gradle, etc.), otherwise this becomes
           # vulnerable to pwn requests.
-          ref: refs/pull/${{ github.event.number }}/merge
+          ref: ${{ github.event_name == 'push' && github.sha || format('refs/pull/{0}/merge', github.event.number) }}
+          fetch-depth: 2
           allow-unsafe-pr-checkout: true
+      # Pull requests only validate the server directories they change, pushes to master validate all of them
+      - name: List changed files
+        if: github.event_name == 'pull_request_target'
+        run: |
+          rm -f changed_files.txt
+          git -c core.quotePath=false diff --name-status --no-renames HEAD^1 HEAD > changed_files.txt
       - name: Validate images
         uses: LabyMod/server-media/.github/actions/validate@master
   validate_manifest:
     name: Manifest
+    if: github.event_name == 'pull_request_target'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout PR merge commit
@@ -39,19 +50,14 @@ jobs:
           # execute scripts (npm, make, gradle, etc.), otherwise this becomes
           # vulnerable to pwn requests.
           ref: refs/pull/${{ github.event.number }}/merge
+          fetch-depth: 2
           allow-unsafe-pr-checkout: true
-      - name: Get changed files
-        uses: lots0logs/gh-action-get-changed-files@6cb5164a823dbf3318b7c8032a333b4b7ed425b2
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-      - name: Add json
-        run:
-          cp ${HOME}/files.json ./
+      - name: List changed files
+        run: |
+          rm -f changed_files.txt
+          git -c core.quotePath=false diff --name-status --no-renames HEAD^1 HEAD > changed_files.txt
       - name: Validate manifest
         uses: LabyMod/server-media/.github/actions/validate-manifest@master
         env:
           PR_ID: ${{ github.event.pull_request.number }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          COMMIT_SHA: ${{ github.event.pull_request.head.sha }}
-          COMMIT_URL: ${{ github.event.pull_request.head.repo.commits_url }}
-          PR_ACTION: ${{ github.event.action }}

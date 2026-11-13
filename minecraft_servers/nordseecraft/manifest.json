@@ -19,6 +19,11 @@
       "name": "Citybuild", 
       "command": "/warp gs",
       "color": "#3edec2"
+    },
+    "neuland": {
+      "name": "Neuland", 
+      "command": "/warp neuland",
+      "color": "#fbd200"
     }
   },
   "discord": {

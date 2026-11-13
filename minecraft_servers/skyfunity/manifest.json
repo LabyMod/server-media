@@ -1,0 +1,39 @@
+{
+  "server_name": "skyfunity",
+  "nice_name": "SkyFunity",
+  "direct_ip": "skyfunity.de",
+  "server_wildcards": [
+    "%.skyfunity.de"
+  ],
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "web": "https://skyfunity.de",
+    "web_shop": "https://shop.skyfunity.de",
+    "discord": "https://discord.gg/BFrhHMYgrV"
+  },
+  "gamemodes": {
+    "citybuild": {
+      "name": "CityBuild",
+      "color": "#88C8F8"
+    },
+    "gens": {
+      "name": "Gens (Tycoon)",
+      "color": "#B48CF8"
+    },
+    "erntefarm": {
+      "name": "Erntefarm",
+      "color": "#F8C878"
+    }
+  },
+  "brand": {
+    "primary": "#88C8F8",
+    "background": "#0B0B12",
+    "text": "#FFFFFF"
+  },
+  "location": {
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}

@@ -5,7 +5,7 @@
   "supported_languages": ["de", "en"],
   "social": {
     "web": "https://lyndara.net",
-    "shop": "https://shop.lyndara.net",
+    "web_shop": "https://shop.lyndara.net",
     "discord": "https://discord.gg/lyndara",
     "tiktok": "lyndaranet",
     "youtube": "https://www.youtube.com/@lyndaranet"
@@ -20,7 +20,7 @@
   },
   "brand": {
     "primary": "#5adaa0",
-    "background": "#00000",
+    "background": "#000000",
     "text": "#d2e0e0"
   },
   "location": {

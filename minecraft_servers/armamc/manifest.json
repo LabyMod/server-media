@@ -18,13 +18,13 @@
         "name": "Gênesis",
         "color": "#FF0055",
         "command": "/genesis",
-        "versions": "1.8-1.21"
+        "versions": "1.8<1.21"
       },
       "survival-apoc": {
         "name": "Apocalipse",
         "color": "#FF0055",
         "command": "/apocalipse",
-        "versions": "1.8-1.21"
+        "versions": "1.8<1.21"
       }
     },
     "discord": {

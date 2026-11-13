@@ -1,0 +1,41 @@
+{
+  "server_name": "torchcraft",
+  "nice_name": "TorchCraft",
+  "direct_ip": "server.torchcraft.nl",
+  "supported_languages": [
+    "nl"
+  ],
+  "social": {
+    "web": "https://www.torchcraft.nl",
+    "web_shop": "https://winkel.torchcraft.nl",
+    "web_support": "https://help.torchcraft.nl",
+    "discord": "https://discord.gg/w3hxqT5"
+  },
+  "brand": {
+    "primary": "#f9bd12",
+    "background": "#4e3e27",
+    "text": "#ffffff"
+  },
+  "gamemodes": {
+    "survival": {
+      "name": "Survival",
+      "color": "#f9bd12"
+    },
+    "skyblock": {
+      "name": "Skyblock",
+      "color": "#f9bd12"
+    },
+    "creative": {
+      "name": "Creative",
+      "color": "#f9bd12"
+    },
+    "hardcore": {
+      "name": "Hardcore",
+      "color": "#f9bd12"
+    },
+    "event": {
+      "name": "Event",
+      "color": "#f9bd12"
+    }
+  }
+}

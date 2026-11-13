@@ -1,0 +1,39 @@
+{
+  "server_name": "hyperknox",
+  "nice_name": "Hyperknox Reborn",
+  "direct_ip": "hyperknox.de",
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "web": "https://wiki.hyperknox.de",
+    "web_shop": "https://shop.hyperknox.de",
+    "web_support": "https://wiki.hyperknox.de",
+    "discord": "https://discord.gg/hvcs7maaHB",
+    "youtube": "https://www.youtube.com/@RealHyperknox"
+  },
+  "gamemodes": {
+    "citybuild": {
+      "name": "Citybuild",
+      "color": "#1E90FF"
+    },
+    "mmog": {
+      "name": "MMOG",
+      "color": "#00BFFF"
+    },
+    "minigames": {
+      "name": "Minigames",
+      "color": "#4F6BFF"
+    }
+  },
+  "brand": {
+    "primary": "#1E90FF",
+    "background": "#050A1E",
+    "text": "#FFFFFF"
+  },
+  "location": {
+    "city": "Frankfurt a.M.",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}

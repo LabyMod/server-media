@@ -1,0 +1,68 @@
+{
+  "server_name": "minecube",
+  "nice_name": "MineCube",
+  "direct_ip": "mc.minecube.net",
+  "supported_languages": [
+    "fr",
+    "en",
+    "de",
+    "es",
+    "it",
+    "ru",
+    "pt",
+    "pl",
+    "sv",
+    "nl",
+    "no",
+    "tr"
+  ],
+  "social": {
+    "web": "https://www.minecube.net",
+    "twitter": "minecube_net",
+    "discord": "https://discord.gg/dAFgxMpUNy",
+    "tiktok": "minecube_net",
+    "instagram": "minecube_net"
+  },
+  "discord": {
+    "server_id": 1475534833970319600
+  },
+  "gamemodes": {
+    "bedwars": {
+      "name": "BedWars",
+      "color": "#E135DE"
+    },
+    "thetowers": {
+      "name": "TheTowers",
+      "color": "#FC7434"
+    },
+    "freezetag": {
+      "name": "FreezeTag",
+      "color": "#33B0E4"
+    },
+    "werewolf": {
+      "name": "Werewolf",
+      "color": "#724F31"
+    },
+    "target": {
+      "name": "Target",
+      "color": "#E63838"
+    },
+    "hungergames": {
+      "name": "HungerGames",
+      "color": "#62E433"
+    }
+  },
+  "brand": {
+    "primary": "#228CDC",
+    "background": "#1B1B1B",
+    "text": "#FFFFFF"
+  },
+  "party": {
+    "invite": "/party invite {userName}",
+    "accept": "/party accept {userName}",
+    "leave": "/party leave",
+    "kick": "/party kick {userName}",
+    "transfer": "/party leader {userName}",
+    "warp": "/party warp"
+  }
+}

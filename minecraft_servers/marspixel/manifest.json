@@ -23,64 +23,47 @@
       "youtube": "https://www.youtube.com/@PlayMarsMC"
     },
     "gamemodes": {
+      "prison": {
+          "name": "Prison",
+          "color": "#7d18db",
+          "command": "/prison",
+          "versions": "1.21<*"
+      },
+      "survival": {
+          "name": "Survival",
+          "color": "#2cb307",
+          "command": "/survival",
+          "versions": "1.21<*"
+      },
       "superpvp": {
           "name": "PvP",
-          "color": "#ffffff",
+          "color": "#e02424",
           "command": "/pvp",
           "versions": "1.8<*"
       },
-      "survivalgames": {
-        "name": "Survival Games",
-        "color": "#ffffff",
-        "command": "/sg",
-        "versions": "1.8<*"
-      },
-      "practice": {
-        "name": "Practice",
-        "color": "#ffffff",
-        "command": "/practice",
-        "versions": "1.8<*"
+      "timv": {
+          "name": "TTT",
+          "color": "#d47e0f",
+          "command": "/timv",
+          "versions": "1.21<*"
       },
       "1vs1": {
-        "name": "Duels",
-        "color": "#ffffff",
-        "command": "/practice",
-        "versions": "1.8<*"
+          "name": "Duels",
+          "color": "#e3348f",
+          "command": "/practice",
+          "versions": "1.8<*"
       },
-      "pof": {
-          "name": "Pillars of Fortune",
-          "color": "#ffffff",
-          "command": "/pof",
+      "survivalgames": {
+          "name": "Survival Games",
+          "color": "#8b5a2b",
+          "command": "/sg",
           "versions": "1.8<*"
       },
       "creative": {
           "name": "Creative",
-          "color": "#ffffff",
+          "color": "#1fb5d6",
           "command": "/creative",
           "versions": "1.8<*"
-      },
-      "blockparty": {
-          "name": "BlockParty",
-          "color": "#ffffff",
-          "versions": "1.8<*"
-      },
-      "gravity": {
-          "name": "Gravity",
-          "color": "#ffffff",
-          "command": "/gravity",
-          "versions": "1.8<*"
-      },
-      "survival": {
-          "name": "Survival",
-          "color": "#ffffff",
-          "command": "/survival",
-          "versions": "1.21<*"
-      },
-      "timv": {
-        "name": "TTT",
-        "color": "#ffffff",
-        "command": "/timv",
-        "versions": "1.8<*"
       }
     },
     "location": {

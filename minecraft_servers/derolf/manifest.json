@@ -9,17 +9,17 @@
   "gamemodes": {
     "smp": {
       "name": "SMP",
-      "versions": "1.21.x",
+      "versions": "1.21<1.21.11",
       "color": "#2ecc71"
     },
     "creative": {
       "name": "Creative",
-      "versions": "1.21.x",
+      "versions": "1.21<1.21.11",
       "color": "#2ecc71"
     },
     "bedwars": {
       "name": "Bedwars",
-      "versions": "1.21.x",
+      "versions": "1.21<1.21.11",
       "color": "#2ecc71"
     },
     "duels": {

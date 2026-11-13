@@ -1,0 +1,62 @@
+{
+  "server_name": "triallab",
+  "nice_name": "Triallab",
+  "direct_ip": "mc.triallab.net",
+  "server_wildcards": [
+    "%.triallab.net"
+  ],
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "web": "https://triallab.net",
+    "web_shop": "https://triallab.net/shop",
+    "web_support": "https://triallab.net/kontakt",
+    "discord": "https://discord.gg/jRXN4p4HUk",
+    "youtube": "https://www.youtube.com/@Triallabnet",
+    "tiktok": "triallab.net"
+  },
+  "gamemodes": {
+    "randomizer": {
+      "name": "Randomizer",
+      "color": "#A855F7"
+    },
+    "chunklock": {
+      "name": "Chunklock",
+      "color": "#F59E0B"
+    },
+    "chunkvoid": {
+      "name": "Chunk = Void",
+      "color": "#6366F1"
+    },
+    "redlightgreenlight": {
+      "name": "Red Light Green Light",
+      "color": "#EF4444"
+    },
+    "floorislava": {
+      "name": "Floor is Lava",
+      "color": "#F97316"
+    },
+    "chunkrandomizer": {
+      "name": "Chunk Randomizer",
+      "color": "#14B8A6"
+    },
+    "mobarmybattle": {
+      "name": "Mob Army Battle",
+      "color": "#22C55E"
+    },
+    "forceitembattle": {
+      "name": "Force Item Battle",
+      "color": "#3B82F6"
+    }
+  },
+  "brand": {
+    "primary": "#8B5CF6",
+    "background": "#09090B",
+    "text": "#FFFFFF"
+  },
+  "location": {
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}
