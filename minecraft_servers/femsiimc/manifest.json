@@ -1,0 +1,20 @@
+{
+  "server_name": "femsiimc",
+  "nice_name": "Femsii-MC",
+  "direct_ip": "mc.femsii.de",
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "web": "https://femsii.de",
+    "discord": "https://discord.gg/kTe6WPn8uN"
+  },
+  "discord": {
+    "server_id": 1561083365585723534
+  },
+  "brand": {
+    "primary": "#E081FC",
+    "background": "#575757",
+    "text": "#FFFFFF"
+  }
+}
