@@ -1,0 +1,35 @@
+{
+  "server_name": "magichills",
+  "nice_name": "MagicHills.net",
+  "direct_ip": "magichills.net",
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "web": "https://magichills.net",
+    "discord": "https://discord.gg/ucJNgcGaMa"
+  },
+  "gamemodes": {
+    "citybuild": {
+      "name": "CityBuild",
+      "color": "#3F2CFA"
+    },
+    "skywars": {
+      "name": "SkyWars",
+      "color": "#7B6CFC"
+    }
+  },
+  "discord": {
+    "server_id": 1377787708734308352,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#3F2CFA",
+    "background": "#2A1DB5",
+    "text": "#FFFFFF"
+  },
+  "location": {
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}
