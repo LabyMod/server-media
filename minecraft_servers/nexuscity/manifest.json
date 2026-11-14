@@ -1,0 +1,64 @@
+{
+  "server_name": "nexuscity",
+  "nice_name": "Nexus City",
+  "direct_ip": "nexus-city.net",
+  "server_wildcards": [
+    "%.nexus-city.net"
+  ],
+  "supported_languages": [
+    "de",
+    "en"
+  ],
+  "social": {
+    "web": "https://nexus-city.net",
+    "web_shop": "https://shop.nexus-city.net",
+    "web_support": "https://wiki.nexus-city.net",
+    "tiktok": "nexus.city.net_de",
+    "instagram": "nexus.city.net.offical",
+    "discord": "https://discord.gg/37eS4GKBJM",
+    "youtube": "https://www.youtube.com/@nexus-city.net_offical"
+  },
+  "gamemodes": {
+    "citybuild": {
+      "name": "Citybuild",
+      "color": "#00E1FD",
+      "url": "https://wiki.nexus-city.net/servers.php",
+      "command": "/spawn",
+      "versions": "1.21.4<*"
+    },
+    "farm": {
+      "name": "Farm",
+      "color": "#F59E0B",
+      "url": "https://wiki.nexus-city.net/servers.php",
+      "command": "/farm",
+      "versions": "1.21.4<*"
+    },
+    "nature": {
+      "name": "Nature",
+      "color": "#22C55E",
+      "url": "https://wiki.nexus-city.net/servers.php",
+      "command": "/nature",
+      "versions": "1.21.4<*"
+    },
+    "buildworld": {
+      "name": "Build World",
+      "color": "#5B8CFF",
+      "url": "https://wiki.nexus-city.net/servers.php",
+      "command": "/cb1",
+      "versions": "1.21.4<*"
+    }
+  },
+  "discord": {
+    "server_id": 1476462519391621182,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#00E1FD",
+    "background": "#05020C",
+    "text": "#FFFFFF"
+  },
+  "location": {
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}
