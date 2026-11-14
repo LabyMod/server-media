@@ -1,0 +1,52 @@
+{
+  "server_name": "mustpvp",
+  "nice_name": "MustPvP",
+  "direct_ip": "mustpvp.pl",
+  "server_wildcards": [
+    "%.mustpvp.pl"
+  ],
+  "supported_languages": [
+    "pl",
+    "en"
+  ],
+  "social": {
+    "web": "https://mustpvp.pl",
+    "web_shop": "https://sklep.mustpvp.pl",
+    "discord": "https://discord.com/invite/mustpvp"
+  },
+  "gamemodes": {
+    "practice": {
+      "name": "Practice",
+      "color": "#19C4DC",
+      "versions": "1.7<*"
+    },
+    "duels": {
+      "name": "Duels",
+      "color": "#19C4DC",
+      "versions": "1.21<*"
+    },
+    "ffa": {
+      "name": "FFA",
+      "color": "#19C4DC",
+      "versions": "1.7<*"
+    },
+    "skyblock": {
+      "name": "SkyBlock",
+      "color": "#19C4DC",
+      "versions": "1.21<*"
+    }
+  },
+  "discord": {
+    "server_id": 1120463853751382018,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#19C4DC",
+    "background": "#0E2A4A",
+    "text": "#FFFFFF"
+  },
+  "location": {
+    "country": "Poland",
+    "country_code": "PL"
+  }
+}
