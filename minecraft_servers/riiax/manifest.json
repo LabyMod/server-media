@@ -1,0 +1,17 @@
+{
+  "server_name": "riiax",
+  "nice_name": "Riiax",
+  "direct_ip": "riiax.com",
+  "supported_languages": [
+    "de"
+  ],
+  "brand": {
+    "primary": "#1ABC9C",
+    "background": "#0B1F1C",
+    "text": "#F7FFFC"
+  },
+  "location": {
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}
