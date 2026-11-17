@@ -12,16 +12,6 @@
     "discord": "https://discord.gg/WSdKtNyzxc"
   },
   "gamemodes": {
-    "ascend": {
-      "name": "Ascend",
-      "color": "#FFFFFF",
-      "command": "/ascend"
-    },
-    "knockit": {
-      "name": "KnockIT",
-      "color": "#55FF55",
-      "command": "/knockit"
-    },
     "skywars": {
       "name": "SkyWars",
       "color": "#FFFFFF",
@@ -37,15 +27,9 @@
       "color": "#FF55FF",
       "command": "/cakerush"
     },
-    "shop": {
-      "name": "Shop",
+    "cod": {
+      "name": "COD",
       "color": "#FFAA00",
-      "command": "/ranks"
-    },
-    "reward": {
-      "name": "Reward",
-      "color": "#FFAA00",
-      "command": "/daily"
     }
   },
   "discord": {
