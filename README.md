@@ -13,7 +13,7 @@ like [LABY.net](https://laby.net).
 
 ## Example
 
-[LABY.net server page](https://laby.net/server/timolia) <br>
+[LABY.net server page](https://laby.net/servers/timolia) <br>
 [server-media directory](https://github.com/LabyMod/server-media/tree/master/minecraft_servers/timolia)
 
 <img src="https://github.com/MaximFiedler/images/blob/main/Bild_2023-09-20_002646570.png?raw=true">
