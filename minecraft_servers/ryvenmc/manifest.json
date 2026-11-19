@@ -1,0 +1,22 @@
+
+{
+  "server_name": "ryvenmc",
+  "nice_name": "RyvenMC",
+  "direct_ip": "ryvenmc.de",
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "web": "https://ryvenmc.de"
+  },
+  "gamemodes": {
+    "survival": {
+      "name": "Survival",
+      "color": "#55FFFF"
+    },
+    "citybuild": {
+      "name": "CityBuild",
+      "color": "#D966FF"
+    }
+  }
+}
