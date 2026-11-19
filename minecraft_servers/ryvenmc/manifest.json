@@ -1,12 +1,13 @@
+
 {
   "server_name": "ryvenmc",
   "nice_name": "RyvenMC",
-  "direct_ip": "RyvenMC.de",
+  "direct_ip": "ryvenmc.de",
   "supported_languages": [
     "de"
   ],
   "social": {
-    "web": "https://ryvenmc.de/"
+    "web": "https://ryvenmc.de"
   },
   "gamemodes": {
     "survival": {
