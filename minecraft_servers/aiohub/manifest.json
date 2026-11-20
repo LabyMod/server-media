@@ -1,7 +1,10 @@
 {
   "server_name": "aiohub",
   "nice_name": "AIOHUB",
-  "direct_ip": "smp.aiohub.world",
+  "direct_ip": "aiohub.world",
+  "server_wildcards": [
+    "%.aiohub.world"
+  ],
   "supported_languages": [
     "de",
     "en"
