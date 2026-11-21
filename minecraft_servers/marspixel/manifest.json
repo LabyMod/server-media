@@ -64,6 +64,18 @@
           "color": "#1fb5d6",
           "command": "/creative",
           "versions": "1.8<*"
+      },
+      "smp": {
+          "name": "SMP",
+          "color": "#f2b705",
+          "command": "/smp",
+          "versions": "1.21<*"
+      },
+      "lifesteal": {
+          "name": "Lifesteal",
+          "color": "#9b0d2b",
+          "command": "/lifesteal",
+          "versions": "1.21<*"
       }
     },
     "location": {
