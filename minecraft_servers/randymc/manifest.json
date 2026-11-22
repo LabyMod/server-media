@@ -6,19 +6,25 @@
     "%.randymc.de"
   ],
   "supported_languages": [
-    "en",
-    "de"
+    "de",
+    "en"
   ],
+  "yt_trailer": "Q8PpApu5O08",
   "social": {
-    "web": "https://www.randymc.de",
-    "web_shop": "https://www.randymc.de/shop",
-    "web_support": "https://support.randymc.de",
-    "discord": "https://discord.gg/ztPyTVWVKX",
-    "teamspeak": "randymc.de"
+    "web": "https://randymc.de",
+    "web_shop": "https://randymc.de/shop",
+    "web_support": "https://randymc.de/dashboard/tickets/new",
+    "youtube": "https://www.youtube.com/@RandyMC-Network",
+    "discord": "https://discord.gg/RandyMC"
   },
   "discord": {
     "server_id": 1329848085580353546,
     "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#5ED6CF",
+    "background": "#0B1012",
+    "text": "#F0F9FF"
   },
   "gamemodes": {
     "school": {
@@ -26,20 +32,10 @@
       "color": "#00AAAA",
       "command": "/game-teleport school"
     },
-    "luckywars": {
-      "name": "LuckyWars",
-      "color": "#FFFF55",
-      "command": "/game-teleport luckywars"
-    },
     "luckyrace": {
       "name": "LuckyRace",
       "color": "#55FF55",
       "command": "/game-teleport luckyrace"
-    },
-    "luckyeggwars": {
-      "name": "LuckyEggWars",
-      "color": "#FF5555",
-      "command": "/game-teleport luckyeggwars"
     }
   }
 }
