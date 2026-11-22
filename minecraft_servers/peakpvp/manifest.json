@@ -2,15 +2,147 @@
   "server_name": "peakpvp",
   "nice_name": "PeakPvP",
   "direct_ip": "peakpvp.net",
-  "supported_languages": ["en"],
+  "server_wildcards": [
+    "%.peakpvp.net"
+  ],
+  "supported_languages": [
+    "en"
+  ],
   "social": {
     "web_shop": "https://store.peakpvp.net",
     "discord": "https://discord.gg/peakpvp"
   },
   "gamemodes": {
-    "practice": {
-      "name": "Practice",
-      "color": "#3B9BDF"
+    "sumo": {
+      "name": "Sumo",
+      "color": "#3B9BDF",
+      "command": "/queue sumo"
+    },
+    "nodebuff": {
+      "name": "NoDebuff",
+      "color": "#3B9BDF",
+      "command": "/queue nodebuff"
+    },
+    "classic": {
+      "name": "Classic",
+      "color": "#3B9BDF",
+      "command": "/queue classic"
+    },
+    "boxing": {
+      "name": "Boxing",
+      "color": "#3B9BDF",
+      "command": "/queue boxing"
+    },
+    "builduhc": {
+      "name": "BuildUHC",
+      "color": "#3B9BDF",
+      "command": "/queue builduhc"
+    },
+    "fireballfight": {
+      "name": "Fireball Fight",
+      "color": "#3B9BDF",
+      "command": "/queue fireballfight"
+    },
+    "bedfight": {
+      "name": "Bed Fight",
+      "color": "#3B9BDF",
+      "command": "/queue bedfight"
+    },
+    "bridge": {
+      "name": "Bridge",
+      "color": "#3B9BDF",
+      "command": "/queue bridge"
+    },
+    "pearlfight": {
+      "name": "Pearl Fight",
+      "color": "#3B9BDF",
+      "command": "/queue pearlfight"
+    },
+    "bedwars_solo": {
+      "name": "Bed Wars Solo",
+      "color": "#3B9BDF",
+      "command": "/queue bedwars_solo"
+    },
+    "bedwars_doubles": {
+      "name": "Bed Wars Doubles",
+      "color": "#3B9BDF",
+      "command": "/queue bedwars_doubles"
+    },
+    "bedwars_threes": {
+      "name": "Bed Wars 3v3v3v3",
+      "color": "#3B9BDF",
+      "command": "/queue bedwars_threes"
+    },
+    "bedwars_fours": {
+      "name": "Bed Wars 4v4v4v4",
+      "color": "#3B9BDF",
+      "command": "/queue bedwars_fours"
+    },
+    "vanilla": {
+      "name": "Vanilla",
+      "color": "#3B9BDF",
+      "command": "/queue vanilla",
+      "versions": "1.21.5<*"
+    },
+    "sword": {
+      "name": "Sword",
+      "color": "#3B9BDF",
+      "command": "/queue sword",
+      "versions": "1.21.5<*"
+    },
+    "axe": {
+      "name": "Axe",
+      "color": "#3B9BDF",
+      "command": "/queue axe",
+      "versions": "1.21.5<*"
+    },
+    "uhc": {
+      "name": "UHC",
+      "color": "#3B9BDF",
+      "command": "/queue uhc",
+      "versions": "1.21.5<*"
+    },
+    "mace": {
+      "name": "Mace",
+      "color": "#3B9BDF",
+      "command": "/queue mace",
+      "versions": "1.21.5<*"
+    },
+    "netherite_potion": {
+      "name": "Nethpot",
+      "color": "#3B9BDF",
+      "command": "/queue netherite_potion",
+      "versions": "1.21.5<*"
+    },
+    "netherite_smp": {
+      "name": "Netherite SMP",
+      "color": "#3B9BDF",
+      "command": "/queue netherite_smp",
+      "versions": "1.21.5<*"
+    },
+    "diamond_smp": {
+      "name": "Diamond SMP",
+      "color": "#3B9BDF",
+      "command": "/queue diamond_smp",
+      "versions": "1.21.5<*"
+    },
+    "spear_mace": {
+      "name": "Spear Mace",
+      "color": "#3B9BDF",
+      "command": "/queue spear_mace",
+      "versions": "1.21.5<*"
+    },
+    "cart": {
+      "name": "Cart",
+      "color": "#3B9BDF",
+      "command": "/queue cart",
+      "versions": "1.21.5<*"
+    },
+    "modern_bridge": {
+      "name": "Modern Bridge",
+      "color": "#3B9BDF",
+      "command": "/queue modern_bridge",
+      "versions": "1.21.5<*"
     }
   },
   "discord": {
