@@ -1,0 +1,24 @@
+{
+    "server_name": "cococobblemon",
+    "nice_name": "Coco Cobblemon",
+    "direct_ip": "coco.ultramc.co",
+    "supported_languages": [
+        "vi",
+        "en"
+    ],
+    "social": {
+        "web": "https://github.com/Coconubs/coco-cobblemon",
+        "discord": "https://discord.gg/hyspace"
+    },
+    "brand": {
+        "primary": "#3B82F6",
+        "background": "#0F1B3D",
+        "text": "#FFFFFF"
+    },
+    "gamemodes": {
+        "cobblemon": {
+            "name": "Cobblemon",
+            "color": "#3B82F6"
+        }
+    }
+}
