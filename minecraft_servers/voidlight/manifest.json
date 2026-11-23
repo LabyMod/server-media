@@ -2,27 +2,46 @@
   "server_name": "voidlight",
   "nice_name": "VoidLight",
   "direct_ip": "voidlight.cloud",
-  "server_wildcards": ["%.voidlight.cloud"],
-  "supported_languages": ["de", "en", "nl"],
+  "server_wildcards": [
+    "%.voidlight.cloud"
+  ],
+  "supported_languages": [
+    "de"
+  ],
   "social": {
+    "web_support": "https://wiki.voidlight.cloud",
     "discord": "https://discord.gg/86XwS6zAcn"
+  },
+  "discord": {
+    "server_id": "1558197482977099969"
   },
   "gamemodes": {
     "citybuild": {
       "name": "CityBuild",
       "color": "#A06BFA"
     },
+    "minigames": {
+      "name": "Minigames",
+      "color": "#EAB54B"
+    },
     "duels": {
       "name": "Duels",
       "color": "#7942CF"
+    },
+    "deadline": {
+      "name": "DeadLine",
+      "color": "#22B9A8"
     }
   },
-  "discord": {
-    "server_id": "1558197482977099969"
+  "chat": {
+    "message_formats": [
+      "(?i)^(?:(?:§(?:x(?:§[0-9a-f]){6}|#[0-9a-f]{6}|[0-9a-fk-or]))*»(?:§(?:x(?:§[0-9a-f]){6}|#[0-9a-f]{6}|[0-9a-fk-or]))*\\r?\\n)?(?![^»\\r\\n]*§k)(?:(?:(?:§(?:x(?:§[0-9a-f]){6}|#[0-9a-f]{6}|[0-9a-fk-or]))*\\[[^\\[\\]»\\r\\n]+\\](?:§(?:x(?:§[0-9a-f]){6}|#[0-9a-f]{6}|[0-9a-fk-or]))* ?)+|(?:§(?:x(?:§[0-9a-f]){6}|#[0-9a-f]{6}|[0-9a-fk-or]))*[^\\[\\]§|»\\s][^\\[\\]|»\\r\\n]*? (?:§(?:x(?:§[0-9a-f]){6}|#[0-9a-f]{6}|[0-9a-fk-or]))*\\|(?:§(?:x(?:§[0-9a-f]){6}|#[0-9a-f]{6}|[0-9a-fk-or]))* )?(?:§(?:x(?:§[0-9a-f]){6}|#[0-9a-f]{6}|[0-9a-fk-or]))*(?<sender>[A-Za-z0-9_]{2,16})(?:§(?:x(?:§[0-9a-f]){6}|#[0-9a-f]{6}|[0-9a-fk-or]))* (?:§(?:x(?:§[0-9a-f]){6}|#[0-9a-f]{6}|[0-9a-fk-or]))*»(?:§(?:x(?:§[0-9a-f]){6}|#[0-9a-f]{6}|[0-9a-fk-or]))* (?:§(?:x(?:§[0-9a-f]){6}|#[0-9a-f]{6}|[0-9a-fk-or]))*(?<message>[^\\r\\n]*)(?:\\r?\\n(?:§(?:x(?:§[0-9a-f]){6}|#[0-9a-f]{6}|[0-9a-fk-or]))*»(?:§(?:x(?:§[0-9a-f]){6}|#[0-9a-f]{6}|[0-9a-fk-or]))*)?$"
+    ]
   },
   "brand": {
     "primary": "#A06BFA",
     "background": "#081426",
     "text": "#FFFFFF"
-  }
+  },
+  "command_delay": 3000
 }
