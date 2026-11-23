@@ -2,14 +2,11 @@
   "server_name": "lerosmp",
   "nice_name": "LeroSMP",
   "direct_ip": "lerosmp.net",
-  "server_wildcards": [
-    "%.lerosmp.net"
-  ],
+
   "supported_languages": [
     "de"
   ],
   "social": {
-    "web": "https://www.lerosmp.net",
     "web_shop": "https://www.lerosmp.net",
     "discord": "https://discord.gg/xaBvAuePXj"
   },
