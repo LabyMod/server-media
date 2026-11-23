@@ -16,38 +16,32 @@
     "social": {
         "web": "https://brgblocks.net",
         "web_shop": "https://brgblocks.net/shop",
-        "web_support": "https://brgblocks.net/team",
         "discord": "https://discord.gg/Jrsc8kwVZ3"
     },
     "gamemodes": {
         "bedwars": {
             "name": "Bedwars",
             "color": "#E53935",
-            "url": "https://brgblocks.net/",
             "versions": "1.8<*"
         },
         "skywars": {
             "name": "SkyWars",
             "color": "#8E24AA",
-            "url": "https://brgblocks.net/",
             "versions": "1.8<*"
         },
         "cores": {
             "name": "BRG-Cores",
             "color": "#FB8C00",
-            "url": "https://brgblocks.net/",
             "versions": "1.8<*"
         },
         "citybuild": {
             "name": "Citybuild",
             "color": "#D7112A",
-            "url": "https://brgblocks.net/",
             "versions": "1.21<*"
         },
         "smp": {
             "name": "BRG SMP",
             "color": "#F9A825",
-            "url": "https://brgblocks.net/",
             "versions": "1.21<*"
         }
     },
