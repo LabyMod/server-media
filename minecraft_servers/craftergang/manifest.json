@@ -125,7 +125,7 @@
       "color": "#f7df05",
       "command": "/gametp spvp",
       "versions": "1.7<*"
-    },
+    }
   },
   "chat": {
     "message_formats": [
