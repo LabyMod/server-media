@@ -18,6 +18,35 @@
     "instagram": "craftergang"
   },
   "gamemodes": {
+    "cores": {
+      "name": "Cores",
+      "color": "#00ffff",
+      "versions": "1.7<*"
+    },
+    "getdown": {
+      "name": "GetDown",
+      "color": "#66ff66",
+      "command": "/gametp getdown",
+      "versions": "1.7<*"
+    },
+    "cookies": {
+      "name": "Cookies",
+      "color": "#cc6600",
+      "command": "/gametp cookies",
+      "versions": "1.7<*"
+    },
+    "uhcbingo": {
+      "name": "UHCBingo",
+      "color": "#C21588",
+      "command": "/gametp uhcbingo",
+      "versions": "1.7<*"
+    },
+    "blockhunt": {
+      "name": "BlockHunt",
+      "color": "#6600ff",
+      "command": "/gametp blockhunt",
+      "versions": "1.7<*"
+    },
     "crafterbreak": {
       "name": "Crafterbreak",
       "color": "#07F0E0",
@@ -28,35 +57,6 @@
       "name": "WoolBattleRoyale",
       "color": "#1BCFCC",
       "command": "/gametp wbr",
-      "versions": "1.7<*"
-    },
-    "getdown": {
-      "name": "GetDown",
-      "color": "#07F0E0",
-      "command": "/gametp getdown",
-      "versions": "1.7<*"
-    },
-    "cookies": {
-      "name": "Cookies",
-      "color": "#07F0E0",
-      "command": "/gametp cookies",
-      "versions": "1.7<*"
-    },
-    "uhcbingo": {
-      "name": "UHCBingo",
-      "color": "#C21588",
-      "command": "/gametp uhcbingo",
-      "versions": "1.7<*"
-    },
-    "more": {
-      "name": "+12 More",
-      "color": "#1BBACF",
-      "versions": "1.7<*"
-    },
-    "blockhunt": {
-      "name": "BlockHunt",
-      "color": "#27E0F5",
-      "command": "/gametp blockhunt",
       "versions": "1.7<*"
     },
     "minefighter": {
@@ -132,7 +132,7 @@
     ]
   },
   "discord": {
-    "server_id": 251791624483373060,
+    "server_id": 251791624483373056,
     "rename_to_minecraft_name": false
   },
   "brand": {
@@ -145,5 +145,5 @@
     "country": "Germany",
     "country_code": "DE"
   },
-  "yt_trailer": "QWnybdjH2Xw"
+  "yt_trailer": "QhspScU2xro"
 }
