@@ -36,6 +36,12 @@
       "command": "/gametp cookies",
       "versions": "1.7<*"
     },
+    "craftersmp": {
+      "name": "CrafterSMP",
+      "color": "#f705ab",
+      "command": "/gametp survival",
+      "versions": "1.21.8<*"
+    },
     "uhcbingo": {
       "name": "UHCBingo",
       "color": "#C21588",
@@ -120,12 +126,6 @@
       "command": "/gametp spvp",
       "versions": "1.7<*"
     },
-    "survival": {
-      "name": "Survival",
-      "color": "#f705ab",
-      "command": "/gametp survival",
-      "versions": "1.21.8<*"
-    }
   },
   "chat": {
     "message_formats": [
