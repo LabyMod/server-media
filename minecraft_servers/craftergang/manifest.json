@@ -21,6 +21,7 @@
     "cores": {
       "name": "Cores",
       "color": "#00ffff",
+      "command": "/gametp cores",
       "versions": "1.7<*"
     },
     "getdown": {
@@ -96,7 +97,7 @@
       "versions": "1.7<*"
     },
     "switchffa": {
-      "name": "SFFA",
+      "name": "SwitchFFA",
       "color": "#07F0E1",
       "command": "/gametp sffa",
       "versions": "1.7<*"
