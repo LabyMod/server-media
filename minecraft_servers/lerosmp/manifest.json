@@ -1,0 +1,17 @@
+{
+  "server_name": "lerosmp",
+  "nice_name": "LeroSMP",
+  "direct_ip": "lerosmp.net",
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "web_shop": "https://www.lerosmp.net",
+    "discord": "https://discord.gg/xaBvAuePXj"
+  },
+  "brand": {
+    "primary": "#B48CFF",
+    "background": "#0A090D",
+    "text": "#F3F0F7"
+  }
+}
