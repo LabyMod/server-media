@@ -1,0 +1,42 @@
+{
+  "server_name": "minehubdk",
+  "nice_name": "MineHub.dk",
+  "direct_ip": "minehub.dk",
+  "server_wildcards": [
+    "%.minehub.dk"
+  ],
+  "supported_languages": [
+    "da"
+  ],
+  "social": {
+    "web": "https://minehub.dk",
+    "web_shop": "https://minehub.dk/butik",
+    "discord": "https://discord.gg/9VEVJ8BB2m"
+  },
+  "gamemodes": {
+    "torvet": {
+      "name": "Torvet",
+      "color": "#00AAFF",
+      "command": "/server torvet"
+    },
+    "fabrikken": {
+      "name": "Fabrikken",
+      "color": "#FF8C00",
+      "command": "/server fabrikken"
+    },
+    "kolonien": {
+      "name": "Kolonien",
+      "color": "#55C83C",
+      "command": "/server kolonien"
+    }
+  },
+  "location": {
+    "country": "Denmark",
+    "country_code": "DK"
+  },
+  "brand": {
+    "primary": "#00AAFF",
+    "background": "#0A2540",
+    "text": "#FFFFFF"
+  }
+}
