@@ -1,0 +1,29 @@
+{
+  "server_name": "witchmc",
+  "nice_name": "WitchMC.net",
+  "direct_ip": "witchmc.net",
+  "server_wildcards": [
+    "%.witchmc.net",
+    "%.witchmc.com",
+    "%.witchmc.de",
+    "%.witchmc.eu"
+  ],
+  "supported_languages": [
+    "de",
+    "en"
+  ],
+  "social": {
+    "twitter": "witchmcnetwork",
+    "instagram": "witchmcnetwork",
+    "tiktok": "witchmcnetwork",
+    "discord": "https://discord.witchmc.net"
+  },
+  "discord": {
+    "server_id": 995637969136386089,
+    "rename_to_minecraft_name": false
+  },
+  "location": {
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}
