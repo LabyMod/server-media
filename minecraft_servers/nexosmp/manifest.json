@@ -1,0 +1,42 @@
+{
+  "server_name": "nexosmp",
+  "nice_name": "NexoSMP",
+  "direct_ip": "nexosmp.eu",
+  "supported_languages": [
+    "de",
+    "en"
+  ],
+  "social": {
+    "web_shop": "https://shop.nexosmp.eu",
+    "discord": "https://discord.gg/aknPKHak4e"
+  },
+  "chat": {
+    "message_formats": [
+      "^(?:§[0-9a-fk-orxA-FK-ORX])*(?:\\[[^\\]]*\\](?:§[0-9a-fk-orxA-FK-ORX])* )?(?:§[0-9a-fk-orxA-FK-ORX])*(?:[A-Z]{2,}(?:§[0-9a-fk-orxA-FK-ORX])* )?(?:§[0-9a-fk-orxA-FK-ORX])*(?<sender>\\.?[a-zA-Z0-9_]{2,16})(?:§[0-9a-fk-orxA-FK-ORX])*:(?:§[0-9a-fk-orxA-FK-ORX])* (?:§[0-9a-fk-orxA-FK-ORX])*(?<message>.*)$"
+    ]
+  },
+  "discord": {
+    "server_id": "1379806388313653389",
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#A0010C",
+    "background": "#4E2578",
+    "text": "#FFFFFF"
+  },
+  "location": {
+    "country": "Germany",
+    "country_code": "DE"
+  },
+  "gamemodes": {
+    "smp": {
+      "name": "SMP",
+      "color": "#A0010C"
+    }
+  },
+  "party": {
+    "invite": "/party invite {userName}",
+    "accept": "/party accept {userName}",
+    "leave": "/party leave"
+  }
+}
