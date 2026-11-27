@@ -1,0 +1,20 @@
+{
+  "server_name": "axxin",
+  "nice_name": "Axxin.de",
+  "direct_ip": "axxin.de",
+  "server_wildcards": [
+    "%.axxin.de"
+  ],
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "web": "https://axxin.de",
+    "discord": "https://discord.gg/eV6ZCRzXSG"
+  },
+  "brand": {
+    "primary": "#C4C8D3",
+    "background": "#0B0B0D",
+    "text": "#FFFFFF"
+  }
+}
