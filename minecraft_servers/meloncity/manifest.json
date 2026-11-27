@@ -1,0 +1,29 @@
+{
+  "server_name": "meloncity",
+  "nice_name": "MelonCity",
+  "direct_ip": "meloncity.de",
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "web": "https://meloncity.de",
+    "web_shop": "https://shop.meloncity.de",
+    "web_support": "https://wiki.meloncity.de",
+    "discord": "https://discord.gg/wKnuRGfDc5",
+    "youtube": "https://www.youtube.com/@meloncityde",
+    "tiktok": "meloncityde",
+    "instagram": "meloncityde"
+  },
+  "gamemodes": {
+    "citybuild": {
+      "name": "CityBuild",
+      "color": "#32B52B",
+      "url": "https://meloncity.de"
+    }
+  },
+  "brand": {
+    "primary": "#32B52B",
+    "background": "#102414",
+    "text": "#FFFFFF"
+  }
+}
