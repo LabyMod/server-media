@@ -2,12 +2,6 @@
   "server_name": "witchmc",
   "nice_name": "WitchMC.net",
   "direct_ip": "witchmc.net",
-  "server_wildcards": [
-    "%.witchmc.net",
-    "%.witchmc.com",
-    "%.witchmc.de",
-    "%.witchmc.eu"
-  ],
   "supported_languages": [
     "de",
     "en"
@@ -16,7 +10,7 @@
     "twitter": "witchmcnetwork",
     "instagram": "witchmcnetwork",
     "tiktok": "witchmcnetwork",
-    "discord": "https://discord.witchmc.net"
+    "discord": "https://discord.gg/EJxkDCDhZG"
   },
   "discord": {
     "server_id": 995637969136386089,
