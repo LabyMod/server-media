@@ -21,6 +21,7 @@
     "cores": {
       "name": "Cores",
       "color": "#00ffff",
+      "command": "/gametp cores",
       "versions": "1.7<*"
     },
     "getdown": {
@@ -34,6 +35,12 @@
       "color": "#cc6600",
       "command": "/gametp cookies",
       "versions": "1.7<*"
+    },
+    "craftersmp": {
+      "name": "CrafterSMP",
+      "color": "#f705ab",
+      "command": "/gametp survival",
+      "versions": "1.21.8<*"
     },
     "uhcbingo": {
       "name": "UHCBingo",
@@ -96,7 +103,7 @@
       "versions": "1.7<*"
     },
     "switchffa": {
-      "name": "SFFA",
+      "name": "SwitchFFA",
       "color": "#07F0E1",
       "command": "/gametp sffa",
       "versions": "1.7<*"
@@ -118,12 +125,6 @@
       "color": "#f7df05",
       "command": "/gametp spvp",
       "versions": "1.7<*"
-    },
-    "survival": {
-      "name": "Survival",
-      "color": "#f705ab",
-      "command": "/gametp survival",
-      "versions": "1.21.8<*"
     }
   },
   "chat": {
