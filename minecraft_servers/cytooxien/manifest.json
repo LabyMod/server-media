@@ -22,64 +22,54 @@
       "name": "Only Up!",
       "command": "/server onlyup",
       "color": "#ffc300",
-      "url": "https://cytooxien.de/de/only-up-2",
-      "versions": "1.21<*"
+      "url": "https://cytooxien.net/only-up-2",
+      "versions": "1.21.11<*"
     },
     "cactustycoon": {
       "name": "Cactus Tycoon",
       "command": "/server kakiklicker",
       "color": "#ffc300",
-      "url": "https://cytooxien.de/de/cactus-tycoon-s3",
-      "versions": "1.21<*"
+      "url": "https://cytooxien.net/cactus-tycoon-s4",
+      "versions": "1.21.11<*"
     },
     "skyblock": {
       "name": "Skyblock",
       "command": "/server skyblock",
       "color": "#ffc300",
-      "url": "https://cytooxien.de/de/wiki/skyblock-intro",
-      "versions": "1.21<*"
+      "url": "https://cytooxien.net/wiki/skyblock",
+      "versions": "1.21.11<*"
     },
     "realms": {
       "name": "Realms",
       "color": "#ffc300",
-      "versions": "1.21<*"
+      "versions": "1.21.11<*"
     },
-    "minecraftparty": {
-      "name": "Minecraft Party",
+    "mcparty": {
+      "name": "MC Party",
       "color": "#ffc300",
-      "url": "https://wiki.cytooxien.de/games/minecraft-party",
-      "versions": "1.21<*"
-    },
-    "heroes": {
-      "name": "Heroes",
-      "color": "#ffc300",
-      "versions": "1.21<*"
+      "url": "https://cytooxien.net/wiki/minecraft-party",
+      "versions": "1.21.11<*"
     },
     "timejump": {
       "name": "Timejump",
       "color": "#ffc300",
-      "versions": "1.21<*"
+      "versions": "1.21.11<*"
     },
     "smash": {
       "name": "Smash",
       "color": "#ffc300",
-      "versions": "1.21<*"
+      "versions": "1.21.11<*"
     },
     "bedwars": {
       "name": "Bedwars",
       "color": "#ffc300",
-      "versions": "1.21<*"
-    },
-    "ultimateknockout": {
-      "name": "Ultimate Knockout",
-      "color": "#ffc300",
-      "versions": "1.21<*"
+      "versions": "1.21.11<*"
     },
     "creative": {
       "name": "Creative",
       "command": "/server creative",
       "color": "#ffc300",
-      "versions": "1.21<*"
+      "versions": "1.21.11<*"
     }
   },
   "brand": {

@@ -1,0 +1,43 @@
+{
+    "server_name": "crystalchaos",
+    "nice_name": "CrystalChaos",
+    "direct_ip": "play.crystalchaos.net",
+    "server_wildcards": [
+        "%.crystalchaos.net"
+    ],
+    "social": {
+        "web_shop": "https://store.crystalchaos.net",
+        "discord": "https://discord.gg/crystalchaos"
+    },
+    "brand": {
+        "primary": "#fcd80a",
+        "background": "#ffbb00"
+    },
+    "discord": {
+        "server_id": 1340262390695985192,
+        "rename_to_minecraft_name": false
+    },
+    "command_delay": 1500,
+    "gamemodes": {
+        "shop_survival": {
+            "name": "Shop Survival",
+            "color": "#dfe619",
+            "command": "/join SMP"
+        },
+        "mace_smp": {
+            "name": "Mace SMP",
+            "color": "#11b6ed",
+            "command": "/join MACE_SMP"
+        },
+        "sky_smp": {
+            "name": "Sky SMP",
+            "color": "#ed11c5",
+            "command": "/join SKY_SMP"
+        },
+        "chaotic_kits": {
+            "name": "Chaotic Kits",
+            "color": "#06c927",
+            "command": "/join CHAOTIC_KITS"
+        }
+    }
+}

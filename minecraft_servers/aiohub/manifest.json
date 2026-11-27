@@ -1,0 +1,75 @@
+{
+  "server_name": "aiohub",
+  "nice_name": "AIOHUB",
+  "direct_ip": "smp.aiohub.world",
+  "supported_languages": [
+    "de",
+    "en"
+  ],
+  "social": {
+    "web": "https://aiohub.world"
+  },
+  "gamemodes": {
+    "aiosmp": {
+      "name": "AIOSMP",
+      "color": "#F5B841",
+      "command": "/welten",
+      "versions": "26.3<*"
+    },
+    "minigames": {
+      "name": "Minigames",
+      "color": "#E66F3F",
+      "command": "/games alle",
+      "versions": "26.3<*"
+    },
+    "bedwars": {
+      "name": "BedWars",
+      "color": "#D7263D",
+      "command": "/games modus bedwars schleichen",
+      "versions": "26.3<*"
+    },
+    "skywars": {
+      "name": "SkyWars",
+      "color": "#FFD978",
+      "command": "/games modus skywars schleichen",
+      "versions": "26.3<*"
+    },
+    "skypvp": {
+      "name": "SkyPvP",
+      "color": "#FF6978",
+      "command": "/games modus skypvp schleichen",
+      "versions": "26.3<*"
+    },
+    "skyblock": {
+      "name": "Skyblock",
+      "color": "#6CC24A",
+      "command": "/games modus skyblock schleichen",
+      "versions": "26.3<*"
+    },
+    "aioparty": {
+      "name": "AIO Party",
+      "color": "#B86BE0",
+      "command": "/games modus marioparty schleichen",
+      "versions": "26.3<*"
+    },
+    "cobblemon": {
+      "name": "Cobblemon",
+      "color": "#F3ECDF",
+      "versions": "1.21<1.21.1"
+    }
+  },
+  "brand": {
+    "primary": "#D7263D",
+    "background": "#1C1210",
+    "text": "#F3ECDF"
+  },
+  "command_delay": 3000,
+  "party": {
+    "invite": "/party einladen {userName}",
+    "accept": "/party annehmen {userName}",
+    "leave": "/party verlassen",
+    "kick": "/party kick {userName}",
+    "disband": "/party aufloesen",
+    "transfer": "/party leiter {userName}"
+  }
+}

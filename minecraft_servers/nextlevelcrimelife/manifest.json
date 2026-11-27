@@ -1,0 +1,15 @@
+{
+  "server_name": "nextlevelcrimelife",
+  "nice_name": "Nextlevel-Crimelife",
+  "direct_ip": "nextlevel-crimelife.de",
+  "supported_languages": ["de"],
+  "social": {
+    "web": "https://nextlevel-crimelife.de",
+    "web_support": "https://nextlevel-crimelife.de/wiki.php"
+  },
+  "brand": {
+    "primary": "#E5484D",
+    "background": "#111318",
+    "text": "#FFFFFF"
+  }
+}

@@ -24,8 +24,8 @@
       "color": "#cc0dcc",
       "versions": "1.21<*"
     },
-    "speedguessr": {
-      "name": "SpeedGuessr",
+    "guessit": {
+      "name": "GuessIt",
       "color": "#eeff00",
       "versions": "1.21<*"
     },
