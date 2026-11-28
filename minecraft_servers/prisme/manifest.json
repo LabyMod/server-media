@@ -2,9 +2,6 @@
   "server_name": "prisme",
   "nice_name": "Prisme",
   "direct_ip": "prisme.club",
-  "server_wildcards": [
-    "%.prisme.club"
-  ],
   "supported_languages": [
     "fr"
   ],
