@@ -1,0 +1,15 @@
+{
+  "server_name": "fantasticfanta",
+  "nice_name": "FantasticFanta",
+  "direct_ip": "cutie.nah.rocks",
+  "supported_languages": ["en"],
+  "brand": {
+    "primary": "#E8282B",
+    "background": "#1C163C",
+    "text": "#FFFFFF"
+  },
+  "location": {
+    "country": "Australia",
+    "country_code": "AU"
+  }
+}
