@@ -1,0 +1,32 @@
+{
+  "server_name": "prisme",
+  "nice_name": "Prisme",
+  "direct_ip": "prisme.club",
+  "supported_languages": [
+    "fr"
+  ],
+  "social": {
+    "web_shop": "https://store.prisme.club",
+    "discord": "https://discord.gg/prisme"
+  },
+  "gamemodes": {
+    "duel": {
+      "name": "Duel",
+      "color": "#FF499C",
+      "versions": "1.8<1.8.9"
+    },
+    "ffa": {
+      "name": "FFA",
+      "color": "#FF5555",
+      "versions": "1.8<1.8.9"
+    }
+  },
+  "brand": {
+    "primary": "#FF499C",
+    "background": "#0F1220",
+    "text": "#FFFFFF"
+  },
+  "discord": {
+    "server_id": 1538684094483796099
+  }
+}
